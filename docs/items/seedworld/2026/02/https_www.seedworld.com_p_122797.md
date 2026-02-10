@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/02/csga-warns-aafc-research-facil
 summary: "The Canadian Seed Growers’ Association says shutting seven federal Agriculture and Agri-Food Canada research sites threatens seed development The post CSGA Warns AAFC Research Facility Closures Will Hurt Canadian Crop Innovation appeared"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T06:48:21+09:00"
 ---
 # CSGA Warns AAFC Research Facility Closures Will Hurt Canadian Crop Innovation
 

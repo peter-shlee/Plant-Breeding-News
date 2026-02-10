@@ -8,6 +8,14 @@ range_end: "2026-02-11"
 
 ## Recent (last 7 days)
 
+- 2026-02-11 [Is Seed Testing a Cost or a Competitive Advantage?](../items/seedworld/2026/02/https_www.seedworld.com_p_122933.md) ([original](https://www.seedworld.com/us/2026/02/10/is-seed-testing-a-cost-or-a-competitive-advantage/))
+  - Seed testing can reveal far more than germination. SGS’s Amanda Patin explains how vigor, stress performance and deeper quality data help seed companies differentiate products, protect value and turn testing into a true competitive
+- 2026-02-11 [Enlist Essentials: What Growers Need to Get Weed Control Right](../items/seedworld/2026/02/https_www.seedworld.com_p_122930.md) ([original](https://www.seedworld.com/us/2026/02/10/enlist-essentials-what-growers-need-to-get-weed-control-right/))
+  - How does the Enlist weed control system works in real-world farming? Corteva Agriscience’s Jillian Schmiedt explains how traits, herbicides and stewardship decisions come together to protect performance, manage resistance and help growers
+- 2026-02-11 [EPA Sets New Dicamba Restrictions for Soybean and Cotton](../items/seedworld/2026/02/https_www.seedworld.com_p_122926.md) ([original](https://www.seedworld.com/us/2026/02/10/epa-sets-new-dicamba-restrictions-for-soybean-and-cotton/))
+  - EPA announces new dicamba restrictions for cotton and soybean growers, including tighter application limits, drift safeguards and a two-season regulatory timeline shaping weed mana The post EPA Sets New Dicamba Restrictions for Soybean and
+- 2026-02-11 [Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research](../items/seedworld/2026/02/https_www.seedworld.com_p_122918.md) ([original](https://www.seedworld.com/canada/2026/02/10/agriculture-day-highlights-the-need-for-clarity-on-the-future-of-aafc-research/))
+  - As AAFC navigates research and staffing transitions, clear communication can help the seed sector plan for the next phase of innovation The post Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research appeared first
 - 2026-02-10 [Government Funding Supports Gene-edited Crops At John Innes Centre](../items/seedworld/2026/02/https_www.seedworld.com_p_122879.md) ([original](https://www.seedworld.com/europe/2026/02/10/government-funding-supports-gene-edited-crops-at-john-innes-centre/))
   - The John Innes Centre has secured UK government funding for four DEFRA-backed projects advancing precision breeding, including gene-edited disease-resistant crops, vitamin D–enriched tomatoes, and dandelions for sustainable rubber.
 - 2026-02-10 [Combating Seed Piracy to Protect Mexico’s Agricultural Productivity](../items/seedworld/2026/02/https_www.seedworld.com_p_122861.md) ([original](https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protect-mexicos-agricultural-productivity/))
@@ -76,8 +84,6 @@ range_end: "2026-02-11"
   - Modern watermelon breeding has evolved from boosting yield and sweetness to optimizing the entire value chain. Driven by seedless demand, fresh-cut growth, and quality-focused European markets, breeders now balance flavor, texture, shelf
 - 2026-02-04 [Seed Health and Regulatory Risk: Protecting R&D Timelines in a Complex Global Market](../items/seedworld/2026/02/https_www.seedworld.com_p_122818.md) ([original](https://www.seedworld.com/us/2026/02/03/seed-health-and-regulatory-risk-protecting-rd-timelines-in-a-complex-global-market/))
   - Seed innovation stalls less from science than from phytosanitary and regulatory uncertainty. R&D and regulatory leaders must anticipate policy shifts, avoid testing duplication, protect planting windows, and prevent trial or shipment
-- 2026-02-04 [Could a New Pipeline Help Scientists Spot Plant Pathogens Faster?](../items/seedworld/2026/02/https_www.seedworld.com_p_122815.md) ([original](https://www.seedworld.com/us/2026/02/03/could-a-new-pipeline-help-scientists-spot-plant-pathogens-faster/))
-  - Researchers in Oregon say yes. They have built an open-source pipeline that identifies pathogens in minutes, helping agriculture respond faster to emerging threats.
 
 ## By source
 
@@ -120,6 +126,14 @@ range_end: "2026-02-11"
 
 ### seedworld
 
+- 2026-02-11 [Is Seed Testing a Cost or a Competitive Advantage?](../items/seedworld/2026/02/https_www.seedworld.com_p_122933.md) ([original](https://www.seedworld.com/us/2026/02/10/is-seed-testing-a-cost-or-a-competitive-advantage/))
+  - Seed testing can reveal far more than germination. SGS’s Amanda Patin explains how vigor, stress performance and deeper quality data help seed companies differentiate products, protect value and turn testing into a true competitive
+- 2026-02-11 [Enlist Essentials: What Growers Need to Get Weed Control Right](../items/seedworld/2026/02/https_www.seedworld.com_p_122930.md) ([original](https://www.seedworld.com/us/2026/02/10/enlist-essentials-what-growers-need-to-get-weed-control-right/))
+  - How does the Enlist weed control system works in real-world farming? Corteva Agriscience’s Jillian Schmiedt explains how traits, herbicides and stewardship decisions come together to protect performance, manage resistance and help growers
+- 2026-02-11 [EPA Sets New Dicamba Restrictions for Soybean and Cotton](../items/seedworld/2026/02/https_www.seedworld.com_p_122926.md) ([original](https://www.seedworld.com/us/2026/02/10/epa-sets-new-dicamba-restrictions-for-soybean-and-cotton/))
+  - EPA announces new dicamba restrictions for cotton and soybean growers, including tighter application limits, drift safeguards and a two-season regulatory timeline shaping weed mana The post EPA Sets New Dicamba Restrictions for Soybean and
+- 2026-02-11 [Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research](../items/seedworld/2026/02/https_www.seedworld.com_p_122918.md) ([original](https://www.seedworld.com/canada/2026/02/10/agriculture-day-highlights-the-need-for-clarity-on-the-future-of-aafc-research/))
+  - As AAFC navigates research and staffing transitions, clear communication can help the seed sector plan for the next phase of innovation The post Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research appeared first
 - 2026-02-10 [Government Funding Supports Gene-edited Crops At John Innes Centre](../items/seedworld/2026/02/https_www.seedworld.com_p_122879.md) ([original](https://www.seedworld.com/europe/2026/02/10/government-funding-supports-gene-edited-crops-at-john-innes-centre/))
   - The John Innes Centre has secured UK government funding for four DEFRA-backed projects advancing precision breeding, including gene-edited disease-resistant crops, vitamin D–enriched tomatoes, and dandelions for sustainable rubber.
 - 2026-02-10 [Combating Seed Piracy to Protect Mexico’s Agricultural Productivity](../items/seedworld/2026/02/https_www.seedworld.com_p_122861.md) ([original](https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protect-mexicos-agricultural-productivity/))
@@ -160,5 +174,3 @@ range_end: "2026-02-11"
   - Modern watermelon breeding has evolved from boosting yield and sweetness to optimizing the entire value chain. Driven by seedless demand, fresh-cut growth, and quality-focused European markets, breeders now balance flavor, texture, shelf
 - 2026-02-04 [Seed Health and Regulatory Risk: Protecting R&D Timelines in a Complex Global Market](../items/seedworld/2026/02/https_www.seedworld.com_p_122818.md) ([original](https://www.seedworld.com/us/2026/02/03/seed-health-and-regulatory-risk-protecting-rd-timelines-in-a-complex-global-market/))
   - Seed innovation stalls less from science than from phytosanitary and regulatory uncertainty. R&D and regulatory leaders must anticipate policy shifts, avoid testing duplication, protect planting windows, and prevent trial or shipment
-- 2026-02-04 [Could a New Pipeline Help Scientists Spot Plant Pathogens Faster?](../items/seedworld/2026/02/https_www.seedworld.com_p_122815.md) ([original](https://www.seedworld.com/us/2026/02/03/could-a-new-pipeline-help-scientists-spot-plant-pathogens-faster/))
-  - Researchers in Oregon say yes. They have built an open-source pipeline that identifies pathogens in minutes, helping agriculture respond faster to emerging threats.

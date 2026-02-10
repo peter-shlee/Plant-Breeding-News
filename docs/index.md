@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-02-11 02:25 (KST)**  
+- 마지막 업데이트: **2026-02-11 06:48 (KST)**  
 - 커버리지(최근 섹션): **2026-02-04 ~ 2026-02-11** (최근 7일)
 
 ## 핵심 (육종/품종/종자)
@@ -22,19 +22,27 @@ title: "식물 육종 뉴스"
 - 2026-02-09 [rda] [입춘에 찾아온 봄빛 난(蘭), ‘팔레놉시스·심비디움’ 유망 품종 공개](items/rda/2026/02/100000807550.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807550&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 - 2026-02-06 [rda] [‘생활 밀착형 토종자원’도 국가가 안전 보존한다.](items/rda/2026/02/100000807516.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000807516&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 - 2026-02-06 [rda] [“등록 기준 완화” 미생물농약 사용 확대 꾀한다](items/rda/2026/02/100000807523.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807523&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 2026-02-11 [seedworld] [Is Seed Testing a Cost or a Competitive Advantage?](items/seedworld/2026/02/https_www.seedworld.com_p_122933.md) ([원문](https://www.seedworld.com/us/2026/02/10/is-seed-testing-a-cost-or-a-competitive-advantage/))
+  - Seed testing can reveal far more than germination. SGS’s Amanda Patin explains how vigor, stress performance and deeper quality data help seed companies differentiate products, protect value and turn testing into a true competitive
+- 2026-02-11 [seedworld] [Enlist Essentials: What Growers Need to Get Weed Control Right](items/seedworld/2026/02/https_www.seedworld.com_p_122930.md) ([원문](https://www.seedworld.com/us/2026/02/10/enlist-essentials-what-growers-need-to-get-weed-control-right/))
+  - How does the Enlist weed control system works in real-world farming? Corteva Agriscience’s Jillian Schmiedt explains how traits, herbicides and stewardship decisions come together to protect performance, manage resistance and help growers
+- 2026-02-11 [seedworld] [EPA Sets New Dicamba Restrictions for Soybean and Cotton](items/seedworld/2026/02/https_www.seedworld.com_p_122926.md) ([원문](https://www.seedworld.com/us/2026/02/10/epa-sets-new-dicamba-restrictions-for-soybean-and-cotton/))
+  - EPA announces new dicamba restrictions for cotton and soybean growers, including tighter application limits, drift safeguards and a two-season regulatory timeline shaping weed mana The post EPA Sets New Dicamba Restrictions for Soybean and
+- 2026-02-11 [seedworld] [Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research](items/seedworld/2026/02/https_www.seedworld.com_p_122918.md) ([원문](https://www.seedworld.com/canada/2026/02/10/agriculture-day-highlights-the-need-for-clarity-on-the-future-of-aafc-research/))
+  - As AAFC navigates research and staffing transitions, clear communication can help the seed sector plan for the next phase of innovation The post Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research appeared first
 - 2026-02-10 [seedworld] [Government Funding Supports Gene-edited Crops At John Innes Centre](items/seedworld/2026/02/https_www.seedworld.com_p_122879.md) ([원문](https://www.seedworld.com/europe/2026/02/10/government-funding-supports-gene-edited-crops-at-john-innes-centre/))
   - The John Innes Centre has secured UK government funding for four DEFRA-backed projects advancing precision breeding, including gene-edited disease-resistant crops, vitamin D–enriched tomatoes, and dandelions for sustainable rubber.
-- 2026-02-10 [seedworld] [Combating Seed Piracy to Protect Mexico’s Agricultural Productivity](items/seedworld/2026/02/https_www.seedworld.com_p_122861.md) ([원문](https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protect-mexicos-agricultural-productivity/))
-  - AMSAC has launched its “No Harvest Surprises” campaign to combat seed piracy, a growing threat to Mexico’s agricultural productivity. Pirated seed sold via unauthorized vendors often fails genetic and phytosanitary standards, increasing
-- 2026-02-10 [seedworld] [Deadline Extended to Feb 20: Nominations Open for Europe’s Promising Young Plant Breeders](items/seedworld/2026/02/https_www.seedworld.com_p_122888.md) ([원문](https://www.seedworld.com/europe/2026/02/10/deadline-extended-to-feb-20-nominations-open-for-europes-promising-young-plant-breeders/))
-  - Seed World Europe is now accepting nominations for its April 2026 “20 Most Promising Young Plant Breeders in Europe” feature. Nominate early-career plant breeders making an impact across Europe, from universities, research institutes, seed
-- 2026-02-10 [seedworld] [CFIA Cuts Will Not Disrupt Seed Regulatory Modernization](items/seedworld/2026/02/https_www.seedworld.com_p_122898.md) ([원문](https://www.seedworld.com/canada/2026/02/09/cfia-cuts-will-not-disrupt-seed-regulatory-modernization/))
-  - The agency says it remains focused on science-based regulation and plans to publish updated Seeds Regulations in 2026 The post CFIA Cuts Will Not Disrupt Seed Regulatory Modernization appeared first on Seed World .
-- 2026-02-10 [seedworld] [From Seed to Sky: The Demand for Sustainable Aviation Fuel](items/seedworld/2026/02/https_www.seedworld.com_p_122894.md) ([원문](https://www.seedworld.com/us/2026/02/09/from-seed-to-sky-the-demand-for-sustainable-aviation-fuel/))
-  - Sustainable aviation fuel (SAF) is no longer a fringe idea. Airlines want it.
 
 ## 최근 업데이트
 
+- 2026-02-11 [seedworld] [Is Seed Testing a Cost or a Competitive Advantage?](items/seedworld/2026/02/https_www.seedworld.com_p_122933.md) ([원문](https://www.seedworld.com/us/2026/02/10/is-seed-testing-a-cost-or-a-competitive-advantage/))
+  - Seed testing can reveal far more than germination. SGS’s Amanda Patin explains how vigor, stress performance and deeper quality data help seed companies differentiate products, protect value and turn testing into a true competitive
+- 2026-02-11 [seedworld] [Enlist Essentials: What Growers Need to Get Weed Control Right](items/seedworld/2026/02/https_www.seedworld.com_p_122930.md) ([원문](https://www.seedworld.com/us/2026/02/10/enlist-essentials-what-growers-need-to-get-weed-control-right/))
+  - How does the Enlist weed control system works in real-world farming? Corteva Agriscience’s Jillian Schmiedt explains how traits, herbicides and stewardship decisions come together to protect performance, manage resistance and help growers
+- 2026-02-11 [seedworld] [EPA Sets New Dicamba Restrictions for Soybean and Cotton](items/seedworld/2026/02/https_www.seedworld.com_p_122926.md) ([원문](https://www.seedworld.com/us/2026/02/10/epa-sets-new-dicamba-restrictions-for-soybean-and-cotton/))
+  - EPA announces new dicamba restrictions for cotton and soybean growers, including tighter application limits, drift safeguards and a two-season regulatory timeline shaping weed mana The post EPA Sets New Dicamba Restrictions for Soybean and
+- 2026-02-11 [seedworld] [Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research](items/seedworld/2026/02/https_www.seedworld.com_p_122918.md) ([원문](https://www.seedworld.com/canada/2026/02/10/agriculture-day-highlights-the-need-for-clarity-on-the-future-of-aafc-research/))
+  - As AAFC navigates research and staffing transitions, clear communication can help the seed sector plan for the next phase of innovation The post Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research appeared first
 - 2026-02-10 [seedworld] [Government Funding Supports Gene-edited Crops At John Innes Centre](items/seedworld/2026/02/https_www.seedworld.com_p_122879.md) ([원문](https://www.seedworld.com/europe/2026/02/10/government-funding-supports-gene-edited-crops-at-john-innes-centre/))
   - The John Innes Centre has secured UK government funding for four DEFRA-backed projects advancing precision breeding, including gene-edited disease-resistant crops, vitamin D–enriched tomatoes, and dandelions for sustainable rubber.
 - 2026-02-10 [seedworld] [Combating Seed Piracy to Protect Mexico’s Agricultural Productivity](items/seedworld/2026/02/https_www.seedworld.com_p_122861.md) ([원문](https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protect-mexicos-agricultural-productivity/))
@@ -70,14 +78,6 @@ title: "식물 육종 뉴스"
   - INTA San Juan research shows quinoa can thrive in Argentina’s Cuyo region using just half the irrigation water cited in international benchmarks. With 260–290 mm per cycle, the Morrillos INTA variety achieved about 1.7 t/ha, with only
 - 2026-02-07 [seedworld] [Grain Growers of Canada Demands Transparency on AAFC Research Cuts and Facility Closures](items/seedworld/2026/02/https_www.seedworld.com_p_122885.md) ([원문](https://www.seedworld.com/canada/2026/02/06/grain-growers-of-canada-demands-transparency-on-aafc-research-cuts-and-facility-closures/))
   - The organization noted the pace and scale of the announced changes have sparked serious concern across the grain sector The post Grain Growers of Canada Demands Transparency on AAFC Research Cuts and Facility Closures appeared first on
-- 2026-02-06 [seedworld] [Mitad de agua, rendimientos competitivos: INTA avanza en la investigación sobre riego de quinua](items/seedworld/2026/02/https_www.seedworld.com_p_122411.md) ([원문](https://www.seedworld.com/latam/2026/02/06/mitad-de-agua-rendimientos-competitivos-inta-avanza-en-la-investigacion-sobre-riego-de-quinua/))
-  - Investigación de INTA San Juan muestra que la quinoa puede rendir competitivamente en Cuyo usando solo la mitad del agua indicada por referencias internacionales. Con 260–290 mm por ciclo, la variedad Morrillos INTA logró cerca de 1,7 t/ha,
-- 2026-02-06 [seedworld] [Europe Can’t Afford to Fall Behind: Jessica Polfjärd on the EU’s NGT Turning Point](items/seedworld/2026/02/https_www.seedworld.com_p_122438.md) ([원문](https://www.seedworld.com/europe/2026/02/06/europe-cant-afford-to-fall-behind-jessica-polfjard-on-the-eus-ngt-turning-point/))
-  - Europe’s new agreement on New Genomic Techniques marks a turning point for plant breeding and seed innovation. Led by MEP Jessica Polfjärd, the NGT dossier balanced science, politics, and national interests to reach compromise.
-- 2026-02-06 [seedworld] [Manitoba Seed Growers Challenge Ottawa on AAFC Cuts After Davos Food Security Message](items/seedworld/2026/02/https_www.seedworld.com_p_122846.md) ([원문](https://www.seedworld.com/canada/2026/02/05/manitoba-seed-growers-challenge-ottawa-on-aafc-cuts-after-davos-food-security-message/))
-  - The MSGA statement, issued today, references remarks made by Prime Minister Mark Carney at the World Economic Forum The post Manitoba Seed Growers Challenge Ottawa on AAFC Cuts After Davos Food Security Message appeared first on Seed World
-- 2026-02-06 [seedworld] [Why Hands-On Seed School Training Still Matters in a High-Tech World](items/seedworld/2026/02/https_www.seedworld.com_p_122841.md) ([원문](https://www.seedworld.com/canada/2026/02/05/why-hands-on-seed-school-training-still-matters-in-a-high-tech-world/))
-  - One of the things I’m most passionate about at Nexeed is training, because confidence on the plant floor directly impacts quality, efficiency, and profitability. That’s why we continue to invest […] The post Why Hands-On Seed School
 
 ## 주간 아카이브
 

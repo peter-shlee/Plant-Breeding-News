@@ -11,6 +11,14 @@ source: "seedworld"
 
 ## 2026-02
 
+- 2026-02-11 [Is Seed Testing a Cost or a Competitive Advantage?](../../items/seedworld/2026/02/https_www.seedworld.com_p_122933.md) ([원문](https://www.seedworld.com/us/2026/02/10/is-seed-testing-a-cost-or-a-competitive-advantage/))
+  - Seed testing can reveal far more than germination. SGS’s Amanda Patin explains how vigor, stress performance and deeper quality data help seed companies differentiate products, protect value and turn testing into a true competitive
+- 2026-02-11 [Enlist Essentials: What Growers Need to Get Weed Control Right](../../items/seedworld/2026/02/https_www.seedworld.com_p_122930.md) ([원문](https://www.seedworld.com/us/2026/02/10/enlist-essentials-what-growers-need-to-get-weed-control-right/))
+  - How does the Enlist weed control system works in real-world farming? Corteva Agriscience’s Jillian Schmiedt explains how traits, herbicides and stewardship decisions come together to protect performance, manage resistance and help growers
+- 2026-02-11 [EPA Sets New Dicamba Restrictions for Soybean and Cotton](../../items/seedworld/2026/02/https_www.seedworld.com_p_122926.md) ([원문](https://www.seedworld.com/us/2026/02/10/epa-sets-new-dicamba-restrictions-for-soybean-and-cotton/))
+  - EPA announces new dicamba restrictions for cotton and soybean growers, including tighter application limits, drift safeguards and a two-season regulatory timeline shaping weed mana The post EPA Sets New Dicamba Restrictions for Soybean and
+- 2026-02-11 [Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research](../../items/seedworld/2026/02/https_www.seedworld.com_p_122918.md) ([원문](https://www.seedworld.com/canada/2026/02/10/agriculture-day-highlights-the-need-for-clarity-on-the-future-of-aafc-research/))
+  - As AAFC navigates research and staffing transitions, clear communication can help the seed sector plan for the next phase of innovation The post Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research appeared first
 - 2026-02-10 [Government Funding Supports Gene-edited Crops At John Innes Centre](../../items/seedworld/2026/02/https_www.seedworld.com_p_122879.md) ([원문](https://www.seedworld.com/europe/2026/02/10/government-funding-supports-gene-edited-crops-at-john-innes-centre/))
   - The John Innes Centre has secured UK government funding for four DEFRA-backed projects advancing precision breeding, including gene-edited disease-resistant crops, vitamin D–enriched tomatoes, and dandelions for sustainable rubber.
 - 2026-02-10 [Combating Seed Piracy to Protect Mexico’s Agricultural Productivity](../../items/seedworld/2026/02/https_www.seedworld.com_p_122861.md) ([원문](https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protect-mexicos-agricultural-productivity/))
@@ -75,14 +83,3 @@ source: "seedworld"
   - In plant breeding, data abundance is no longer the challenge—decision speed is. A long-term partnership between KWS and AI agritech NoMaze shows how embedded, intuitive analytics transform complex breeding data into faster, confident
 - 2026-02-02 [$2M Grant Backs AI Initiative to Protect Crops from Disease](../../items/seedworld/2026/02/https_www.seedworld.com_p_122717.md) ([원문](https://www.seedworld.com/europe/2026/02/02/2m-grant-backs-ai-initiative-to-protect-crops-from-disease/))
   - The Sainsbury Laboratory has secured $2 million from Google.org’s $20 million AI for Science Fund to launch Bifrost, led by Professor Sophien Kamoun. Using DeepMind’s AlphaFold3, Bifrost will predict plant immune receptor–pathogen
-- 2026-02-02 [Tecnología NIR de bajo costo acelera la autenticación y trazabilidad del café](../../items/seedworld/2026/02/https_www.seedworld.com_p_122400.md) ([원문](https://www.seedworld.com/latam/2026/02/02/tecnologia-nir-de-bajo-costo-acelera-la-autenticacion-y-trazabilidad-del-cafe/))
-  - Investigaciones de Embrapa Rondônia demuestran que la espectroscopía de infrarrojo cercano (NIR) permite identificar rápidamente el origen del café y detectar adulteraciones a bajo costo.
-- 2026-02-02 [What’s Wrong With International Governance These Days?](../../items/seedworld/2026/02/https_www.seedworld.com_p_122422.md) ([원문](https://www.seedworld.com/europe/2026/02/01/whats-wrong-with-international-governance-these-days/))
-  - International agreements born in the 1990s era of globalization shaped trade, climate, and biodiversity governance through multilateral cooperation. Three decades later, rising geopolitical tensions, stalled COPs, and growing lobbying have
-- 2026-02-01 [Joint Actions, Resilient Futures: The Global Seed Community’s Next Chapter Unfolds in Lisbon](../../items/seedworld/2026/02/https_www.seedworld.com_p_122619.md) ([원문](https://www.seedworld.com/europe/2026/02/01/joint-actions-resilient-futures-the-global-seed-communitys-next-chapter-unfolds-in-lisbon/))
-  - Seed sits at the center of food security, sustainable agriculture, and global trade transformation. The ISF World Seed Congress 2026 in Lisbon brings together seed and plant breeding leaders to address climate volatility, innovation,
-
-## 2026-01
-
-- 2026-01-31 [Editing Gluten Without Breaking Bread](../../items/seedworld/2026/01/https_www.seedworld.com_p_122734.md) ([원문](https://www.seedworld.com/us/2026/01/30/editing-gluten-without-breaking-bread/))
-  - UC Davis researchers are advancing wheat by removing its most reactive gluten proteins and maintaining dough strength, unlocking new potential for performance and health.

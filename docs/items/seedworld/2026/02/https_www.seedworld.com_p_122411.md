@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/06/mitad-de-agua-rendimientos-comp
 summary: "Investigación de INTA San Juan muestra que la quinoa puede rendir competitivamente en Cuyo usando solo la mitad del agua indicada por referencias internacionales. Con 260–290 mm por ciclo, la variedad Morrillos INTA logró cerca de 1,7 t/ha,"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T06:48:21+09:00"
 ---
 # Mitad de agua, rendimientos competitivos: INTA avanza en la investigación sobre riego de quinua
 

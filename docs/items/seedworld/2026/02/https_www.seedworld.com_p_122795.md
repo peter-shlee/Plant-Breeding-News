@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/02/syngenta-canada-launches-equen
 summary: "New product combines contact and systemic activity with a six-active-ingredient package for insect and disease protection in cereal crops. Syngenta Canada Inc."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T06:48:21+09:00"
 ---
 # Syngenta Canada Launches Equento Cereals Seed Treatment for Wireworm Control in Western Canada
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/02/turning-data-into-decisions-kws-no
 summary: "In plant breeding, data abundance is no longer the challenge—decision speed is. A long-term partnership between KWS and AI agritech NoMaze shows how embedded, intuitive analytics transform complex breeding data into faster, confident"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T06:48:21+09:00"
 ---
 # Turning Data into Decisions: KWS-NoMaze Partnership Drives Innovation in Plant Breeding
 

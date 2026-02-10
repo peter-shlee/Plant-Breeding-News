@@ -9,7 +9,7 @@ summary: "The Sainsbury Laboratory has secured $2 million from Google.org’s $2
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T06:48:21+09:00"
 ---
 # $2M Grant Backs AI Initiative to Protect Crops from Disease
 
