@@ -111,6 +111,21 @@ def render_item_md(item: dict[str, Any]) -> str:
     return "\n".join(parts).rstrip() + "\n"
 
 
+def _write_md_if_changed(path: str, md: str) -> bool:
+    """Write md to path if different. Returns True if written."""
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                if f.read() == md:
+                    return False
+        except Exception:
+            pass
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(md)
+    return True
+
+
 def export_md_items(
     items: Iterable[dict[str, Any]],
     *,
@@ -118,6 +133,7 @@ def export_md_items(
     days: int,
     now: Optional[datetime] = None,
 ) -> dict[str, Any]:
+    """Export item pages for items newer than cutoff (last N days)."""
     cutoff = _cutoff_dt(days, now=now)
 
     written = 0
@@ -130,23 +146,25 @@ def export_md_items(
 
         rel = item_relpath(item)
         path = os.path.join(outdir, rel)
-        os.makedirs(os.path.dirname(path), exist_ok=True)
         md = render_item_md(item)
-
-        # Write only if changed
-        if os.path.exists(path):
-            try:
-                with open(path, "r", encoding="utf-8") as f:
-                    if f.read() == md:
-                        continue
-            except Exception:
-                pass
-
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(md)
-        written += 1
+        if _write_md_if_changed(path, md):
+            written += 1
 
     return {"considered": considered, "written": written, "cutoff": cutoff.isoformat(timespec="seconds")}
+
+
+def export_md_all_items(items: Iterable[dict[str, Any]], *, outdir: str) -> dict[str, Any]:
+    """Export item pages for ALL items (no cutoff)."""
+    written = 0
+    considered = 0
+    for item in items:
+        considered += 1
+        rel = item_relpath(item)
+        path = os.path.join(outdir, rel)
+        md = render_item_md(item)
+        if _write_md_if_changed(path, md):
+            written += 1
+    return {"considered": considered, "written": written}
 
 
 @dataclass
@@ -256,42 +274,208 @@ def write_weekly_pages(w: WeeklyBuild, *, outdir: str) -> dict[str, Any]:
     return {"latest": os.path.relpath(latest_path, outdir), "dated": os.path.relpath(dated_path, outdir)}
 
 
-def render_index_md(*, outdir: str) -> str:
+def _list_weekly_archive(*, outdir: str) -> list[str]:
+    """Return weekly archive filenames (YYYY-MM-DD.md), newest first."""
     weekly_dir = os.path.join(outdir, "weekly")
-    os.makedirs(weekly_dir, exist_ok=True)
+    if not os.path.exists(weekly_dir):
+        return []
 
-    # archive: all weekly/*.md except latest
     archive: list[str] = []
     for name in os.listdir(weekly_dir):
         if not name.endswith(".md"):
             continue
         if name == "latest.md":
             continue
-        archive.append(name)
+        # keep only dated pages
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.md", name):
+            archive.append(name)
 
-    # sort desc by filename (YYYY-MM-DD)
     archive.sort(reverse=True)
+    return archive
+
+
+def _fmt_date_ymd(it: dict[str, Any]) -> str:
+    s = (it.get("published_at") or it.get("fetched_at") or "")
+    if not s:
+        return ""
+    return s.split("T")[0]
+
+
+def render_portal_index_md(
+    items: list[dict[str, Any]],
+    *,
+    outdir: str,
+    days: int,
+    limit: int = 25,
+    now: Optional[datetime] = None,
+) -> str:
+    """Generate docs/index.md portal page.
+
+    - Recent items: last N days, newest first.
+    - Weekly archive links: weekly/YYYY-MM-DD.md
+    - Per-source archive links: sources/<src>/index.md
+    """
+
+    now_kst = _kst_today(now=now)
+    cutoff = now_kst - timedelta(days=days)
+
+    def sort_key(it: dict[str, Any]):
+        dt = _parse_dt(it.get("published_at")) or _parse_dt(it.get("fetched_at"))
+        return dt or datetime.min
+
+    recent: list[dict[str, Any]] = []
+    for it in items:
+        dt = _parse_dt(it.get("published_at")) or _parse_dt(it.get("fetched_at"))
+        if dt is not None:
+            try:
+                dt_kst = dt.astimezone(now_kst.tzinfo)
+            except Exception:
+                dt_kst = dt
+            if dt_kst < cutoff:
+                continue
+        recent.append(it)
+
+    recent.sort(key=sort_key, reverse=True)
+    recent = recent[: max(0, limit)]
+
+    weekly_archive = _list_weekly_archive(outdir=outdir)
+
+    sources = sorted({(it.get("source") or "unknown") for it in items})
+
+    updated_at = now_kst.strftime("%Y-%m-%d %H:%M")
+    range_end = now_kst.date().isoformat()
+    range_start = (now_kst - timedelta(days=days)).date().isoformat()
+
+    def rel_item_link(it: dict[str, Any]) -> str:
+        return item_relpath(it).replace(os.sep, "/")
 
     lines: list[str] = []
     lines.append("---")
-    lines.append("title: \"Breeding news digest\"")
+    lines.append(f"title: {_yaml_quote('축산·육종 뉴스 모음')}")
     lines.append("---\n")
-    lines.append("# Breeding news digest\n")
-    lines.append("- [Latest weekly](weekly/latest.md)\n")
-    lines.append("## Weekly archive\n")
-    if not archive:
-        lines.append("(No archive yet.)\n")
+
+    lines.append("# 축산·육종 뉴스 모음\n")
+    lines.append("농촌진흥청·국립축산과학원 등 기관의 보도자료/공지 링크를 모아둔 자동 생성 페이지입니다.\n")
+    lines.append("> 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.\n")
+    lines.append(
+        f"- 마지막 업데이트: **{updated_at} (KST)**  "+"\n"
+        + f"- 커버리지(최근 섹션): **{range_start} ~ {range_end}** (최근 {days}일)\n"
+    )
+
+    lines.append("## 최근 업데이트\n")
+    if not recent:
+        lines.append("(최근 항목이 없습니다.)\n")
     else:
-        for name in archive:
-            lines.append(f"- [{name.replace('.md','')}]({os.path.join('weekly', name).replace(os.sep,'/')})")
+        for it in recent:
+            title = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            src = (it.get("source") or "unknown").strip()
+            url = it.get("url") or ""
+            lines.append(
+                f"- {_fmt_date_ymd(it)} [{src}] "
+                + f"[{title}]({rel_item_link(it)}) "
+                + f"([원문]({url}))"
+            )
+        lines.append("")
+
+    lines.append("## 주간 아카이브\n")
+    if not weekly_archive:
+        lines.append("(아직 생성된 주간 페이지가 없습니다.)\n")
+    else:
+        for name in weekly_archive:
+            date = name.replace(".md", "")
+            lines.append(f"- [{date}](weekly/{name})")
+        lines.append("")
+
+    lines.append("## 출처별 아카이브\n")
+    for src in sources:
+        src_slug = _safe_slug(src)
+        lines.append(f"- [{src}](sources/{src_slug}/index.md)")
+    lines.append("")
+
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def write_index_portal(
+    items: list[dict[str, Any]],
+    *,
+    outdir: str,
+    days: int,
+    limit: int = 25,
+    now: Optional[datetime] = None,
+) -> str:
+    path = os.path.join(outdir, "index.md")
+    md = render_portal_index_md(items, outdir=outdir, days=days, limit=limit, now=now)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(md)
+    return os.path.relpath(path, outdir)
+
+
+def render_source_index_md(
+    src: str,
+    items: list[dict[str, Any]],
+    *,
+    outdir: str,
+) -> str:
+    """Generate docs/sources/<src>/index.md grouped by month."""
+
+    # source index path: sources/<src>/index.md
+    # links from there to items live at ../../items/...
+    def rel_item_link(it: dict[str, Any]) -> str:
+        return os.path.join("..", "..", item_relpath(it)).replace(os.sep, "/")
+
+    def sort_key(it: dict[str, Any]):
+        dt = _parse_dt(it.get("published_at")) or _parse_dt(it.get("fetched_at"))
+        return dt or datetime.min
+
+    items_sorted = list(items)
+    items_sorted.sort(key=sort_key, reverse=True)
+
+    by_month: dict[str, list[dict[str, Any]]] = {}
+    for it in items_sorted:
+        dt = _parse_dt(it.get("published_at")) or _parse_dt(it.get("fetched_at"))
+        if dt is None:
+            key = "0000-00"
+        else:
+            key = f"{dt.year:04d}-{dt.month:02d}"
+        by_month.setdefault(key, []).append(it)
+
+    months = sorted(by_month.keys(), reverse=True)
+
+    lines: list[str] = []
+    lines.append("---")
+    lines.append(f"title: {_yaml_quote(f'{src} 아카이브')}")
+    lines.append(f"source: {_yaml_quote(src)}")
+    lines.append("---\n")
+
+    lines.append(f"# {src} 아카이브\n")
+    lines.append("> 이 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.\n")
+    lines.append("- [홈으로](../../index.md)\n")
+
+    for m in months:
+        lines.append(f"## {m}\n")
+        for it in by_month[m]:
+            title = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            url = it.get("url") or ""
+            lines.append(f"- {_fmt_date_ymd(it)} [{title}]({rel_item_link(it)}) ([원문]({url}))")
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
 
 
-def write_index(*, outdir: str) -> str:
-    path = os.path.join(outdir, "index.md")
-    md = render_index_md(outdir=outdir)
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(md)
-    return os.path.relpath(path, outdir)
+def write_source_indexes(items: list[dict[str, Any]], *, outdir: str) -> list[str]:
+    written: list[str] = []
+    by_source: dict[str, list[dict[str, Any]]] = {}
+    for it in items:
+        by_source.setdefault(it.get("source") or "unknown", []).append(it)
+
+    for src, src_items in sorted(by_source.items(), key=lambda kv: kv[0]):
+        src_slug = _safe_slug(src)
+        dirpath = os.path.join(outdir, "sources", src_slug)
+        os.makedirs(dirpath, exist_ok=True)
+        path = os.path.join(dirpath, "index.md")
+        md = render_source_index_md(src, src_items, outdir=outdir)
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(md)
+        written.append(os.path.relpath(path, outdir))
+
+    return written

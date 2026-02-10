@@ -9,7 +9,14 @@ from .db import SqliteStore
 from .firestore import FirestoreWriter, firestore_enabled
 from .http import HttpClient, HttpConfig, DEFAULT_UA
 from .schema import iso_now_kst
-from .sitegen import export_md_items, prepare_weekly, write_index, write_weekly_pages
+from .sitegen import (
+    export_md_all_items,
+    export_md_items,
+    prepare_weekly,
+    write_index_portal,
+    write_source_indexes,
+    write_weekly_pages,
+)
 from .sources import SOURCES
 
 
@@ -147,11 +154,29 @@ def cmd_export_md(args: argparse.Namespace) -> int:
 def cmd_build_weekly(args: argparse.Namespace) -> int:
     w = prepare_weekly(_iter_items_any(args), days=args.days)
     paths = write_weekly_pages(w, outdir=args.outdir)
-    idx = write_index(outdir=args.outdir)
     print(
         "build-weekly: "
         + f"outdir={args.outdir} days={args.days} items={len(w.items)} "
-        + f"weekly_latest={paths['latest']} weekly_dated={paths['dated']} index={idx}"
+        + f"weekly_latest={paths['latest']} weekly_dated={paths['dated']}"
+    )
+    return 0
+
+
+def cmd_build_site(args: argparse.Namespace) -> int:
+    # Single data loading pass
+    items = list(_iter_items_any(args))
+
+    # Ensure item pages exist for all items referenced by portal/source pages
+    item_stats = export_md_all_items(items, outdir=args.outdir)
+
+    # Portal index + per-source archive pages
+    idx = write_index_portal(items, outdir=args.outdir, days=args.days, limit=args.limit)
+    src_paths = write_source_indexes(items, outdir=args.outdir)
+
+    print(
+        "build-site: "
+        + f"outdir={args.outdir} items={len(items)} item_pages_written={item_stats['written']} "
+        + f"index={idx} sources={len(src_paths)}"
     )
     return 0
 
@@ -200,6 +225,19 @@ def main(argv: list[str] | None = None) -> int:
     )
     pw.add_argument("--sources", nargs="*", default=None, help="Filter by sources")
     pw.set_defaults(func=cmd_build_weekly)
+
+    ps = sub.add_parser("build-site", help="Build portal index + per-source archive pages")
+    ps.add_argument("--outdir", default=os.path.join(os.getcwd(), "site"), help="Output directory (tracked)")
+    ps.add_argument("--days", type=int, default=7, help="Recent window in days (used on portal index)")
+    ps.add_argument("--limit", type=int, default=25, help="Max items to show in Recent section")
+    ps.add_argument("--db", default=default_db_path(), help="SQLite path (preferred)")
+    ps.add_argument(
+        "--jsonl",
+        default=os.path.join(os.getcwd(), ".collector", "export.jsonl"),
+        help="Fallback JSONL path (used if SQLite missing)",
+    )
+    ps.add_argument("--sources", nargs="*", default=None, help="Filter by sources")
+    ps.set_defaults(func=cmd_build_site)
 
     args = p.parse_args(argv)
 
