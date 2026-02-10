@@ -27,9 +27,10 @@ _EXCLUDE_KEYWORDS_KO = [
     # livestock industry
     "축산",
     "한우",
+    "젖소",
+    "소고기",
     "돼지",
     "양돈",
-    "소",
     "우유",
     "낙농",
     "가금",
@@ -45,10 +46,10 @@ _EXCLUDE_KEYWORDS_KO = [
     "반려",
     "반려견",
     "반려묘",
-    # veterinary-ish
+    # veterinary / animal disease
     "수의",
     "구제역",
-    "AI(조류)",
+    "조류인플루엔자",
     # reproduction/breeding (animal context)
     "정액",
     # other animal production
