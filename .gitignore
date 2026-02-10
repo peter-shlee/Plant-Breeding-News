@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Local collector runtime
+.collector/collector.sqlite
+.collector/collector.sqlite-*
+.collector/cron.log
+
+# Optional export artifact
+.collector/export.jsonl
+
+# OS
+.DS_Store
