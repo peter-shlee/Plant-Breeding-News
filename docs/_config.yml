@@ -1,2 +1,4 @@
-title: Breeding news digest
+title: 식물 육종 뉴스
+description: "식물 육종(종자·품종·유전체/표현체·규제/정책) 관련 소식을 모아 보는 주간 큐레이션"
 markdown: kramdown
+theme: jekyll-theme-cayman
