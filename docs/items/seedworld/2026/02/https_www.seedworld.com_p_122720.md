@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "phenotyping"
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Gene Discovery Could Unlock New Era of Barley Breeding
 
@@ -18,4 +18,4 @@ Scientists at The James Hutton Institute have identified HvST1, a “Sticky Telo
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/03/gene-discovery-could-unlock-new-era-of-barley-breeding/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/03/gene-discovery-could-unlock-new-era-of-barley-breeding/)

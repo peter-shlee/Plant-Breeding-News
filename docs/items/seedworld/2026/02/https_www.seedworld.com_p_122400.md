@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/02/tecnologia-nir-de-bajo-costo-ac
 summary: "Investigaciones de Embrapa Rondônia demuestran que la espectroscopía de infrarrojo cercano (NIR) permite identificar rápidamente el origen del café y detectar adulteraciones a bajo costo."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Tecnología NIR de bajo costo acelera la autenticación y trazabilidad del café
 
@@ -16,4 +16,4 @@ Investigaciones de Embrapa Rondônia demuestran que la espectroscopía de infrar
 
 ## Original
 
-- https://www.seedworld.com/latam/2026/02/02/tecnologia-nir-de-bajo-costo-acelera-la-autenticacion-y-trazabilidad-del-cafe/
+- [원문 링크](https://www.seedworld.com/latam/2026/02/02/tecnologia-nir-de-bajo-costo-acelera-la-autenticacion-y-trazabilidad-del-cafe/)

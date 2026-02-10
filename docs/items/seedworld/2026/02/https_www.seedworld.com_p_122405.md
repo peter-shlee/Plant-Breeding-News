@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/04/embrapa-identifica-gen-silvestr
 summary: "Investigaciones de Embrapa demuestran que genes de maníes silvestres pueden aumentar la resistencia del maní cultivado a sequía, nematodos y hongos. El gen AdEXLB8 activa la “preparación defensiva”, permitiendo respuestas más rápidas al"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Embrapa identifica gen silvestre de cacahuete que prepara la defensa en cultivos
 
@@ -16,4 +16,4 @@ Investigaciones de Embrapa demuestran que genes de maníes silvestres pueden aum
 
 ## Original
 
-- https://www.seedworld.com/latam/2026/02/04/embrapa-identifica-gen-silvestre-de-cacahuete-que-prepara-la-defensa-en-cultivos/
+- [원문 링크](https://www.seedworld.com/latam/2026/02/04/embrapa-identifica-gen-silvestre-de-cacahuete-que-prepara-la-defensa-en-cultivos/)

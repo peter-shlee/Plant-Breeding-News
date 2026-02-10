@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/01/whats-wrong-with-international
 summary: "International agreements born in the 1990s era of globalization shaped trade, climate, and biodiversity governance through multilateral cooperation. Three decades later, rising geopolitical tensions, stalled COPs, and growing lobbying have"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # What’s Wrong With International Governance These Days?
 
@@ -16,4 +16,4 @@ International agreements born in the 1990s era of globalization shaped trade, cl
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/01/whats-wrong-with-international-governance-these-days/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/01/whats-wrong-with-international-governance-these-days/)

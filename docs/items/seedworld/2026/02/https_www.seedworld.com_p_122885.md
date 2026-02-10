@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/06/grain-growers-of-canada-demand
 summary: "The organization noted the pace and scale of the announced changes have sparked serious concern across the grain sector The post Grain Growers of Canada Demands Transparency on AAFC Research Cuts and Facility Closures appeared first on"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Grain Growers of Canada Demands Transparency on AAFC Research Cuts and Facility Closures
 
@@ -16,4 +16,4 @@ The organization noted the pace and scale of the announced changes have sparked 
 
 ## Original
 
-- https://www.seedworld.com/canada/2026/02/06/grain-growers-of-canada-demands-transparency-on-aafc-research-cuts-and-facility-closures/
+- [원문 링크](https://www.seedworld.com/canada/2026/02/06/grain-growers-of-canada-demands-transparency-on-aafc-research-cuts-and-facility-closures/)

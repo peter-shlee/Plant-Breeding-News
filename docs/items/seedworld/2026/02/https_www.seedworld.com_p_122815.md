@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/03/could-a-new-pipeline-help-scientis
 summary: "Researchers in Oregon say yes. They have built an open-source pipeline that identifies pathogens in minutes, helping agriculture respond faster to emerging threats."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Could a New Pipeline Help Scientists Spot Plant Pathogens Faster?
 
@@ -16,4 +16,4 @@ Researchers in Oregon say yes. They have built an open-source pipeline that iden
 
 ## Original
 
-- https://www.seedworld.com/us/2026/02/03/could-a-new-pipeline-help-scientists-spot-plant-pathogens-faster/
+- [원문 링크](https://www.seedworld.com/us/2026/02/03/could-a-new-pipeline-help-scientists-spot-plant-pathogens-faster/)

@@ -9,7 +9,7 @@ summary: "The Sainsbury Laboratory has secured $2 million from Google.org’s $2
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # $2M Grant Backs AI Initiative to Protect Crops from Disease
 
@@ -17,4 +17,4 @@ The Sainsbury Laboratory has secured $2 million from Google.org’s $20 million 
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/02/2m-grant-backs-ai-initiative-to-protect-crops-from-disease/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/02/2m-grant-backs-ai-initiative-to-protect-crops-from-disease/)

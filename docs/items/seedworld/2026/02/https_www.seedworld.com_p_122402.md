@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/03/low-cost-nir-tech-speeds-coffee
 summary: "Research by Embrapa Rondônia shows near-infrared spectroscopy (NIR) can rapidly and cheaply identify coffee origin and detect adulteration. The non-destructive method creates chemical “fingerprints” to verify terroir, reinforce"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Low-Cost NIR tech speeds coffee authentication and traceability
 
@@ -16,4 +16,4 @@ Research by Embrapa Rondônia shows near-infrared spectroscopy (NIR) can rapidly
 
 ## Original
 
-- https://www.seedworld.com/latam/2026/02/03/low-cost-nir-tech-speeds-coffee-authentication-and-traceability/
+- [원문 링크](https://www.seedworld.com/latam/2026/02/03/low-cost-nir-tech-speeds-coffee-authentication-and-traceability/)

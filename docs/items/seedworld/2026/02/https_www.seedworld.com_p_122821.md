@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/04/saskatchewan-seed-growers-call
 summary: "The SSGA is the latest organization to voice strong opposition to Agriculture and Agri-Food Canada cuts The post Saskatchewan Seed Growers Call for Reversal of AAFC Facility Closures in Indian Head and Scott appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Saskatchewan Seed Growers Call for Reversal of AAFC Facility Closures in Indian Head and Scott
 
@@ -16,4 +16,4 @@ The SSGA is the latest organization to voice strong opposition to Agriculture an
 
 ## Original
 
-- https://www.seedworld.com/canada/2026/02/04/saskatchewan-seed-growers-call-for-reversal-of-aafc-facility-closures-in-indian-head-and-scott/
+- [원문 링크](https://www.seedworld.com/canada/2026/02/04/saskatchewan-seed-growers-call-for-reversal-of-aafc-facility-closures-in-indian-head-and-scott/)

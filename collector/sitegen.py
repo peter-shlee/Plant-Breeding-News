@@ -114,7 +114,10 @@ def render_item_md(item: dict[str, Any]) -> str:
     parts.append(f"# {title}\n")
     parts.append(body_text + "\n")
     parts.append("## Original\n")
-    parts.append(f"- {url}\n")
+    if url:
+        parts.append(f"- [원문 링크]({url})\n")
+    else:
+        parts.append("- (원문 링크 없음)\n")
 
     return "\n".join(parts).rstrip() + "\n"
 

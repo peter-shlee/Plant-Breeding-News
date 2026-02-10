@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/09/the-agricultural-crop-licensin
 summary: "After three years, the Agricultural Crop Licensing Platform (ACLP) has expanded to include ornamental, fruit, and forest crops, strengthening access to patented traits across Europe."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # The Agricultural Crop Licensing Platform Extends to Ornamental and Fruit Crops
 
@@ -16,4 +16,4 @@ After three years, the Agricultural Crop Licensing Platform (ACLP) has expanded 
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/09/the-agricultural-crop-licensing-platform-extends-to-ornamental-and-fruit-crops/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/09/the-agricultural-crop-licensing-platform-extends-to-ornamental-and-fruit-crops/)

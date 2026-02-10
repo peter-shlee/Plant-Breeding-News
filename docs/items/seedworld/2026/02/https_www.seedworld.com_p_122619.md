@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/01/joint-actions-resilient-future
 summary: "Seed sits at the center of food security, sustainable agriculture, and global trade transformation. The ISF World Seed Congress 2026 in Lisbon brings together seed and plant breeding leaders to address climate volatility, innovation,"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Joint Actions, Resilient Futures: The Global Seed Community’s Next Chapter Unfolds in Lisbon
 
@@ -16,4 +16,4 @@ Seed sits at the center of food security, sustainable agriculture, and global tr
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/01/joint-actions-resilient-futures-the-global-seed-communitys-next-chapter-unfolds-in-lisbon/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/01/joint-actions-resilient-futures-the-global-seed-communitys-next-chapter-unfolds-in-lisbon/)

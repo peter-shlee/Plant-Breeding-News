@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/02/plant-breeders-are-like-musicia
 summary: "Private plant breeding companies often separate R&D and breeding, limiting breeders to production-focused cycles rather than experimentation. This reduces innovation and undervalues breeder expertise."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Plant Breeders Are Like Musicians
 
@@ -16,4 +16,4 @@ Private plant breeding companies often separate R&D and breeding, limiting breed
 
 ## Original
 
-- https://www.seedworld.com/latam/2026/02/02/plant-breeders-are-like-musicians/
+- [원문 링크](https://www.seedworld.com/latam/2026/02/02/plant-breeders-are-like-musicians/)

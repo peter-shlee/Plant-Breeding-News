@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/03/la-carrera-por-la-regulacion-es
 summary: "La edición genética en semillas ya es una realidad en ensayos, regulación y mercado. El debate se centra ahora en cómo las políticas públicas definirán quién puede innovar."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # La carrera por la regulación está redefiniendo la innovación en semillas
 
@@ -16,4 +16,4 @@ La edición genética en semillas ya es una realidad en ensayos, regulación y m
 
 ## Original
 
-- https://www.seedworld.com/latam/2026/02/03/la-carrera-por-la-regulacion-esta-redefiniendo-la-innovacion-en-semillas/
+- [원문 링크](https://www.seedworld.com/latam/2026/02/03/la-carrera-por-la-regulacion-esta-redefiniendo-la-innovacion-en-semillas/)

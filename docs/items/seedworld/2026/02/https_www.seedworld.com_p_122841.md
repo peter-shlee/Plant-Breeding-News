@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/05/why-hands-on-seed-school-train
 summary: "One of the things I’m most passionate about at Nexeed is training, because confidence on the plant floor directly impacts quality, efficiency, and profitability. That’s why we continue to invest […] The post Why Hands-On Seed School"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Why Hands-On Seed School Training Still Matters in a High-Tech World
 
@@ -16,4 +16,4 @@ One of the things I’m most passionate about at Nexeed is training, because con
 
 ## Original
 
-- https://www.seedworld.com/canada/2026/02/05/why-hands-on-seed-school-training-still-matters-in-a-high-tech-world/
+- [원문 링크](https://www.seedworld.com/canada/2026/02/05/why-hands-on-seed-school-training-still-matters-in-a-high-tech-world/)

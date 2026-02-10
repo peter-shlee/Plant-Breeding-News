@@ -9,7 +9,7 @@ summary: "UC Davis researchers are advancing wheat by removing its most reactive
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-02-11T02:24:15+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Editing Gluten Without Breaking Bread
 
@@ -17,4 +17,4 @@ UC Davis researchers are advancing wheat by removing its most reactive gluten pr
 
 ## Original
 
-- https://www.seedworld.com/us/2026/01/30/editing-gluten-without-breaking-bread/
+- [원문 링크](https://www.seedworld.com/us/2026/01/30/editing-gluten-without-breaking-bread/)

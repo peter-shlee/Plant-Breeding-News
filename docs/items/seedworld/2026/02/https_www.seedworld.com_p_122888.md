@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/10/deadline-extended-to-feb-20-no
 summary: "Seed World Europe is now accepting nominations for its April 2026 “20 Most Promising Young Plant Breeders in Europe” feature. Nominate early-career plant breeders making an impact across Europe, from universities, research institutes, seed"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Deadline Extended to Feb 20: Nominations Open for Europe’s Promising Young Plant Breeders
 
@@ -16,4 +16,4 @@ Seed World Europe is now accepting nominations for its April 2026 “20 Most Pro
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/10/deadline-extended-to-feb-20-nominations-open-for-europes-promising-young-plant-breeders/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/10/deadline-extended-to-feb-20-nominations-open-for-europes-promising-young-plant-breeders/)

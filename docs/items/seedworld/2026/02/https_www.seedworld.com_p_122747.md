@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/02/eu-uk-sps-chapter-negotiations
 summary: "After years of post-Brexit disruption, EU–UK SPS negotiations offer a critical chance to simplify seed trade. Reduced border delays, regulatory alignment, and greater predictability could cut costs and restore efficiency."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # EU–UK SPS Chapter Negotiations: The Seed Trade Reset We Can’t Afford to Botch
 
@@ -16,4 +16,4 @@ After years of post-Brexit disruption, EU–UK SPS negotiations offer a critical
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/02/eu-uk-sps-chapter-negotiations-the-seed-trade-reset-we-cant-afford-to-botch/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/02/eu-uk-sps-chapter-negotiations-the-seed-trade-reset-we-cant-afford-to-botch/)

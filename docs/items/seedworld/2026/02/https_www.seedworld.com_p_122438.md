@@ -9,7 +9,7 @@ summary: "Europe’s new agreement on New Genomic Techniques marks a turning poi
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Europe Can’t Afford to Fall Behind: Jessica Polfjärd on the EU’s NGT Turning Point
 
@@ -17,4 +17,4 @@ Europe’s new agreement on New Genomic Techniques marks a turning point for pla
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/06/europe-cant-afford-to-fall-behind-jessica-polfjard-on-the-eus-ngt-turning-point/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/06/europe-cant-afford-to-fall-behind-jessica-polfjard-on-the-eus-ngt-turning-point/)

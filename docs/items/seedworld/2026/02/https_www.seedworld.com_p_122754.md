@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/02/cuando-el-fitomejoramiento-se-r
 summary: "Las empresas privadas de mejoramiento vegetal suelen separar I+D y mejoramiento, limitando a los fitomejoradores a ciclos intensivos en lugar de experimentación. Esto reduce la innovación y subestima su experiencia."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Cuando el fitomejoramiento se reduce a tocar una sola nota
 
@@ -16,4 +16,4 @@ Las empresas privadas de mejoramiento vegetal suelen separar I+D y mejoramiento,
 
 ## Original
 
-- https://www.seedworld.com/latam/2026/02/02/cuando-el-fitomejoramiento-se-reduce-a-tocar-una-sola-nota/
+- [원문 링크](https://www.seedworld.com/latam/2026/02/02/cuando-el-fitomejoramiento-se-reduce-a-tocar-una-sola-nota/)

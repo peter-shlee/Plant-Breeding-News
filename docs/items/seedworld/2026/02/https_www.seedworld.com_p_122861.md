@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protec
 summary: "AMSAC has launched its “No Harvest Surprises” campaign to combat seed piracy, a growing threat to Mexico’s agricultural productivity. Pirated seed sold via unauthorized vendors often fails genetic and phytosanitary standards, increasing"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Combating Seed Piracy to Protect Mexico’s Agricultural Productivity
 
@@ -16,4 +16,4 @@ AMSAC has launched its “No Harvest Surprises” campaign to combat seed piracy
 
 ## Original
 
-- https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protect-mexicos-agricultural-productivity/
+- [원문 링크](https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protect-mexicos-agricultural-productivity/)

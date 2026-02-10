@@ -9,7 +9,7 @@ summary: "EFSA’s GMO Panel has issued a positive safety opinion on GM soybean 
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Multi-Herbicide-Tolerant GM Soybean Passes EFSA Safety Assessment
 
@@ -17,4 +17,4 @@ EFSA’s GMO Panel has issued a positive safety opinion on GM soybean MON 94313 
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/04/multi-herbicide-tolerant-gm-soybean-passes-efsa-safety-assessment/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/04/multi-herbicide-tolerant-gm-soybean-passes-efsa-safety-assessment/)

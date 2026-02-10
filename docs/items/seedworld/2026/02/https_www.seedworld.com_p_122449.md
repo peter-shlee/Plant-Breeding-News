@@ -9,7 +9,7 @@ summary: "University of Zurich scientists uncovered how wheat powdery mildew can
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T02:26:56+09:00"
 ---
 # Powdery Mildew Outsmarts Wheat by Masking Key Effector Signal
 
@@ -17,4 +17,4 @@ University of Zurich scientists uncovered how wheat powdery mildew can bypass ge
 
 ## Original
 
-- https://www.seedworld.com/europe/2026/02/02/powdery-mildew-outsmarts-wheat-by-masking-key-effector-signal/
+- [원문 링크](https://www.seedworld.com/europe/2026/02/02/powdery-mildew-outsmarts-wheat-by-masking-key-effector-signal/)
