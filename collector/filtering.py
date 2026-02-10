@@ -191,3 +191,82 @@ def decide_plant_only(*, title: str = "", content_text: str = "", tags: Optional
         exclude_hits=tuple(dict.fromkeys(exclude_hits)),
         include_hits=(),
     )
+
+
+# --- Additional relevance filter (used for noisy feeds like ScienceDaily) ---
+
+# Core breeding/seed signals (weight 2)
+_RELEVANCE_CORE = [
+    "breeding",
+    "plant breeding",
+    "cultivar",
+    "variety",
+    "seed",
+    "seeds",
+    "germplasm",
+    "genomics",
+    "genome",
+    "genomic",
+    "marker",
+    "qtl",
+    "gwas",
+    "phenotyping",
+    "phenotype",
+    "CRISPR",
+    "gene editing",
+    "genome editing",
+    "UPOV",
+    "plant variety protection",
+    "PVP",
+    "품종",
+    "육종",
+    "종자",
+    "유전체",
+    "마커",
+    "표현체",
+    "유전자편집",
+]
+
+# Secondary/related signals (weight 1)
+_RELEVANCE_SECONDARY = [
+    "hybrid",
+    "inbred",
+    "allele",
+    "alleles",
+    "genotype",
+    "genotyping",
+    "haplotype",
+    "trait",
+    "traits",
+    "selection",
+    "MAS",
+    "marker-assisted",
+    "biofortified",
+    "introgression",
+    "mutation breeding",
+    "varietal",
+    "seedling",
+]
+
+
+def breeding_relevance_score(*, title: str = "", content_text: str = "", tags: Optional[list[str]] = None) -> tuple[float, tuple[str, ...]]:
+    text = " ".join([title or "", content_text or "", " ".join(tags or [])])
+    core_hits = _find_hits(text, _RELEVANCE_CORE)
+    sec_hits = _find_hits(text, _RELEVANCE_SECONDARY)
+    # core dominates; secondary gives small lift
+    score = len(set(core_hits)) * 2.0 + len(set(sec_hits)) * 1.0
+    hits = tuple(dict.fromkeys([*core_hits, *sec_hits]))
+    return score, hits
+
+
+def decide_breeding_relevance(
+    *,
+    title: str = "",
+    content_text: str = "",
+    tags: Optional[list[str]] = None,
+    min_score: float = 2.0,
+) -> FilterDecision:
+    score, hits = breeding_relevance_score(title=title, content_text=content_text, tags=tags)
+    if score >= min_score:
+        return FilterDecision(keep=True, reason=f"breeding_relevant(score={score:g})", include_hits=hits)
+    return FilterDecision(keep=False, reason=f"breeding_irrelevant(score={score:g})", include_hits=hits)

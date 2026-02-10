@@ -1,9 +1,11 @@
 # collector (MVP)
 
-Weekly incremental press-release collector (Python 3) for:
+Weekly incremental press-release/news collector (Python 3) for:
 - **RDA** (농촌진흥청) press list
 - **NICS** (국립식량과학원) press list
 - **NIHHS** (국립원예특작과학원) press list (requires a real User-Agent)
+- **Seed World** RSS (`seedworld`)
+- **ScienceDaily – Agriculture & Food** RSS (`sciencedaily`, keyword relevance filter enabled by default)
 
 ## Features
 
@@ -52,7 +54,7 @@ Jekyll 처리를 끄고(raw 파일 서빙) 싶으면, 빈 파일을 추가:
 Collect recent items (default 30 days):
 
 ```bash
-python3 -m collector run --sources rda nics nihhs --since-days 30 --verbose
+python3 -m collector run --sources rda nics nihhs seedworld sciencedaily --since-days 30 --verbose
 ```
 
 Save raw HTML into SQLite (bigger DB):
@@ -132,6 +134,8 @@ Run every Monday at 09:10 KST:
 
 ## Notes / Known limitations (MVP)
 
+- **RSS sources (Seed World / ScienceDaily)**: stored as *summary-only* by default (we use RSS `description` as `content_text`). Full article fetch is not implemented.
+- **ScienceDaily relevance filter**: a light breeding/seed keyword score filter is applied to reduce noise.
 - **NIHHS pagination**: list pagination is not fully implemented; MVP only scrapes the first page.
 - **NICS detail page**: the site appears to require additional internal parameters for a view endpoint; MVP stores list metadata and attachment download links but may not retrieve full HTML article content.
 - Page structures can change; selectors may need updating.

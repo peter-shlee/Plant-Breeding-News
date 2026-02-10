@@ -13,6 +13,27 @@ def make_id(source: str, site_id: str) -> str:
     return hashlib.sha256(raw).hexdigest()
 
 
+def stable_site_id_from_guid_or_link(guid: str | None, link: str | None) -> str:
+    """Create a stable site_id for RSS-like sources.
+
+    Preference order:
+    1) guid (if present)
+    2) sha1(link)
+
+    We avoid using full URLs as site_id to keep paths short and filesystem-safe.
+    """
+
+    g = (guid or "").strip()
+    if g:
+        return g
+
+    u = (link or "").strip()
+    if not u:
+        return hashlib.sha1(b"missing-link").hexdigest()
+
+    return hashlib.sha1(u.encode("utf-8")).hexdigest()
+
+
 def clean_text(s: str) -> str:
     s = re.sub(r"\s+", " ", s or "").strip()
     return s
@@ -28,7 +49,20 @@ def parse_date_to_kst_iso(date_str: str) -> Optional[str]:
     """
     if not date_str:
         return None
-    dt = parser.parse(date_str, fuzzy=True)
+    tzinfos = {
+        # common US abbreviations in RSS feeds
+        "UTC": 0,
+        "GMT": 0,
+        "EST": -5 * 3600,
+        "EDT": -4 * 3600,
+        "CST": -6 * 3600,
+        "CDT": -5 * 3600,
+        "MST": -7 * 3600,
+        "MDT": -6 * 3600,
+        "PST": -8 * 3600,
+        "PDT": -7 * 3600,
+    }
+    dt = parser.parse(date_str, fuzzy=True, tzinfos=tzinfos)
     # If no tzinfo, localize to KST
     if dt.tzinfo is None:
         from zoneinfo import ZoneInfo

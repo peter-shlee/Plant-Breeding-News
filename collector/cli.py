@@ -7,7 +7,7 @@ from typing import Any
 
 from .db import SqliteStore
 from .enrich import attachment_key, auto_tags, generate_summary, is_view_link
-from .filtering import decide_plant_only
+from .filtering import decide_plant_only, decide_breeding_relevance
 from .firestore import FirestoreWriter, firestore_enabled
 from .http import HttpClient, HttpConfig, DEFAULT_UA
 from .schema import iso_now_kst
@@ -68,12 +68,16 @@ def cmd_run(args: argparse.Namespace) -> int:
             if repo_known:
                 total_skipped_repo += 1
 
-            content_text = ""
+            # Some sources (e.g., RSS) already provide list-level content_text (summary).
+            content_text = li.get("content_text") or ""
             attachments = li.get("attachments") or []
             tags = li.get("tags") or []
             raw_html = None
 
-            if not repo_known:
+            # If the list stage already provides content_text, we can skip detail fetch.
+            need_detail = (not content_text.strip())
+
+            if not repo_known and need_detail:
                 try:
                     ct, at, tg, rh = src.fetch_detail(site_id, li["url"])
                     content_text = ct or ""
@@ -85,6 +89,22 @@ def cmd_run(args: argparse.Namespace) -> int:
                     # For MVP: store list-only if detail fails
                     if args.verbose:
                         print(f"[{src_name}] detail fetch failed for {site_id}: {e}")
+
+            # Optional: additional relevance filter for noisy feeds (ScienceDaily).
+            if src_name == "sciencedaily":
+                rel_decision = decide_breeding_relevance(
+                    title=li.get("title") or "",
+                    content_text=content_text,
+                    tags=tags,
+                    min_score=2.0,
+                )
+                if not rel_decision.keep:
+                    total_skipped_filter += 1
+                    if args.verbose:
+                        print(
+                            f"[{src_name}] - (filter:{rel_decision.reason}) {site_id} {li.get('published_at')} {li.get('title')}"
+                        )
+                    continue
 
             # Post-filter with detail text (keeps mixed/plant mentions).
             post_decision = decide_plant_only(title=li.get("title") or "", content_text=content_text, tags=tags)
@@ -322,8 +342,10 @@ def cmd_build_site(args: argparse.Namespace) -> int:
     item_stats = export_md_all_items(items, outdir=args.outdir)
 
     # Portal index + per-source archive pages
-    idx = write_index_portal(items, outdir=args.outdir, days=args.days, limit=args.limit)
-    src_paths = write_source_indexes(items, outdir=args.outdir)
+    all_sources = sorted(SOURCES.keys())
+
+    idx = write_index_portal(items, outdir=args.outdir, days=args.days, limit=args.limit, all_sources=all_sources)
+    src_paths = write_source_indexes(items, outdir=args.outdir, all_sources=all_sources)
 
     print(
         "build-site: "
@@ -338,7 +360,12 @@ def main(argv: list[str] | None = None) -> int:
     sub = p.add_subparsers(dest="cmd", required=True)
 
     pr = sub.add_parser("run", help="Fetch new items and store incrementally.")
-    pr.add_argument("--sources", nargs="+", default=["rda", "nics", "nihhs"], help="Sources to run")
+    pr.add_argument(
+        "--sources",
+        nargs="+",
+        default=["rda", "nics", "nihhs", "seedworld", "sciencedaily"],
+        help="Sources to run",
+    )
     pr.add_argument("--since-days", type=int, default=30, help="Only collect items within this many days")
     pr.add_argument("--max-pages", type=int, default=3, help="Max pages to scan per source (where supported)")
     pr.add_argument("--db", default=default_db_path(), help="SQLite path")

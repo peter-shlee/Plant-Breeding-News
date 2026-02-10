@@ -324,6 +324,7 @@ def render_portal_index_md(
     days: int,
     limit: int = 25,
     now: Optional[datetime] = None,
+    all_sources: Optional[list[str]] = None,
 ) -> str:
     """Generate docs/index.md portal page.
 
@@ -356,7 +357,7 @@ def render_portal_index_md(
 
     weekly_archive = _list_weekly_archive(outdir=outdir)
 
-    sources = sorted({(it.get("source") or "unknown") for it in items})
+    sources = sorted(all_sources) if all_sources else sorted({(it.get("source") or "unknown") for it in items})
 
     updated_at = now_kst.strftime("%Y-%m-%d %H:%M")
     range_end = now_kst.date().isoformat()
@@ -554,9 +555,10 @@ def write_index_portal(
     days: int,
     limit: int = 25,
     now: Optional[datetime] = None,
+    all_sources: Optional[list[str]] = None,
 ) -> str:
     path = os.path.join(outdir, "index.md")
-    md = render_portal_index_md(items, outdir=outdir, days=days, limit=limit, now=now)
+    md = render_portal_index_md(items, outdir=outdir, days=days, limit=limit, now=now, all_sources=all_sources)
     with open(path, "w", encoding="utf-8") as f:
         f.write(md)
     return os.path.relpath(path, outdir)
@@ -603,6 +605,9 @@ def render_source_index_md(
     lines.append("> 이 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.\n")
     lines.append("- [홈으로](../../index.md)\n")
 
+    if not months:
+        lines.append("(No items.)\n")
+
     for m in months:
         lines.append(f"## {m}\n")
         for it in by_month[m]:
@@ -618,11 +623,22 @@ def render_source_index_md(
     return "\n".join(lines).rstrip() + "\n"
 
 
-def write_source_indexes(items: list[dict[str, Any]], *, outdir: str) -> list[str]:
+def write_source_indexes(
+    items: list[dict[str, Any]],
+    *,
+    outdir: str,
+    all_sources: Optional[list[str]] = None,
+) -> list[str]:
     written: list[str] = []
+
     by_source: dict[str, list[dict[str, Any]]] = {}
     for it in items:
         by_source.setdefault(it.get("source") or "unknown", []).append(it)
+
+    # Ensure stable presence of configured sources even if there are no items yet.
+    if all_sources:
+        for src in all_sources:
+            by_source.setdefault(src, [])
 
     for src, src_items in sorted(by_source.items(), key=lambda kv: kv[0]):
         src_slug = _safe_slug(src)

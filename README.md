@@ -44,8 +44,19 @@ CI is stateless, so the collector also performs a **repo-state dedupe**:
 - It scans existing `docs/items/**/<site_id>.md` and treats them as already exported (`source:site_id`).
 - If an item page already exists, it will skip the detail fetch to reduce load.
 
+## Sources
+
+Default sources (run in CI):
+
+- `rda` (RDA)
+- `nics` (NICS)
+- `nihhs` (NIHHS)
+- `seedworld` (Seed World RSS)
+- `sciencedaily` (ScienceDaily RSS – Agriculture & Food; light breeding/seed relevance filter enabled)
+
 ## Notes
 
+- RSS sources are stored as **summary-only** by default (RSS `description` → `content_text`).
 - `build-site` loads items once (prefers SQLite; can fall back to JSONL via `--jsonl`) and reuses that data for:
   - exporting per-item Markdown pages (all items)
   - generating `docs/index.md`
