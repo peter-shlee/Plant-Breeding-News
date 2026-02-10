@@ -222,12 +222,12 @@ def render_weekly_md(w: WeeklyBuild, *, outdir: str) -> str:
 
     lines: list[str] = []
     lines.append("---")
-    lines.append(f"title: { _yaml_quote('Weekly digest') }")
+    lines.append(f"title: { _yaml_quote('주간 요약') }")
     lines.append(f"range_start: {_yaml_quote(w.range_start)}")
     lines.append(f"range_end: {_yaml_quote(w.range_end)}")
     lines.append("---\n")
 
-    lines.append(f"# Weekly digest ({w.range_start} to {w.range_end})\n")
+    lines.append(f"# 주간 요약 ({w.range_start} ~ {w.range_end})\n")
 
     lines.append(f"## Recent (last {w.days} days)\n")
     if not w.items:
@@ -351,11 +351,11 @@ def render_portal_index_md(
 
     lines: list[str] = []
     lines.append("---")
-    lines.append(f"title: {_yaml_quote('축산·육종 뉴스 모음')}")
+    lines.append(f"title: {_yaml_quote('식물 육종 뉴스')}")
     lines.append("---\n")
 
-    lines.append("# 축산·육종 뉴스 모음\n")
-    lines.append("농촌진흥청·국립축산과학원 등 기관의 보도자료/공지 링크를 모아둔 자동 생성 페이지입니다.\n")
+    lines.append("# 식물 육종 뉴스\n")
+    lines.append("종자·품종·작물(식물) 관련 보도자료/공지 링크를 모아둔 자동 생성 페이지입니다.\n")
     lines.append("> 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.\n")
     lines.append(
         f"- 마지막 업데이트: **{updated_at} (KST)**  "+"\n"

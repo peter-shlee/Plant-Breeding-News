@@ -6,6 +6,7 @@ from datetime import datetime
 from typing import Any
 
 from .db import SqliteStore
+from .filtering import decide_plant_only
 from .firestore import FirestoreWriter, firestore_enabled
 from .http import HttpClient, HttpConfig, DEFAULT_UA
 from .schema import iso_now_kst
@@ -29,34 +30,70 @@ def cmd_run(args: argparse.Namespace) -> int:
     store = SqliteStore(args.db)
     fw = FirestoreWriter(collection=args.firestore_collection) if firestore_enabled() else None
 
+    # Repo-state dedupe (CI-friendly): treat already-exported docs/items as "known".
+    exported = _load_exported_site_ids_from_repo(os.getcwd())
+
     selected = [s.strip() for s in args.sources]
     for s in selected:
         if s not in SOURCES:
             raise SystemExit(f"Unknown source: {s}. Valid: {', '.join(SOURCES)}")
 
     total_new = 0
+    total_skipped_filter = 0
+    total_skipped_repo = 0
+
     for src_name in selected:
         src = SOURCES[src_name](http)
         for li in src.iter_list(since_days=args.since_days, max_pages=args.max_pages):
             site_id = li["site_id"]
+
             if store.has_site_id(src_name, site_id):
                 continue
-            # Fetch detail
+
+            # Default plant-only filtering (conservative): skip obvious animal/pet/livestock posts.
+            # Do this BEFORE detail fetch to reduce load.
+            pre_decision = decide_plant_only(title=li.get("title") or "", content_text="", tags=li.get("tags") or [])
+            if not pre_decision.keep:
+                total_skipped_filter += 1
+                if args.verbose:
+                    print(
+                        f"[{src_name}] - (filter:{pre_decision.reason}) {site_id} {li.get('published_at')} {li.get('title')}"
+                    )
+                continue
+
+            # Repo-state dedupe (CI): if item page already exists in docs/, skip detail fetch.
+            repo_key = f"{src_name}:{site_id}"
+            repo_known = repo_key in exported
+            if repo_known:
+                total_skipped_repo += 1
+
             content_text = ""
             attachments = li.get("attachments") or []
             tags = li.get("tags") or []
             raw_html = None
-            try:
-                ct, at, tg, rh = src.fetch_detail(site_id, li["url"])
-                content_text = ct or ""
-                # merge attachment lists
-                attachments = attachments + (at or [])
-                tags = list(dict.fromkeys((tags or []) + (tg or [])))
-                raw_html = rh if args.save_raw_html else None
-            except Exception as e:
-                # For MVP: store list-only if detail fails
+
+            if not repo_known:
+                try:
+                    ct, at, tg, rh = src.fetch_detail(site_id, li["url"])
+                    content_text = ct or ""
+                    # merge attachment lists
+                    attachments = attachments + (at or [])
+                    tags = list(dict.fromkeys((tags or []) + (tg or [])))
+                    raw_html = rh if args.save_raw_html else None
+                except Exception as e:
+                    # For MVP: store list-only if detail fails
+                    if args.verbose:
+                        print(f"[{src_name}] detail fetch failed for {site_id}: {e}")
+
+            # Post-filter with detail text (keeps mixed/plant mentions).
+            post_decision = decide_plant_only(title=li.get("title") or "", content_text=content_text, tags=tags)
+            if not post_decision.keep:
+                total_skipped_filter += 1
                 if args.verbose:
-                    print(f"[{src_name}] detail fetch failed for {site_id}: {e}")
+                    print(
+                        f"[{src_name}] - (filter:{post_decision.reason}) {site_id} {li.get('published_at')} {li.get('title')}"
+                    )
+                continue
 
             item: dict[str, Any] = {
                 "id": li["id"],
@@ -84,9 +121,14 @@ def cmd_run(args: argparse.Namespace) -> int:
                         print(f"[firestore] upsert failed for {item['id']}: {e}")
 
             if args.verbose:
-                print(f"[{src_name}] + {site_id} {item['published_at']} {item['title']}")
+                extra = " (repo-known)" if repo_known else ""
+                print(f"[{src_name}] + {site_id}{extra} {item['published_at']} {item['title']}")
 
-    print(f"Done. new_items={total_new} db={args.db} firestore={'on' if fw else 'off'}")
+    print(
+        "Done. "
+        + f"new_items={total_new} skipped_filter={total_skipped_filter} skipped_repo_known={total_skipped_repo} "
+        + f"db={args.db} firestore={'on' if fw else 'off'}"
+    )
     return 0
 
 
@@ -102,14 +144,52 @@ def _dedupe_attachments(atts: list[dict]) -> list[dict]:
     return out
 
 
+def _load_exported_site_ids_from_repo(repo_root: str) -> set[str]:
+    """Build a set of "source:site_id" from tracked markdown under docs/items.
+
+    Designed for stateless CI where SQLite is empty but the repo already contains
+    exported item pages.
+
+    We intentionally parse from path (docs/items/<source>/YYYY/MM/<site_id>.md)
+    to avoid needing to parse frontmatter.
+    """
+
+    docs_items = os.path.join(repo_root, "docs", "items")
+    if not os.path.exists(docs_items):
+        return set()
+
+    out: set[str] = set()
+    for root, _dirs, files in os.walk(docs_items):
+        for fn in files:
+            if not fn.endswith(".md"):
+                continue
+            path = os.path.join(root, fn)
+            rel = os.path.relpath(path, docs_items)
+            parts = rel.split(os.sep)
+            # Expected: <source>/<YYYY>/<MM>/<site_id>.md
+            if len(parts) < 4:
+                continue
+            src = parts[0]
+            site_id = os.path.splitext(parts[-1])[0]
+            if src and site_id:
+                out.add(f"{src}:{site_id}")
+    return out
+
+
 def _iter_items_any(args: argparse.Namespace):
-    """Prefer SQLite; fallback to JSONL if requested or DB missing."""
+    """Prefer SQLite; fallback to JSONL if requested or DB missing.
+
+    Default behavior: apply plant-only filtering (exclude obvious animal/livestock/pet posts).
+    """
     db_path = getattr(args, "db", None)
     jsonl_path = getattr(args, "jsonl", None)
 
     if db_path and os.path.exists(db_path):
         store = SqliteStore(db_path)
-        yield from store.iter_items(sources=list(args.sources) if getattr(args, "sources", None) else None)
+        for it in store.iter_items(sources=list(args.sources) if getattr(args, "sources", None) else None):
+            d = decide_plant_only(title=it.get("title") or "", content_text=it.get("content_text") or "", tags=it.get("tags") or [])
+            if d.keep:
+                yield it
         return
 
     if jsonl_path and os.path.exists(jsonl_path):
@@ -120,7 +200,10 @@ def _iter_items_any(args: argparse.Namespace):
                 line = line.strip()
                 if not line:
                     continue
-                yield json.loads(line)
+                it = json.loads(line)
+                d = decide_plant_only(title=it.get("title") or "", content_text=it.get("content_text") or "", tags=it.get("tags") or [])
+                if d.keep:
+                    yield it
         return
 
     raise SystemExit(
