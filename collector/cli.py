@@ -6,6 +6,7 @@ from datetime import datetime
 from typing import Any
 
 from .db import SqliteStore
+from .enrich import attachment_key, auto_tags, generate_summary, is_view_link
 from .filtering import decide_plant_only
 from .firestore import FirestoreWriter, firestore_enabled
 from .http import HttpClient, HttpConfig, DEFAULT_UA
@@ -95,6 +96,10 @@ def cmd_run(args: argparse.Namespace) -> int:
                     )
                 continue
 
+            tags = auto_tags(title=li.get("title") or "", content_text=content_text, existing=tags)
+            summary = generate_summary(content_text)
+            attachments = _dedupe_attachments(attachments)
+
             item: dict[str, Any] = {
                 "id": li["id"],
                 "source": li["source"],
@@ -104,8 +109,9 @@ def cmd_run(args: argparse.Namespace) -> int:
                 "published_at": li.get("published_at"),
                 "url": li["url"],
                 "content_text": content_text,
+                "summary": summary,
                 "tags": tags,
-                "attachments": _dedupe_attachments(attachments),
+                "attachments": attachments,
                 "fetched_at": iso_now_kst(),
             }
             if raw_html is not None:
@@ -133,14 +139,77 @@ def cmd_run(args: argparse.Namespace) -> int:
 
 
 def _dedupe_attachments(atts: list[dict]) -> list[dict]:
-    seen = set()
-    out = []
+    """De-dupe attachments.
+
+    Heuristics:
+    - Prefer download links over view/preview links when both exist.
+    - If same document is available in multiple formats, prefer: pdf > hwpx > hwp.
+    """
+
+    priority = {"pdf": 3, "hwpx": 2, "hwp": 1, "": 0}
+
+    # First pass: de-dupe by URL, keep order.
+    seen_urls: set[str] = set()
+    cleaned: list[dict] = []
     for a in atts or []:
         url = (a or {}).get("url")
-        if not url or url in seen:
+        if not url or url in seen_urls:
             continue
-        seen.add(url)
-        out.append(a)
+        seen_urls.add(url)
+        cleaned.append(a)
+
+    # Second pass: group by (base, ext) and prefer non-view links.
+    by_key: dict[tuple[str, str], dict] = {}
+    for a in cleaned:
+        url = (a or {}).get("url") or ""
+        title = (a or {}).get("title")
+        key = attachment_key(url, title=title)
+
+        prev = by_key.get(key)
+        if prev is None:
+            by_key[key] = a
+            continue
+
+        prev_url = (prev or {}).get("url") or ""
+        if is_view_link(prev_url) and not is_view_link(url):
+            by_key[key] = a
+
+    # Third pass: group by base and keep best ext (pdf > hwpx > hwp).
+    by_base: dict[str, dict] = {}
+    for (base, ext), a in by_key.items():
+        url = (a or {}).get("url") or ""
+        ext_norm = (ext or "").lower().lstrip(".")
+
+        prev = by_base.get(base)
+        if prev is None:
+            by_base[base] = a
+            continue
+
+        prev_ext = attachment_key((prev or {}).get("url") or "", title=(prev or {}).get("title"))[1]
+        if priority.get(ext_norm, 0) > priority.get(prev_ext, 0):
+            by_base[base] = a
+        else:
+            # Same ext: prefer download-ish link
+            if is_view_link((prev or {}).get("url") or "") and not is_view_link(url):
+                by_base[base] = a
+
+    # Preserve original-ish order by walking cleaned list and selecting winners.
+    winners = {id(v): v for v in by_base.values()}
+    out: list[dict] = []
+    seen: set[int] = set()
+    for a in cleaned:
+        # find the chosen attachment for this base
+        base, _ext = attachment_key((a or {}).get("url") or "", title=(a or {}).get("title"))
+        chosen = by_base.get(base)
+        if chosen is None:
+            continue
+        cid = id(chosen)
+        if cid in seen:
+            continue
+        if cid in winners:
+            out.append(chosen)
+            seen.add(cid)
+
     return out
 
 

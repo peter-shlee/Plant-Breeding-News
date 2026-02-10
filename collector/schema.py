@@ -16,6 +16,7 @@ class PressItem:
     published_at: str  # ISO8601 w/ timezone (KST preferred)
     url: str
     content_text: str = ""
+    summary: str = ""
     tags: list[str] = field(default_factory=list)
     attachments: list[dict[str, Any]] = field(default_factory=list)
     fetched_at: str = ""  # ISO8601 w/ timezone

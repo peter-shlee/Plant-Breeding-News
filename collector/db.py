@@ -19,6 +19,7 @@ CREATE TABLE IF NOT EXISTS items (
   published_at TEXT,
   url TEXT NOT NULL,
   content_text TEXT,
+  summary TEXT,
   tags_json TEXT,
   attachments_json TEXT,
   fetched_at TEXT,
@@ -46,6 +47,10 @@ class SqliteStore:
     def _init(self):
         with self._connect() as con:
             con.executescript(SCHEMA_SQL)
+            # Lightweight migrations for existing DBs
+            cols = {r[1] for r in con.execute("PRAGMA table_info(items)").fetchall()}
+            if "summary" not in cols:
+                con.execute("ALTER TABLE items ADD COLUMN summary TEXT")
 
     @contextmanager
     def conn(self):
@@ -58,9 +63,7 @@ class SqliteStore:
 
     def has_site_id(self, source: str, site_id: str) -> bool:
         with self.conn() as con:
-            row = con.execute(
-                "SELECT 1 FROM items WHERE source=? AND site_id=? LIMIT 1", (source, site_id)
-            ).fetchone()
+            row = con.execute("SELECT 1 FROM items WHERE source=? AND site_id=? LIMIT 1", (source, site_id)).fetchone()
             return row is not None
 
     def upsert_item(self, item: dict[str, Any]):
@@ -72,8 +75,8 @@ class SqliteStore:
                 """
                 INSERT INTO items(
                   id, source, org, site_id, title, published_at, url, content_text,
-                  tags_json, attachments_json, fetched_at, raw_html, updated_at
-                ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?, datetime('now'))
+                  summary, tags_json, attachments_json, fetched_at, raw_html, updated_at
+                ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?, datetime('now'))
                 ON CONFLICT(id) DO UPDATE SET
                   source=excluded.source,
                   org=excluded.org,
@@ -82,6 +85,7 @@ class SqliteStore:
                   published_at=excluded.published_at,
                   url=excluded.url,
                   content_text=excluded.content_text,
+                  summary=excluded.summary,
                   tags_json=excluded.tags_json,
                   attachments_json=excluded.attachments_json,
                   fetched_at=excluded.fetched_at,
@@ -97,6 +101,7 @@ class SqliteStore:
                     item.get("published_at"),
                     item.get("url"),
                     item.get("content_text"),
+                    item.get("summary"),
                     tags_json,
                     attachments_json,
                     item.get("fetched_at"),

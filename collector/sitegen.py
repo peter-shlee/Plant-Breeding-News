@@ -53,6 +53,13 @@ def _yaml_list(lines: list[str], key: str, values: list[Any]) -> None:
         lines.append(f"  - {_yaml_quote(v)}")
 
 
+def _truncate_title(s: str, *, max_chars: int = 110) -> str:
+    s = (s or "").strip()
+    if len(s) <= max_chars:
+        return s
+    return s[: max(0, max_chars - 1)].rstrip() + "…"
+
+
 def _frontmatter(item: dict[str, Any]) -> str:
     atts = []
     for a in item.get("attachments") or []:
@@ -71,6 +78,7 @@ def _frontmatter(item: dict[str, Any]) -> str:
     lines.append(f"site_id: {_yaml_quote(item.get('site_id'))}")
     lines.append(f"published_at: {_yaml_quote(item.get('published_at'))}")
     lines.append(f"url: {_yaml_quote(item.get('url'))}")
+    lines.append(f"summary: {_yaml_quote(item.get('summary') or '')}")
     _yaml_list(lines, "attachments", atts)
     _yaml_list(lines, "tags", item.get("tags") or [])
     lines.append(f"fetched_at: {_yaml_quote(item.get('fetched_at'))}")
@@ -234,10 +242,14 @@ def render_weekly_md(w: WeeklyBuild, *, outdir: str) -> str:
         lines.append("(No items.)\n")
     else:
         for it in w.items:
-            title = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            title = _truncate_title(title_full, max_chars=110)
             item_link = rel_item_link(it)
             url = it.get("url") or ""
             lines.append(f"- {fmt_dt(it)} [{title}]({item_link}) ([original]({url}))")
+            summary = (it.get("summary") or "").strip()
+            if summary:
+                lines.append(f"  - {summary}")
         lines.append("")
 
     lines.append("## By source\n")
@@ -248,10 +260,14 @@ def render_weekly_md(w: WeeklyBuild, *, outdir: str) -> str:
     for src in sorted(by_source.keys()):
         lines.append(f"### {src}\n")
         for it in by_source[src]:
-            title = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            title = _truncate_title(title_full, max_chars=110)
             item_link = rel_item_link(it)
             url = it.get("url") or ""
             lines.append(f"- {fmt_dt(it)} [{title}]({item_link}) ([original]({url}))")
+            summary = (it.get("summary") or "").strip()
+            if summary:
+                lines.append(f"  - {summary}")
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
@@ -362,12 +378,126 @@ def render_portal_index_md(
         + f"- 커버리지(최근 섹션): **{range_start} ~ {range_end}** (최근 {days}일)\n"
     )
 
-    lines.append("## 최근 업데이트\n")
-    if not recent:
-        lines.append("(최근 항목이 없습니다.)\n")
+    # --- 핵심 섹션 (최근 7일, 키워드 기반 스코어링) ---
+    core_cutoff = now_kst - timedelta(days=7)
+
+    CORE_BOOST_KWS = [
+        "육종",
+        "품종",
+        "신품종",
+        "종자",
+        "계통",
+        "교배",
+        "SNP",
+        "마커",
+        "KASP",
+        "유전체",
+        "표현체",
+        "내병성",
+        "CRISPR",
+        "품종보호",
+        "UPOV",
+        "variety protection",
+        "marker",
+        "genomics",
+        "phenotyping",
+        "gene editing",
+    ]
+
+    # Light penalty for generic admin/policy/newsroom posts
+    CORE_PENALTY_KWS = [
+        "채용",
+        "모집",
+        "공고",
+        "입찰",
+        "회의",
+        "위원회",
+        "설명회",
+        "행사",
+        "업무협약",
+        "mou",
+        "정책",
+        "계획",
+        "예산",
+    ]
+
+    def core_score(it: dict[str, Any]) -> float:
+        text = " ".join([
+            (it.get("title") or ""),
+            (it.get("summary") or ""),
+            (it.get("content_text") or ""),
+            " ".join(it.get("tags") or []),
+        ])
+        t = re.sub(r"\s+", " ", text.lower()).strip()
+        score = 0.0
+        hits = 0
+        for kw in CORE_BOOST_KWS:
+            k = kw.lower()
+            if not k:
+                continue
+            if re.fullmatch(r"[a-z0-9 ]+", k):
+                pat = r"\b" + re.escape(k).replace(r"\ ", r"\s+") + r"\b"
+                if re.search(pat, t):
+                    hits += 1
+            else:
+                if k in t:
+                    hits += 1
+        score += hits * 2.0
+
+        p_hits = 0
+        for kw in CORE_PENALTY_KWS:
+            k = kw.lower()
+            if not k:
+                continue
+            if re.fullmatch(r"[a-z0-9 ]+", k):
+                if re.search(r"\b" + re.escape(k) + r"\b", t):
+                    p_hits += 1
+            else:
+                if k in t:
+                    p_hits += 1
+        score -= p_hits * 0.75
+
+        # Small bonus if technique tags are present
+        tech_bonus = 0
+        for tg in (it.get("tags") or []):
+            if tg in {"genomics", "marker", "gene-editing", "phenotyping", "IP-policy"}:
+                tech_bonus += 1
+        score += tech_bonus * 0.5
+
+        return score
+
+    core_candidates: list[dict[str, Any]] = []
+    for it in items:
+        dt = _parse_dt(it.get("published_at")) or _parse_dt(it.get("fetched_at"))
+        if dt is not None:
+            try:
+                dt_kst = dt.astimezone(now_kst.tzinfo)
+            except Exception:
+                dt_kst = dt
+            if dt_kst < core_cutoff:
+                continue
+        core_candidates.append(it)
+
+    core_scored = [(core_score(it), it) for it in core_candidates]
+    core_scored.sort(key=lambda x: (x[0], _parse_dt(x[1].get("published_at")) or _parse_dt(x[1].get("fetched_at")) or datetime.min), reverse=True)
+
+    desired_n = 10
+    if len(core_scored) >= 12:
+        core_n = 12
+    elif len(core_scored) >= 10:
+        core_n = 10
+    elif len(core_scored) >= 8:
+        core_n = 8
     else:
-        for it in recent:
-            title = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+        core_n = len(core_scored)
+
+    lines.append("## 핵심 (육종/품종/종자)\n")
+    if not core_scored:
+        lines.append("(최근 7일 내 핵심 항목이 없습니다.)\n")
+    else:
+        for sc, it in core_scored[:core_n]:
+            title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            title = _truncate_title(title_full, max_chars=110)
             src = (it.get("source") or "unknown").strip()
             url = it.get("url") or ""
             lines.append(
@@ -375,6 +505,28 @@ def render_portal_index_md(
                 + f"[{title}]({rel_item_link(it)}) "
                 + f"([원문]({url}))"
             )
+            summary = (it.get("summary") or "").strip()
+            if summary:
+                lines.append(f"  - {summary}")
+        lines.append("")
+
+    lines.append("## 최근 업데이트\n")
+    if not recent:
+        lines.append("(최근 항목이 없습니다.)\n")
+    else:
+        for it in recent:
+            title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            title = _truncate_title(title_full, max_chars=110)
+            src = (it.get("source") or "unknown").strip()
+            url = it.get("url") or ""
+            lines.append(
+                f"- {_fmt_date_ymd(it)} [{src}] "
+                + f"[{title}]({rel_item_link(it)}) "
+                + f"([원문]({url}))"
+            )
+            summary = (it.get("summary") or "").strip()
+            if summary:
+                lines.append(f"  - {summary}")
         lines.append("")
 
     lines.append("## 주간 아카이브\n")
@@ -454,9 +606,13 @@ def render_source_index_md(
     for m in months:
         lines.append(f"## {m}\n")
         for it in by_month[m]:
-            title = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
+            title = _truncate_title(title_full, max_chars=110)
             url = it.get("url") or ""
             lines.append(f"- {_fmt_date_ymd(it)} [{title}]({rel_item_link(it)}) ([원문]({url}))")
+            summary = (it.get("summary") or "").strip()
+            if summary:
+                lines.append(f"  - {summary}")
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
