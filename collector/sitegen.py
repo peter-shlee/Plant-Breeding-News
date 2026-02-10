@@ -492,9 +492,10 @@ def render_portal_index_md(
     else:
         core_n = len(core_scored)
 
-    lines.append("## 핵심 (육종/품종/종자)\n")
+    lines.append("## 이번주 하이라이트 (육종/품종/종자)\n")
+    lines.append("최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.\n")
     if not core_scored:
-        lines.append("(최근 7일 내 핵심 항목이 없습니다.)\n")
+        lines.append("(최근 7일 내 하이라이트로 뽑을 만한 항목이 없습니다.)\n")
     else:
         for sc, it in core_scored[:core_n]:
             title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
@@ -511,9 +512,10 @@ def render_portal_index_md(
                 lines.append(f"  - {summary}")
         lines.append("")
 
-    lines.append("## 최근 업데이트\n")
+    lines.append("## 최근 소식 (최근 7일)\n")
+    lines.append("최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.\n")
     if not recent:
-        lines.append("(최근 항목이 없습니다.)\n")
+        lines.append("(최근 7일 내 새 소식이 없습니다.)\n")
     else:
         for it in recent:
             title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
@@ -530,7 +532,8 @@ def render_portal_index_md(
                 lines.append(f"  - {summary}")
         lines.append("")
 
-    lines.append("## 주간 아카이브\n")
+    lines.append("## 지난 주간 아카이브\n")
+    lines.append("주간 단위로 묶어둔 페이지입니다. (자동 생성)\n")
     if not weekly_archive:
         lines.append("(아직 생성된 주간 페이지가 없습니다.)\n")
     else:
@@ -539,7 +542,8 @@ def render_portal_index_md(
             lines.append(f"- [{date}](weekly/{name})")
         lines.append("")
 
-    lines.append("## 출처별 아카이브\n")
+    lines.append("## 출처별 모아보기\n")
+    lines.append("원하는 출처만 골라서 전체 목록을 볼 수 있습니다.\n")
     for src in sources:
         src_slug = _safe_slug(src)
         lines.append(f"- [{src}](sources/{src_slug}/index.md)")
