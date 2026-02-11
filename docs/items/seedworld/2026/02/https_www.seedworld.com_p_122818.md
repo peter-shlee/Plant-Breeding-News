@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/03/seed-health-and-regulatory-risk-pr
 summary: "Seed innovation stalls less from science than from phytosanitary and regulatory uncertainty. R&D and regulatory leaders must anticipate policy shifts, avoid testing duplication, protect planting windows, and prevent trial or shipment"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T02:26:56+09:00"
+fetched_at: "2026-02-11T17:43:56+09:00"
 ---
 # Seed Health and Regulatory Risk: Protecting R&D Timelines in a Complex Global Market
 

@@ -9,7 +9,7 @@ summary: "Europe’s new agreement on New Genomic Techniques marks a turning poi
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-02-11T02:26:56+09:00"
+fetched_at: "2026-02-11T17:43:56+09:00"
 ---
 # Europe Can’t Afford to Fall Behind: Jessica Polfjärd on the EU’s NGT Turning Point
 

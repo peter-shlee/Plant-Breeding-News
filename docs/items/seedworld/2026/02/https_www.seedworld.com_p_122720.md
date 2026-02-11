@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "phenotyping"
-fetched_at: "2026-02-11T02:26:56+09:00"
+fetched_at: "2026-02-11T17:43:56+09:00"
 ---
 # Gene Discovery Could Unlock New Era of Barley Breeding
 

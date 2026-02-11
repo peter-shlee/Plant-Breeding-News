@@ -9,7 +9,7 @@ summary: "EPA announces new dicamba restrictions for cotton and soybean growers,
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-02-11T06:48:21+09:00"
+fetched_at: "2026-02-11T17:43:56+09:00"
 ---
 # EPA Sets New Dicamba Restrictions for Soybean and Cotton
 
@@ -17,4 +17,4 @@ EPA announces new dicamba restrictions for cotton and soybean growers, including
 
 ## Original
 
-- https://www.seedworld.com/us/2026/02/10/epa-sets-new-dicamba-restrictions-for-soybean-and-cotton/
+- [원문 링크](https://www.seedworld.com/us/2026/02/10/epa-sets-new-dicamba-restrictions-for-soybean-and-cotton/)
