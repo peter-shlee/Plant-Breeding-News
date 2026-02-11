@@ -60,6 +60,34 @@ def _truncate_title(s: str, *, max_chars: int = 110) -> str:
     return s[: max(0, max_chars - 1)].rstrip() + "…"
 
 
+def _item_excerpt(it: dict[str, Any], *, max_len: int = 200) -> str:
+    """Source-agnostic excerpt.
+
+    We prefer explicit `summary` if present. Otherwise, fall back to the first
+    meaningful line of `content_text`.
+
+    This avoids the UI looking "uneven" when only some sources populate summary.
+    """
+
+    summary = (it.get("summary") or "").strip()
+    if summary:
+        s = summary
+    else:
+        ct = (it.get("content_text") or "").strip()
+        if not ct:
+            return ""
+        lines = [ln.strip() for ln in ct.splitlines()]
+        lines = [ln for ln in lines if ln]
+        if not lines:
+            return ""
+        s = lines[0]
+
+    s = re.sub(r"\s+", " ", s).strip()
+    if len(s) > max_len:
+        s = s[: max_len - 1].rstrip() + "…"
+    return s
+
+
 def _frontmatter(item: dict[str, Any]) -> str:
     atts = []
     for a in item.get("attachments") or []:
@@ -247,12 +275,16 @@ def render_weekly_md(w: WeeklyBuild, *, outdir: str) -> str:
         for it in w.items:
             title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
             title = _truncate_title(title_full, max_chars=110)
+            src = (it.get("source") or "unknown").strip()
             item_link = rel_item_link(it)
             url = it.get("url") or ""
-            lines.append(f"- {fmt_dt(it)} [{title}]({item_link}) ([original]({url}))")
-            summary = (it.get("summary") or "").strip()
-            if summary:
-                lines.append(f"  - {summary}")
+            excerpt = _item_excerpt(it)
+
+            lines.append(f"- **[{title}]({item_link})**")
+            lines.append(f"  - {fmt_dt(it)} · `{src}` · [읽기]({item_link})" + (f" · [원문]({url})" if url else ""))
+            if excerpt:
+                lines.append(f"  - {excerpt}")
+            lines.append("")
         lines.append("")
 
     lines.append("## By source\n")
@@ -267,10 +299,13 @@ def render_weekly_md(w: WeeklyBuild, *, outdir: str) -> str:
             title = _truncate_title(title_full, max_chars=110)
             item_link = rel_item_link(it)
             url = it.get("url") or ""
-            lines.append(f"- {fmt_dt(it)} [{title}]({item_link}) ([original]({url}))")
-            summary = (it.get("summary") or "").strip()
-            if summary:
-                lines.append(f"  - {summary}")
+            excerpt = _item_excerpt(it)
+
+            lines.append(f"- **[{title}]({item_link})**")
+            lines.append(f"  - {fmt_dt(it)} · [읽기]({item_link})" + (f" · [원문]({url})" if url else ""))
+            if excerpt:
+                lines.append(f"  - {excerpt}")
+            lines.append("")
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
@@ -378,9 +413,16 @@ def render_portal_index_md(
     lines.append("종자·품종·작물(식물) 관련 보도자료/공지 링크를 모아둔 자동 생성 페이지입니다.\n")
     lines.append("> 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.\n")
     lines.append(
-        f"- 마지막 업데이트: **{updated_at} (KST)**  "+"\n"
+        f"- 마지막 업데이트: **{updated_at} (KST)**  " + "\n"
         + f"- 커버리지(최근 섹션): **{range_start} ~ {range_end}** (최근 {days}일)\n"
     )
+
+    # TOC (main page only)
+    lines.append("## 목차\n")
+    lines.append("- [이번주 하이라이트](#highlights)")
+    lines.append("- [최근 소식](#recent)")
+    lines.append("- [지난 주간 아카이브](#weekly-archive)")
+    lines.append("- [출처별 모아보기](#sources)\n")
 
     # --- 핵심 섹션 (최근 7일, 키워드 기반 스코어링) ---
     core_cutoff = now_kst - timedelta(days=7)
@@ -495,6 +537,7 @@ def render_portal_index_md(
     else:
         core_n = len(core_scored)
 
+    lines.append('<a id="highlights"></a>')
     lines.append("## 이번주 하이라이트 (육종/품종/종자)\n")
     lines.append("최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.\n")
     if not core_scored:
@@ -505,16 +548,17 @@ def render_portal_index_md(
             title = _truncate_title(title_full, max_chars=110)
             src = (it.get("source") or "unknown").strip()
             url = it.get("url") or ""
-            lines.append(
-                f"- {_fmt_date_ymd(it)} [{src}] "
-                + f"[{title}]({rel_item_link(it)}) "
-                + f"([원문]({url}))"
-            )
-            summary = (it.get("summary") or "").strip()
-            if summary:
-                lines.append(f"  - {summary}")
+            item_link = rel_item_link(it)
+            excerpt = _item_excerpt(it)
+
+            lines.append(f"- **[{title}]({item_link})**")
+            lines.append(f"  - {_fmt_date_ymd(it)} · `{src}` · [읽기]({item_link})" + (f" · [원문]({url})" if url else ""))
+            if excerpt:
+                lines.append(f"  - {excerpt}")
+            lines.append("")
         lines.append("")
 
+    lines.append('<a id="recent"></a>')
     lines.append("## 최근 소식 (최근 7일)\n")
     lines.append("최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.\n")
     if not recent:
@@ -525,16 +569,17 @@ def render_portal_index_md(
             title = _truncate_title(title_full, max_chars=110)
             src = (it.get("source") or "unknown").strip()
             url = it.get("url") or ""
-            lines.append(
-                f"- {_fmt_date_ymd(it)} [{src}] "
-                + f"[{title}]({rel_item_link(it)}) "
-                + f"([원문]({url}))"
-            )
-            summary = (it.get("summary") or "").strip()
-            if summary:
-                lines.append(f"  - {summary}")
+            item_link = rel_item_link(it)
+            excerpt = _item_excerpt(it)
+
+            lines.append(f"- **[{title}]({item_link})**")
+            lines.append(f"  - {_fmt_date_ymd(it)} · `{src}` · [읽기]({item_link})" + (f" · [원문]({url})" if url else ""))
+            if excerpt:
+                lines.append(f"  - {excerpt}")
+            lines.append("")
         lines.append("")
 
+    lines.append('<a id="weekly-archive"></a>')
     lines.append("## 지난 주간 아카이브\n")
     lines.append("주간 단위로 묶어둔 페이지입니다. (자동 생성)\n")
     if not weekly_archive:
@@ -545,6 +590,7 @@ def render_portal_index_md(
             lines.append(f"- [{date}](weekly/{name})")
         lines.append("")
 
+    lines.append('<a id="sources"></a>')
     lines.append("## 출처별 모아보기\n")
     lines.append("원하는 출처만 골라서 전체 목록을 볼 수 있습니다.\n")
     for src in sources:
@@ -621,10 +667,14 @@ def render_source_index_md(
             title_full = (it.get("title") or it.get("site_id") or it.get("id") or "Item").strip()
             title = _truncate_title(title_full, max_chars=110)
             url = it.get("url") or ""
-            lines.append(f"- {_fmt_date_ymd(it)} [{title}]({rel_item_link(it)}) ([원문]({url}))")
-            summary = (it.get("summary") or "").strip()
-            if summary:
-                lines.append(f"  - {summary}")
+            item_link = rel_item_link(it)
+            excerpt = _item_excerpt(it)
+
+            lines.append(f"- **[{title}]({item_link})**")
+            lines.append(f"  - {_fmt_date_ymd(it)} · [읽기]({item_link})" + (f" · [원문]({url})" if url else ""))
+            if excerpt:
+                lines.append(f"  - {excerpt}")
+            lines.append("")
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
