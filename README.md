@@ -2,6 +2,8 @@
 
 Incremental press-release/news collector (MVP) + GitHub Pages Markdown generator.
 
+**Live site:** https://peter-shlee.github.io/Plant-Breeding-News/
+
 ## Quickstart (local)
 
 ```bash
