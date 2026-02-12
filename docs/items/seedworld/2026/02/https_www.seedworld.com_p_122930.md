@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/10/enlist-essentials-what-growers-nee
 summary: "How does the Enlist weed control system works in real-world farming? Corteva Agriscience’s Jillian Schmiedt explains how traits, herbicides and stewardship decisions come together to protect performance, manage resistance and help growers"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T17:43:56+09:00"
+fetched_at: "2026-02-13T06:46:20+09:00"
 ---
 # Enlist Essentials: What Growers Need to Get Weed Control Right
 

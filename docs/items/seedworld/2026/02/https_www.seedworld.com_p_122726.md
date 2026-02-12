@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/05/closing-the-nutrient-loop-how-
 summary: "Researchers at Wageningen University & Research are testing circular fertilizers made from wastewater, including treated human urine, as low-emission alternatives to inorganic fertilizer."
 attachments: []
 tags: []
-fetched_at: "2026-02-11T17:43:56+09:00"
+fetched_at: "2026-02-13T06:46:20+09:00"
 ---
 # Closing the Nutrient Loop: How Wastewater Could Power Future Farming
 

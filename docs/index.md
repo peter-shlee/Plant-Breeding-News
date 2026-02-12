@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-02-11 17:43 (KST)**  
-- 커버리지(최근 섹션): **2026-02-04 ~ 2026-02-11** (최근 7일)
+- 마지막 업데이트: **2026-02-13 06:46 (KST)**  
+- 커버리지(최근 섹션): **2026-02-06 ~ 2026-02-13** (최근 7일)
 
 ## 목차
 
@@ -23,12 +23,6 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[국산 감귤 ‘탐나는봉’ 보호…유전체 기반 식별 기술 마련](items/rda/2026/02/100000807514.md)**
-  - 2026-02-06 · `rda` · [읽기](items/rda/2026/02/100000807514.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000807514&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[국산 감귤 ‘탐나는봉’ 보호…유전체 기반 식별 기술 마련](items/nihhs/2026/02/100000807514.md)**
-  - 2026-02-06 · `nihhs` · [읽기](items/nihhs/2026/02/100000807514.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807514&mc=MN0000000136)
-
 - **[How Smart Decisions at the Start Set Your Crop up for Success](items/seedworld/2026/02/https_www.seedworld.com_p_122938.md)**
   - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122938.md) · [원문](https://www.seedworld.com/us/2026/02/11/how-smart-decisions-at-the-start-set-your-crop-up-for-success/)
   - Crop failure can come from drought, hail, or volatile markets—but smart agronomy decisions reduce risk. Choosing the right seed genetics for local conditions is the foundation, and advanced seed coat…
@@ -41,36 +35,74 @@ title: "식물 육종 뉴스"
   - 2026-02-06 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122438.md) · [원문](https://www.seedworld.com/europe/2026/02/06/europe-cant-afford-to-fall-behind-jessica-polfjard-on-the-eus-ngt-turning-point/)
   - Europe’s new agreement on New Genomic Techniques marks a turning point for plant breeding and seed innovation. Led by MEP Jessica Polfjärd, the NGT dossier balanced science, politics, and national in…
 
-- **[Embrapa identifies wild arachis gene that primes defense in cultivated crops](items/seedworld/2026/02/https_www.seedworld.com_p_122408.md)**
-  - 2026-02-05 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122408.md) · [원문](https://www.seedworld.com/latam/2026/02/05/embrapa-identifies-wild-arachis-gene-that-primes-defense-in-cultivated-crops/)
-  - Research by Embrapa shows genes from wild peanut relatives can boost resistance in cultivated peanuts to drought, nematodes, and fungal diseases. The AdEXLB8 gene activates defense priming, preparing…
-
 - **[입춘에 찾아온 봄빛 난(蘭), ‘팔레놉시스·심비디움’ 유망 품종 공개](items/rda/2026/02/100000807550.md)**
   - 2026-02-09 · `rda` · [읽기](items/rda/2026/02/100000807550.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807550&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
-- **[‘생활 밀착형 토종자원’도 국가가 안전 보존한다.](items/rda/2026/02/100000807516.md)**
-  - 2026-02-06 · `rda` · [읽기](items/rda/2026/02/100000807516.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000807516&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Inside a Modern Seed Cleaning Plant: How Colour Sorters Really Add Value](items/seedworld/2026/02/https_www.seedworld.com_p_122968.md)**
+  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122968.md) · [원문](https://www.seedworld.com/canada/2026/02/12/inside-a-modern-seed-cleaning-plant-how-colour-sorters-really-add-value/)
+  - Greenleaf Seeds in Saskatchewan uses colour sorting technology to improve seed quality, reduce risk, and unlock new opportunities across oats, wheat, lentils, and more The post Inside a Modern Seed C…
 
-- **[“등록 기준 완화” 미생물농약 사용 확대 꾀한다](items/rda/2026/02/100000807523.md)**
-  - 2026-02-06 · `rda` · [읽기](items/rda/2026/02/100000807523.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807523&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Redefining Seed Enhancement: 75 Seconds with Summit Seed Coatings](items/seedworld/2026/02/https_www.seedworld.com_p_122967.md)**
+  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122967.md) · [원문](https://www.seedworld.com/us/2026/02/12/redefining-seed-enhancement-75-seconds-with-summit-seed-coatings/)
+  - Spend 75 seconds with Summit Seed Coatings' Joseph Young. He talks about how the company has taken traditional roots into an evolving, but continual customer-focused way of doing business.
+
+- **[Arctic Strategy, Trade Wars and the Future of Prairie Farming](items/seedworld/2026/02/https_www.seedworld.com_p_122955.md)**
+  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122955.md) · [원문](https://www.seedworld.com/canada/2026/02/12/arctic-strategy-trade-wars-and-the-future-of-prairie-farming/)
+  - Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming…
+
+- **[Transgenic Corn and Soy Drive Cuba’s Push to Boost Grain Production](items/seedworld/2026/02/https_www.seedworld.com_p_122866.md)**
+  - 2026-02-12 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122866.md) · [원문](https://www.seedworld.com/latam/2026/02/12/transgenic-corn-and-soy-drive-cubas-push-to-boost-grain-production/)
+  - Cuba remains heavily dependent on imported corn and soy, limiting feed production and agricultural output. Despite proven high yields from domestically developed transgenic corn and soybean varieties…
+
+- **[The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace”](items/seedworld/2026/02/https_www.seedworld.com_p_122945.md)**
+  - 2026-02-12 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122945.md) · [원문](https://www.seedworld.com/canada/2026/02/11/the-new-ag-trade-map-why-canadian-seed-companies-should-rethink-the-global-marketplace/)
+  - One analyst's advice: diversify beyond China, treat food like energy, and build demand at home The post The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace” appeared…
+
+- **[Euroseeds Publishes Updated Position on Research](items/seedworld/2026/02/https_www.seedworld.com_p_122943.md)**
+  - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122943.md) · [원문](https://www.seedworld.com/europe/2026/02/11/euroseeds-publishes-updated-position-on-research/)
+  - Euroseeds’ updated position paper calls on the EU to secure dedicated plant breeding research funding under FP10 and the European Competitiveness Fund to strengthen sustainable agriculture, the bioec…
+
+- **[Ahead of Leaders’ Retreat, Agri-Food Chain Calls for Stronger EU Support](items/seedworld/2026/02/https_www.seedworld.com_p_122941.md)**
+  - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122941.md) · [원문](https://www.seedworld.com/europe/2026/02/11/ahead-of-leaders-retreat-agri-food-chain-calls-for-stronger-eu-support/)
+  - Ahead of the EU Leaders’ Retreat on 12 February, 40 agri-food organisations urge EU institutions to put agriculture and food at the heart of Europe’s competitiveness strategy.
 
 - **[Maíz y soja transgénicos impulsan el impulso de Cuba para aumentar la producción de granos](items/seedworld/2026/02/https_www.seedworld.com_p_122863.md)**
   - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122863.md) · [원문](https://www.seedworld.com/latam/2026/02/11/maiz-y-soja-transgenicos-impulsan-el-impulso-de-cuba-para-aumentar-la-produccion-de-granos/)
   - Cuba mantiene una fuerte dependencia de las importaciones de maíz y soya, lo que limita la producción de piensos y el rendimiento agrícola. Aunque variedades transgénicas desarrolladas localmente mue…
-
-- **[Is Seed Testing a Cost or a Competitive Advantage?](items/seedworld/2026/02/https_www.seedworld.com_p_122933.md)**
-  - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122933.md) · [원문](https://www.seedworld.com/us/2026/02/10/is-seed-testing-a-cost-or-a-competitive-advantage/)
-  - Seed testing can reveal far more than germination. SGS’s Amanda Patin explains how vigor, stress performance and deeper quality data help seed companies differentiate products, protect value and turn…
-
-- **[Enlist Essentials: What Growers Need to Get Weed Control Right](items/seedworld/2026/02/https_www.seedworld.com_p_122930.md)**
-  - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122930.md) · [원문](https://www.seedworld.com/us/2026/02/10/enlist-essentials-what-growers-need-to-get-weed-control-right/)
-  - How does the Enlist weed control system works in real-world farming? Corteva Agriscience’s Jillian Schmiedt explains how traits, herbicides and stewardship decisions come together to protect performa…
 
 
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
+
+- **[Inside a Modern Seed Cleaning Plant: How Colour Sorters Really Add Value](items/seedworld/2026/02/https_www.seedworld.com_p_122968.md)**
+  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122968.md) · [원문](https://www.seedworld.com/canada/2026/02/12/inside-a-modern-seed-cleaning-plant-how-colour-sorters-really-add-value/)
+  - Greenleaf Seeds in Saskatchewan uses colour sorting technology to improve seed quality, reduce risk, and unlock new opportunities across oats, wheat, lentils, and more The post Inside a Modern Seed C…
+
+- **[Redefining Seed Enhancement: 75 Seconds with Summit Seed Coatings](items/seedworld/2026/02/https_www.seedworld.com_p_122967.md)**
+  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122967.md) · [원문](https://www.seedworld.com/us/2026/02/12/redefining-seed-enhancement-75-seconds-with-summit-seed-coatings/)
+  - Spend 75 seconds with Summit Seed Coatings' Joseph Young. He talks about how the company has taken traditional roots into an evolving, but continual customer-focused way of doing business.
+
+- **[Arctic Strategy, Trade Wars and the Future of Prairie Farming](items/seedworld/2026/02/https_www.seedworld.com_p_122955.md)**
+  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122955.md) · [원문](https://www.seedworld.com/canada/2026/02/12/arctic-strategy-trade-wars-and-the-future-of-prairie-farming/)
+  - Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming…
+
+- **[Transgenic Corn and Soy Drive Cuba’s Push to Boost Grain Production](items/seedworld/2026/02/https_www.seedworld.com_p_122866.md)**
+  - 2026-02-12 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122866.md) · [원문](https://www.seedworld.com/latam/2026/02/12/transgenic-corn-and-soy-drive-cubas-push-to-boost-grain-production/)
+  - Cuba remains heavily dependent on imported corn and soy, limiting feed production and agricultural output. Despite proven high yields from domestically developed transgenic corn and soybean varieties…
+
+- **[The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace”](items/seedworld/2026/02/https_www.seedworld.com_p_122945.md)**
+  - 2026-02-12 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122945.md) · [원문](https://www.seedworld.com/canada/2026/02/11/the-new-ag-trade-map-why-canadian-seed-companies-should-rethink-the-global-marketplace/)
+  - One analyst's advice: diversify beyond China, treat food like energy, and build demand at home The post The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace” appeared…
+
+- **[Euroseeds Publishes Updated Position on Research](items/seedworld/2026/02/https_www.seedworld.com_p_122943.md)**
+  - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122943.md) · [원문](https://www.seedworld.com/europe/2026/02/11/euroseeds-publishes-updated-position-on-research/)
+  - Euroseeds’ updated position paper calls on the EU to secure dedicated plant breeding research funding under FP10 and the European Competitiveness Fund to strengthen sustainable agriculture, the bioec…
+
+- **[Ahead of Leaders’ Retreat, Agri-Food Chain Calls for Stronger EU Support](items/seedworld/2026/02/https_www.seedworld.com_p_122941.md)**
+  - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122941.md) · [원문](https://www.seedworld.com/europe/2026/02/11/ahead-of-leaders-retreat-agri-food-chain-calls-for-stronger-eu-support/)
+  - Ahead of the EU Leaders’ Retreat on 12 February, 40 agri-food organisations urge EU institutions to put agriculture and food at the heart of Europe’s competitiveness strategy.
 
 - **[Maíz y soja transgénicos impulsan el impulso de Cuba para aumentar la producción de granos](items/seedworld/2026/02/https_www.seedworld.com_p_122863.md)**
   - 2026-02-11 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122863.md) · [원문](https://www.seedworld.com/latam/2026/02/11/maiz-y-soja-transgenicos-impulsan-el-impulso-de-cuba-para-aumentar-la-produccion-de-granos/)
@@ -155,33 +187,13 @@ title: "식물 육종 뉴스"
 - **[농촌진흥청, 2025년 민원서비스 종합평가 3년 연속 ‘최우수기관’ 선정](items/rda/2026/02/100000807557.md)**
   - 2026-02-09 · `rda` · [읽기](items/rda/2026/02/100000807557.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807557&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
-- **[농촌진흥청, ‘그린프런티어’ 2026년 활동 개시](items/rda/2026/02/100000807555.md)**
-  - 2026-02-09 · `rda` · [읽기](items/rda/2026/02/100000807555.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807555&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[봄재배 씨감자, 이렇게 관리하세요](items/rda/2026/02/100000807551.md)**
-  - 2026-02-09 · `rda` · [읽기](items/rda/2026/02/100000807551.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807551&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[입춘에 찾아온 봄빛 난(蘭), ‘팔레놉시스·심비디움’ 유망 품종 공개](items/rda/2026/02/100000807550.md)**
-  - 2026-02-09 · `rda` · [읽기](items/rda/2026/02/100000807550.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807550&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[맥류 안정 생산 지금부터 … 겨울나기 후 관리 필수](items/rda/2026/02/100000807549.md)**
-  - 2026-02-09 · `rda` · [읽기](items/rda/2026/02/100000807549.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807549&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[논콩에 ‘깊이거름주기’·‘바이오차’ 기술 적용, 수량 늘고 온실가스 줄고](items/rda/2026/02/100000807547.md)**
-  - 2026-02-09 · `rda` · [읽기](items/rda/2026/02/100000807547.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807547&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 겨울철 잎들깨 시설재배 한파 대비 현장 점검](items/nics/2026/02/943975.md)**
-  - 2026-02-09 · `nics` · [읽기](items/nics/2026/02/943975.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943975)
-
-- **[씨고구마, 보온덮개로 난방비 부담 덜고 모종은 쑥쑥!](items/nics/2026/02/943974.md)**
-  - 2026-02-09 · `nics` · [읽기](items/nics/2026/02/943974.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943974)
-
 
 <a id="weekly-archive"></a>
 ## 지난 주간 아카이브
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-02-13](weekly/2026-02-13.md)
 - [2026-02-11](weekly/2026-02-11.md)
 
 <a id="sources"></a>

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/10/agriculture-day-highlights-the
 summary: "As AAFC navigates research and staffing transitions, clear communication can help the seed sector plan for the next phase of innovation The post Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research appeared first"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T17:43:56+09:00"
+fetched_at: "2026-02-13T06:46:20+09:00"
 ---
 # Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research
 

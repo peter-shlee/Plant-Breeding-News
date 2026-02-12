@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/05/manitoba-seed-growers-challeng
 summary: "The MSGA statement, issued today, references remarks made by Prime Minister Mark Carney at the World Economic Forum The post Manitoba Seed Growers Challenge Ottawa on AAFC Cuts After Davos Food Security Message appeared first on Seed World"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T17:43:56+09:00"
+fetched_at: "2026-02-13T06:46:20+09:00"
 ---
 # Manitoba Seed Growers Challenge Ottawa on AAFC Cuts After Davos Food Security Message
 

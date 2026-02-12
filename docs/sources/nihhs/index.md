@@ -40,6 +40,3 @@ source: "nihhs"
 
 - **[올해 사과 꽃눈분화율 품종별 차이 커, 가지치기 전 확인](../../items/nihhs/2026/01/100000807183.md)**
   - 2026-01-19 · [읽기](../../items/nihhs/2026/01/100000807183.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807183&mc=MN0000000136)
-
-- **[과수 탄소 흡수량, 정확히 잰다…탄소흡수 계수 국내 최초 개발](../../items/nihhs/2026/01/100000807103.md)**
-  - 2026-01-13 · [읽기](../../items/nihhs/2026/01/100000807103.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807103&mc=MN0000000136)

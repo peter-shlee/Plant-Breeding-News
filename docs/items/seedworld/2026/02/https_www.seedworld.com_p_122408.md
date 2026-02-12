@@ -9,7 +9,7 @@ summary: "Research by Embrapa shows genes from wild peanut relatives can boost r
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-02-11T17:43:56+09:00"
+fetched_at: "2026-02-13T06:46:20+09:00"
 ---
 # Embrapa identifies wild arachis gene that primes defense in cultivated crops
 

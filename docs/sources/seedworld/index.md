@@ -11,6 +11,34 @@ source: "seedworld"
 
 ## 2026-02
 
+- **[Inside a Modern Seed Cleaning Plant: How Colour Sorters Really Add Value](../../items/seedworld/2026/02/https_www.seedworld.com_p_122968.md)**
+  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122968.md) · [원문](https://www.seedworld.com/canada/2026/02/12/inside-a-modern-seed-cleaning-plant-how-colour-sorters-really-add-value/)
+  - Greenleaf Seeds in Saskatchewan uses colour sorting technology to improve seed quality, reduce risk, and unlock new opportunities across oats, wheat, lentils, and more The post Inside a Modern Seed C…
+
+- **[Redefining Seed Enhancement: 75 Seconds with Summit Seed Coatings](../../items/seedworld/2026/02/https_www.seedworld.com_p_122967.md)**
+  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122967.md) · [원문](https://www.seedworld.com/us/2026/02/12/redefining-seed-enhancement-75-seconds-with-summit-seed-coatings/)
+  - Spend 75 seconds with Summit Seed Coatings' Joseph Young. He talks about how the company has taken traditional roots into an evolving, but continual customer-focused way of doing business.
+
+- **[Arctic Strategy, Trade Wars and the Future of Prairie Farming](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md)**
+  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md) · [원문](https://www.seedworld.com/canada/2026/02/12/arctic-strategy-trade-wars-and-the-future-of-prairie-farming/)
+  - Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming…
+
+- **[Transgenic Corn and Soy Drive Cuba’s Push to Boost Grain Production](../../items/seedworld/2026/02/https_www.seedworld.com_p_122866.md)**
+  - 2026-02-12 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122866.md) · [원문](https://www.seedworld.com/latam/2026/02/12/transgenic-corn-and-soy-drive-cubas-push-to-boost-grain-production/)
+  - Cuba remains heavily dependent on imported corn and soy, limiting feed production and agricultural output. Despite proven high yields from domestically developed transgenic corn and soybean varieties…
+
+- **[The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace”](../../items/seedworld/2026/02/https_www.seedworld.com_p_122945.md)**
+  - 2026-02-12 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122945.md) · [원문](https://www.seedworld.com/canada/2026/02/11/the-new-ag-trade-map-why-canadian-seed-companies-should-rethink-the-global-marketplace/)
+  - One analyst's advice: diversify beyond China, treat food like energy, and build demand at home The post The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace” appeared…
+
+- **[Euroseeds Publishes Updated Position on Research](../../items/seedworld/2026/02/https_www.seedworld.com_p_122943.md)**
+  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122943.md) · [원문](https://www.seedworld.com/europe/2026/02/11/euroseeds-publishes-updated-position-on-research/)
+  - Euroseeds’ updated position paper calls on the EU to secure dedicated plant breeding research funding under FP10 and the European Competitiveness Fund to strengthen sustainable agriculture, the bioec…
+
+- **[Ahead of Leaders’ Retreat, Agri-Food Chain Calls for Stronger EU Support](../../items/seedworld/2026/02/https_www.seedworld.com_p_122941.md)**
+  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122941.md) · [원문](https://www.seedworld.com/europe/2026/02/11/ahead-of-leaders-retreat-agri-food-chain-calls-for-stronger-eu-support/)
+  - Ahead of the EU Leaders’ Retreat on 12 February, 40 agri-food organisations urge EU institutions to put agriculture and food at the heart of Europe’s competitiveness strategy.
+
 - **[Maíz y soja transgénicos impulsan el impulso de Cuba para aumentar la producción de granos](../../items/seedworld/2026/02/https_www.seedworld.com_p_122863.md)**
   - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122863.md) · [원문](https://www.seedworld.com/latam/2026/02/11/maiz-y-soja-transgenicos-impulsan-el-impulso-de-cuba-para-aumentar-la-produccion-de-granos/)
   - Cuba mantiene una fuerte dependencia de las importaciones de maíz y soya, lo que limita la producción de piensos y el rendimiento agrícola. Aunque variedades transgénicas desarrolladas localmente mue…
@@ -126,31 +154,3 @@ source: "seedworld"
 - **[La carrera por la regulación está redefiniendo la innovación en semillas](../../items/seedworld/2026/02/https_www.seedworld.com_p_122801.md)**
   - 2026-02-03 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122801.md) · [원문](https://www.seedworld.com/latam/2026/02/03/la-carrera-por-la-regulacion-esta-redefiniendo-la-innovacion-en-semillas/)
   - La edición genética en semillas ya es una realidad en ensayos, regulación y mercado. El debate se centra ahora en cómo las políticas públicas definirán quién puede innovar.
-
-- **[Low-Cost NIR tech speeds coffee authentication and traceability](../../items/seedworld/2026/02/https_www.seedworld.com_p_122402.md)**
-  - 2026-02-03 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122402.md) · [원문](https://www.seedworld.com/latam/2026/02/03/low-cost-nir-tech-speeds-coffee-authentication-and-traceability/)
-  - Research by Embrapa Rondônia shows near-infrared spectroscopy (NIR) can rapidly and cheaply identify coffee origin and detect adulteration. The non-destructive method creates chemical “fingerprints”…
-
-- **[Gene Discovery Could Unlock New Era of Barley Breeding](../../items/seedworld/2026/02/https_www.seedworld.com_p_122720.md)**
-  - 2026-02-03 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122720.md) · [원문](https://www.seedworld.com/europe/2026/02/03/gene-discovery-could-unlock-new-era-of-barley-breeding/)
-  - Scientists at The James Hutton Institute have identified HvST1, a “Sticky Telomeres 1” gene that boosts genetic recombination in barley. Mutations reduced chromosome ‘stickiness’ during meiosis, unlo…
-
-- **[EU–UK SPS Chapter Negotiations: The Seed Trade Reset We Can’t Afford to Botch](../../items/seedworld/2026/02/https_www.seedworld.com_p_122747.md)**
-  - 2026-02-03 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122747.md) · [원문](https://www.seedworld.com/europe/2026/02/02/eu-uk-sps-chapter-negotiations-the-seed-trade-reset-we-cant-afford-to-botch/)
-  - After years of post-Brexit disruption, EU–UK SPS negotiations offer a critical chance to simplify seed trade. Reduced border delays, regulatory alignment, and greater predictability could cut costs a…
-
-- **[CSGA Warns AAFC Research Facility Closures Will Hurt Canadian Crop Innovation](../../items/seedworld/2026/02/https_www.seedworld.com_p_122797.md)**
-  - 2026-02-03 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122797.md) · [원문](https://www.seedworld.com/canada/2026/02/02/csga-warns-aafc-research-facility-closures-will-hurt-canadian-crop-innovation/)
-  - The Canadian Seed Growers’ Association says shutting seven federal Agriculture and Agri-Food Canada research sites threatens seed development The post CSGA Warns AAFC Research Facility Closures Will…
-
-- **[Syngenta Canada Launches Equento Cereals Seed Treatment for Wireworm Control in Western Canada](../../items/seedworld/2026/02/https_www.seedworld.com_p_122795.md)**
-  - 2026-02-03 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122795.md) · [원문](https://www.seedworld.com/canada/2026/02/02/syngenta-canada-launches-equento-cereals-seed-treatment-for-wireworm-control-in-western-canada/)
-  - New product combines contact and systemic activity with a six-active-ingredient package for insect and disease protection in cereal crops. Syngenta Canada Inc.
-
-- **[Powdery Mildew Outsmarts Wheat by Masking Key Effector Signal](../../items/seedworld/2026/02/https_www.seedworld.com_p_122449.md)**
-  - 2026-02-02 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122449.md) · [원문](https://www.seedworld.com/europe/2026/02/02/powdery-mildew-outsmarts-wheat-by-masking-key-effector-signal/)
-  - University of Zurich scientists uncovered how wheat powdery mildew can bypass genetic resistance without losing its key effector AvrPm4. The fungus deploys a second effector that masks AvrPm4 from th…
-
-- **[Plant Breeders Are Like Musicians](../../items/seedworld/2026/02/https_www.seedworld.com_p_122757.md)**
-  - 2026-02-02 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122757.md) · [원문](https://www.seedworld.com/latam/2026/02/02/plant-breeders-are-like-musicians/)
-  - Private plant breeding companies often separate R&D and breeding, limiting breeders to production-focused cycles rather than experimentation. This reduces innovation and undervalues breeder expertise.

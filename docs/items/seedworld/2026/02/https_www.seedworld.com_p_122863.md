@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/11/maiz-y-soja-transgenicos-impuls
 summary: "Cuba mantiene una fuerte dependencia de las importaciones de maíz y soya, lo que limita la producción de piensos y el rendimiento agrícola. Aunque variedades transgénicas desarrolladas localmente muestran altos rendimientos, su expansión"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T17:43:56+09:00"
+fetched_at: "2026-02-13T06:46:20+09:00"
 ---
 # Maíz y soja transgénicos impulsan el impulso de Cuba para aumentar la producción de granos
 

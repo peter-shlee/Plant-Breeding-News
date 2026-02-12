@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/10/is-seed-testing-a-cost-or-a-compet
 summary: "Seed testing can reveal far more than germination. SGS’s Amanda Patin explains how vigor, stress performance and deeper quality data help seed companies differentiate products, protect value and turn testing into a true competitive"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T17:43:56+09:00"
+fetched_at: "2026-02-13T06:46:20+09:00"
 ---
 # Is Seed Testing a Cost or a Competitive Advantage?
 

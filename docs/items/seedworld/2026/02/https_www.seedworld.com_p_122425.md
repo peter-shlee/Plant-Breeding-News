@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/04/watermelon-in-the-lab-and-the-
 summary: "Modern watermelon breeding has evolved from boosting yield and sweetness to optimizing the entire value chain. Driven by seedless demand, fresh-cut growth, and quality-focused European markets, breeders now balance flavor, texture, shelf"
 attachments: []
 tags: []
-fetched_at: "2026-02-11T17:43:56+09:00"
+fetched_at: "2026-02-13T06:46:20+09:00"
 ---
 # Watermelon in the Lab and the Field: Breeding the Perfect Bite
 
