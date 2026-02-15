@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/11/euroseeds-publishes-updated-po
 summary: "Euroseeds’ updated position paper calls on the EU to secure dedicated plant breeding research funding under FP10 and the European Competitiveness Fund to strengthen sustainable agriculture, the bioeconomy and EU competitiveness."
 attachments: []
 tags: []
-fetched_at: "2026-02-13T06:46:20+09:00"
+fetched_at: "2026-02-16T06:41:33+09:00"
 ---
 # Euroseeds Publishes Updated Position on Research
 

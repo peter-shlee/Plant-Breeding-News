@@ -11,6 +11,26 @@ source: "seedworld"
 
 ## 2026-02
 
+- **[Chile Advances Regulatory Clarity for New Plant Breeding Technologies in Agriculture](../../items/seedworld/2026/02/https_www.seedworld.com_p_122872.md)**
+  - 2026-02-14 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122872.md) · [원문](https://www.seedworld.com/latam/2026/02/14/chile-advances-regulatory-clarity-for-new-plant-breeding-technologies-in-agriculture/)
+  - Chile’s Ministry of Agriculture, through SAG, proposed a resolution to formalize the technical procedure used to evaluate plant materials developed with New Breeding Techniques (NBT).
+
+- **[Register Now For Our Webinar on the Future of Plant Breeding](../../items/seedworld/2026/02/https_www.seedworld.com_p_122978.md)**
+  - 2026-02-14 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122978.md) · [원문](https://www.seedworld.com/canada/2026/02/13/register-now-for-our-webinar-on-the-future-of-plant-breeding/)
+  - This webinar will ask a simple question: If we could design the ideal plant breeding model for Western Canada today, what would it look like The post Register Now For Our Webinar on the Future of Pla…
+
+- **[CO₂ and Crops: The Yield Driver EU Policy Rarely Talks About](../../items/seedworld/2026/02/https_www.seedworld.com_p_122914.md)**
+  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122914.md) · [원문](https://www.seedworld.com/europe/2026/02/13/co%e2%82%82-and-crops-the-yield-driver-eu-policy-rarely-talks-about/)
+  - Satellite data reveal rising CO₂ has significantly boosted crop yields, especially wheat, more than many EU climate models acknowledge. An NBER study links real-world CO₂ variation to higher maize, s…
+
+- **[Discovery May Help Barley Growers Better Manage Seed Dormancy](../../items/seedworld/2026/02/https_www.seedworld.com_p_122882.md)**
+  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122882.md) · [원문](https://www.seedworld.com/europe/2026/02/13/discovery-may-help-barley-growers-better-manage-seed-dormancy/)
+  - University of Adelaide researchers, partnering with Carlsberg Research Laboratory, mapped a key barley MAPK enzyme–substrate complex that regulates seed dormancy. Published in the International Journ…
+
+- **[Chile avanza en claridad regulatoria para nuevas tecnologías de fitomejoramiento en la agricultura](../../items/seedworld/2026/02/https_www.seedworld.com_p_122869.md)**
+  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122869.md) · [원문](https://www.seedworld.com/latam/2026/02/13/chile-avanza-en-claridad-regulatoria-para-nuevas-tecnologias-de-fitomejoramiento-en-la-agricultura/)
+  - Chile, a través del SAG del Ministerio de Agricultura, presentó una resolución para formalizar el procedimiento técnico de evaluación de materiales vegetales desarrollados con Nuevas Técnicas de Mejo…
+
 - **[Inside a Modern Seed Cleaning Plant: How Colour Sorters Really Add Value](../../items/seedworld/2026/02/https_www.seedworld.com_p_122968.md)**
   - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122968.md) · [원문](https://www.seedworld.com/canada/2026/02/12/inside-a-modern-seed-cleaning-plant-how-colour-sorters-really-add-value/)
   - Greenleaf Seeds in Saskatchewan uses colour sorting technology to improve seed quality, reduce risk, and unlock new opportunities across oats, wheat, lentils, and more The post Inside a Modern Seed C…
@@ -19,7 +39,7 @@ source: "seedworld"
   - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122967.md) · [원문](https://www.seedworld.com/us/2026/02/12/redefining-seed-enhancement-75-seconds-with-summit-seed-coatings/)
   - Spend 75 seconds with Summit Seed Coatings' Joseph Young. He talks about how the company has taken traditional roots into an evolving, but continual customer-focused way of doing business.
 
-- **[Arctic Strategy, Trade Wars and the Future of Prairie Farming](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md)**
+- **[Arctic Strategy, Trade Wars and the Future of Prairie Farming — According to Peter Mansbridge](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md)**
   - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md) · [원문](https://www.seedworld.com/canada/2026/02/12/arctic-strategy-trade-wars-and-the-future-of-prairie-farming/)
   - Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming…
 
@@ -134,23 +154,3 @@ source: "seedworld"
 - **[Embrapa identifica gen silvestre de cacahuete que prepara la defensa en cultivos](../../items/seedworld/2026/02/https_www.seedworld.com_p_122405.md)**
   - 2026-02-04 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122405.md) · [원문](https://www.seedworld.com/latam/2026/02/04/embrapa-identifica-gen-silvestre-de-cacahuete-que-prepara-la-defensa-en-cultivos/)
   - Investigaciones de Embrapa demuestran que genes de maníes silvestres pueden aumentar la resistencia del maní cultivado a sequía, nematodos y hongos. El gen AdEXLB8 activa la “preparación defensiva”,…
-
-- **[Multi-Herbicide-Tolerant GM Soybean Passes EFSA Safety Assessment](../../items/seedworld/2026/02/https_www.seedworld.com_p_122723.md)**
-  - 2026-02-04 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122723.md) · [원문](https://www.seedworld.com/europe/2026/02/04/multi-herbicide-tolerant-gm-soybean-passes-efsa-safety-assessment/)
-  - EFSA’s GMO Panel has issued a positive safety opinion on GM soybean MON 94313 for food and feed, finding it as safe as conventional and non-GM varieties for human and animal health and the environmen…
-
-- **[Watermelon in the Lab and the Field: Breeding the Perfect Bite](../../items/seedworld/2026/02/https_www.seedworld.com_p_122425.md)**
-  - 2026-02-04 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122425.md) · [원문](https://www.seedworld.com/europe/2026/02/04/watermelon-in-the-lab-and-the-field-breeding-the-perfect-bite/)
-  - Modern watermelon breeding has evolved from boosting yield and sweetness to optimizing the entire value chain. Driven by seedless demand, fresh-cut growth, and quality-focused European markets, breed…
-
-- **[Seed Health and Regulatory Risk: Protecting R&D Timelines in a Complex Global Market](../../items/seedworld/2026/02/https_www.seedworld.com_p_122818.md)**
-  - 2026-02-04 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122818.md) · [원문](https://www.seedworld.com/us/2026/02/03/seed-health-and-regulatory-risk-protecting-rd-timelines-in-a-complex-global-market/)
-  - Seed innovation stalls less from science than from phytosanitary and regulatory uncertainty. R&D and regulatory leaders must anticipate policy shifts, avoid testing duplication, protect planting wind…
-
-- **[Could a New Pipeline Help Scientists Spot Plant Pathogens Faster?](../../items/seedworld/2026/02/https_www.seedworld.com_p_122815.md)**
-  - 2026-02-04 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122815.md) · [원문](https://www.seedworld.com/us/2026/02/03/could-a-new-pipeline-help-scientists-spot-plant-pathogens-faster/)
-  - Researchers in Oregon say yes. They have built an open-source pipeline that identifies pathogens in minutes, helping agriculture respond faster to emerging threats.
-
-- **[La carrera por la regulación está redefiniendo la innovación en semillas](../../items/seedworld/2026/02/https_www.seedworld.com_p_122801.md)**
-  - 2026-02-03 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122801.md) · [원문](https://www.seedworld.com/latam/2026/02/03/la-carrera-por-la-regulacion-esta-redefiniendo-la-innovacion-en-semillas/)
-  - La edición genética en semillas ya es una realidad en ensayos, regulación y mercado. El debate se centra ahora en cómo las políticas públicas definirán quién puede innovar.

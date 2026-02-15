@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/11/the-new-ag-trade-map-why-canad
 summary: "One analyst's advice: diversify beyond China, treat food like energy, and build demand at home The post The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace” appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-02-13T06:46:20+09:00"
+fetched_at: "2026-02-16T06:41:33+09:00"
 ---
 # The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace”
 

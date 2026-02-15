@@ -5,14 +5,14 @@ org: "Seed World"
 site_id: "https://www.seedworld.com/?p=122955"
 published_at: "2026-02-13T04:00:08+09:00"
 url: "https://www.seedworld.com/canada/2026/02/12/arctic-strategy-trade-wars-and-the-future-of-prairie-farming/"
-summary: "Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming appeared first on Seed World ."
+summary: "Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming — According to Peter Mansbridge"
 attachments: []
 tags: []
-fetched_at: "2026-02-13T06:46:20+09:00"
+fetched_at: "2026-02-16T06:41:33+09:00"
 ---
-# Arctic Strategy, Trade Wars and the Future of Prairie Farming
+# Arctic Strategy, Trade Wars and the Future of Prairie Farming — According to Peter Mansbridge
 
-Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming appeared first on Seed World .
+Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming — According to Peter Mansbridge appeared first on Seed World .
 
 ## Original
 

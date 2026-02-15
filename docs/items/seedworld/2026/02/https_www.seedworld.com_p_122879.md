@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/10/government-funding-supports-ge
 summary: "The John Innes Centre has secured UK government funding for four DEFRA-backed projects advancing precision breeding, including gene-edited disease-resistant crops, vitamin D–enriched tomatoes, and dandelions for sustainable rubber."
 attachments: []
 tags: []
-fetched_at: "2026-02-13T06:46:20+09:00"
+fetched_at: "2026-02-16T06:41:33+09:00"
 ---
 # Government Funding Supports Gene-edited Crops At John Innes Centre
 

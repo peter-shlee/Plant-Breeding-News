@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "콩"
   - "옥수수"
-fetched_at: "2026-02-13T06:46:20+09:00"
+fetched_at: "2026-02-16T06:41:33+09:00"
 ---
 # Transgenic Corn and Soy Drive Cuba’s Push to Boost Grain Production
 
