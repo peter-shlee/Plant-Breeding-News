@@ -4,14 +4,14 @@ source: "seedworld"
 org: "Seed World"
 site_id: "https://www.seedworld.com/?p=122914"
 published_at: "2026-02-13T20:15:01+09:00"
-url: "https://www.seedworld.com/europe/2026/02/13/co%e2%82%82-and-crops-the-yield-driver-eu-policy-rarely-talks-about/"
+url: "https://www.seedworld.com/europe/2026/02/13/co2-and-crops-the-yield-driver-eu-policy-rarely-talks-about/"
 summary: "Satellite data reveal rising CO₂ has significantly boosted crop yields, especially wheat, more than many EU climate models acknowledge. An NBER study links real-world CO₂ variation to higher maize, soybean and wheat productivity."
 attachments: []
 tags:
   - "밀"
   - "콩"
   - "옥수수"
-fetched_at: "2026-02-16T06:41:33+09:00"
+fetched_at: "2026-02-18T06:48:55+09:00"
 ---
 # CO₂ and Crops: The Yield Driver EU Policy Rarely Talks About
 
@@ -19,4 +19,4 @@ Satellite data reveal rising CO₂ has significantly boosted crop yields, especi
 
 ## Original
 
-- [원문 링크](https://www.seedworld.com/europe/2026/02/13/co%e2%82%82-and-crops-the-yield-driver-eu-policy-rarely-talks-about/)
+- [원문 링크](https://www.seedworld.com/europe/2026/02/13/co2-and-crops-the-yield-driver-eu-policy-rarely-talks-about/)

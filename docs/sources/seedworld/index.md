@@ -11,6 +11,22 @@ source: "seedworld"
 
 ## 2026-02
 
+- **[Navigating Seed Labeling Requirements Across All 50 States](../../items/seedworld/2026/02/https_www.seedworld.com_p_122997.md)**
+  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122997.md) · [원문](https://www.seedworld.com/us/2026/02/17/navigating-seed-labeling-requirements-across-all-50-states/)
+  - A new national Seed Labeling Database from the Oregon Seed Association helps seed companies navigate complex state and federal labeling requirements for specialty crops across all 50 states.
+
+- **[Why Speed Isn’t the Same as Progress](../../items/seedworld/2026/02/https_www.seedworld.com_p_122991.md)**
+  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122991.md) · [원문](https://www.seedworld.com/us/2026/02/17/why-speed-isnt-the-same-as-progress/)
+  - The February issue of Seed World U.S. is full of vegetable and flower seed industry-specific stories.
+
+- **[Avances en la edición genética de patatas para reducir las pérdidas poscosecha](../../items/seedworld/2026/02/https_www.seedworld.com_p_122875.md)**
+  - 2026-02-17 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122875.md) · [원문](https://www.seedworld.com/latam/2026/02/17/avances-en-la-edicion-genetica-de-patatas-para-reducir-las-perdidas-poscosecha/)
+  - Papas editadas genéticamente desarrolladas por el INIA de Chile presentan una reducción significativa del pardeamiento poscosecha, ayudando a disminuir pérdidas en procesamiento, almacenamiento, come…
+
+- **[Why Vegetable Seed Companies Can’t Afford To Move Slow Anymore](../../items/seedworld/2026/02/https_www.seedworld.com_p_122984.md)**
+  - 2026-02-17 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122984.md) · [원문](https://www.seedworld.com/us/2026/02/16/why-vegetable-seed-companies-cant-afford-to-move-slow-anymore/)
+  - New tools, platforms and ownership models are reshaping the seed industry, but real progress comes down to execution. With nearly 30 years of experience across production, supply chain and sales, Sak…
+
 - **[Chile Advances Regulatory Clarity for New Plant Breeding Technologies in Agriculture](../../items/seedworld/2026/02/https_www.seedworld.com_p_122872.md)**
   - 2026-02-14 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122872.md) · [원문](https://www.seedworld.com/latam/2026/02/14/chile-advances-regulatory-clarity-for-new-plant-breeding-technologies-in-agriculture/)
   - Chile’s Ministry of Agriculture, through SAG, proposed a resolution to formalize the technical procedure used to evaluate plant materials developed with New Breeding Techniques (NBT).
@@ -20,7 +36,7 @@ source: "seedworld"
   - This webinar will ask a simple question: If we could design the ideal plant breeding model for Western Canada today, what would it look like The post Register Now For Our Webinar on the Future of Pla…
 
 - **[CO₂ and Crops: The Yield Driver EU Policy Rarely Talks About](../../items/seedworld/2026/02/https_www.seedworld.com_p_122914.md)**
-  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122914.md) · [원문](https://www.seedworld.com/europe/2026/02/13/co%e2%82%82-and-crops-the-yield-driver-eu-policy-rarely-talks-about/)
+  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122914.md) · [원문](https://www.seedworld.com/europe/2026/02/13/co2-and-crops-the-yield-driver-eu-policy-rarely-talks-about/)
   - Satellite data reveal rising CO₂ has significantly boosted crop yields, especially wheat, more than many EU climate models acknowledge. An NBER study links real-world CO₂ variation to higher maize, s…
 
 - **[Discovery May Help Barley Growers Better Manage Seed Dormancy](../../items/seedworld/2026/02/https_www.seedworld.com_p_122882.md)**
@@ -138,19 +154,3 @@ source: "seedworld"
 - **[Why Hands-On Seed School Training Still Matters in a High-Tech World](../../items/seedworld/2026/02/https_www.seedworld.com_p_122841.md)**
   - 2026-02-06 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122841.md) · [원문](https://www.seedworld.com/canada/2026/02/05/why-hands-on-seed-school-training-still-matters-in-a-high-tech-world/)
   - One of the things I’m most passionate about at Nexeed is training, because confidence on the plant floor directly impacts quality, efficiency, and profitability. That’s why we continue to invest […]…
-
-- **[Closing the Nutrient Loop: How Wastewater Could Power Future Farming](../../items/seedworld/2026/02/https_www.seedworld.com_p_122726.md)**
-  - 2026-02-05 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122726.md) · [원문](https://www.seedworld.com/europe/2026/02/05/closing-the-nutrient-loop-how-wastewater-could-power-future-farming/)
-  - Researchers at Wageningen University & Research are testing circular fertilizers made from wastewater, including treated human urine, as low-emission alternatives to inorganic fertilizer.
-
-- **[Embrapa identifies wild arachis gene that primes defense in cultivated crops](../../items/seedworld/2026/02/https_www.seedworld.com_p_122408.md)**
-  - 2026-02-05 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122408.md) · [원문](https://www.seedworld.com/latam/2026/02/05/embrapa-identifies-wild-arachis-gene-that-primes-defense-in-cultivated-crops/)
-  - Research by Embrapa shows genes from wild peanut relatives can boost resistance in cultivated peanuts to drought, nematodes, and fungal diseases. The AdEXLB8 gene activates defense priming, preparing…
-
-- **[Saskatchewan Seed Growers Call for Reversal of AAFC Facility Closures in Indian Head and Scott](../../items/seedworld/2026/02/https_www.seedworld.com_p_122821.md)**
-  - 2026-02-05 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122821.md) · [원문](https://www.seedworld.com/canada/2026/02/04/saskatchewan-seed-growers-call-for-reversal-of-aafc-facility-closures-in-indian-head-and-scott/)
-  - The SSGA is the latest organization to voice strong opposition to Agriculture and Agri-Food Canada cuts The post Saskatchewan Seed Growers Call for Reversal of AAFC Facility Closures in Indian Head a…
-
-- **[Embrapa identifica gen silvestre de cacahuete que prepara la defensa en cultivos](../../items/seedworld/2026/02/https_www.seedworld.com_p_122405.md)**
-  - 2026-02-04 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122405.md) · [원문](https://www.seedworld.com/latam/2026/02/04/embrapa-identifica-gen-silvestre-de-cacahuete-que-prepara-la-defensa-en-cultivos/)
-  - Investigaciones de Embrapa demuestran que genes de maníes silvestres pueden aumentar la resistencia del maní cultivado a sequía, nematodos y hongos. El gen AdEXLB8 activa la “preparación defensiva”,…

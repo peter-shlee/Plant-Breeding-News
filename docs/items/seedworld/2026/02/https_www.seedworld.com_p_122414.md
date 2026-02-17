@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/07/half-the-water-competitive-yiel
 summary: "INTA San Juan research shows quinoa can thrive in Argentina’s Cuyo region using just half the irrigation water cited in international benchmarks. With 260–290 mm per cycle, the Morrillos INTA variety achieved about 1.7 t/ha, with only"
 attachments: []
 tags: []
-fetched_at: "2026-02-16T06:41:33+09:00"
+fetched_at: "2026-02-18T06:48:55+09:00"
 ---
 # Half the water, competitive yields: INTA advances quinoa irrigation research
 

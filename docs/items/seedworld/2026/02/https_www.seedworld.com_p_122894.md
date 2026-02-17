@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/09/from-seed-to-sky-the-demand-for-su
 summary: "Sustainable aviation fuel (SAF) is no longer a fringe idea. Airlines want it."
 attachments: []
 tags: []
-fetched_at: "2026-02-16T06:41:33+09:00"
+fetched_at: "2026-02-18T06:48:55+09:00"
 ---
 # From Seed to Sky: The Demand for Sustainable Aviation Fuel
 

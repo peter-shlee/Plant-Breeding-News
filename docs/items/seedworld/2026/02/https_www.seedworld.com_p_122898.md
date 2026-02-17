@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/09/cfia-cuts-will-not-disrupt-see
 summary: "The agency says it remains focused on science-based regulation and plans to publish updated Seeds Regulations in 2026 The post CFIA Cuts Will Not Disrupt Seed Regulatory Modernization appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-02-16T06:41:33+09:00"
+fetched_at: "2026-02-18T06:48:55+09:00"
 ---
 # CFIA Cuts Will Not Disrupt Seed Regulatory Modernization
 

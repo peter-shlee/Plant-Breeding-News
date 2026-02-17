@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/09/combatiendo-la-pirateria-de-sem
 summary: "AMSAC lanzó la campaña “Sin Sorpresas en la Cosecha” para combatir la piratería de semillas, una amenaza creciente para la productividad agrícola en México. Las semillas pirata no cumplen estándares genéticos ni fitosanitarios, provocando"
 attachments: []
 tags: []
-fetched_at: "2026-02-16T06:41:33+09:00"
+fetched_at: "2026-02-18T06:48:55+09:00"
 ---
 # Combatiendo la Piratería de Semillas para Proteger la Productividad Agrícola de México
 
