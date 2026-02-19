@@ -11,6 +11,12 @@ source: "nics"
 
 ## 2026-02
 
+- **[밥에 넣어 먹는 작은 검정 땅콩 ‘보담’·‘흑찬’](../../items/nics/2026/02/943992.md)**
+  - 2026-02-19 · [읽기](../../items/nics/2026/02/943992.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943992)
+
+- **[농촌진흥청, 국산 콩 산업 현장 찾아 활성화 방안 모색](../../items/nics/2026/02/943991.md)**
+  - 2026-02-19 · [읽기](../../items/nics/2026/02/943991.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943991)
+
 - **[봄재배 씨감자, 이렇게 관리하세요](../../items/nics/2026/02/943982.md)**
   - 2026-02-10 · [읽기](../../items/nics/2026/02/943982.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943982)
 
@@ -37,9 +43,3 @@ source: "nics"
 
 - **[농촌진흥청, 최고품질 벼 품종 ‘수광1’ 추가 등재](../../items/nics/2026/01/943946.md)**
   - 2026-01-28 · [읽기](../../items/nics/2026/01/943946.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943946)
-
-- **[벼 깨씨무늬병, 논 토양관리·규산질 비료로 예방](../../items/nics/2026/01/943943.md)**
-  - 2026-01-26 · [읽기](../../items/nics/2026/01/943943.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943943)
-
-- **[농촌진흥청, 시설재배 감자 한파 대비 현장 점검](../../items/nics/2026/01/943942.md)**
-  - 2026-01-26 · [읽기](../../items/nics/2026/01/943942.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943942)

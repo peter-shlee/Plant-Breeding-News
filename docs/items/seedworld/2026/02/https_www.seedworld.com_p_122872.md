@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/14/chile-advances-regulatory-clari
 summary: "Chile’s Ministry of Agriculture, through SAG, proposed a resolution to formalize the technical procedure used to evaluate plant materials developed with New Breeding Techniques (NBT)."
 attachments: []
 tags: []
-fetched_at: "2026-02-18T06:48:55+09:00"
+fetched_at: "2026-02-20T06:46:06+09:00"
 ---
 # Chile Advances Regulatory Clarity for New Plant Breeding Technologies in Agriculture
 

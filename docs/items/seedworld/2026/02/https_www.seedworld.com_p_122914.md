@@ -11,7 +11,7 @@ tags:
   - "밀"
   - "콩"
   - "옥수수"
-fetched_at: "2026-02-18T06:48:55+09:00"
+fetched_at: "2026-02-20T06:46:06+09:00"
 ---
 # CO₂ and Crops: The Yield Driver EU Policy Rarely Talks About
 

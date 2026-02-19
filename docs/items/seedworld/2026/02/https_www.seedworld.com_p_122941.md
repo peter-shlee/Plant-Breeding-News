@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/11/ahead-of-leaders-retreat-agri-
 summary: "Ahead of the EU Leaders’ Retreat on 12 February, 40 agri-food organisations urge EU institutions to put agriculture and food at the heart of Europe’s competitiveness strategy."
 attachments: []
 tags: []
-fetched_at: "2026-02-18T06:48:55+09:00"
+fetched_at: "2026-02-20T06:46:06+09:00"
 ---
 # Ahead of Leaders’ Retreat, Agri-Food Chain Calls for Stronger EU Support
 

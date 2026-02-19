@@ -9,7 +9,7 @@ summary: "Crop failure can come from drought, hail, or volatile markets—but sm
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-02-18T06:48:55+09:00"
+fetched_at: "2026-02-20T06:46:06+09:00"
 ---
 # How Smart Decisions at the Start Set Your Crop up for Success
 

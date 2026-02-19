@@ -11,6 +11,54 @@ source: "seedworld"
 
 ## 2026-02
 
+- **[Freshness, Flavor And Trust: The Market Signals Guiding The Next Wave Of Seed Development](../../items/seedworld/2026/02/https_www.seedworld.com_p_123114.md)**
+  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123114.md) · [원문](https://www.seedworld.com/us/2026/02/19/freshness-flavor-and-trust-the-market-signals-guiding-the-next-wave-of-seed-development/)
+  - Collaboration across the supply chain, from breeding programs to grocery shelves, is becoming the defining force behind future vegetable markets. The vegetable seed industry is entering a quieter, bu…
+
+- **[Designed to Burn: Breeding Superhot Peppers](../../items/seedworld/2026/02/https_www.seedworld.com_p_123097.md)**
+  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123097.md) · [원문](https://www.seedworld.com/us/2026/02/19/designed-to-burn-breeding-superhot-peppers/)
+  - Ed Currie, inventor of the Carolina Reaper, has built a legacy breeding the hottest of hot peppers. What started as a backyard hobby has grown into a impactful career.
+
+- **[From Field to Fire: How Hot is Hot?](../../items/seedworld/2026/02/https_www.seedworld.com_p_123101.md)**
+  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123101.md) · [원문](https://www.seedworld.com/us/2026/02/19/from-field-to-fire-how-hot-is-hot/)
+  - Superhot peppers take awhile to develop. The Scoville Scale is a great tool to know what's hot and what's not so hot.
+
+- **[New Research Reveals Camelina’s Climate Adaptation Potential](../../items/seedworld/2026/02/https_www.seedworld.com_p_123086.md)**
+  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123086.md) · [원문](https://www.seedworld.com/europe/2026/02/19/new-research-reveals-camelinas-climate-adaptation-potential/)
+  - EU-funded UNTWIST research shows camelina (Camelina sativa) could help climate-proof agriculture as heatwaves and droughts intensify. Scientists tested 54 camelina lines across controlled environment…
+
+- **[Empowering Africa, One Seed at a Time](../../items/seedworld/2026/02/https_www.seedworld.com_p_123081.md)**
+  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123081.md) · [원문](https://www.seedworld.com/europe/2026/02/19/empowering-africa-one-seed-at-a-time/)
+  - African farmers are central to regional and global food security. The Syngenta Seedcare Institute in Brits, South Africa, develops locally tailored seed treatment solutions to improve crop emergence,…
+
+- **[The Future of Produce Starts with Seed Decisions](../../items/seedworld/2026/02/https_www.seedworld.com_p_123055.md)**
+  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123055.md) · [원문](https://www.seedworld.com/us/2026/02/18/the-future-of-produce-starts-with-seed-decisions/)
+  - Consumer expectations retail consolidation labor shortages and climate pressure are reshaping produce faster than the industry can respond. Increasingly those forces are pushing upstream placing new…
+
+- **[Meet Seed World’s Connector of the Year](../../items/seedworld/2026/02/https_www.seedworld.com_p_123050.md)**
+  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123050.md) · [원문](https://www.seedworld.com/us/2026/02/18/meet-seed-worlds-connector-of-the-year/)
+  - Seed World names Radicle Seed’s Lisa Branco Connector of the Year, recognizing her leadership in building relationships, fostering collaboration and strengthening connections across the seed industry.
+
+- **[MyPlate Reset Sends Early Signals to Seed](../../items/seedworld/2026/02/https_www.seedworld.com_p_123047.md)**
+  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123047.md) · [원문](https://www.seedworld.com/us/2026/02/18/myplate-reset-sends-early-signals-to-seed/)
+  - The MyPlate reset is more than a nutrition story — it’s an early signal for seed. From the ASTA Vegetable and Flower Conference, this piece explores how federal nutrition guidance can influence breed…
+
+- **[Advancing Gene-Edited Potatoes to Cut Post-Harvest Losses](../../items/seedworld/2026/02/https_www.seedworld.com_p_122877.md)**
+  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122877.md) · [원문](https://www.seedworld.com/latam/2026/02/18/advancing-gene-edited-potatoes-to-cut-post-harvest-losses/)
+  - Gene-edited potatoes developed by Chile’s INIA show significantly reduced post-harvest browning, helping cut food losses across processing, storage, retail, and households.
+
+- **[How Biology Drives the Bottom Line — Why Resilience, Consistency, and System Performance are Reshaping ROI Co…](../../items/seedworld/2026/02/https_www.seedworld.com_p_123011.md)**
+  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123011.md) · [원문](https://www.seedworld.com/us/2026/02/17/how-biology-drives-the-bottom-line-why-resilience-consistency-and-system-performance-are-reshaping-roi-conversations/)
+  - Farm success in an unpredictable world depends on resilience—reducing yield loss when weather, disease, tariffs, and input volatility strike. While resilience is harder to measure than yield gains, i…
+
+- **[Why Proposed Dicamba Restrictions Could Impact Canadian Soybean Seed Production](../../items/seedworld/2026/02/https_www.seedworld.com_p_123009.md)**
+  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123009.md) · [원문](https://www.seedworld.com/canada/2026/02/17/why-proposed-dicamba-restrictions-could-impact-canadian-soybean-seed-production/)
+  - Dicamba’s future in Canada is now tied to more than weed control The post Why Proposed Dicamba Restrictions Could Impact Canadian Soybean Seed Production appeared first on Seed World .
+
+- **[What’s Happening at ASTA Vegetable and Flower Conference 2026?](../../items/seedworld/2026/02/https_www.seedworld.com_p_123000.md)**
+  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123000.md) · [원문](https://www.seedworld.com/us/2026/02/17/whats-happening-at-asta-vegetable-and-flower-conference-2026/)
+  - Scenes and snippets from the 2026 ASTA Vegetable and Flower Seed Conference in San Diego, California The post What’s Happening at ASTA Vegetable and Flower Conference 2026?
+
 - **[Navigating Seed Labeling Requirements Across All 50 States](../../items/seedworld/2026/02/https_www.seedworld.com_p_122997.md)**
   - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122997.md) · [원문](https://www.seedworld.com/us/2026/02/17/navigating-seed-labeling-requirements-across-all-50-states/)
   - A new national Seed Labeling Database from the Oregon Seed Association helps seed companies navigate complex state and federal labeling requirements for specialty crops across all 50 states.
@@ -106,51 +154,3 @@ source: "seedworld"
 - **[Government Funding Supports Gene-edited Crops At John Innes Centre](../../items/seedworld/2026/02/https_www.seedworld.com_p_122879.md)**
   - 2026-02-10 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122879.md) · [원문](https://www.seedworld.com/europe/2026/02/10/government-funding-supports-gene-edited-crops-at-john-innes-centre/)
   - The John Innes Centre has secured UK government funding for four DEFRA-backed projects advancing precision breeding, including gene-edited disease-resistant crops, vitamin D–enriched tomatoes, and da…
-
-- **[Combating Seed Piracy to Protect Mexico’s Agricultural Productivity](../../items/seedworld/2026/02/https_www.seedworld.com_p_122861.md)**
-  - 2026-02-10 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122861.md) · [원문](https://www.seedworld.com/latam/2026/02/10/combating-seed-piracy-to-protect-mexicos-agricultural-productivity/)
-  - AMSAC has launched its “No Harvest Surprises” campaign to combat seed piracy, a growing threat to Mexico’s agricultural productivity. Pirated seed sold via unauthorized vendors often fails genetic an…
-
-- **[Deadline Extended to Feb 20: Nominations Open for Europe’s Promising Young Plant Breeders](../../items/seedworld/2026/02/https_www.seedworld.com_p_122888.md)**
-  - 2026-02-10 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122888.md) · [원문](https://www.seedworld.com/europe/2026/02/10/deadline-extended-to-feb-20-nominations-open-for-europes-promising-young-plant-breeders/)
-  - Seed World Europe is now accepting nominations for its April 2026 “20 Most Promising Young Plant Breeders in Europe” feature. Nominate early-career plant breeders making an impact across Europe, from…
-
-- **[CFIA Cuts Will Not Disrupt Seed Regulatory Modernization](../../items/seedworld/2026/02/https_www.seedworld.com_p_122898.md)**
-  - 2026-02-10 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122898.md) · [원문](https://www.seedworld.com/canada/2026/02/09/cfia-cuts-will-not-disrupt-seed-regulatory-modernization/)
-  - The agency says it remains focused on science-based regulation and plans to publish updated Seeds Regulations in 2026 The post CFIA Cuts Will Not Disrupt Seed Regulatory Modernization appeared first…
-
-- **[From Seed to Sky: The Demand for Sustainable Aviation Fuel](../../items/seedworld/2026/02/https_www.seedworld.com_p_122894.md)**
-  - 2026-02-10 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122894.md) · [원문](https://www.seedworld.com/us/2026/02/09/from-seed-to-sky-the-demand-for-sustainable-aviation-fuel/)
-  - Sustainable aviation fuel (SAF) is no longer a fringe idea. Airlines want it.
-
-- **[Combatiendo la Piratería de Semillas para Proteger la Productividad Agrícola de México](../../items/seedworld/2026/02/https_www.seedworld.com_p_122856.md)**
-  - 2026-02-09 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122856.md) · [원문](https://www.seedworld.com/latam/2026/02/09/combatiendo-la-pirateria-de-semillas-para-proteger-la-productividad-agricola-de-mexico/)
-  - AMSAC lanzó la campaña “Sin Sorpresas en la Cosecha” para combatir la piratería de semillas, una amenaza creciente para la productividad agrícola en México. Las semillas pirata no cumplen estándares…
-
-- **[The Agricultural Crop Licensing Platform Extends to Ornamental and Fruit Crops](../../items/seedworld/2026/02/https_www.seedworld.com_p_122681.md)**
-  - 2026-02-09 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122681.md) · [원문](https://www.seedworld.com/europe/2026/02/09/the-agricultural-crop-licensing-platform-extends-to-ornamental-and-fruit-crops/)
-  - After three years, the Agricultural Crop Licensing Platform (ACLP) has expanded to include ornamental, fruit, and forest crops, strengthening access to patented traits across Europe.
-
-- **[Half the water, competitive yields: INTA advances quinoa irrigation research](../../items/seedworld/2026/02/https_www.seedworld.com_p_122414.md)**
-  - 2026-02-07 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122414.md) · [원문](https://www.seedworld.com/latam/2026/02/07/half-the-water-competitive-yields-inta-advances-quinoa-irrigation-research/)
-  - INTA San Juan research shows quinoa can thrive in Argentina’s Cuyo region using just half the irrigation water cited in international benchmarks. With 260–290 mm per cycle, the Morrillos INTA variety…
-
-- **[Grain Growers of Canada Demands Transparency on AAFC Research Cuts and Facility Closures](../../items/seedworld/2026/02/https_www.seedworld.com_p_122885.md)**
-  - 2026-02-07 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122885.md) · [원문](https://www.seedworld.com/canada/2026/02/06/grain-growers-of-canada-demands-transparency-on-aafc-research-cuts-and-facility-closures/)
-  - The organization noted the pace and scale of the announced changes have sparked serious concern across the grain sector The post Grain Growers of Canada Demands Transparency on AAFC Research Cuts and…
-
-- **[Mitad de agua, rendimientos competitivos: INTA avanza en la investigación sobre riego de quinua](../../items/seedworld/2026/02/https_www.seedworld.com_p_122411.md)**
-  - 2026-02-06 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122411.md) · [원문](https://www.seedworld.com/latam/2026/02/06/mitad-de-agua-rendimientos-competitivos-inta-avanza-en-la-investigacion-sobre-riego-de-quinua/)
-  - Investigación de INTA San Juan muestra que la quinoa puede rendir competitivamente en Cuyo usando solo la mitad del agua indicada por referencias internacionales. Con 260–290 mm por ciclo, la varieda…
-
-- **[Europe Can’t Afford to Fall Behind: Jessica Polfjärd on the EU’s NGT Turning Point](../../items/seedworld/2026/02/https_www.seedworld.com_p_122438.md)**
-  - 2026-02-06 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122438.md) · [원문](https://www.seedworld.com/europe/2026/02/06/europe-cant-afford-to-fall-behind-jessica-polfjard-on-the-eus-ngt-turning-point/)
-  - Europe’s new agreement on New Genomic Techniques marks a turning point for plant breeding and seed innovation. Led by MEP Jessica Polfjärd, the NGT dossier balanced science, politics, and national in…
-
-- **[Manitoba Seed Growers Challenge Ottawa on AAFC Cuts After Davos Food Security Message](../../items/seedworld/2026/02/https_www.seedworld.com_p_122846.md)**
-  - 2026-02-06 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122846.md) · [원문](https://www.seedworld.com/canada/2026/02/05/manitoba-seed-growers-challenge-ottawa-on-aafc-cuts-after-davos-food-security-message/)
-  - The MSGA statement, issued today, references remarks made by Prime Minister Mark Carney at the World Economic Forum The post Manitoba Seed Growers Challenge Ottawa on AAFC Cuts After Davos Food Secur…
-
-- **[Why Hands-On Seed School Training Still Matters in a High-Tech World](../../items/seedworld/2026/02/https_www.seedworld.com_p_122841.md)**
-  - 2026-02-06 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122841.md) · [원문](https://www.seedworld.com/canada/2026/02/05/why-hands-on-seed-school-training-still-matters-in-a-high-tech-world/)
-  - One of the things I’m most passionate about at Nexeed is training, because confidence on the plant floor directly impacts quality, efficiency, and profitability. That’s why we continue to invest […]…
