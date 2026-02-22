@@ -11,6 +11,26 @@ source: "seedworld"
 
 ## 2026-02
 
+- **[Brazil at the Forefront of AI-Driven Soybean Yield Prediction](../../items/seedworld/2026/02/https_www.seedworld.com_p_123018.md)**
+  - 2026-02-21 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123018.md) · [원문](https://www.seedworld.com/latam/2026/02/21/brazil-at-the-forefront-of-ai-driven-soybean-yield-prediction/)
+  - Brazil leads AI-driven soybean yield prediction by applying transfer learning. Researchers adapted a U.S.-trained model to Brazilian conditions using limited state or municipal data, improving cross-…
+
+- **[Brasil a la vanguardia de la predicción del rendimiento de la soja basada en IA](../../items/seedworld/2026/02/https_www.seedworld.com_p_123016.md)**
+  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123016.md) · [원문](https://www.seedworld.com/latam/2026/02/20/brasil-a-la-vanguardia-de-la-prediccion-del-rendimiento-de-la-soja-basada-en-ia/)
+  - Brasil lidera la predicción del rendimiento de soja impulsada por IA mediante aprendizaje por transferencia. Los investigadores adaptaron un modelo entrenado en EE.
+
+- **[Harnessing Technology to Protect the World’s Crop Diversity](../../items/seedworld/2026/02/https_www.seedworld.com_p_123089.md)**
+  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123089.md) · [원문](https://www.seedworld.com/europe/2026/02/19/harnessing-technology-to-protect-the-worlds-crop-diversity/)
+  - The Crop Trust has launched Securing Our Seeds (SOS), a USD 2 million Google.org-backed initiative to modernize global crop diversity conservation. The project will digitize genebanks using GRIN-Glob…
+
+- **[Gene Editing Is Getting Faster. Commercialization Still Isn’t](../../items/seedworld/2026/02/https_www.seedworld.com_p_123120.md)**
+  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123120.md) · [원문](https://www.seedworld.com/us/2026/02/19/gene-editing-is-getting-faster-commercialization-still-isnt/)
+  - The seed industry is now at a point that is past CRISPR breakthrough. Commercialization is still a big hurdle.
+
+- **[AAFC Research Station Closures Trigger Emergency Study in Ottawa](../../items/seedworld/2026/02/https_www.seedworld.com_p_123118.md)**
+  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123118.md) · [원문](https://www.seedworld.com/canada/2026/02/19/aafc-research-station-closures-trigger-emergency-study-in-ottawa/)
+  - Closures in Ontario, Quebec, Nova Scotia, Manitoba, Alberta, and Saskatchewan are now under scrutiny by the House ag committee The post AAFC Research Station Closures Trigger Emergency Study in Ottaw…
+
 - **[Freshness, Flavor And Trust: The Market Signals Guiding The Next Wave Of Seed Development](../../items/seedworld/2026/02/https_www.seedworld.com_p_123114.md)**
   - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123114.md) · [원문](https://www.seedworld.com/us/2026/02/19/freshness-flavor-and-trust-the-market-signals-guiding-the-next-wave-of-seed-development/)
   - Collaboration across the supply chain, from breeding programs to grocery shelves, is becoming the defining force behind future vegetable markets. The vegetable seed industry is entering a quieter, bu…
@@ -134,23 +154,3 @@ source: "seedworld"
 - **[Why Does Advocacy Matter for the EU Seed Sector?](../../items/seedworld/2026/02/https_www.seedworld.com_p_122684.md)**
   - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122684.md) · [원문](https://www.seedworld.com/europe/2026/02/10/why-does-advocacy-matter-for-the-eu-seed-sector/)
   - This column explains the long-term nature of EU agricultural policymaking and the essential role of EU associations such as Euroseeds. It highlights stakeholder engagement since the Common Agricultur…
-
-- **[Is Seed Testing a Cost or a Competitive Advantage?](../../items/seedworld/2026/02/https_www.seedworld.com_p_122933.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122933.md) · [원문](https://www.seedworld.com/us/2026/02/10/is-seed-testing-a-cost-or-a-competitive-advantage/)
-  - Seed testing can reveal far more than germination. SGS’s Amanda Patin explains how vigor, stress performance and deeper quality data help seed companies differentiate products, protect value and turn…
-
-- **[Enlist Essentials: What Growers Need to Get Weed Control Right](../../items/seedworld/2026/02/https_www.seedworld.com_p_122930.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122930.md) · [원문](https://www.seedworld.com/us/2026/02/10/enlist-essentials-what-growers-need-to-get-weed-control-right/)
-  - How does the Enlist weed control system works in real-world farming? Corteva Agriscience’s Jillian Schmiedt explains how traits, herbicides and stewardship decisions come together to protect performa…
-
-- **[EPA Sets New Dicamba Restrictions for Soybean and Cotton](../../items/seedworld/2026/02/https_www.seedworld.com_p_122926.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122926.md) · [원문](https://www.seedworld.com/us/2026/02/10/epa-sets-new-dicamba-restrictions-for-soybean-and-cotton/)
-  - EPA announces new dicamba restrictions for cotton and soybean growers, including tighter application limits, drift safeguards and a two-season regulatory timeline shaping weed mana The post EPA Sets…
-
-- **[Agriculture Day Highlights the Need for Clarity on the Future of AAFC Research](../../items/seedworld/2026/02/https_www.seedworld.com_p_122918.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122918.md) · [원문](https://www.seedworld.com/canada/2026/02/10/agriculture-day-highlights-the-need-for-clarity-on-the-future-of-aafc-research/)
-  - As AAFC navigates research and staffing transitions, clear communication can help the seed sector plan for the next phase of innovation The post Agriculture Day Highlights the Need for Clarity on the…
-
-- **[Government Funding Supports Gene-edited Crops At John Innes Centre](../../items/seedworld/2026/02/https_www.seedworld.com_p_122879.md)**
-  - 2026-02-10 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122879.md) · [원문](https://www.seedworld.com/europe/2026/02/10/government-funding-supports-gene-edited-crops-at-john-innes-centre/)
-  - The John Innes Centre has secured UK government funding for four DEFRA-backed projects advancing precision breeding, including gene-edited disease-resistant crops, vitamin D–enriched tomatoes, and da…

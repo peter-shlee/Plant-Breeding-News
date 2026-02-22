@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/13/register-now-for-our-webinar-o
 summary: "This webinar will ask a simple question: If we could design the ideal plant breeding model for Western Canada today, what would it look like The post Register Now For Our Webinar on the Future of Plant Breeding appeared first on Seed World"
 attachments: []
 tags: []
-fetched_at: "2026-02-20T06:46:06+09:00"
+fetched_at: "2026-02-23T06:40:33+09:00"
 ---
 # Register Now For Our Webinar on the Future of Plant Breeding
 

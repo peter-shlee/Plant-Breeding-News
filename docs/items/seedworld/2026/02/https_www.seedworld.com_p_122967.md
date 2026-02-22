@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/12/redefining-seed-enhancement-75-sec
 summary: "Spend 75 seconds with Summit Seed Coatings' Joseph Young. He talks about how the company has taken traditional roots into an evolving, but continual customer-focused way of doing business."
 attachments: []
 tags: []
-fetched_at: "2026-02-20T06:46:06+09:00"
+fetched_at: "2026-02-23T06:40:33+09:00"
 ---
 # Redefining Seed Enhancement: 75 Seconds with Summit Seed Coatings
 

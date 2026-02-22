@@ -9,7 +9,7 @@ summary: "Dicamba’s future in Canada is now tied to more than weed control The
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-02-20T06:46:06+09:00"
+fetched_at: "2026-02-23T06:40:33+09:00"
 ---
 # Why Proposed Dicamba Restrictions Could Impact Canadian Soybean Seed Production
 

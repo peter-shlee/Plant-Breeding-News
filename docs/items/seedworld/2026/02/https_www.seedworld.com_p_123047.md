@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/18/myplate-reset-sends-early-signals-
 summary: "The MyPlate reset is more than a nutrition story — it’s an early signal for seed. From the ASTA Vegetable and Flower Conference, this piece explores how federal nutrition guidance can influence breeding priorities, crop investment and long-"
 attachments: []
 tags: []
-fetched_at: "2026-02-20T06:46:06+09:00"
+fetched_at: "2026-02-23T06:40:33+09:00"
 ---
 # MyPlate Reset Sends Early Signals to Seed
 

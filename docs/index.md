@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-02-20 06:46 (KST)**  
-- 커버리지(최근 섹션): **2026-02-13 ~ 2026-02-20** (최근 7일)
+- 마지막 업데이트: **2026-02-23 06:40 (KST)**  
+- 커버리지(최근 섹션): **2026-02-16 ~ 2026-02-23** (최근 7일)
 
 ## 목차
 
@@ -23,6 +23,10 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
+- **[Gene Editing Is Getting Faster. Commercialization Still Isn’t](items/seedworld/2026/02/https_www.seedworld.com_p_123120.md)**
+  - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123120.md) · [원문](https://www.seedworld.com/us/2026/02/19/gene-editing-is-getting-faster-commercialization-still-isnt/)
+  - The seed industry is now at a point that is past CRISPR breakthrough. Commercialization is still a big hurdle.
+
 - **[Advancing Gene-Edited Potatoes to Cut Post-Harvest Losses](items/seedworld/2026/02/https_www.seedworld.com_p_122877.md)**
   - 2026-02-18 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122877.md) · [원문](https://www.seedworld.com/latam/2026/02/18/advancing-gene-edited-potatoes-to-cut-post-harvest-losses/)
   - Gene-edited potatoes developed by Chile’s INIA show significantly reduced post-harvest browning, helping cut food losses across processing, storage, retail, and households.
@@ -30,6 +34,22 @@ title: "식물 육종 뉴스"
 - **[Avances en la edición genética de patatas para reducir las pérdidas poscosecha](items/seedworld/2026/02/https_www.seedworld.com_p_122875.md)**
   - 2026-02-17 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122875.md) · [원문](https://www.seedworld.com/latam/2026/02/17/avances-en-la-edicion-genetica-de-patatas-para-reducir-las-perdidas-poscosecha/)
   - Papas editadas genéticamente desarrolladas por el INIA de Chile presentan una reducción significativa del pardeamiento poscosecha, ayudando a disminuir pérdidas en procesamiento, almacenamiento, come…
+
+- **[Brazil at the Forefront of AI-Driven Soybean Yield Prediction](items/seedworld/2026/02/https_www.seedworld.com_p_123018.md)**
+  - 2026-02-21 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123018.md) · [원문](https://www.seedworld.com/latam/2026/02/21/brazil-at-the-forefront-of-ai-driven-soybean-yield-prediction/)
+  - Brazil leads AI-driven soybean yield prediction by applying transfer learning. Researchers adapted a U.S.-trained model to Brazilian conditions using limited state or municipal data, improving cross-…
+
+- **[Brasil a la vanguardia de la predicción del rendimiento de la soja basada en IA](items/seedworld/2026/02/https_www.seedworld.com_p_123016.md)**
+  - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123016.md) · [원문](https://www.seedworld.com/latam/2026/02/20/brasil-a-la-vanguardia-de-la-prediccion-del-rendimiento-de-la-soja-basada-en-ia/)
+  - Brasil lidera la predicción del rendimiento de soja impulsada por IA mediante aprendizaje por transferencia. Los investigadores adaptaron un modelo entrenado en EE.
+
+- **[Harnessing Technology to Protect the World’s Crop Diversity](items/seedworld/2026/02/https_www.seedworld.com_p_123089.md)**
+  - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123089.md) · [원문](https://www.seedworld.com/europe/2026/02/19/harnessing-technology-to-protect-the-worlds-crop-diversity/)
+  - The Crop Trust has launched Securing Our Seeds (SOS), a USD 2 million Google.org-backed initiative to modernize global crop diversity conservation. The project will digitize genebanks using GRIN-Glob…
+
+- **[AAFC Research Station Closures Trigger Emergency Study in Ottawa](items/seedworld/2026/02/https_www.seedworld.com_p_123118.md)**
+  - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123118.md) · [원문](https://www.seedworld.com/canada/2026/02/19/aafc-research-station-closures-trigger-emergency-study-in-ottawa/)
+  - Closures in Ontario, Quebec, Nova Scotia, Manitoba, Alberta, and Saskatchewan are now under scrutiny by the House ag committee The post AAFC Research Station Closures Trigger Emergency Study in Ottaw…
 
 - **[Freshness, Flavor And Trust: The Market Signals Guiding The Next Wave Of Seed Development](items/seedworld/2026/02/https_www.seedworld.com_p_123114.md)**
   - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123114.md) · [원문](https://www.seedworld.com/us/2026/02/19/freshness-flavor-and-trust-the-market-signals-guiding-the-next-wave-of-seed-development/)
@@ -51,29 +71,31 @@ title: "식물 육종 뉴스"
   - 2026-02-19 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123081.md) · [원문](https://www.seedworld.com/europe/2026/02/19/empowering-africa-one-seed-at-a-time/)
   - African farmers are central to regional and global food security. The Syngenta Seedcare Institute in Brits, South Africa, develops locally tailored seed treatment solutions to improve crop emergence,…
 
-- **[The Future of Produce Starts with Seed Decisions](items/seedworld/2026/02/https_www.seedworld.com_p_123055.md)**
-  - 2026-02-19 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123055.md) · [원문](https://www.seedworld.com/us/2026/02/18/the-future-of-produce-starts-with-seed-decisions/)
-  - Consumer expectations retail consolidation labor shortages and climate pressure are reshaping produce faster than the industry can respond. Increasingly those forces are pushing upstream placing new…
-
-- **[Meet Seed World’s Connector of the Year](items/seedworld/2026/02/https_www.seedworld.com_p_123050.md)**
-  - 2026-02-19 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123050.md) · [원문](https://www.seedworld.com/us/2026/02/18/meet-seed-worlds-connector-of-the-year/)
-  - Seed World names Radicle Seed’s Lisa Branco Connector of the Year, recognizing her leadership in building relationships, fostering collaboration and strengthening connections across the seed industry.
-
-- **[MyPlate Reset Sends Early Signals to Seed](items/seedworld/2026/02/https_www.seedworld.com_p_123047.md)**
-  - 2026-02-19 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123047.md) · [원문](https://www.seedworld.com/us/2026/02/18/myplate-reset-sends-early-signals-to-seed/)
-  - The MyPlate reset is more than a nutrition story — it’s an early signal for seed. From the ASTA Vegetable and Flower Conference, this piece explores how federal nutrition guidance can influence breed…
-
-- **[밥에 넣어 먹는 작은 검정 땅콩 ‘보담’·‘흑찬’](items/nics/2026/02/943992.md)**
-  - 2026-02-19 · `nics` · [읽기](items/nics/2026/02/943992.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943992)
-
-- **[농촌진흥청, 국산 콩 산업 현장 찾아 활성화 방안 모색](items/nics/2026/02/943991.md)**
-  - 2026-02-19 · `nics` · [읽기](items/nics/2026/02/943991.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943991)
-
 
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
+
+- **[Brazil at the Forefront of AI-Driven Soybean Yield Prediction](items/seedworld/2026/02/https_www.seedworld.com_p_123018.md)**
+  - 2026-02-21 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123018.md) · [원문](https://www.seedworld.com/latam/2026/02/21/brazil-at-the-forefront-of-ai-driven-soybean-yield-prediction/)
+  - Brazil leads AI-driven soybean yield prediction by applying transfer learning. Researchers adapted a U.S.-trained model to Brazilian conditions using limited state or municipal data, improving cross-…
+
+- **[Brasil a la vanguardia de la predicción del rendimiento de la soja basada en IA](items/seedworld/2026/02/https_www.seedworld.com_p_123016.md)**
+  - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123016.md) · [원문](https://www.seedworld.com/latam/2026/02/20/brasil-a-la-vanguardia-de-la-prediccion-del-rendimiento-de-la-soja-basada-en-ia/)
+  - Brasil lidera la predicción del rendimiento de soja impulsada por IA mediante aprendizaje por transferencia. Los investigadores adaptaron un modelo entrenado en EE.
+
+- **[Harnessing Technology to Protect the World’s Crop Diversity](items/seedworld/2026/02/https_www.seedworld.com_p_123089.md)**
+  - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123089.md) · [원문](https://www.seedworld.com/europe/2026/02/19/harnessing-technology-to-protect-the-worlds-crop-diversity/)
+  - The Crop Trust has launched Securing Our Seeds (SOS), a USD 2 million Google.org-backed initiative to modernize global crop diversity conservation. The project will digitize genebanks using GRIN-Glob…
+
+- **[Gene Editing Is Getting Faster. Commercialization Still Isn’t](items/seedworld/2026/02/https_www.seedworld.com_p_123120.md)**
+  - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123120.md) · [원문](https://www.seedworld.com/us/2026/02/19/gene-editing-is-getting-faster-commercialization-still-isnt/)
+  - The seed industry is now at a point that is past CRISPR breakthrough. Commercialization is still a big hurdle.
+
+- **[AAFC Research Station Closures Trigger Emergency Study in Ottawa](items/seedworld/2026/02/https_www.seedworld.com_p_123118.md)**
+  - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123118.md) · [원문](https://www.seedworld.com/canada/2026/02/19/aafc-research-station-closures-trigger-emergency-study-in-ottawa/)
+  - Closures in Ontario, Quebec, Nova Scotia, Manitoba, Alberta, and Saskatchewan are now under scrutiny by the House ag committee The post AAFC Research Station Closures Trigger Emergency Study in Ottaw…
 
 - **[Freshness, Flavor And Trust: The Market Signals Guiding The Next Wave Of Seed Development](items/seedworld/2026/02/https_www.seedworld.com_p_123114.md)**
   - 2026-02-20 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123114.md) · [원문](https://www.seedworld.com/us/2026/02/19/freshness-flavor-and-trust-the-market-signals-guiding-the-next-wave-of-seed-development/)
@@ -145,41 +167,13 @@ title: "식물 육종 뉴스"
   - 2026-02-17 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122984.md) · [원문](https://www.seedworld.com/us/2026/02/16/why-vegetable-seed-companies-cant-afford-to-move-slow-anymore/)
   - New tools, platforms and ownership models are reshaping the seed industry, but real progress comes down to execution. With nearly 30 years of experience across production, supply chain and sales, Sak…
 
-- **[Chile Advances Regulatory Clarity for New Plant Breeding Technologies in Agriculture](items/seedworld/2026/02/https_www.seedworld.com_p_122872.md)**
-  - 2026-02-14 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122872.md) · [원문](https://www.seedworld.com/latam/2026/02/14/chile-advances-regulatory-clarity-for-new-plant-breeding-technologies-in-agriculture/)
-  - Chile’s Ministry of Agriculture, through SAG, proposed a resolution to formalize the technical procedure used to evaluate plant materials developed with New Breeding Techniques (NBT).
-
-- **[Register Now For Our Webinar on the Future of Plant Breeding](items/seedworld/2026/02/https_www.seedworld.com_p_122978.md)**
-  - 2026-02-14 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122978.md) · [원문](https://www.seedworld.com/canada/2026/02/13/register-now-for-our-webinar-on-the-future-of-plant-breeding/)
-  - This webinar will ask a simple question: If we could design the ideal plant breeding model for Western Canada today, what would it look like The post Register Now For Our Webinar on the Future of Pla…
-
-- **[‘대서’, ‘홍산’ 외통마늘 생산, 봄 파종으로 가능해요](items/rda/2026/02/100000807684.md)**
-  - 2026-02-14 · `rda` · [읽기](items/rda/2026/02/100000807684.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807684&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[밥에 넣어 먹는 작은 검정 땅콩 ‘보담’·‘흑찬’](items/rda/2026/02/100000807682.md)**
-  - 2026-02-14 · `rda` · [읽기](items/rda/2026/02/100000807682.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807682&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘대서’, ‘홍산’ 외통마늘 생산, 봄 파종으로 가능해요](items/nihhs/2026/02/100000807684.md)**
-  - 2026-02-14 · `nihhs` · [읽기](items/nihhs/2026/02/100000807684.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807684&mc=MN0000000136)
-
-- **[CO₂ and Crops: The Yield Driver EU Policy Rarely Talks About](items/seedworld/2026/02/https_www.seedworld.com_p_122914.md)**
-  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122914.md) · [원문](https://www.seedworld.com/europe/2026/02/13/co2-and-crops-the-yield-driver-eu-policy-rarely-talks-about/)
-  - Satellite data reveal rising CO₂ has significantly boosted crop yields, especially wheat, more than many EU climate models acknowledge. An NBER study links real-world CO₂ variation to higher maize, s…
-
-- **[Discovery May Help Barley Growers Better Manage Seed Dormancy](items/seedworld/2026/02/https_www.seedworld.com_p_122882.md)**
-  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122882.md) · [원문](https://www.seedworld.com/europe/2026/02/13/discovery-may-help-barley-growers-better-manage-seed-dormancy/)
-  - University of Adelaide researchers, partnering with Carlsberg Research Laboratory, mapped a key barley MAPK enzyme–substrate complex that regulates seed dormancy. Published in the International Journ…
-
-- **[Chile avanza en claridad regulatoria para nuevas tecnologías de fitomejoramiento en la agricultura](items/seedworld/2026/02/https_www.seedworld.com_p_122869.md)**
-  - 2026-02-13 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_122869.md) · [원문](https://www.seedworld.com/latam/2026/02/13/chile-avanza-en-claridad-regulatoria-para-nuevas-tecnologias-de-fitomejoramiento-en-la-agricultura/)
-  - Chile, a través del SAG del Ministerio de Agricultura, presentó una resolución para formalizar el procedimiento técnico de evaluación de materiales vegetales desarrollados con Nuevas Técnicas de Mejo…
-
 
 <a id="weekly-archive"></a>
 ## 지난 주간 아카이브
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-02-23](weekly/2026-02-23.md)
 - [2026-02-20](weekly/2026-02-20.md)
 - [2026-02-18](weekly/2026-02-18.md)
 - [2026-02-16](weekly/2026-02-16.md)

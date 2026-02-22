@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/13/discovery-may-help-barley-grow
 summary: "University of Adelaide researchers, partnering with Carlsberg Research Laboratory, mapped a key barley MAPK enzyme–substrate complex that regulates seed dormancy. Published in the International Journal of Molecular Sciences, the work"
 attachments: []
 tags: []
-fetched_at: "2026-02-20T06:46:06+09:00"
+fetched_at: "2026-02-23T06:40:33+09:00"
 ---
 # Discovery May Help Barley Growers Better Manage Seed Dormancy
 

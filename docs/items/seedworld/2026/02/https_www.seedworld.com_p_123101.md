@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/19/from-field-to-fire-how-hot-is-hot/
 summary: "Superhot peppers take awhile to develop. The Scoville Scale is a great tool to know what's hot and what's not so hot."
 attachments: []
 tags: []
-fetched_at: "2026-02-20T06:46:06+09:00"
+fetched_at: "2026-02-23T06:40:33+09:00"
 ---
 # From Field to Fire: How Hot is Hot?
 
