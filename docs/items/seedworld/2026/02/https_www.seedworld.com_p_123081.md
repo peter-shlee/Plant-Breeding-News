@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/19/empowering-africa-one-seed-at-
 summary: "African farmers are central to regional and global food security. The Syngenta Seedcare Institute in Brits, South Africa, develops locally tailored seed treatment solutions to improve crop emergence, soil health and sustainable yields."
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:50+09:00"
 ---
 # Empowering Africa, One Seed at a Time
 

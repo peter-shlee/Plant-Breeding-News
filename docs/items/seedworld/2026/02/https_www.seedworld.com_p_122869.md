@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/13/chile-avanza-en-claridad-regula
 summary: "Chile, a través del SAG del Ministerio de Agricultura, presentó una resolución para formalizar el procedimiento técnico de evaluación de materiales vegetales desarrollados con Nuevas Técnicas de Mejoramiento (NBT)."
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:51+09:00"
 ---
 # Chile avanza en claridad regulatoria para nuevas tecnologías de fitomejoramiento en la agricultura
 

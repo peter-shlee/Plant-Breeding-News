@@ -9,7 +9,7 @@ summary: "Gene-edited potatoes developed by Chile’s INIA show significantly re
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:51+09:00"
 ---
 # Advancing Gene-Edited Potatoes to Cut Post-Harvest Losses
 

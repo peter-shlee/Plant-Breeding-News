@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/17/navigating-seed-labeling-requireme
 summary: "A new national Seed Labeling Database from the Oregon Seed Association helps seed companies navigate complex state and federal labeling requirements for specialty crops across all 50 states."
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:51+09:00"
 ---
 # Navigating Seed Labeling Requirements Across All 50 States
 

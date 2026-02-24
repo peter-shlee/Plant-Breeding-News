@@ -40,6 +40,3 @@ source: "nihhs"
 
 - **[농촌진흥청, 아산 딸기 재배 농가 한파 대응 시설 점검](../../items/nihhs/2026/01/100000807376.md)**
   - 2026-01-27 · [읽기](../../items/nihhs/2026/01/100000807376.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807376&mc=MN0000000136)
-
-- **[농촌진흥청 사과연구센터 이동혁 센터장, 한광호 농업상 수상](../../items/nihhs/2026/01/100000807329.md)**
-  - 2026-01-25 · [읽기](../../items/nihhs/2026/01/100000807329.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807329&mc=MN0000000136)

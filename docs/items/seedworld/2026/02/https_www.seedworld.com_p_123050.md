@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/18/meet-seed-worlds-connector-of-the-
 summary: "Seed World names Radicle Seed’s Lisa Branco Connector of the Year, recognizing her leadership in building relationships, fostering collaboration and strengthening connections across the seed industry."
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:51+09:00"
 ---
 # Meet Seed World’s Connector of the Year
 

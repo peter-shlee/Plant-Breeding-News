@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/19/designed-to-burn-breeding-superhot
 summary: "Ed Currie, inventor of the Carolina Reaper, has built a legacy breeding the hottest of hot peppers. What started as a backyard hobby has grown into a impactful career."
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:50+09:00"
 ---
 # Designed to Burn: Breeding Superhot Peppers
 

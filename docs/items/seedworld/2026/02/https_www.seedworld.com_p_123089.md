@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/19/harnessing-technology-to-prote
 summary: "The Crop Trust has launched Securing Our Seeds (SOS), a USD 2 million Google.org-backed initiative to modernize global crop diversity conservation. The project will digitize genebanks using GRIN-Global software, integrate data with the"
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:50+09:00"
 ---
 # Harnessing Technology to Protect the World’s Crop Diversity
 

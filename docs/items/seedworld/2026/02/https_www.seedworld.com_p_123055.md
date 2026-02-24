@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/18/the-future-of-produce-starts-with-
 summary: "Consumer expectations retail consolidation labor shortages and climate pressure are reshaping produce faster than the industry can respond. Increasingly those forces are pushing upstream placing new demands on plant breeding trait"
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:51+09:00"
 ---
 # The Future of Produce Starts with Seed Decisions
 

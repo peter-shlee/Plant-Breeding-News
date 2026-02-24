@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/17/how-biology-drives-the-bottom-line
 summary: "Farm success in an unpredictable world depends on resilience—reducing yield loss when weather, disease, tariffs, and input volatility strike. While resilience is harder to measure than yield gains, it stabilizes performance by limiting"
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:51+09:00"
 ---
 # How Biology Drives the Bottom Line — Why Resilience, Consistency, and System Performance are Reshaping ROI Conversations
 

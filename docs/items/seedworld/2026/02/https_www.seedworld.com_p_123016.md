@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/20/brasil-a-la-vanguardia-de-la-pr
 summary: "Brasil lidera la predicción del rendimiento de soja impulsada por IA mediante aprendizaje por transferencia. Los investigadores adaptaron un modelo entrenado en EE."
 attachments: []
 tags: []
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:50+09:00"
 ---
 # Brasil a la vanguardia de la predicción del rendimiento de la soja basada en IA
 

@@ -9,7 +9,7 @@ summary: "Greenleaf Seeds in Saskatchewan uses colour sorting technology to impr
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-02-23T06:40:33+09:00"
+fetched_at: "2026-02-25T06:46:51+09:00"
 ---
 # Inside a Modern Seed Cleaning Plant: How Colour Sorters Really Add Value
 

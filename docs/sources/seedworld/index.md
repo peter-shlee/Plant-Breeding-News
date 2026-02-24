@@ -11,6 +11,34 @@ source: "seedworld"
 
 ## 2026-02
 
+- **[A Viral Shortcut? New Gene-Editing System Could Remove a Major Breeding Bottleneck](../../items/seedworld/2026/02/https_www.seedworld.com_p_123168.md)**
+  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123168.md) · [원문](https://www.seedworld.com/us/2026/02/24/a-viral-shortcut-new-gene-editing-system-could-remove-a-major-breeding-bottleneck/)
+  - New research in Nature Plants explores a viral gene-editing delivery system that produces heritable, transgene-free edits in plants, offering a potential path to faster breeding and reduced reliance…
+
+- **[From Kernel to Code: Apply to the InnovAction Stage 2026](../../items/seedworld/2026/02/https_www.seedworld.com_p_123161.md)**
+  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123161.md) · [원문](https://www.seedworld.com/europe/2026/02/24/from-kernel-to-code-apply-to-the-innovaction-stage-2026/)
+  - Euroseeds is launching the InnovAction Stage 2026—calling visionary start-ups and public–private partnerships to showcase game-changing seed sector innovations. Under “From Kernel to Code,” applicant…
+
+- **[Investigación chilena identifica un mecanismo molecular que impulsa la resiliencia de las plantas a la sequía](../../items/seedworld/2026/02/https_www.seedworld.com_p_123021.md)**
+  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123021.md) · [원문](https://www.seedworld.com/latam/2026/02/24/investigacion-chilena-identifica-un-mecanismo-molecular-que-impulsa-la-resiliencia-de-las-plantas-a-la-sequia/)
+  - Investigadores chilenos describen un “interruptor” molecular que ayuda a las plantas a equilibrar crecimiento y supervivencia ante sequía. Publicado en PNAS, el estudio identifica la proteína NLP7 co…
+
+- **[Boosting Soil Carbon Through Smarter Miscanthus Selection](../../items/seedworld/2026/02/https_www.seedworld.com_p_123154.md)**
+  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123154.md) · [원문](https://www.seedworld.com/europe/2026/02/24/boosting-soil-carbon-through-smarter-miscanthus-selection/)
+  - Aberystwyth University researchers report new Miscanthus traits that could boost soil carbon storage, helping climate change mitigation. Published in Frontiers in Plant Science, the study analysed le…
+
+- **[Inside Doug Miller’s 15-Year Tenure at CSGA: SRM, Innovation and Digital Transformation](../../items/seedworld/2026/02/https_www.seedworld.com_p_123157.md)**
+  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123157.md) · [원문](https://www.seedworld.com/canada/2026/02/23/inside-doug-millers-15-year-tenure-at-csga-srm-innovation-and-digital-transformation/)
+  - From controversial digitization to regulatory reform, Miller’s 15-year tenure changed how Canada’s seed certification system operates The post Inside Doug Miller’s 15-Year Tenure at CSGA: SRM, Innova…
+
+- **[Motivation Isn’t Broken. Our Jobs Are.](../../items/seedworld/2026/02/https_www.seedworld.com_p_123111.md)**
+  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123111.md) · [원문](https://www.seedworld.com/us/2026/02/23/motivation-isnt-broken-our-jobs-are/)
+  - People aren't unmotivated. They feel like their work isn't moving the needle.
+
+- **[Large-Scale DNA Variants Drive Cucumber History, Study Finds](../../items/seedworld/2026/02/https_www.seedworld.com_p_123145.md)**
+  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123145.md) · [원문](https://www.seedworld.com/europe/2026/02/23/large-scale-dna-variants-drive-cucumber-history-study-finds/)
+  - A new Nature Genetics study led by Boyce Thompson Institute’s Zhangjun Fei reveals that large DNA “structural variants” play a major role in cucumber evolution and breeding.
+
 - **[Brazil at the Forefront of AI-Driven Soybean Yield Prediction](../../items/seedworld/2026/02/https_www.seedworld.com_p_123018.md)**
   - 2026-02-21 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123018.md) · [원문](https://www.seedworld.com/latam/2026/02/21/brazil-at-the-forefront-of-ai-driven-soybean-yield-prediction/)
   - Brazil leads AI-driven soybean yield prediction by applying transfer learning. Researchers adapted a U.S.-trained model to Brazilian conditions using limited state or municipal data, improving cross-…
@@ -126,31 +154,3 @@ source: "seedworld"
 - **[Arctic Strategy, Trade Wars and the Future of Prairie Farming — According to Peter Mansbridge](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md)**
   - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md) · [원문](https://www.seedworld.com/canada/2026/02/12/arctic-strategy-trade-wars-and-the-future-of-prairie-farming/)
   - Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming…
-
-- **[Transgenic Corn and Soy Drive Cuba’s Push to Boost Grain Production](../../items/seedworld/2026/02/https_www.seedworld.com_p_122866.md)**
-  - 2026-02-12 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122866.md) · [원문](https://www.seedworld.com/latam/2026/02/12/transgenic-corn-and-soy-drive-cubas-push-to-boost-grain-production/)
-  - Cuba remains heavily dependent on imported corn and soy, limiting feed production and agricultural output. Despite proven high yields from domestically developed transgenic corn and soybean varieties…
-
-- **[The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace”](../../items/seedworld/2026/02/https_www.seedworld.com_p_122945.md)**
-  - 2026-02-12 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122945.md) · [원문](https://www.seedworld.com/canada/2026/02/11/the-new-ag-trade-map-why-canadian-seed-companies-should-rethink-the-global-marketplace/)
-  - One analyst's advice: diversify beyond China, treat food like energy, and build demand at home The post The New Trade Map: Why Canadian Seed Companies Should Rethink “the Global Marketplace” appeared…
-
-- **[Euroseeds Publishes Updated Position on Research](../../items/seedworld/2026/02/https_www.seedworld.com_p_122943.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122943.md) · [원문](https://www.seedworld.com/europe/2026/02/11/euroseeds-publishes-updated-position-on-research/)
-  - Euroseeds’ updated position paper calls on the EU to secure dedicated plant breeding research funding under FP10 and the European Competitiveness Fund to strengthen sustainable agriculture, the bioec…
-
-- **[Ahead of Leaders’ Retreat, Agri-Food Chain Calls for Stronger EU Support](../../items/seedworld/2026/02/https_www.seedworld.com_p_122941.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122941.md) · [원문](https://www.seedworld.com/europe/2026/02/11/ahead-of-leaders-retreat-agri-food-chain-calls-for-stronger-eu-support/)
-  - Ahead of the EU Leaders’ Retreat on 12 February, 40 agri-food organisations urge EU institutions to put agriculture and food at the heart of Europe’s competitiveness strategy.
-
-- **[Maíz y soja transgénicos impulsan el impulso de Cuba para aumentar la producción de granos](../../items/seedworld/2026/02/https_www.seedworld.com_p_122863.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122863.md) · [원문](https://www.seedworld.com/latam/2026/02/11/maiz-y-soja-transgenicos-impulsan-el-impulso-de-cuba-para-aumentar-la-produccion-de-granos/)
-  - Cuba mantiene una fuerte dependencia de las importaciones de maíz y soya, lo que limita la producción de piensos y el rendimiento agrícola. Aunque variedades transgénicas desarrolladas localmente mue…
-
-- **[How Smart Decisions at the Start Set Your Crop up for Success](../../items/seedworld/2026/02/https_www.seedworld.com_p_122938.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122938.md) · [원문](https://www.seedworld.com/us/2026/02/11/how-smart-decisions-at-the-start-set-your-crop-up-for-success/)
-  - Crop failure can come from drought, hail, or volatile markets—but smart agronomy decisions reduce risk. Choosing the right seed genetics for local conditions is the foundation, and advanced seed coat…
-
-- **[Why Does Advocacy Matter for the EU Seed Sector?](../../items/seedworld/2026/02/https_www.seedworld.com_p_122684.md)**
-  - 2026-02-11 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122684.md) · [원문](https://www.seedworld.com/europe/2026/02/10/why-does-advocacy-matter-for-the-eu-seed-sector/)
-  - This column explains the long-term nature of EU agricultural policymaking and the essential role of EU associations such as Euroseeds. It highlights stakeholder engagement since the Common Agricultur…
