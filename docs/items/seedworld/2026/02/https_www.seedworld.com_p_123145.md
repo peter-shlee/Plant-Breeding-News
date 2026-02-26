@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/23/large-scale-dna-variants-drive
 summary: "A new Nature Genetics study led by Boyce Thompson Institute’s Zhangjun Fei reveals that large DNA “structural variants” play a major role in cucumber evolution and breeding."
 attachments: []
 tags: []
-fetched_at: "2026-02-25T06:46:50+09:00"
+fetched_at: "2026-02-27T06:44:18+09:00"
 ---
 # Large-Scale DNA Variants Drive Cucumber History, Study Finds
 

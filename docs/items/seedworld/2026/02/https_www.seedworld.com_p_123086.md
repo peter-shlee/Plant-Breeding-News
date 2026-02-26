@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/19/new-research-reveals-camelinas
 summary: "EU-funded UNTWIST research shows camelina (Camelina sativa) could help climate-proof agriculture as heatwaves and droughts intensify. Scientists tested 54 camelina lines across controlled environments and European field trials, finding"
 attachments: []
 tags: []
-fetched_at: "2026-02-25T06:46:50+09:00"
+fetched_at: "2026-02-27T06:44:18+09:00"
 ---
 # New Research Reveals Camelina’s Climate Adaptation Potential
 

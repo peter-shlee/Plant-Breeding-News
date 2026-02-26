@@ -11,6 +11,38 @@ source: "seedworld"
 
 ## 2026-02
 
+- **[Federal Budget Cuts Put Canada’s Wheat Breeding System at Risk, New Report Warns](../../items/seedworld/2026/02/https_www.seedworld.com_p_123205.md)**
+  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123205.md) · [원문](https://www.seedworld.com/canada/2026/02/26/federal-budget-cuts-put-canadas-wheat-breeding-system-at-risk-new-report-warns/)
+  - A new report released today by the Canadian Wheat Research Coalition warns that Canada’s wheat breeding innovation system is facing “critical gaps and risks” The post Federal Budget Cuts Put Canada’s…
+
+- **[Plant Hormone Therapy Could Help Crops Fight Disease Without Sacrificing Yield](../../items/seedworld/2026/02/https_www.seedworld.com_p_123196.md)**
+  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123196.md) · [원문](https://www.seedworld.com/us/2026/02/26/plant-hormone-therapy-could-help-crops-fight-disease-without-sacrificing-yield/)
+  - Colorado State University research shows plant hormone therapy can maintain growth while crops defend against disease, offering potential gains in wheat corn and soybean yield with reduced reliance o…
+
+- **[Genebanks from Africa, Asia and Europe Safeguard Crops in Svalbard](../../items/seedworld/2026/02/https_www.seedworld.com_p_123193.md)**
+  - 2026-02-26 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123193.md) · [원문](https://www.seedworld.com/europe/2026/02/26/genebanks-from-africa-asia-and-europe-safeguard-crops-in-svalbard/)
+  - The Svalbard Global Seed Vault marked its first 2026 deposit, securing 7,864 seed samples from 10 genebanks across Africa, Asia, Europe and the Americas. First-time contributions came from Guatemala…
+
+- **[Seed Regulatory Modernization: Where Industry Aligns — and Where it Pushes Back](../../items/seedworld/2026/02/https_www.seedworld.com_p_123190.md)**
+  - 2026-02-26 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123190.md) · [원문](https://www.seedworld.com/canada/2026/02/25/seed-regulatory-modernization-where-industry-aligns-and-where-it-pushes-back/)
+  - Momentum builds for Canada’s seed regulations overhaul as the CFIA releases its SRM What We Heard Report. Now comes the hard part The post Seed Regulatory Modernization: Where Industry Aligns — and W…
+
+- **[Chilean Research Identifies Molecular “Switch” Behind Plant Drought Resilience](../../items/seedworld/2026/02/https_www.seedworld.com_p_123024.md)**
+  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123024.md) · [원문](https://www.seedworld.com/latam/2026/02/25/chilean-research-identifies-molecular-switch-behind-plant-drought-resilience/)
+  - Chilean researchers report a molecular “switch” that helps plants balance growth and drought survival. Published in PNAS, the study identifies the protein NLP7 as a key regulator: it activates growth…
+
+- **[Dirty Ships, Lifted Embargoes and the Hidden Power of Grain](../../items/seedworld/2026/02/https_www.seedworld.com_p_123178.md)**
+  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123178.md) · [원문](https://www.seedworld.com/europe/2026/02/25/dirty-ships-lifted-embargoes-and-the-hidden-power-of-grain/)
+  - This article examines how climate-driven famine and uninspected grain trade helped spread the Black Death, drawing parallels to today’s risks from illegal and counterfeit seeds.
+
+- **[Three Travel Hacks to Keep You Focused During Work Travel](../../items/seedworld/2026/02/https_www.seedworld.com_p_123174.md)**
+  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123174.md) · [원문](https://www.seedworld.com/us/2026/02/24/three-travel-hacks-to-keep-you-focused-during-work-travel/)
+  - Winter is conference and travel season—when seed industry leaders plan and contract for the critical summer selling window. Every meeting can grow your business, improve margins, and build partnershi…
+
+- **[Study Warns of Rising Heat Risks for Global Wheat Yields](../../items/seedworld/2026/02/https_www.seedworld.com_p_123148.md)**
+  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123148.md) · [원문](https://www.seedworld.com/europe/2026/02/24/study-warns-of-rising-heat-risks-for-global-wheat-yields/)
+  - New research from Rothamsted Research suggests heatwaves during wheat flowering may soon pose a bigger threat to yields than drought. Using climate projections and the Sirius wheat model, researchers…
+
 - **[A Viral Shortcut? New Gene-Editing System Could Remove a Major Breeding Bottleneck](../../items/seedworld/2026/02/https_www.seedworld.com_p_123168.md)**
   - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123168.md) · [원문](https://www.seedworld.com/us/2026/02/24/a-viral-shortcut-new-gene-editing-system-could-remove-a-major-breeding-bottleneck/)
   - New research in Nature Plants explores a viral gene-editing delivery system that produces heritable, transgene-free edits in plants, offering a potential path to faster breeding and reduced reliance…
@@ -122,35 +154,3 @@ source: "seedworld"
 - **[Why Vegetable Seed Companies Can’t Afford To Move Slow Anymore](../../items/seedworld/2026/02/https_www.seedworld.com_p_122984.md)**
   - 2026-02-17 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122984.md) · [원문](https://www.seedworld.com/us/2026/02/16/why-vegetable-seed-companies-cant-afford-to-move-slow-anymore/)
   - New tools, platforms and ownership models are reshaping the seed industry, but real progress comes down to execution. With nearly 30 years of experience across production, supply chain and sales, Sak…
-
-- **[Chile Advances Regulatory Clarity for New Plant Breeding Technologies in Agriculture](../../items/seedworld/2026/02/https_www.seedworld.com_p_122872.md)**
-  - 2026-02-14 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122872.md) · [원문](https://www.seedworld.com/latam/2026/02/14/chile-advances-regulatory-clarity-for-new-plant-breeding-technologies-in-agriculture/)
-  - Chile’s Ministry of Agriculture, through SAG, proposed a resolution to formalize the technical procedure used to evaluate plant materials developed with New Breeding Techniques (NBT).
-
-- **[Register Now For Our Webinar on the Future of Plant Breeding](../../items/seedworld/2026/02/https_www.seedworld.com_p_122978.md)**
-  - 2026-02-14 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122978.md) · [원문](https://www.seedworld.com/canada/2026/02/13/register-now-for-our-webinar-on-the-future-of-plant-breeding/)
-  - This webinar will ask a simple question: If we could design the ideal plant breeding model for Western Canada today, what would it look like The post Register Now For Our Webinar on the Future of Pla…
-
-- **[CO₂ and Crops: The Yield Driver EU Policy Rarely Talks About](../../items/seedworld/2026/02/https_www.seedworld.com_p_122914.md)**
-  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122914.md) · [원문](https://www.seedworld.com/europe/2026/02/13/co2-and-crops-the-yield-driver-eu-policy-rarely-talks-about/)
-  - Satellite data reveal rising CO₂ has significantly boosted crop yields, especially wheat, more than many EU climate models acknowledge. An NBER study links real-world CO₂ variation to higher maize, s…
-
-- **[Discovery May Help Barley Growers Better Manage Seed Dormancy](../../items/seedworld/2026/02/https_www.seedworld.com_p_122882.md)**
-  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122882.md) · [원문](https://www.seedworld.com/europe/2026/02/13/discovery-may-help-barley-growers-better-manage-seed-dormancy/)
-  - University of Adelaide researchers, partnering with Carlsberg Research Laboratory, mapped a key barley MAPK enzyme–substrate complex that regulates seed dormancy. Published in the International Journ…
-
-- **[Chile avanza en claridad regulatoria para nuevas tecnologías de fitomejoramiento en la agricultura](../../items/seedworld/2026/02/https_www.seedworld.com_p_122869.md)**
-  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122869.md) · [원문](https://www.seedworld.com/latam/2026/02/13/chile-avanza-en-claridad-regulatoria-para-nuevas-tecnologias-de-fitomejoramiento-en-la-agricultura/)
-  - Chile, a través del SAG del Ministerio de Agricultura, presentó una resolución para formalizar el procedimiento técnico de evaluación de materiales vegetales desarrollados con Nuevas Técnicas de Mejo…
-
-- **[Inside a Modern Seed Cleaning Plant: How Colour Sorters Really Add Value](../../items/seedworld/2026/02/https_www.seedworld.com_p_122968.md)**
-  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122968.md) · [원문](https://www.seedworld.com/canada/2026/02/12/inside-a-modern-seed-cleaning-plant-how-colour-sorters-really-add-value/)
-  - Greenleaf Seeds in Saskatchewan uses colour sorting technology to improve seed quality, reduce risk, and unlock new opportunities across oats, wheat, lentils, and more The post Inside a Modern Seed C…
-
-- **[Redefining Seed Enhancement: 75 Seconds with Summit Seed Coatings](../../items/seedworld/2026/02/https_www.seedworld.com_p_122967.md)**
-  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122967.md) · [원문](https://www.seedworld.com/us/2026/02/12/redefining-seed-enhancement-75-seconds-with-summit-seed-coatings/)
-  - Spend 75 seconds with Summit Seed Coatings' Joseph Young. He talks about how the company has taken traditional roots into an evolving, but continual customer-focused way of doing business.
-
-- **[Arctic Strategy, Trade Wars and the Future of Prairie Farming — According to Peter Mansbridge](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md)**
-  - 2026-02-13 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122955.md) · [원문](https://www.seedworld.com/canada/2026/02/12/arctic-strategy-trade-wars-and-the-future-of-prairie-farming/)
-  - Peter Mansbridge connects climate change, northern security and China-Canada trade relations to our industry's long-term success The post Arctic Strategy, Trade Wars and the Future of Prairie Farming…

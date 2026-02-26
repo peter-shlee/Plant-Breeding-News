@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/24/boosting-soil-carbon-through-s
 summary: "Aberystwyth University researchers report new Miscanthus traits that could boost soil carbon storage, helping climate change mitigation. Published in Frontiers in Plant Science, the study analysed leaves, roots, and rhizomes from 11"
 attachments: []
 tags: []
-fetched_at: "2026-02-25T06:46:50+09:00"
+fetched_at: "2026-02-27T06:44:18+09:00"
 ---
 # Boosting Soil Carbon Through Smarter Miscanthus Selection
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/17/why-speed-isnt-the-same-as-progres
 summary: "The February issue of Seed World U.S. is full of vegetable and flower seed industry-specific stories."
 attachments: []
 tags: []
-fetched_at: "2026-02-25T06:46:51+09:00"
+fetched_at: "2026-02-27T06:44:18+09:00"
 ---
 # Why Speed Isn’t the Same as Progress
 

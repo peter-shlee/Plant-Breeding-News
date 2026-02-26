@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/23/inside-doug-millers-15-year-te
 summary: "From controversial digitization to regulatory reform, Miller’s 15-year tenure changed how Canada’s seed certification system operates The post Inside Doug Miller’s 15-Year Tenure at CSGA: SRM, Innovation and Digital Transformation appeared"
 attachments: []
 tags: []
-fetched_at: "2026-02-25T06:46:50+09:00"
+fetched_at: "2026-02-27T06:44:18+09:00"
 ---
 # Inside Doug Miller’s 15-Year Tenure at CSGA: SRM, Innovation and Digital Transformation
 

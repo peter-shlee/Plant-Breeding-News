@@ -34,9 +34,3 @@ source: "nihhs"
 
 - **[국산 감귤 ‘탐나는봉’ 보호…유전체 기반 식별 기술 마련](../../items/nihhs/2026/02/100000807514.md)**
   - 2026-02-06 · [읽기](../../items/nihhs/2026/02/100000807514.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807514&mc=MN0000000136)
-
-
-## 2026-01
-
-- **[농촌진흥청, 아산 딸기 재배 농가 한파 대응 시설 점검](../../items/nihhs/2026/01/100000807376.md)**
-  - 2026-01-27 · [읽기](../../items/nihhs/2026/01/100000807376.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807376&mc=MN0000000136)

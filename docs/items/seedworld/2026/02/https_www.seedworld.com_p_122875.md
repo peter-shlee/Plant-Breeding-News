@@ -9,7 +9,7 @@ summary: "Papas editadas genéticamente desarrolladas por el INIA de Chile prese
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-02-25T06:46:51+09:00"
+fetched_at: "2026-02-27T06:44:18+09:00"
 ---
 # Avances en la edición genética de patatas para reducir las pérdidas poscosecha
 

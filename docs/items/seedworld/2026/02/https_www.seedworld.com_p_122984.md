@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/16/why-vegetable-seed-companies-cant-
 summary: "New tools, platforms and ownership models are reshaping the seed industry, but real progress comes down to execution. With nearly 30 years of experience across production, supply chain and sales, Sakata Seed America’s vegetable business"
 attachments: []
 tags: []
-fetched_at: "2026-02-25T06:46:51+09:00"
+fetched_at: "2026-02-27T06:44:18+09:00"
 ---
 # Why Vegetable Seed Companies Can’t Afford To Move Slow Anymore
 

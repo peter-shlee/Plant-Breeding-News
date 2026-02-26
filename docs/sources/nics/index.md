@@ -37,9 +37,3 @@ source: "nics"
 
 - **[벼 마른논 써레질, 저탄소 농업기술 신규 등록](../../items/nics/2026/01/943955.md)**
   - 2026-01-30 · [읽기](../../items/nics/2026/01/943955.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943955)
-
-- **[국립식량과학원, 식량작물 현장 전문가 연합회 간담회 가져](../../items/nics/2026/01/943947.md)**
-  - 2026-01-28 · [읽기](../../items/nics/2026/01/943947.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943947)
-
-- **[농촌진흥청, 최고품질 벼 품종 ‘수광1’ 추가 등재](../../items/nics/2026/01/943946.md)**
-  - 2026-01-28 · [읽기](../../items/nics/2026/01/943946.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943946)

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/24/investigacion-chilena-identific
 summary: "Investigadores chilenos describen un “interruptor” molecular que ayuda a las plantas a equilibrar crecimiento y supervivencia ante sequía. Publicado en PNAS, el estudio identifica la proteína NLP7 como regulador clave: activa genes de"
 attachments: []
 tags: []
-fetched_at: "2026-02-25T06:46:50+09:00"
+fetched_at: "2026-02-27T06:44:18+09:00"
 ---
 # Investigación chilena identifica un mecanismo molecular que impulsa la resiliencia de las plantas a la sequía
 
