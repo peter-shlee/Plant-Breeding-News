@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/23/motivation-isnt-broken-our-jobs-ar
 summary: "People aren't unmotivated. They feel like their work isn't moving the needle."
 attachments: []
 tags: []
-fetched_at: "2026-02-27T06:44:18+09:00"
+fetched_at: "2026-03-02T06:40:29+09:00"
 ---
 # Motivation Isn’t Broken. Our Jobs Are.
 

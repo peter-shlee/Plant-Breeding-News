@@ -28,12 +28,3 @@ source: "nics"
 
 - **[씨고구마, 보온덮개로 난방비 부담 덜고 모종은 쑥쑥!](../../items/nics/2026/02/943974.md)**
   - 2026-02-09 · [읽기](../../items/nics/2026/02/943974.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943974)
-
-
-## 2026-01
-
-- **[농촌진흥청, 치유농업 연계 ‘치유음식’ 활용 기반 마련](../../items/nics/2026/01/943956.md)**
-  - 2026-01-30 · [읽기](../../items/nics/2026/01/943956.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943956)
-
-- **[벼 마른논 써레질, 저탄소 농업기술 신규 등록](../../items/nics/2026/01/943955.md)**
-  - 2026-01-30 · [읽기](../../items/nics/2026/01/943955.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943955)

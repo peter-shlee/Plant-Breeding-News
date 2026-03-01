@@ -9,7 +9,30 @@ source: "seedworld"
 
 - [홈으로](../../index.md)
 
+## 2026-03
+
+- **[Gene Expression VS Soybean White Mold](../../items/seedworld/2026/03/https_www.seedworld.com_p_123213.md)**
+  - 2026-03-01 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123213.md) · [원문](https://www.seedworld.com/us/2026/03/01/gene-expression-vs-soybean-white-mold/)
+  - Heads Up® helps soybean growers manage unpredictable disease pressure with proactive, full-season protection starting at germination. Unlike narrow fungicide seed treatments and timing-sensitive foli…
+
+
 ## 2026-02
+
+- **[New Review Advances Precision Gene Insertion in Corn](../../items/seedworld/2026/02/https_www.seedworld.com_p_123032.md)**
+  - 2026-02-28 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123032.md) · [원문](https://www.seedworld.com/latam/2026/02/28/new-review-advances-precision-gene-insertion-in-corn/)
+  - A new review highlights advances in precision gene insertion in corn, focusing on site-specific transgene integration and genomic “safe harbors.” Led by GCCRC researchers, the study explains how next…
+
+- **[Nueva revisión avanza en la inserción precisa de genes en maíz](../../items/seedworld/2026/02/https_www.seedworld.com_p_123027.md)**
+  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123027.md) · [원문](https://www.seedworld.com/latam/2026/02/27/nueva-revision-avanza-en-la-insercion-precisa-de-genes-en-maiz/)
+  - Una nueva revisión destaca avances en la inserción precisa de genes en maíz, centrada en la integración específica y los “sitios seguros” genómicos. Liderado por investigadores del GCCRC, el estudio…
+
+- **[Early Release of EuroBlight Blight Monitoring Results for the 2025 Potato Crop](../../items/seedworld/2026/02/https_www.seedworld.com_p_123151.md)**
+  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123151.md) · [원문](https://www.seedworld.com/europe/2026/02/26/early-release-of-euroblight-blight-monitoring-results-for-the-2025-potato-crop/)
+  - EuroBlight’s first 2025 potato season results show Europe’s late blight population remains dominated by the aggressive EU36 genotype, while EU43 and EU46 strains continue shifting regionally.
+
+- **[LETTER TO THE EDITOR: Fiscal Discipline Should Target AAFC Overhead — Not High-Return Research](../../items/seedworld/2026/02/https_www.seedworld.com_p_123209.md)**
+  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123209.md) · [원문](https://www.seedworld.com/canada/2026/02/26/letter-to-the-editor-fiscal-discipline-should-target-aafc-overhead-not-high-return-research/)
+  - Two wheat breeding legends say cutting front-line science that delivers some of the highest returns of any public investment is short-term thinking. The post LETTER TO THE EDITOR: Fiscal Discipline S…
 
 - **[Federal Budget Cuts Put Canada’s Wheat Breeding System at Risk, New Report Warns](../../items/seedworld/2026/02/https_www.seedworld.com_p_123205.md)**
   - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123205.md) · [원문](https://www.seedworld.com/canada/2026/02/26/federal-budget-cuts-put-canadas-wheat-breeding-system-at-risk-new-report-warns/)
@@ -134,23 +157,3 @@ source: "seedworld"
 - **[Why Proposed Dicamba Restrictions Could Impact Canadian Soybean Seed Production](../../items/seedworld/2026/02/https_www.seedworld.com_p_123009.md)**
   - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123009.md) · [원문](https://www.seedworld.com/canada/2026/02/17/why-proposed-dicamba-restrictions-could-impact-canadian-soybean-seed-production/)
   - Dicamba’s future in Canada is now tied to more than weed control The post Why Proposed Dicamba Restrictions Could Impact Canadian Soybean Seed Production appeared first on Seed World .
-
-- **[What’s Happening at ASTA Vegetable and Flower Conference 2026?](../../items/seedworld/2026/02/https_www.seedworld.com_p_123000.md)**
-  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123000.md) · [원문](https://www.seedworld.com/us/2026/02/17/whats-happening-at-asta-vegetable-and-flower-conference-2026/)
-  - Scenes and snippets from the 2026 ASTA Vegetable and Flower Seed Conference in San Diego, California The post What’s Happening at ASTA Vegetable and Flower Conference 2026?
-
-- **[Navigating Seed Labeling Requirements Across All 50 States](../../items/seedworld/2026/02/https_www.seedworld.com_p_122997.md)**
-  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122997.md) · [원문](https://www.seedworld.com/us/2026/02/17/navigating-seed-labeling-requirements-across-all-50-states/)
-  - A new national Seed Labeling Database from the Oregon Seed Association helps seed companies navigate complex state and federal labeling requirements for specialty crops across all 50 states.
-
-- **[Why Speed Isn’t the Same as Progress](../../items/seedworld/2026/02/https_www.seedworld.com_p_122991.md)**
-  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122991.md) · [원문](https://www.seedworld.com/us/2026/02/17/why-speed-isnt-the-same-as-progress/)
-  - The February issue of Seed World U.S. is full of vegetable and flower seed industry-specific stories.
-
-- **[Avances en la edición genética de patatas para reducir las pérdidas poscosecha](../../items/seedworld/2026/02/https_www.seedworld.com_p_122875.md)**
-  - 2026-02-17 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122875.md) · [원문](https://www.seedworld.com/latam/2026/02/17/avances-en-la-edicion-genetica-de-patatas-para-reducir-las-perdidas-poscosecha/)
-  - Papas editadas genéticamente desarrolladas por el INIA de Chile presentan una reducción significativa del pardeamiento poscosecha, ayudando a disminuir pérdidas en procesamiento, almacenamiento, come…
-
-- **[Why Vegetable Seed Companies Can’t Afford To Move Slow Anymore](../../items/seedworld/2026/02/https_www.seedworld.com_p_122984.md)**
-  - 2026-02-17 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122984.md) · [원문](https://www.seedworld.com/us/2026/02/16/why-vegetable-seed-companies-cant-afford-to-move-slow-anymore/)
-  - New tools, platforms and ownership models are reshaping the seed industry, but real progress comes down to execution. With nearly 30 years of experience across production, supply chain and sales, Sak…

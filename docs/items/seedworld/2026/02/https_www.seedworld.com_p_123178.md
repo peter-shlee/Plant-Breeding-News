@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/25/dirty-ships-lifted-embargoes-a
 summary: "This article examines how climate-driven famine and uninspected grain trade helped spread the Black Death, drawing parallels to today’s risks from illegal and counterfeit seeds."
 attachments: []
 tags: []
-fetched_at: "2026-02-27T06:44:18+09:00"
+fetched_at: "2026-03-02T06:40:29+09:00"
 ---
 # Dirty Ships, Lifted Embargoes and the Hidden Power of Grain
 

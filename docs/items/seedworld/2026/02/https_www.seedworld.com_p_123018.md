@@ -9,7 +9,7 @@ summary: "Brazil leads AI-driven soybean yield prediction by applying transfer l
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-02-27T06:44:18+09:00"
+fetched_at: "2026-03-02T06:40:29+09:00"
 ---
 # Brazil at the Forefront of AI-Driven Soybean Yield Prediction
 
