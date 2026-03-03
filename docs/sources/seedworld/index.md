@@ -11,6 +11,50 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[Corn Moves South](../../items/seedworld/2026/03/https_www.seedworld.com_p_123241.md)**
+  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123241.md) · [원문](https://www.seedworld.com/us/2026/03/03/corn-moves-south/)
+  - When you think of corn country, you tend to focus on the Midwestern states like Illinois, Indiana and Iowa, but a Southern Corn Belt is making waves and growing year over year.
+
+- **[Who Funds Wheat Research in Canada? Increasingly, it’s Farmers](../../items/seedworld/2026/03/https_www.seedworld.com_p_123258.md)**
+  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123258.md) · [원문](https://www.seedworld.com/canada/2026/03/03/who-funds-wheat-research-in-canada-increasingly-its-farmers/)
+  - Long before recent federal cuts made headlines, Canadian farmers were quietly underwriting the country’s wheat breeding system The post Who Funds Wheat Research in Canada?
+
+- **[Paraná Study Shows Productivity Gains with Soybean Co-Inoculation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123038.md)**
+  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123038.md) · [원문](https://www.seedworld.com/latam/2026/03/03/parana-study-shows-productivity-gains-with-soybean-co-inoculation/)
+  - A Paraná study by Embrapa Soja and IDR-Paraná shows soybean seed co-inoculation delivers consistent productivity gains. Ten years of field validation in commercial Technological Reference Units found…
+
+- **[Study Links eccDNA to Rapid Plant Stress Resistance](../../items/seedworld/2026/03/https_www.seedworld.com_p_123252.md)**
+  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123252.md) · [원문](https://www.seedworld.com/europe/2026/03/03/study-links-eccdna-to-rapid-plant-stress-resistance/)
+  - Scientists at Rothamsted and Clemson University have unified fragmented research to show that extrachromosomal circular DNA (eccDNA) acts as a genomic “shock absorber” in plants.
+
+- **[Strengthening Canada’s Variety Development Pipeline Through Private-Sector Innovation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123238.md)**
+  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123238.md) · [원문](https://www.seedworld.com/canada/2026/03/02/strengthening-canadas-variety-development-pipeline-through-private-sector-innovation/)
+  - The variety‑breeding landscape in Canada is undergoing a profound transformation. For decades, public research programs have formed the backbone of crop improvement efforts across the country.
+
+- **[Can We Breed a Safer Peanut?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123232.md)**
+  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123232.md) · [원문](https://www.seedworld.com/us/2026/03/02/can-we-breed-a-safer-peanut/)
+  - Can peanut breeding reduce allergen proteins without sacrificing performance? Clemson scientists are stacking genetics and gene editing to find out.
+
+- **[Inside J.S. Henry & Son’s New Seed Plant: Lessons Learned Building a Third-Generation Processing Facility](../../items/seedworld/2026/03/https_www.seedworld.com_p_123221.md)**
+  - 2026-03-02 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123221.md) · [원문](https://www.seedworld.com/canada/2026/03/02/inside-j-s-henry-sons-new-seed-plant-lessons-learned-building-a-third-generation-processing-facility/)
+  - Standing in a new seed processing facility for the first time is equal parts pride and pressure. Pride, because years of planning have finally taken physical shape.
+
+- **[Canadian Seed Industry Warns of Lost Year in Crop Breeding and Field Trials](../../items/seedworld/2026/03/https_www.seedworld.com_p_123218.md)**
+  - 2026-03-02 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123218.md) · [원문](https://www.seedworld.com/canada/2026/03/02/canadian-seed-industry-warns-of-lost-year-in-crop-breeding-and-field-trials/)
+  - Public-private seed development system faces mounting pressure, raising concerns about lost field data, disrupted breeding cycles and long-term yield gains The post Canadian Seed Industry Warns of Lo…
+
+- **[Estudio en Paraná muestra aumentos de productividad con la coinoculación de soja](../../items/seedworld/2026/03/https_www.seedworld.com_p_123035.md)**
+  - 2026-03-02 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123035.md) · [원문](https://www.seedworld.com/latam/2026/03/02/estudio-en-parana-muestra-aumentos-de-productividad-con-la-coinoculacion-de-soja/)
+  - Un estudio en Paraná de Embrapa Soja e IDR-Paraná muestra que la co-inoculación de semillas de soja mejora la productividad de forma consistente. Diez años de validación en Unidades de Referencia Tec…
+
+- **[Selling Abundance in a World Addicted to Scarcity](../../items/seedworld/2026/03/https_www.seedworld.com_p_123181.md)**
+  - 2026-03-02 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123181.md) · [원문](https://www.seedworld.com/europe/2026/03/02/selling-abundance-in-a-world-addicted-to-scarcity/)
+  - Part 2 explores Hidde Boersma’s techno-optimistic vision for sustainable agriculture, highlighting WePlanet, ecomodernism, CRISPR, land sparing and high-yield farming. It examines how storytelling, f…
+
+- **[Concepts For Your Seeds](../../items/seedworld/2026/03/https_www.seedworld.com_p_120734.md)**
+  - 2026-03-01 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_120734.md) · [원문](https://www.seedworld.com/us/2026/03/01/concepts-for-your-seeds-5/)
+  - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds referring to their high quality. You get specific and individual […]…
+
 - **[Gene Expression VS Soybean White Mold](../../items/seedworld/2026/03/https_www.seedworld.com_p_123213.md)**
   - 2026-03-01 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123213.md) · [원문](https://www.seedworld.com/us/2026/03/01/gene-expression-vs-soybean-white-mold/)
   - Heads Up® helps soybean growers manage unpredictable disease pressure with proactive, full-season protection starting at germination. Unlike narrow fungicide seed treatments and timing-sensitive foli…
@@ -113,47 +157,3 @@ source: "seedworld"
 - **[AAFC Research Station Closures Trigger Emergency Study in Ottawa](../../items/seedworld/2026/02/https_www.seedworld.com_p_123118.md)**
   - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123118.md) · [원문](https://www.seedworld.com/canada/2026/02/19/aafc-research-station-closures-trigger-emergency-study-in-ottawa/)
   - Closures in Ontario, Quebec, Nova Scotia, Manitoba, Alberta, and Saskatchewan are now under scrutiny by the House ag committee The post AAFC Research Station Closures Trigger Emergency Study in Ottaw…
-
-- **[Freshness, Flavor And Trust: The Market Signals Guiding The Next Wave Of Seed Development](../../items/seedworld/2026/02/https_www.seedworld.com_p_123114.md)**
-  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123114.md) · [원문](https://www.seedworld.com/us/2026/02/19/freshness-flavor-and-trust-the-market-signals-guiding-the-next-wave-of-seed-development/)
-  - Collaboration across the supply chain, from breeding programs to grocery shelves, is becoming the defining force behind future vegetable markets. The vegetable seed industry is entering a quieter, bu…
-
-- **[Designed to Burn: Breeding Superhot Peppers](../../items/seedworld/2026/02/https_www.seedworld.com_p_123097.md)**
-  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123097.md) · [원문](https://www.seedworld.com/us/2026/02/19/designed-to-burn-breeding-superhot-peppers/)
-  - Ed Currie, inventor of the Carolina Reaper, has built a legacy breeding the hottest of hot peppers. What started as a backyard hobby has grown into a impactful career.
-
-- **[From Field to Fire: How Hot is Hot?](../../items/seedworld/2026/02/https_www.seedworld.com_p_123101.md)**
-  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123101.md) · [원문](https://www.seedworld.com/us/2026/02/19/from-field-to-fire-how-hot-is-hot/)
-  - Superhot peppers take awhile to develop. The Scoville Scale is a great tool to know what's hot and what's not so hot.
-
-- **[New Research Reveals Camelina’s Climate Adaptation Potential](../../items/seedworld/2026/02/https_www.seedworld.com_p_123086.md)**
-  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123086.md) · [원문](https://www.seedworld.com/europe/2026/02/19/new-research-reveals-camelinas-climate-adaptation-potential/)
-  - EU-funded UNTWIST research shows camelina (Camelina sativa) could help climate-proof agriculture as heatwaves and droughts intensify. Scientists tested 54 camelina lines across controlled environment…
-
-- **[Empowering Africa, One Seed at a Time](../../items/seedworld/2026/02/https_www.seedworld.com_p_123081.md)**
-  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123081.md) · [원문](https://www.seedworld.com/europe/2026/02/19/empowering-africa-one-seed-at-a-time/)
-  - African farmers are central to regional and global food security. The Syngenta Seedcare Institute in Brits, South Africa, develops locally tailored seed treatment solutions to improve crop emergence,…
-
-- **[The Future of Produce Starts with Seed Decisions](../../items/seedworld/2026/02/https_www.seedworld.com_p_123055.md)**
-  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123055.md) · [원문](https://www.seedworld.com/us/2026/02/18/the-future-of-produce-starts-with-seed-decisions/)
-  - Consumer expectations retail consolidation labor shortages and climate pressure are reshaping produce faster than the industry can respond. Increasingly those forces are pushing upstream placing new…
-
-- **[Meet Seed World’s Connector of the Year](../../items/seedworld/2026/02/https_www.seedworld.com_p_123050.md)**
-  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123050.md) · [원문](https://www.seedworld.com/us/2026/02/18/meet-seed-worlds-connector-of-the-year/)
-  - Seed World names Radicle Seed’s Lisa Branco Connector of the Year, recognizing her leadership in building relationships, fostering collaboration and strengthening connections across the seed industry.
-
-- **[MyPlate Reset Sends Early Signals to Seed](../../items/seedworld/2026/02/https_www.seedworld.com_p_123047.md)**
-  - 2026-02-19 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123047.md) · [원문](https://www.seedworld.com/us/2026/02/18/myplate-reset-sends-early-signals-to-seed/)
-  - The MyPlate reset is more than a nutrition story — it’s an early signal for seed. From the ASTA Vegetable and Flower Conference, this piece explores how federal nutrition guidance can influence breed…
-
-- **[Advancing Gene-Edited Potatoes to Cut Post-Harvest Losses](../../items/seedworld/2026/02/https_www.seedworld.com_p_122877.md)**
-  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_122877.md) · [원문](https://www.seedworld.com/latam/2026/02/18/advancing-gene-edited-potatoes-to-cut-post-harvest-losses/)
-  - Gene-edited potatoes developed by Chile’s INIA show significantly reduced post-harvest browning, helping cut food losses across processing, storage, retail, and households.
-
-- **[How Biology Drives the Bottom Line — Why Resilience, Consistency, and System Performance are Reshaping ROI Co…](../../items/seedworld/2026/02/https_www.seedworld.com_p_123011.md)**
-  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123011.md) · [원문](https://www.seedworld.com/us/2026/02/17/how-biology-drives-the-bottom-line-why-resilience-consistency-and-system-performance-are-reshaping-roi-conversations/)
-  - Farm success in an unpredictable world depends on resilience—reducing yield loss when weather, disease, tariffs, and input volatility strike. While resilience is harder to measure than yield gains, i…
-
-- **[Why Proposed Dicamba Restrictions Could Impact Canadian Soybean Seed Production](../../items/seedworld/2026/02/https_www.seedworld.com_p_123009.md)**
-  - 2026-02-18 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123009.md) · [원문](https://www.seedworld.com/canada/2026/02/17/why-proposed-dicamba-restrictions-could-impact-canadian-soybean-seed-production/)
-  - Dicamba’s future in Canada is now tied to more than weed control The post Why Proposed Dicamba Restrictions Could Impact Canadian Soybean Seed Production appeared first on Seed World .

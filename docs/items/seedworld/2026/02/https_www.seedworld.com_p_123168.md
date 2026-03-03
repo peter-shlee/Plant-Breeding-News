@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/24/a-viral-shortcut-new-gene-editing-
 summary: "New research in Nature Plants explores a viral gene-editing delivery system that produces heritable, transgene-free edits in plants, offering a potential path to faster breeding and reduced reliance on tissue culture if the approach"
 attachments: []
 tags: []
-fetched_at: "2026-03-02T06:40:29+09:00"
+fetched_at: "2026-03-04T06:45:50+09:00"
 ---
 # A Viral Shortcut? New Gene-Editing System Could Remove a Major Breeding Bottleneck
 

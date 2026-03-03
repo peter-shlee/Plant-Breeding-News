@@ -9,7 +9,7 @@ summary: "The seed industry is now at a point that is past CRISPR breakthrough. 
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-03-02T06:40:29+09:00"
+fetched_at: "2026-03-04T06:45:50+09:00"
 ---
 # Gene Editing Is Getting Faster. Commercialization Still Isn’t
 

@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "phenotyping"
   - "밀"
-fetched_at: "2026-03-02T06:40:29+09:00"
+fetched_at: "2026-03-04T06:45:50+09:00"
 ---
 # Study Warns of Rising Heat Risks for Global Wheat Yields
 
