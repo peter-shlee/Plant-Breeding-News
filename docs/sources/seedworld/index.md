@@ -11,6 +11,54 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies](../../items/seedworld/2026/03/https_www.seedworld.com_p_123357.md)**
+  - 2026-03-06 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123357.md) · [원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/)
+  - Protein content in yellow peas and processing advantages of small-seeded faba beans are becoming key breeding targets for pulse breeders The post Plant-Protein Demand Shaping New Yellow Pea and Faba…
+
+- **[10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123351.md)**
+  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123351.md) · [원문](https://www.seedworld.com/canada/2026/03/05/10-years-after-upov-91-is-canada-ready-for-a-new-plant-breeding-funding-model/)
+  - PBR Commissioner Anthony Parker says collaboration between producers, public breeders and private companies will determine the future of innovation The post 10 Years After UPOV ’91: Is Canada Ready f…
+
+- **[Model Maps 2021 Frost Damage in Brazilian Corn](../../items/seedworld/2026/03/https_www.seedworld.com_p_123044.md)**
+  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123044.md) · [원문](https://www.seedworld.com/latam/2026/03/05/model-maps-2021-frost-damage-in-brazilian-corn/)
+  - A Brazilian model maps 2021 frost damage in second-crop corn using Sentinel-2 imagery and Random Forest machine learning. Tested across 700,000+ hectares in western Paraná, the method identified corn…
+
+- **[Long-Term Study Shows Soil Imbalances Can Weaken Crop Defenses](../../items/seedworld/2026/03/https_www.seedworld.com_p_123345.md)**
+  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123345.md) · [원문](https://www.seedworld.com/europe/2026/03/05/long-term-study-shows-soil-imbalances-can-weaken-crop-defenses/)
+  - A 70-year long-term experiment shows that nutrient imbalances in soil—especially potassium deficiency combined with nitrogen fertilization—can severely disrupt mycorrhizal symbiosis, the vital partne…
+
+- **[How the Middle East War Could Ripple Through the Seed Industry](../../items/seedworld/2026/03/https_www.seedworld.com_p_123341.md)**
+  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123341.md) · [원문](https://www.seedworld.com/us/2026/03/04/how-the-middle-east-war-could-ripple-through-the-seed-industry/)
+  - A war unfolding in the Middle East is already sending ripple effects through global fertilizer, energy and shipping markets. In this episode of The Way I See It, Seed World U.S.
+
+- **[New Barley Lines Could Help Beer Stay Fresher Longer](../../items/seedworld/2026/03/https_www.seedworld.com_p_123335.md)**
+  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123335.md) · [원문](https://www.seedworld.com/canada/2026/03/04/new-barley-lines-could-help-beer-stay-fresher-longer/)
+  - The Prairie Recommending Committee for Oats and Barley is reviewing malting barley lines including LOX-less types that reduce flavour staling in beer The post New Barley Lines Could Help Beer Stay Fr…
+
+- **[Loss of Prairie Research Stations Threatens Wheat Testing System, PGDC Committee Hears](../../items/seedworld/2026/03/https_www.seedworld.com_p_123323.md)**
+  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123323.md) · [원문](https://www.seedworld.com/canada/2026/03/04/loss-of-prairie-research-stations-poses-challenge-to-wheat-testing-system-committee-hears/)
+  - Cuts affecting sites like Lacombe, Scott and Indian Head could leave major production zones without data for evaluating new lines The post Loss of Prairie Research Stations Threatens Wheat Testing Sy…
+
+- **[Modelo mapea daños por heladas en maíz Brasileño 2021](../../items/seedworld/2026/03/https_www.seedworld.com_p_123041.md)**
+  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123041.md) · [원문](https://www.seedworld.com/latam/2026/03/04/modelo-mapea-danos-por-heladas-en-maiz-brasileno-2021/)
+  - Un modelo brasileño mapea el daño por heladas de 2021 en el maíz de segunda cosecha con imágenes Sentinel-2 y aprendizaje automático Random Forest. Probado en más de 700.000 hectáreas del oeste de Pa…
+
+- **[What’s Next in Corn Genetics? Corteva’s Plan for 2026 and Beyond](../../items/seedworld/2026/03/https_www.seedworld.com_p_123290.md)**
+  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123290.md) · [원문](https://www.seedworld.com/us/2026/03/04/whats-next-in-corn-genetics-cortevas-plan-for-2026-and-beyond/)
+  - 2025’s record-breaking 17-billion-bushel U.S. corn crop reinforced the shift happening in the conversation around corn genetics.
+
+- **[Biological Seed Treatments: Innovation, Regulation and Market Expansion](../../items/seedworld/2026/03/https_www.seedworld.com_p_123242.md)**
+  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123242.md) · [원문](https://www.seedworld.com/europe/2026/03/04/biological-seed-treatments-innovation-regulation-and-market-expansion/)
+  - Biological seed treatments are rapidly advancing across global agriculture, driven by innovation, regulatory shifts and growing farmer demand for improved crop performance.
+
+- **[What’s the Right Amount of Education for You?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123281.md)**
+  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123281.md) · [원문](https://www.seedworld.com/us/2026/03/03/whats-the-right-amount-of-education-for-you/)
+  - The seed industry faces a talent bottleneck: professionals want to grow into leadership but can’t pause careers for full-time degrees. Education can be stacked strategically.
+
+- **[New Mustard Promises Yield Gains as PRCO Flags GM and Research Risks](../../items/seedworld/2026/03/https_www.seedworld.com_p_123272.md)**
+  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123272.md) · [원문](https://www.seedworld.com/canada/2026/03/03/new-mustard-variety-promises-yield-gains-as-prco-flags-gm-and-research-risks/)
+  - Big yield gains, market risks and federal research cuts dominated flax and mustard discussions at today's Prairie Grain Development Committee meetings in Banff The post New Mustard Promises Yield Gai…
+
 - **[Corn Moves South](../../items/seedworld/2026/03/https_www.seedworld.com_p_123241.md)**
   - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123241.md) · [원문](https://www.seedworld.com/us/2026/03/03/corn-moves-south/)
   - When you think of corn country, you tend to focus on the Midwestern states like Illinois, Indiana and Iowa, but a Southern Corn Belt is making waves and growing year over year.
@@ -109,51 +157,3 @@ source: "seedworld"
 - **[Study Warns of Rising Heat Risks for Global Wheat Yields](../../items/seedworld/2026/02/https_www.seedworld.com_p_123148.md)**
   - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123148.md) · [원문](https://www.seedworld.com/europe/2026/02/24/study-warns-of-rising-heat-risks-for-global-wheat-yields/)
   - New research from Rothamsted Research suggests heatwaves during wheat flowering may soon pose a bigger threat to yields than drought. Using climate projections and the Sirius wheat model, researchers…
-
-- **[A Viral Shortcut? New Gene-Editing System Could Remove a Major Breeding Bottleneck](../../items/seedworld/2026/02/https_www.seedworld.com_p_123168.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123168.md) · [원문](https://www.seedworld.com/us/2026/02/24/a-viral-shortcut-new-gene-editing-system-could-remove-a-major-breeding-bottleneck/)
-  - New research in Nature Plants explores a viral gene-editing delivery system that produces heritable, transgene-free edits in plants, offering a potential path to faster breeding and reduced reliance…
-
-- **[From Kernel to Code: Apply to the InnovAction Stage 2026](../../items/seedworld/2026/02/https_www.seedworld.com_p_123161.md)**
-  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123161.md) · [원문](https://www.seedworld.com/europe/2026/02/24/from-kernel-to-code-apply-to-the-innovaction-stage-2026/)
-  - Euroseeds is launching the InnovAction Stage 2026—calling visionary start-ups and public–private partnerships to showcase game-changing seed sector innovations. Under “From Kernel to Code,” applicant…
-
-- **[Investigación chilena identifica un mecanismo molecular que impulsa la resiliencia de las plantas a la sequía](../../items/seedworld/2026/02/https_www.seedworld.com_p_123021.md)**
-  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123021.md) · [원문](https://www.seedworld.com/latam/2026/02/24/investigacion-chilena-identifica-un-mecanismo-molecular-que-impulsa-la-resiliencia-de-las-plantas-a-la-sequia/)
-  - Investigadores chilenos describen un “interruptor” molecular que ayuda a las plantas a equilibrar crecimiento y supervivencia ante sequía. Publicado en PNAS, el estudio identifica la proteína NLP7 co…
-
-- **[Boosting Soil Carbon Through Smarter Miscanthus Selection](../../items/seedworld/2026/02/https_www.seedworld.com_p_123154.md)**
-  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123154.md) · [원문](https://www.seedworld.com/europe/2026/02/24/boosting-soil-carbon-through-smarter-miscanthus-selection/)
-  - Aberystwyth University researchers report new Miscanthus traits that could boost soil carbon storage, helping climate change mitigation. Published in Frontiers in Plant Science, the study analysed le…
-
-- **[Inside Doug Miller’s 15-Year Tenure at CSGA: SRM, Innovation and Digital Transformation](../../items/seedworld/2026/02/https_www.seedworld.com_p_123157.md)**
-  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123157.md) · [원문](https://www.seedworld.com/canada/2026/02/23/inside-doug-millers-15-year-tenure-at-csga-srm-innovation-and-digital-transformation/)
-  - From controversial digitization to regulatory reform, Miller’s 15-year tenure changed how Canada’s seed certification system operates The post Inside Doug Miller’s 15-Year Tenure at CSGA: SRM, Innova…
-
-- **[Motivation Isn’t Broken. Our Jobs Are.](../../items/seedworld/2026/02/https_www.seedworld.com_p_123111.md)**
-  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123111.md) · [원문](https://www.seedworld.com/us/2026/02/23/motivation-isnt-broken-our-jobs-are/)
-  - People aren't unmotivated. They feel like their work isn't moving the needle.
-
-- **[Large-Scale DNA Variants Drive Cucumber History, Study Finds](../../items/seedworld/2026/02/https_www.seedworld.com_p_123145.md)**
-  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123145.md) · [원문](https://www.seedworld.com/europe/2026/02/23/large-scale-dna-variants-drive-cucumber-history-study-finds/)
-  - A new Nature Genetics study led by Boyce Thompson Institute’s Zhangjun Fei reveals that large DNA “structural variants” play a major role in cucumber evolution and breeding.
-
-- **[Brazil at the Forefront of AI-Driven Soybean Yield Prediction](../../items/seedworld/2026/02/https_www.seedworld.com_p_123018.md)**
-  - 2026-02-21 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123018.md) · [원문](https://www.seedworld.com/latam/2026/02/21/brazil-at-the-forefront-of-ai-driven-soybean-yield-prediction/)
-  - Brazil leads AI-driven soybean yield prediction by applying transfer learning. Researchers adapted a U.S.-trained model to Brazilian conditions using limited state or municipal data, improving cross-…
-
-- **[Brasil a la vanguardia de la predicción del rendimiento de la soja basada en IA](../../items/seedworld/2026/02/https_www.seedworld.com_p_123016.md)**
-  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123016.md) · [원문](https://www.seedworld.com/latam/2026/02/20/brasil-a-la-vanguardia-de-la-prediccion-del-rendimiento-de-la-soja-basada-en-ia/)
-  - Brasil lidera la predicción del rendimiento de soja impulsada por IA mediante aprendizaje por transferencia. Los investigadores adaptaron un modelo entrenado en EE.
-
-- **[Harnessing Technology to Protect the World’s Crop Diversity](../../items/seedworld/2026/02/https_www.seedworld.com_p_123089.md)**
-  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123089.md) · [원문](https://www.seedworld.com/europe/2026/02/19/harnessing-technology-to-protect-the-worlds-crop-diversity/)
-  - The Crop Trust has launched Securing Our Seeds (SOS), a USD 2 million Google.org-backed initiative to modernize global crop diversity conservation. The project will digitize genebanks using GRIN-Glob…
-
-- **[Gene Editing Is Getting Faster. Commercialization Still Isn’t](../../items/seedworld/2026/02/https_www.seedworld.com_p_123120.md)**
-  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123120.md) · [원문](https://www.seedworld.com/us/2026/02/19/gene-editing-is-getting-faster-commercialization-still-isnt/)
-  - The seed industry is now at a point that is past CRISPR breakthrough. Commercialization is still a big hurdle.
-
-- **[AAFC Research Station Closures Trigger Emergency Study in Ottawa](../../items/seedworld/2026/02/https_www.seedworld.com_p_123118.md)**
-  - 2026-02-20 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123118.md) · [원문](https://www.seedworld.com/canada/2026/02/19/aafc-research-station-closures-trigger-emergency-study-in-ottawa/)
-  - Closures in Ontario, Quebec, Nova Scotia, Manitoba, Alberta, and Saskatchewan are now under scrutiny by the House ag committee The post AAFC Research Station Closures Trigger Emergency Study in Ottaw…

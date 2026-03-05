@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-04 06:45 (KST)**  
-- 커버리지(최근 섹션): **2026-02-25 ~ 2026-03-04** (최근 7일)
+- 마지막 업데이트: **2026-03-06 06:46 (KST)**  
+- 커버리지(최근 섹션): **2026-02-27 ~ 2026-03-06** (최근 7일)
 
 ## 목차
 
@@ -33,6 +33,10 @@ title: "식물 육종 뉴스"
 - **[쌀알 투명하고 병에 강한 신품종 벼 '달하미' 개발](items/rda/2026/02/100000807922.md)**
   - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807922.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807922&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
+- **[10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md) · [원문](https://www.seedworld.com/canada/2026/03/05/10-years-after-upov-91-is-canada-ready-for-a-new-plant-breeding-funding-model/)
+  - PBR Commissioner Anthony Parker says collaboration between producers, public breeders and private companies will determine the future of innovation The post 10 Years After UPOV ’91: Is Canada Ready f…
+
 - **[Study Links eccDNA to Rapid Plant Stress Resistance](items/seedworld/2026/03/https_www.seedworld.com_p_123252.md)**
   - 2026-03-03 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123252.md) · [원문](https://www.seedworld.com/europe/2026/03/03/study-links-eccdna-to-rapid-plant-stress-resistance/)
   - Scientists at Rothamsted and Clemson University have unified fragmented research to show that extrachromosomal circular DNA (eccDNA) acts as a genomic “shock absorber” in plants.
@@ -45,33 +49,77 @@ title: "식물 육종 뉴스"
   - 2026-03-02 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123181.md) · [원문](https://www.seedworld.com/europe/2026/03/02/selling-abundance-in-a-world-addicted-to-scarcity/)
   - Part 2 explores Hidde Boersma’s techno-optimistic vision for sustainable agriculture, highlighting WePlanet, ecomodernism, CRISPR, land sparing and high-yield farming. It examines how storytelling, f…
 
-- **[Chilean Research Identifies Molecular “Switch” Behind Plant Drought Resilience](items/seedworld/2026/02/https_www.seedworld.com_p_123024.md)**
-  - 2026-02-25 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123024.md) · [원문](https://www.seedworld.com/latam/2026/02/25/chilean-research-identifies-molecular-switch-behind-plant-drought-resilience/)
-  - Chilean researchers report a molecular “switch” that helps plants balance growth and drought survival. Published in PNAS, the study identifies the protein NLP7 as a key regulator: it activates growth…
-
 - **[약용작물 종자 신청 시작, 기관별 공급 시기·가격 확인하세요](items/rda/2026/02/100000807909.md)**
   - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807909.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000807909&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[약용작물 종자 신청 시작, 기관별 공급 시기·가격 확인하세요](items/nihhs/2026/02/100000807909.md)**
   - 2026-02-28 · `nihhs` · [읽기](items/nihhs/2026/02/100000807909.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807909&mc=MN0000000136)
 
-- **[Corn Moves South](items/seedworld/2026/03/https_www.seedworld.com_p_123241.md)**
-  - 2026-03-03 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123241.md) · [원문](https://www.seedworld.com/us/2026/03/03/corn-moves-south/)
-  - When you think of corn country, you tend to focus on the Midwestern states like Illinois, Indiana and Iowa, but a Southern Corn Belt is making waves and growing year over year.
+- **[Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md)**
+  - 2026-03-06 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md) · [원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/)
+  - Protein content in yellow peas and processing advantages of small-seeded faba beans are becoming key breeding targets for pulse breeders The post Plant-Protein Demand Shaping New Yellow Pea and Faba…
 
-- **[Who Funds Wheat Research in Canada? Increasingly, it’s Farmers](items/seedworld/2026/03/https_www.seedworld.com_p_123258.md)**
-  - 2026-03-03 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123258.md) · [원문](https://www.seedworld.com/canada/2026/03/03/who-funds-wheat-research-in-canada-increasingly-its-farmers/)
-  - Long before recent federal cuts made headlines, Canadian farmers were quietly underwriting the country’s wheat breeding system The post Who Funds Wheat Research in Canada?
+- **[Model Maps 2021 Frost Damage in Brazilian Corn](items/seedworld/2026/03/https_www.seedworld.com_p_123044.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123044.md) · [원문](https://www.seedworld.com/latam/2026/03/05/model-maps-2021-frost-damage-in-brazilian-corn/)
+  - A Brazilian model maps 2021 frost damage in second-crop corn using Sentinel-2 imagery and Random Forest machine learning. Tested across 700,000+ hectares in western Paraná, the method identified corn…
 
-- **[Paraná Study Shows Productivity Gains with Soybean Co-Inoculation](items/seedworld/2026/03/https_www.seedworld.com_p_123038.md)**
-  - 2026-03-03 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123038.md) · [원문](https://www.seedworld.com/latam/2026/03/03/parana-study-shows-productivity-gains-with-soybean-co-inoculation/)
-  - A Paraná study by Embrapa Soja and IDR-Paraná shows soybean seed co-inoculation delivers consistent productivity gains. Ten years of field validation in commercial Technological Reference Units found…
+- **[Long-Term Study Shows Soil Imbalances Can Weaken Crop Defenses](items/seedworld/2026/03/https_www.seedworld.com_p_123345.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123345.md) · [원문](https://www.seedworld.com/europe/2026/03/05/long-term-study-shows-soil-imbalances-can-weaken-crop-defenses/)
+  - A 70-year long-term experiment shows that nutrient imbalances in soil—especially potassium deficiency combined with nitrogen fertilization—can severely disrupt mycorrhizal symbiosis, the vital partne…
 
 
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
+
+- **[Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md)**
+  - 2026-03-06 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md) · [원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/)
+  - Protein content in yellow peas and processing advantages of small-seeded faba beans are becoming key breeding targets for pulse breeders The post Plant-Protein Demand Shaping New Yellow Pea and Faba…
+
+- **[10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md) · [원문](https://www.seedworld.com/canada/2026/03/05/10-years-after-upov-91-is-canada-ready-for-a-new-plant-breeding-funding-model/)
+  - PBR Commissioner Anthony Parker says collaboration between producers, public breeders and private companies will determine the future of innovation The post 10 Years After UPOV ’91: Is Canada Ready f…
+
+- **[Model Maps 2021 Frost Damage in Brazilian Corn](items/seedworld/2026/03/https_www.seedworld.com_p_123044.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123044.md) · [원문](https://www.seedworld.com/latam/2026/03/05/model-maps-2021-frost-damage-in-brazilian-corn/)
+  - A Brazilian model maps 2021 frost damage in second-crop corn using Sentinel-2 imagery and Random Forest machine learning. Tested across 700,000+ hectares in western Paraná, the method identified corn…
+
+- **[Long-Term Study Shows Soil Imbalances Can Weaken Crop Defenses](items/seedworld/2026/03/https_www.seedworld.com_p_123345.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123345.md) · [원문](https://www.seedworld.com/europe/2026/03/05/long-term-study-shows-soil-imbalances-can-weaken-crop-defenses/)
+  - A 70-year long-term experiment shows that nutrient imbalances in soil—especially potassium deficiency combined with nitrogen fertilization—can severely disrupt mycorrhizal symbiosis, the vital partne…
+
+- **[How the Middle East War Could Ripple Through the Seed Industry](items/seedworld/2026/03/https_www.seedworld.com_p_123341.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123341.md) · [원문](https://www.seedworld.com/us/2026/03/04/how-the-middle-east-war-could-ripple-through-the-seed-industry/)
+  - A war unfolding in the Middle East is already sending ripple effects through global fertilizer, energy and shipping markets. In this episode of The Way I See It, Seed World U.S.
+
+- **[New Barley Lines Could Help Beer Stay Fresher Longer](items/seedworld/2026/03/https_www.seedworld.com_p_123335.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123335.md) · [원문](https://www.seedworld.com/canada/2026/03/04/new-barley-lines-could-help-beer-stay-fresher-longer/)
+  - The Prairie Recommending Committee for Oats and Barley is reviewing malting barley lines including LOX-less types that reduce flavour staling in beer The post New Barley Lines Could Help Beer Stay Fr…
+
+- **[Loss of Prairie Research Stations Threatens Wheat Testing System, PGDC Committee Hears](items/seedworld/2026/03/https_www.seedworld.com_p_123323.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123323.md) · [원문](https://www.seedworld.com/canada/2026/03/04/loss-of-prairie-research-stations-poses-challenge-to-wheat-testing-system-committee-hears/)
+  - Cuts affecting sites like Lacombe, Scott and Indian Head could leave major production zones without data for evaluating new lines The post Loss of Prairie Research Stations Threatens Wheat Testing Sy…
+
+- **[Modelo mapea daños por heladas en maíz Brasileño 2021](items/seedworld/2026/03/https_www.seedworld.com_p_123041.md)**
+  - 2026-03-04 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123041.md) · [원문](https://www.seedworld.com/latam/2026/03/04/modelo-mapea-danos-por-heladas-en-maiz-brasileno-2021/)
+  - Un modelo brasileño mapea el daño por heladas de 2021 en el maíz de segunda cosecha con imágenes Sentinel-2 y aprendizaje automático Random Forest. Probado en más de 700.000 hectáreas del oeste de Pa…
+
+- **[What’s Next in Corn Genetics? Corteva’s Plan for 2026 and Beyond](items/seedworld/2026/03/https_www.seedworld.com_p_123290.md)**
+  - 2026-03-04 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123290.md) · [원문](https://www.seedworld.com/us/2026/03/04/whats-next-in-corn-genetics-cortevas-plan-for-2026-and-beyond/)
+  - 2025’s record-breaking 17-billion-bushel U.S. corn crop reinforced the shift happening in the conversation around corn genetics.
+
+- **[Biological Seed Treatments: Innovation, Regulation and Market Expansion](items/seedworld/2026/03/https_www.seedworld.com_p_123242.md)**
+  - 2026-03-04 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123242.md) · [원문](https://www.seedworld.com/europe/2026/03/04/biological-seed-treatments-innovation-regulation-and-market-expansion/)
+  - Biological seed treatments are rapidly advancing across global agriculture, driven by innovation, regulatory shifts and growing farmer demand for improved crop performance.
+
+- **[What’s the Right Amount of Education for You?](items/seedworld/2026/03/https_www.seedworld.com_p_123281.md)**
+  - 2026-03-04 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123281.md) · [원문](https://www.seedworld.com/us/2026/03/03/whats-the-right-amount-of-education-for-you/)
+  - The seed industry faces a talent bottleneck: professionals want to grow into leadership but can’t pause careers for full-time degrees. Education can be stacked strategically.
+
+- **[New Mustard Promises Yield Gains as PRCO Flags GM and Research Risks](items/seedworld/2026/03/https_www.seedworld.com_p_123272.md)**
+  - 2026-03-04 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123272.md) · [원문](https://www.seedworld.com/canada/2026/03/03/new-mustard-variety-promises-yield-gains-as-prco-flags-gm-and-research-risks/)
+  - Big yield gains, market risks and federal research cuts dominated flax and mustard discussions at today's Prairie Grain Development Committee meetings in Banff The post New Mustard Promises Yield Gai…
 
 - **[Corn Moves South](items/seedworld/2026/03/https_www.seedworld.com_p_123241.md)**
   - 2026-03-03 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123241.md) · [원문](https://www.seedworld.com/us/2026/03/03/corn-moves-south/)
@@ -138,50 +186,13 @@ title: "식물 육종 뉴스"
   - 2026-03-01 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_120734.md) · [원문](https://www.seedworld.com/us/2026/03/01/concepts-for-your-seeds-5/)
   - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds referring to their high quality. You get specific and individual […]…
 
-- **[Gene Expression VS Soybean White Mold](items/seedworld/2026/03/https_www.seedworld.com_p_123213.md)**
-  - 2026-03-01 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123213.md) · [원문](https://www.seedworld.com/us/2026/03/01/gene-expression-vs-soybean-white-mold/)
-  - Heads Up® helps soybean growers manage unpredictable disease pressure with proactive, full-season protection starting at germination. Unlike narrow fungicide seed treatments and timing-sensitive foli…
-
-- **[New Review Advances Precision Gene Insertion in Corn](items/seedworld/2026/02/https_www.seedworld.com_p_123032.md)**
-  - 2026-02-28 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123032.md) · [원문](https://www.seedworld.com/latam/2026/02/28/new-review-advances-precision-gene-insertion-in-corn/)
-  - A new review highlights advances in precision gene insertion in corn, focusing on site-specific transgene integration and genomic “safe harbors.” Led by GCCRC researchers, the study explains how next…
-
-- **[산물소득자료 기반 ‘맞춤 처방전’ 제공, 농가 소득 향상 지원](items/rda/2026/02/100000807933.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807933.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807933&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농진청-식약처, 아열대 작물 농약 기준 마련에 협력 강화한다](items/rda/2026/02/100000807931.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807931.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807931&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[봄철 딸기 품질 지키기 ‘환경·양분·병해충’ 관리 요령 제시](items/rda/2026/02/100000807929.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807929.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807929&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 코피아(KOPIA) 신임 소장 5명 선발·파견](items/rda/2026/02/100000807928.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807928.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807928&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[식어도 맛있는 쌀 ‘미호’, 안정 수급 위해 ‘민관 한자리’](items/rda/2026/02/100000807926.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807926.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807926&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 여성농업인 단체와 소통…농촌 여성 농작업 환경 개선 노력](items/rda/2026/02/100000807925.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807925.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807925&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 2026년 농작업안전관리자 선발 완료](items/rda/2026/02/100000807924.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807924.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000807924&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[정월대보름, 우리 곡물로 건강하게·맛있게](items/rda/2026/02/100000807923.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807923.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807923&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[쌀알 투명하고 병에 강한 신품종 벼 '달하미' 개발](items/rda/2026/02/100000807922.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807922.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807922&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[비료 줄이고 환경 지키고, ‘생분해 코팅’ 완효성 비료 기술 개발](items/rda/2026/02/100000807921.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807921.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807921&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
 
 <a id="weekly-archive"></a>
 ## 지난 주간 아카이브
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-03-06](weekly/2026-03-06.md)
 - [2026-03-04](weekly/2026-03-04.md)
 - [2026-03-02](weekly/2026-03-02.md)
 - [2026-02-27](weekly/2026-02-27.md)
