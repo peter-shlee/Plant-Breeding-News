@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-06 06:46 (KST)**  
-- 커버리지(최근 섹션): **2026-02-27 ~ 2026-03-06** (최근 7일)
+- 마지막 업데이트: **2026-03-09 06:40 (KST)**  
+- 커버리지(최근 섹션): **2026-03-02 ~ 2026-03-09** (최근 7일)
 
 ## 목차
 
@@ -23,15 +23,12 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[New Review Advances Precision Gene Insertion in Corn](items/seedworld/2026/02/https_www.seedworld.com_p_123032.md)**
-  - 2026-02-28 · `seedworld` · [읽기](items/seedworld/2026/02/https_www.seedworld.com_p_123032.md) · [원문](https://www.seedworld.com/latam/2026/02/28/new-review-advances-precision-gene-insertion-in-corn/)
-  - A new review highlights advances in precision gene insertion in corn, focusing on site-specific transgene integration and genomic “safe harbors.” Led by GCCRC researchers, the study explains how next…
-
 - **[쌀알 투명하고 병에 강한 신품종 벼 '달하미' 개발](items/nics/2026/03/944005.md)**
   - 2026-03-03 · `nics` · [읽기](items/nics/2026/03/944005.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944005)
 
-- **[쌀알 투명하고 병에 강한 신품종 벼 '달하미' 개발](items/rda/2026/02/100000807922.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807922.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000807922&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Let’s Talk: A Critical Moment for New Genomic Techniques in Europe](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md)**
+  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md) · [원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/)
+  - Europe is edging closer to a major milestone on New Genomic Techniques. In this Seed World Europe discussion, Petar Madjarac and Marcel Bruins explain where EU NGT regulation stands and why the next…
 
 - **[10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md)**
   - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md) · [원문](https://www.seedworld.com/canada/2026/03/05/10-years-after-upov-91-is-canada-ready-for-a-new-plant-breeding-funding-model/)
@@ -49,11 +46,13 @@ title: "식물 육종 뉴스"
   - 2026-03-02 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123181.md) · [원문](https://www.seedworld.com/europe/2026/03/02/selling-abundance-in-a-world-addicted-to-scarcity/)
   - Part 2 explores Hidde Boersma’s techno-optimistic vision for sustainable agriculture, highlighting WePlanet, ecomodernism, CRISPR, land sparing and high-yield farming. It examines how storytelling, f…
 
-- **[약용작물 종자 신청 시작, 기관별 공급 시기·가격 확인하세요](items/rda/2026/02/100000807909.md)**
-  - 2026-02-28 · `rda` · [읽기](items/rda/2026/02/100000807909.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000807909&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Farm Bill Draft Draws Praise, Concerns From Agricultural Groups](items/seedworld/2026/03/https_www.seedworld.com_p_123372.md)**
+  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123372.md) · [원문](https://www.seedworld.com/us/2026/03/06/farm-bill-draft-draws-praise-concerns-from-agricultural-groups/)
+  - Agricultural organizations are reacting to the Farm Bill draft. See what they are saying as we wait for lawmakers to replace the 2018 Farm Bill The post Farm Bill Draft Draws Praise, Concerns From Ag…
 
-- **[약용작물 종자 신청 시작, 기관별 공급 시기·가격 확인하세요](items/nihhs/2026/02/100000807909.md)**
-  - 2026-02-28 · `nihhs` · [읽기](items/nihhs/2026/02/100000807909.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000807909&mc=MN0000000136)
+- **[Canada’s Crop Breeding System Faces a Turning Point](items/seedworld/2026/03/https_www.seedworld.com_p_123365.md)**
+  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123365.md) · [원문](https://www.seedworld.com/canada/2026/03/06/canadas-crop-breeding-system-faces-a-turning-point/)
+  - Groups like the Canadian Wheat Research Coalition say clearer funding models, shared infrastructure and long-term planning are essential for innovation The post Canada’s Crop Breeding System Faces a…
 
 - **[Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md)**
   - 2026-03-06 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md) · [원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/)
@@ -67,11 +66,27 @@ title: "식물 육종 뉴스"
   - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123345.md) · [원문](https://www.seedworld.com/europe/2026/03/05/long-term-study-shows-soil-imbalances-can-weaken-crop-defenses/)
   - A 70-year long-term experiment shows that nutrient imbalances in soil—especially potassium deficiency combined with nitrogen fertilization—can severely disrupt mycorrhizal symbiosis, the vital partne…
 
+- **[How the Middle East War Could Ripple Through the Seed Industry](items/seedworld/2026/03/https_www.seedworld.com_p_123341.md)**
+  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123341.md) · [원문](https://www.seedworld.com/us/2026/03/04/how-the-middle-east-war-could-ripple-through-the-seed-industry/)
+  - A war unfolding in the Middle East is already sending ripple effects through global fertilizer, energy and shipping markets. In this episode of The Way I See It, Seed World U.S.
+
 
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
+
+- **[Farm Bill Draft Draws Praise, Concerns From Agricultural Groups](items/seedworld/2026/03/https_www.seedworld.com_p_123372.md)**
+  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123372.md) · [원문](https://www.seedworld.com/us/2026/03/06/farm-bill-draft-draws-praise-concerns-from-agricultural-groups/)
+  - Agricultural organizations are reacting to the Farm Bill draft. See what they are saying as we wait for lawmakers to replace the 2018 Farm Bill The post Farm Bill Draft Draws Praise, Concerns From Ag…
+
+- **[Canada’s Crop Breeding System Faces a Turning Point](items/seedworld/2026/03/https_www.seedworld.com_p_123365.md)**
+  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123365.md) · [원문](https://www.seedworld.com/canada/2026/03/06/canadas-crop-breeding-system-faces-a-turning-point/)
+  - Groups like the Canadian Wheat Research Coalition say clearer funding models, shared infrastructure and long-term planning are essential for innovation The post Canada’s Crop Breeding System Faces a…
+
+- **[Let’s Talk: A Critical Moment for New Genomic Techniques in Europe](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md)**
+  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md) · [원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/)
+  - Europe is edging closer to a major milestone on New Genomic Techniques. In this Seed World Europe discussion, Petar Madjarac and Marcel Bruins explain where EU NGT regulation stands and why the next…
 
 - **[Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md)**
   - 2026-03-06 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md) · [원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/)
@@ -174,24 +189,13 @@ title: "식물 육종 뉴스"
   - 2026-03-02 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123218.md) · [원문](https://www.seedworld.com/canada/2026/03/02/canadian-seed-industry-warns-of-lost-year-in-crop-breeding-and-field-trials/)
   - Public-private seed development system faces mounting pressure, raising concerns about lost field data, disrupted breeding cycles and long-term yield gains The post Canadian Seed Industry Warns of Lo…
 
-- **[Estudio en Paraná muestra aumentos de productividad con la coinoculación de soja](items/seedworld/2026/03/https_www.seedworld.com_p_123035.md)**
-  - 2026-03-02 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123035.md) · [원문](https://www.seedworld.com/latam/2026/03/02/estudio-en-parana-muestra-aumentos-de-productividad-con-la-coinoculacion-de-soja/)
-  - Un estudio en Paraná de Embrapa Soja e IDR-Paraná muestra que la co-inoculación de semillas de soja mejora la productividad de forma consistente. Diez años de validación en Unidades de Referencia Tec…
-
-- **[Selling Abundance in a World Addicted to Scarcity](items/seedworld/2026/03/https_www.seedworld.com_p_123181.md)**
-  - 2026-03-02 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123181.md) · [원문](https://www.seedworld.com/europe/2026/03/02/selling-abundance-in-a-world-addicted-to-scarcity/)
-  - Part 2 explores Hidde Boersma’s techno-optimistic vision for sustainable agriculture, highlighting WePlanet, ecomodernism, CRISPR, land sparing and high-yield farming. It examines how storytelling, f…
-
-- **[Concepts For Your Seeds](items/seedworld/2026/03/https_www.seedworld.com_p_120734.md)**
-  - 2026-03-01 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_120734.md) · [원문](https://www.seedworld.com/us/2026/03/01/concepts-for-your-seeds-5/)
-  - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds referring to their high quality. You get specific and individual […]…
-
 
 <a id="weekly-archive"></a>
 ## 지난 주간 아카이브
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-03-09](weekly/2026-03-09.md)
 - [2026-03-06](weekly/2026-03-06.md)
 - [2026-03-04](weekly/2026-03-04.md)
 - [2026-03-02](weekly/2026-03-02.md)

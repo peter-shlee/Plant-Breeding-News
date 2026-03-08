@@ -11,6 +11,18 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[Farm Bill Draft Draws Praise, Concerns From Agricultural Groups](../../items/seedworld/2026/03/https_www.seedworld.com_p_123372.md)**
+  - 2026-03-07 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123372.md) · [원문](https://www.seedworld.com/us/2026/03/06/farm-bill-draft-draws-praise-concerns-from-agricultural-groups/)
+  - Agricultural organizations are reacting to the Farm Bill draft. See what they are saying as we wait for lawmakers to replace the 2018 Farm Bill The post Farm Bill Draft Draws Praise, Concerns From Ag…
+
+- **[Canada’s Crop Breeding System Faces a Turning Point](../../items/seedworld/2026/03/https_www.seedworld.com_p_123365.md)**
+  - 2026-03-07 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123365.md) · [원문](https://www.seedworld.com/canada/2026/03/06/canadas-crop-breeding-system-faces-a-turning-point/)
+  - Groups like the Canadian Wheat Research Coalition say clearer funding models, shared infrastructure and long-term planning are essential for innovation The post Canada’s Crop Breeding System Faces a…
+
+- **[Let’s Talk: A Critical Moment for New Genomic Techniques in Europe](../../items/seedworld/2026/03/https_www.seedworld.com_p_123366.md)**
+  - 2026-03-07 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123366.md) · [원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/)
+  - Europe is edging closer to a major milestone on New Genomic Techniques. In this Seed World Europe discussion, Petar Madjarac and Marcel Bruins explain where EU NGT regulation stands and why the next…
+
 - **[Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies](../../items/seedworld/2026/03/https_www.seedworld.com_p_123357.md)**
   - 2026-03-06 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123357.md) · [원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/)
   - Protein content in yellow peas and processing advantages of small-seeded faba beans are becoming key breeding targets for pulse breeders The post Plant-Protein Demand Shaping New Yellow Pea and Faba…
@@ -145,15 +157,3 @@ source: "seedworld"
 - **[Chilean Research Identifies Molecular “Switch” Behind Plant Drought Resilience](../../items/seedworld/2026/02/https_www.seedworld.com_p_123024.md)**
   - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123024.md) · [원문](https://www.seedworld.com/latam/2026/02/25/chilean-research-identifies-molecular-switch-behind-plant-drought-resilience/)
   - Chilean researchers report a molecular “switch” that helps plants balance growth and drought survival. Published in PNAS, the study identifies the protein NLP7 as a key regulator: it activates growth…
-
-- **[Dirty Ships, Lifted Embargoes and the Hidden Power of Grain](../../items/seedworld/2026/02/https_www.seedworld.com_p_123178.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123178.md) · [원문](https://www.seedworld.com/europe/2026/02/25/dirty-ships-lifted-embargoes-and-the-hidden-power-of-grain/)
-  - This article examines how climate-driven famine and uninspected grain trade helped spread the Black Death, drawing parallels to today’s risks from illegal and counterfeit seeds.
-
-- **[Three Travel Hacks to Keep You Focused During Work Travel](../../items/seedworld/2026/02/https_www.seedworld.com_p_123174.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123174.md) · [원문](https://www.seedworld.com/us/2026/02/24/three-travel-hacks-to-keep-you-focused-during-work-travel/)
-  - Winter is conference and travel season—when seed industry leaders plan and contract for the critical summer selling window. Every meeting can grow your business, improve margins, and build partnershi…
-
-- **[Study Warns of Rising Heat Risks for Global Wheat Yields](../../items/seedworld/2026/02/https_www.seedworld.com_p_123148.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123148.md) · [원문](https://www.seedworld.com/europe/2026/02/24/study-warns-of-rising-heat-risks-for-global-wheat-yields/)
-  - New research from Rothamsted Research suggests heatwaves during wheat flowering may soon pose a bigger threat to yields than drought. Using climate projections and the Sirius wheat model, researchers…

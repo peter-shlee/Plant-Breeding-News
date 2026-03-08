@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/04/new-barley-lines-could-help-be
 summary: "The Prairie Recommending Committee for Oats and Barley is reviewing malting barley lines including LOX-less types that reduce flavour staling in beer The post New Barley Lines Could Help Beer Stay Fresher Longer appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-03-06T06:46:40+09:00"
+fetched_at: "2026-03-09T06:40:06+09:00"
 ---
 # New Barley Lines Could Help Beer Stay Fresher Longer
 
