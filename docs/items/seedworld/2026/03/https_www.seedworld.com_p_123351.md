@@ -9,7 +9,7 @@ summary: "PBR Commissioner Anthony Parker says collaboration between producers, 
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-03-09T21:14:20+09:00"
+fetched_at: "2026-03-09T21:18:14+09:00"
 ---
 # 10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?
 

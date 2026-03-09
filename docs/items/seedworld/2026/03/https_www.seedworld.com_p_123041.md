@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/04/modelo-mapea-danos-por-heladas-
 summary: "Un modelo brasileño mapea el daño por heladas de 2021 en el maíz de segunda cosecha con imágenes Sentinel-2 y aprendizaje automático Random Forest. Probado en más de 700.000 hectáreas del oeste de Paraná, identificó parcelas de maíz con 96%"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T21:14:20+09:00"
+fetched_at: "2026-03-09T21:18:14+09:00"
 ---
 # Modelo mapea daños por heladas en maíz Brasileño 2021
 

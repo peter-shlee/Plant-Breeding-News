@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/02/27/nueva-revision-avanza-en-la-ins
 summary: "Una nueva revisión destaca avances en la inserción precisa de genes en maíz, centrada en la integración específica y los “sitios seguros” genómicos. Liderado por investigadores del GCCRC, el estudio explica cómo herramientas de edición gené"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T21:14:20+09:00"
+fetched_at: "2026-03-09T21:18:14+09:00"
 ---
 # Nueva revisión avanza en la inserción precisa de genes en maíz
 

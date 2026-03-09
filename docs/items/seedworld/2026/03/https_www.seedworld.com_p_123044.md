@@ -9,7 +9,7 @@ summary: "A Brazilian model maps 2021 frost damage in second-crop corn using Sen
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-03-09T21:14:20+09:00"
+fetched_at: "2026-03-09T21:18:14+09:00"
 ---
 # Model Maps 2021 Frost Damage in Brazilian Corn
 
