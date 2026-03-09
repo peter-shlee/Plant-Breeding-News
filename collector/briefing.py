@@ -357,47 +357,37 @@ def _gemini_korean_summaries_for_items(
 ) -> dict[int, str]:
     """Best-effort Korean summaries for fallback-picked items.
 
+    Uses one short request per item for robustness.
     Returns {idx: summary}. Missing idx will be filled by local fallback.
     """
 
-    if not items:
-        return {}
-
-    lines = [
-        "아래 기사들에 대해 한국어 한 줄 요약을 작성하라.",
-        "형식만 출력: idx|요약",
-        "각 요약은 40~110자, 과장 금지, 사실 중심.",
-        "'정책 요약 1' 같은 자리표시자 문구는 절대 금지.",
-        "",
-    ]
+    out: dict[int, str] = {}
     for it in items:
         excerpt = (it.excerpt or "").strip()
-        if len(excerpt) > 500:
-            excerpt = excerpt[:499] + "…"
-        lines.append(f"idx={it.idx}")
-        lines.append(f"title: {it.title}")
-        lines.append(f"excerpt: {excerpt or '(본문 발췌 없음)'}")
-        lines.append("")
+        if len(excerpt) > 700:
+            excerpt = excerpt[:699] + "…"
 
-    prompt = "\n".join(lines)
-    text = _call_gemini_generate_text(prompt, api_key=api_key, model=model, timeout_s=timeout_s)
+        prompt = "\n".join(
+            [
+                "다음 기사를 한국어로 1문장 요약해라.",
+                "조건: 35~95자, 사실 기반, 자리표시자 금지, 불필요한 수식 금지.",
+                "출력: 요약문 한 줄만 출력(머리말/번호/따옴표/라벨 금지).",
+                f"title: {it.title}",
+                f"excerpt: {excerpt or '(본문 발췌 없음)'}",
+            ]
+        )
 
-    out: dict[int, str] = {}
-    for raw in (text or "").splitlines():
-        line = raw.strip()
-        if not line:
+        try:
+            text = _call_gemini_generate_text(prompt, api_key=api_key, model=model, timeout_s=timeout_s)
+        except Exception:
             continue
-        line = re.sub(r"^[\-*•]\s*", "", line)
-        p = line.split("|", 1)
-        if len(p) != 2:
-            continue
-        idx_m = re.search(r"\d+", p[0])
-        if not idx_m:
-            continue
-        idx = int(idx_m.group(0))
-        summ = re.sub(r"\s+", " ", p[1].strip())
-        if summ and not _is_placeholder_summary(summ):
-            out[idx] = summ
+
+        line = (text or "").strip().splitlines()[0] if (text or "").strip() else ""
+        line = re.sub(r"^[\-*•\d\.\)\s]+", "", line).strip().strip('"“”')
+        line = re.sub(r"\s+", " ", line)
+        if line and not _is_placeholder_summary(line):
+            out[it.idx] = line
+
     return out
 
 
