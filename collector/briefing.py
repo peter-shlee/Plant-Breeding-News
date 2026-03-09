@@ -65,8 +65,19 @@ def _extract_item_excerpt(item_md_path: str, *, max_chars: int = 800) -> str:
     return md
 
 
+# Legacy format (older index generator):
+# - YYYY-MM-DD [src] [title](items/...) ([원문](...))
 _RECENT_ITEM_RE = re.compile(
     r"^-\s+(?P<date>\d{4}-\d{2}-\d{2})\s+\[(?P<src>[^\]]+)\]\s+\[(?P<title>[^\]]+)\]\((?P<item>[^\)]+)\)\s+\(\[원문\]\((?P<orig>[^\)]+)\)\)",
+    re.M,
+)
+
+# New format (TOC + anchor + rich bullets):
+# - **[Title](items/...)**
+#   - YYYY-MM-DD · `source` · [읽기](items/...) · [원문](https://...)
+_RECENT_BLOCK_TITLE_RE = re.compile(r"^-\s+\*\*\[(?P<title>.+?)\]\((?P<item>items/[^\)]+)\)\*\*\s*$", re.M)
+_RECENT_BLOCK_META_RE = re.compile(
+    r"^\s+-\s+(?P<date>\d{4}-\d{2}-\d{2})\s+·\s+`(?P<src>[^`]+)`.*?\[원문\]\((?P<orig>[^\)]+)\)",
     re.M,
 )
 
@@ -77,15 +88,58 @@ def parse_recent_items_from_index(index_md: str, *, docs_root: str, max_items: i
     We intentionally ONLY use the list already rendered on the GitHub Pages index.
     """
 
-    # Narrow to '최근 소식' section
-    if "## 최근 소식 (최근 7일)" not in index_md:
+    # Narrow to '최근 소식' section (be tolerant: header text may vary slightly)
+    sec = None
+    for header in ("## 최근 소식 (최근 7일)", "## 최근 소식"):
+        if header in index_md:
+            sec = index_md.split(header, 1)[1]
+            break
+    if sec is None:
         return []
 
-    after = index_md.split("## 최근 소식 (최근 7일)", 1)[1]
     # Stop at next h2
-    after = re.split(r"\n##\s+", after, maxsplit=1)[0]
+    after = re.split(r"\n##\s+", sec, maxsplit=1)[0]
 
     items: list[RecentItem] = []
+
+    # (1) Try new rich-bullet format
+    # Find each title line and look ahead for the first meta line below it.
+    title_matches = list(_RECENT_BLOCK_TITLE_RE.finditer(after))
+    if title_matches:
+        for i, tm in enumerate(title_matches):
+            if len(items) >= max_items:
+                break
+            title = tm.group("title").strip()
+            item_path = tm.group("item").strip()
+
+            # search within this block (until next title match or end)
+            start = tm.end()
+            end = title_matches[i + 1].start() if i + 1 < len(title_matches) else len(after)
+            block = after[start:end]
+            mm = _RECENT_BLOCK_META_RE.search(block)
+            if not mm:
+                continue
+            date = mm.group("date").strip()
+            src = mm.group("src").strip()
+            orig = mm.group("orig").strip()
+
+            item_fs_path = os.path.join(docs_root, item_path)
+            excerpt = _extract_item_excerpt(item_fs_path, max_chars=800)
+
+            items.append(
+                RecentItem(
+                    idx=len(items) + 1,
+                    date=date,
+                    source=src,
+                    title=title,
+                    item_path=item_path,
+                    original_url=orig,
+                    excerpt=excerpt,
+                )
+            )
+        return items
+
+    # (2) Fallback to legacy single-line format
     for m in _RECENT_ITEM_RE.finditer(after):
         if len(items) >= max_items:
             break
