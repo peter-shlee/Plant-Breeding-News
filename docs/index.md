@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-09 21:24 (KST)**  
+- 마지막 업데이트: **2026-03-09 21:26 (KST)**  
 - 커버리지(최근 섹션): **2026-03-02 ~ 2026-03-09** (최근 7일)
 
 ## 목차
@@ -27,7 +27,7 @@ title: "식물 육종 뉴스"
 
 ### 1) 정책/규제
 
-- ‘Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다. ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/))
+- 육종·종자 분야의 정책·시장 변화 신호를 다룬다. ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/))
 - 부처 간 협력을 통해 유전자 변형 생물체 안전관리 체계 강화에 나선다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 ### 2) 연구/기술
@@ -37,8 +37,8 @@ title: "식물 육종 뉴스"
 
 ### 3) 유통/시장/현장
 
-- ‘농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- ‘농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 육종·종자 분야의 정책·시장 변화 신호를 다룬다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 육종·종자 분야의 정책·시장 변화 신호를 다룬다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 

@@ -9,7 +9,7 @@ summary: "Europe is edging closer to a major milestone on New Genomic Techniques
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-03-09T21:24:31+09:00"
+fetched_at: "2026-03-09T21:26:46+09:00"
 ---
 # Let’s Talk: A Critical Moment for New Genomic Techniques in Europe
 
