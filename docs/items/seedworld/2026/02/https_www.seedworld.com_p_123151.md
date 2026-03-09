@@ -9,7 +9,7 @@ summary: "EuroBlight’s first 2025 potato season results show Europe’s late b
 attachments: []
 tags:
   - "감자"
-fetched_at: "2026-03-09T21:19:44+09:00"
+fetched_at: "2026-03-09T21:22:16+09:00"
 ---
 # Early Release of EuroBlight Blight Monitoring Results for the 2025 Potato Crop
 

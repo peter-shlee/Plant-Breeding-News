@@ -12,7 +12,7 @@ tags:
   - "gene-editing"
   - "phenotyping"
   - "옥수수"
-fetched_at: "2026-03-09T21:19:44+09:00"
+fetched_at: "2026-03-09T21:22:16+09:00"
 ---
 # New Review Advances Precision Gene Insertion in Corn
 
