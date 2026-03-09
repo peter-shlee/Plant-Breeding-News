@@ -447,7 +447,7 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
             it = items_by_idx.get(idx)
             if not it:
                 continue
-            out.append(f"- [{it.title}]({it.item_path}) ([원문]({it.original_url})) — {summ}")
+            out.append(f"- {summ} ([원문]({it.original_url}))")
 
         out.append("")
         return out
