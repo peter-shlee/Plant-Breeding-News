@@ -268,12 +268,24 @@ def _parse_gemini_line_format(text: str) -> dict[str, Any]:
         "POLICY": "policy",
         "RESEARCH": "research",
         "MARKET": "market",
+        "정책": "policy",
+        "연구": "research",
+        "유통": "market",
     }
 
-    for raw in (text or "").splitlines():
+    cleaned = text or ""
+    # Remove markdown code fences if present
+    cleaned = re.sub(r"^```[a-zA-Z0-9_-]*\n", "", cleaned)
+    cleaned = re.sub(r"\n```$", "", cleaned)
+
+    for raw in cleaned.splitlines():
         line = raw.strip()
         if not line:
             continue
+
+        # tolerate bullets / markdown emphasis
+        line = re.sub(r"^[\-*•]\s*", "", line)
+        line = line.replace("**", "")
 
         m_range = re.match(r"^RANGE\s*:\s*(.+)$", line, flags=re.I)
         if m_range:
@@ -285,21 +297,57 @@ def _parse_gemini_line_format(text: str) -> dict[str, Any]:
             result["one_liner"] = m_ol.group(1).strip()
             continue
 
-        m_axis = re.match(r"^(POLICY|RESEARCH|MARKET)\s*:\s*(.+)$", line, flags=re.I)
+        m_axis = re.match(r"^(POLICY|RESEARCH|MARKET|정책|연구|유통)\s*:\s*(.+)$", line, flags=re.I)
         if m_axis:
-            axis = axis_map[m_axis.group(1).upper()]
+            axis = axis_map[m_axis.group(1).upper() if m_axis.group(1).isascii() else m_axis.group(1)]
             rhs = m_axis.group(2).strip()
-            # idx|summary
+            # idx|summary OR idx - summary
             p = rhs.split("|", 1)
             if len(p) != 2:
-                continue
+                p = re.split(r"\s+-\s+", rhs, maxsplit=1)
+                if len(p) != 2:
+                    continue
             idx_s, summ = p[0].strip(), p[1].strip()
-            if not re.fullmatch(r"\d+", idx_s):
+            idx_m = re.search(r"\d+", idx_s)
+            if not idx_m:
                 continue
-            result[axis].append({"idx": int(idx_s), "summary": summ})
+            result[axis].append({"idx": int(idx_m.group(0)), "summary": summ})
             continue
 
     return result
+
+
+def _korean_fallback_summary(it: RecentItem) -> str:
+    ex = (it.excerpt or "").strip()
+    if ex:
+        # Prefer first sentence-like chunk and force short length
+        s = re.split(r"(?<=[\.\!\?\u3002\uFF01\uFF1F])\s+", ex)[0].strip()
+        if s:
+            if len(s) > 140:
+                s = s[:139].rstrip() + "…"
+            # If it looks mostly non-Korean, still provide Korean connective text.
+            if not re.search(r"[가-힣]", s):
+                return f"이 이슈는 ‘{it.title}’를 다루며, 상세 맥락은 원문 확인이 필요하다."
+            return s
+    return f"이 이슈는 ‘{it.title}’를 다루며, 핵심 내용은 원문 링크에서 확인할 수 있다."
+
+
+def _fallback_result_from_items(items: list[RecentItem], *, range_start: str, range_end: str) -> dict[str, Any]:
+    # Deterministic fallback: take recent order and split 2 per axis.
+    picked = items[:6]
+    while len(picked) < 6 and items:
+        picked.append(items[len(picked) % len(items)])
+
+    def pack(chunk: list[RecentItem]) -> list[dict[str, Any]]:
+        return [{"idx": it.idx, "summary": _korean_fallback_summary(it)} for it in chunk]
+
+    return {
+        "range": f"{range_start}~{range_end}".strip("~") or "주간",
+        "one_liner": "이번 주 핵심 이슈를 정책·연구·현장 관점으로 빠르게 정리했다.",
+        "policy": pack(picked[0:2]),
+        "research": pack(picked[2:4]),
+        "market": pack(picked[4:6]),
+    }
 
 
 def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, RecentItem]) -> str:
@@ -339,7 +387,7 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
     lines.append(f"## 30초 주간 브리핑 ({range_str})\n")
 
     one_liner = (result.get("one_liner") or "").strip()
-    if one_liner:
+    if one_liner and len(one_liner) >= 8:
         lines.append(f"> {one_liner}\n")
 
     lines += render_axis("1) 정책/규제", "policy")
@@ -435,7 +483,7 @@ def build_or_fallback_briefing(
         def _axis_len(k: str) -> int:
             return len(result.get(k) or [])
 
-        need_retry = (_axis_len("policy") == 0 or _axis_len("research") == 0 or _axis_len("market") == 0)
+        need_retry = (_axis_len("policy") < 2 or _axis_len("research") < 2 or _axis_len("market") < 2)
         if need_retry:
             repair_prompt = (
                 "아래 출력은 형식이 맞지 않다. 설명 없이 라인 포맷으로만 다시 출력하라.\n"
@@ -456,6 +504,26 @@ def build_or_fallback_briefing(
                 result = result2
 
         items_by_idx = {it.idx: it for it in items}
+
+        # Final guard: if still incomplete, or picks invalid idx, build deterministic local fallback.
+        def _valid_axis_count(axis: str) -> int:
+            c = 0
+            for obj in (result.get(axis) or []):
+                try:
+                    idx = int(obj.get("idx"))
+                except Exception:
+                    continue
+                if idx in items_by_idx:
+                    c += 1
+            return c
+
+        if (
+            _valid_axis_count("policy") < 2
+            or _valid_axis_count("research") < 2
+            or _valid_axis_count("market") < 2
+        ):
+            result = _fallback_result_from_items(items, range_start=range_start, range_end=range_end)
+
         briefing_md = _render_briefing_md(result, items_by_idx=items_by_idx)
         out_md = insert_briefing_into_index(index_md, briefing_md)
         _write_text(index_path, out_md)
