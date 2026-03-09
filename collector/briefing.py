@@ -332,6 +332,20 @@ def _korean_fallback_summary(it: RecentItem) -> str:
     return f"이 이슈는 ‘{it.title}’를 다루며, 핵심 내용은 원문 링크에서 확인할 수 있다."
 
 
+def _is_placeholder_summary(s: str) -> bool:
+    t = (s or "").strip().lower()
+    if not t:
+        return True
+    # Common low-quality placeholders
+    if re.fullmatch(r"(정책|연구|시장|유통)\s*요약\s*\d*", t):
+        return True
+    if re.fullmatch(r"summary\s*\d*", t):
+        return True
+    if "원문 확인" in t and len(t) < 20:
+        return True
+    return False
+
+
 def _gemini_korean_summaries_for_items(
     items: list[RecentItem], *, api_key: str, model: str = "gemini-2.5-flash", timeout_s: int = 45
 ) -> dict[int, str]:
@@ -347,6 +361,7 @@ def _gemini_korean_summaries_for_items(
         "아래 기사들에 대해 한국어 한 줄 요약을 작성하라.",
         "형식만 출력: idx|요약",
         "각 요약은 40~110자, 과장 금지, 사실 중심.",
+        "'정책 요약 1' 같은 자리표시자 문구는 절대 금지.",
         "",
     ]
     for it in items:
@@ -375,7 +390,7 @@ def _gemini_korean_summaries_for_items(
             continue
         idx = int(idx_m.group(0))
         summ = re.sub(r"\s+", " ", p[1].strip())
-        if summ:
+        if summ and not _is_placeholder_summary(summ):
             out[idx] = summ
     return out
 
@@ -574,7 +589,8 @@ def build_or_fallback_briefing(
                     idx = int(obj.get("idx"))
                 except Exception:
                     continue
-                if idx in items_by_idx:
+                summ = re.sub(r"\s+", " ", (obj.get("summary") or "").strip())
+                if idx in items_by_idx and summ and not _is_placeholder_summary(summ):
                     c += 1
             return c
 
