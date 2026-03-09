@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-09 18:43 (KST)**  
+- 마지막 업데이트: **2026-03-09 19:39 (KST)**  
 - 커버리지(최근 섹션): **2026-03-02 ~ 2026-03-09** (최근 7일)
 
 ## 목차
@@ -23,16 +23,22 @@ title: "식물 육종 뉴스"
 <!-- AUTO_BRIEFING_START -->
 ## 30초 주간 브리핑 (2026-03-02~2026-03-09)
 
-> 이번 주 식
+> 이번 주 핵심 이슈를 정책·연구·현장 관점으로 빠르게 정리했다.
 
 ### 1) 정책/규제
 
+- [Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)) — 이 이슈는 ‘Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad’를 다루며, 상세 맥락은 원문 확인이 필요하다.
+- [부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서’를 다루며, 상세 맥락은 원문 확인이 필요하다.
 
 ### 2) 연구/기술
 
+- [단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/rda/2026/03/100000808117.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대’를 다루며, 상세 맥락은 원문 확인이 필요하다.
+- [유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인](items/rda/2026/03/100000808116.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808116&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인’를 다루며, 상세 맥락은 원문 확인이 필요하다.
 
 ### 3) 유통/시장/현장
 
+- [농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다](items/rda/2026/03/100000808115.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다’를 다루며, 상세 맥락은 원문 확인이 필요하다.
+- [농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영](items/rda/2026/03/100000808114.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영’를 다루며, 상세 맥락은 원문 확인이 필요하다.
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -40,24 +46,12 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/rda/2026/03/100000808117.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808117.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 단감 묘목 심는 시기를 앞두고 크기가 큰(대과종) ‘감풍’에 대한 문의가 늘고 있다. 농촌진흥청(청장 이승돈)은 ‘감풍’이 최근 2년 새 2배 가까이 면적이 확대되는 등 고품질 시장 수요에 부합하는 품종으로 평가받고 있다며, 보급 확대에 박차를 가하겠다고 밝혔다.
-
-- **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/rda/2026/03/100000808113.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 감초는 한방 처방에 두루 사용되는 약재다. 하지만, 아직은 수입 의존도가 높아 안정적인 국내 생산·보급 기반 구축이 필요하다.
-
 - **[쌀알 투명하고 병에 강한 신품종 벼 '달하미' 개발](items/nics/2026/03/944005.md)**
   - 2026-03-03 · `nics` · [읽기](items/nics/2026/03/944005.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944005)
 
-- **[단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/nihhs/2026/03/100000808117.md)**
-  - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808117.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808117&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수…
-
-- **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/nihhs/2026/03/100000808113.md)**
-  - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808113.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808113&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀…
+- **[Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md)**
+  - 2026-03-09 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) · [원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)
+  - La Asociación de Semilleros Argentinos (ASA) respaldó la decisión del presidente Javier Milei de modernizar la propiedad intelectual vegetal e impulsar la adhesión de Argentina al Acta UPOV 1991.
 
 - **[Let’s Talk: A Critical Moment for New Genomic Techniques in Europe](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md)**
   - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md) · [원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/)
@@ -75,16 +69,23 @@ title: "식물 육종 뉴스"
   - 2026-03-03 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123232.md) · [원문](https://www.seedworld.com/us/2026/03/02/can-we-breed-a-safer-peanut/)
   - Can peanut breeding reduce allergen proteins without sacrificing performance? Clemson scientists are stacking genetics and gene editing to find out.
 
+- **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/rda/2026/03/100000808113.md)**
+  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+
+- **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/nihhs/2026/03/100000808113.md)**
+  - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808113.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808113&mc=MN0000000136)
+
 - **[부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808118.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 국내 농림축산업용 유전자 변형 생물체(LMO) 안전관리 강화를 위해 3월 10일 국립농업과학원 농업생명자원부에서 ‘유전자 변형 생물체 안전관리 협의회’를 연다. 농업용 유전자 변형 생물체 안전관리 기관 담당자들이 참석하는 이날 협의회에서는 관계기관 간 정보를 공유하고 협력 방안을 발굴할 예정이다.
+
+- **[단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/rda/2026/03/100000808117.md)**
+  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808117.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인](items/rda/2026/03/100000808116.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808116.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808116&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 전국 유기농 인증 밭 토양 824지점을 대상으로 인증 기간에 따른 토양 건강성 실태를 조사‧분석한 결과를 발표했다. 그동안의 토양 평가가 양분량에 초점을 둔 ‘토양 비옥도(Soil fertility)’ 중심이었다면, 이번 조사에서는 토양의 다양한 기능과 지속가능성을 알 수 있는 ‘토양 건강성(Soil health)’에 중점을 뒀…
 
-- **[농촌진흥청, 어린이 농업과학 체험교육 연중 진행](items/rda/2026/03/100000808111.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808111.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808111&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다](items/rda/2026/03/100000808115.md)**
+  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808115.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 
 <a id="recent"></a>
@@ -92,29 +93,27 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
+- **[Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md)**
+  - 2026-03-09 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) · [원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)
+  - La Asociación de Semilleros Argentinos (ASA) respaldó la decisión del presidente Javier Milei de modernizar la propiedad intelectual vegetal e impulsar la adhesión de Argentina al Acta UPOV 1991.
+
 - **[부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808118.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 국내 농림축산업용 유전자 변형 생물체(LMO) 안전관리 강화를 위해 3월 10일 국립농업과학원 농업생명자원부에서 ‘유전자 변형 생물체 안전관리 협의회’를 연다. 농업용 유전자 변형 생물체 안전관리 기관 담당자들이 참석하는 이날 협의회에서는 관계기관 간 정보를 공유하고 협력 방안을 발굴할 예정이다.
 
 - **[단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/rda/2026/03/100000808117.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808117.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 단감 묘목 심는 시기를 앞두고 크기가 큰(대과종) ‘감풍’에 대한 문의가 늘고 있다. 농촌진흥청(청장 이승돈)은 ‘감풍’이 최근 2년 새 2배 가까이 면적이 확대되는 등 고품질 시장 수요에 부합하는 품종으로 평가받고 있다며, 보급 확대에 박차를 가하겠다고 밝혔다.
 
 - **[유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인](items/rda/2026/03/100000808116.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808116.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808116&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 전국 유기농 인증 밭 토양 824지점을 대상으로 인증 기간에 따른 토양 건강성 실태를 조사‧분석한 결과를 발표했다. 그동안의 토양 평가가 양분량에 초점을 둔 ‘토양 비옥도(Soil fertility)’ 중심이었다면, 이번 조사에서는 토양의 다양한 기능과 지속가능성을 알 수 있는 ‘토양 건강성(Soil health)’에 중점을 뒀…
 
 - **[농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다](items/rda/2026/03/100000808115.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808115.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 지난달 26일부터 3월 6일까지 5회에 걸쳐 국립식량과학원, 국립축산과학원, 경북농업기술원에서 남수단 재건지원단(한빛부대) 21진 부대원을 대상으로 벼, 콩, 옥수수, 참외 재배 기술과 가금류 사양관리 기술을 교육했다. 이번에 교육받은 부대원들은 오는 4월 7일 파병 이후 주둔지 남수단 보르시 인근에 조성한 한빛농장에서 직접 작…
 
 - **[농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영](items/rda/2026/03/100000808114.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808114.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 주요 과수의 개화 전후 저온 피해 최소화를 위해 도 농업기술원, 시군농업기술센터와 함께 오는 5월까지 현장 기술지원단을 운영한다. 현장 기술지원단은 사과, 배, 포도, 복숭아, 단감 5개 작목 주산지 40개 시군의 과수 생육 상황을 시기별로 분석하고, 저온 피해 예방을 위한 과수원 관리 요령 지도와 저온 피해 경감시설 점검, 관…
 
 - **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/rda/2026/03/100000808113.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 감초는 한방 처방에 두루 사용되는 약재다. 하지만, 아직은 수입 의존도가 높아 안정적인 국내 생산·보급 기반 구축이 필요하다.
 
 - **[농촌진흥청, 어린이 농업과학 체험교육 연중 진행](items/rda/2026/03/100000808111.md)**
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808111.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808111&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
@@ -163,11 +162,9 @@ title: "식물 육종 뉴스"
 
 - **[단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/nihhs/2026/03/100000808117.md)**
   - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808117.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808117&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수…
 
 - **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/nihhs/2026/03/100000808113.md)**
   - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808113.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808113&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀…
 
 - **[혈당 관리에 도움되는 ‘원기2호’ 고춧잎, 환·차·국수로 변신](items/nihhs/2026/03/100000808104.md)**
   - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808104.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808104&mc=MN0000000136)
@@ -191,10 +188,6 @@ title: "식물 육종 뉴스"
 - **[10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md)**
   - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md) · [원문](https://www.seedworld.com/canada/2026/03/05/10-years-after-upov-91-is-canada-ready-for-a-new-plant-breeding-funding-model/)
   - PBR Commissioner Anthony Parker says collaboration between producers, public breeders and private companies will determine the future of innovation The post 10 Years After UPOV ’91: Is Canada Ready f…
-
-- **[Model Maps 2021 Frost Damage in Brazilian Corn](items/seedworld/2026/03/https_www.seedworld.com_p_123044.md)**
-  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123044.md) · [원문](https://www.seedworld.com/latam/2026/03/05/model-maps-2021-frost-damage-in-brazilian-corn/)
-  - A Brazilian model maps 2021 frost damage in second-crop corn using Sentinel-2 imagery and Random Forest machine learning. Tested across 700,000+ hectares in western Paraná, the method identified corn…
 
 
 <a id="weekly-archive"></a>

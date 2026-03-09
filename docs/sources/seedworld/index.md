@@ -11,6 +11,10 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](../../items/seedworld/2026/03/https_www.seedworld.com_p_123293.md)**
+  - 2026-03-09 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) · [원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)
+  - La Asociación de Semilleros Argentinos (ASA) respaldó la decisión del presidente Javier Milei de modernizar la propiedad intelectual vegetal e impulsar la adhesión de Argentina al Acta UPOV 1991.
+
 - **[Farm Bill Draft Draws Praise, Concerns From Agricultural Groups](../../items/seedworld/2026/03/https_www.seedworld.com_p_123372.md)**
   - 2026-03-07 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123372.md) · [원문](https://www.seedworld.com/us/2026/03/06/farm-bill-draft-draws-praise-concerns-from-agricultural-groups/)
   - Agricultural organizations are reacting to the Farm Bill draft. See what they are saying as we wait for lawmakers to replace the 2018 Farm Bill The post Farm Bill Draft Draws Praise, Concerns From Ag…
@@ -153,7 +157,3 @@ source: "seedworld"
 - **[Seed Regulatory Modernization: Where Industry Aligns — and Where it Pushes Back](../../items/seedworld/2026/02/https_www.seedworld.com_p_123190.md)**
   - 2026-02-26 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123190.md) · [원문](https://www.seedworld.com/canada/2026/02/25/seed-regulatory-modernization-where-industry-aligns-and-where-it-pushes-back/)
   - Momentum builds for Canada’s seed regulations overhaul as the CFIA releases its SRM What We Heard Report. Now comes the hard part The post Seed Regulatory Modernization: Where Industry Aligns — and W…
-
-- **[Chilean Research Identifies Molecular “Switch” Behind Plant Drought Resilience](../../items/seedworld/2026/02/https_www.seedworld.com_p_123024.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123024.md) · [원문](https://www.seedworld.com/latam/2026/02/25/chilean-research-identifies-molecular-switch-behind-plant-drought-resilience/)
-  - Chilean researchers report a molecular “switch” that helps plants balance growth and drought survival. Published in PNAS, the study identifies the protein NLP7 as a key regulator: it activates growth…
