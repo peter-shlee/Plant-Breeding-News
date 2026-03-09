@@ -41,9 +41,24 @@ jobs:
         run: |
           python -m collector build-weekly --outdir docs --days 7 --db .collector/collector.sqlite
 
+      - name: Backup previous index.md (for briefing fallback)
+        run: |
+          if [ -f docs/index.md ]; then
+            cp docs/index.md /tmp/index_prev.md
+            echo "Backed up docs/index.md -> /tmp/index_prev.md"
+          else
+            echo "No previous docs/index.md to back up"
+          fi
+
       - name: Build site (last 7 days, limit 30)
         run: |
           python -m collector build-site --outdir docs --days 7 --limit 30 --db .collector/collector.sqlite
+
+      - name: Build 30-sec weekly briefing (Gemini) and inject into index
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python -m collector build-briefing --docs-dir docs --fallback-index /tmp/index_prev.md
 
       - name: Commit & push if docs changed
         run: |

@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import os
+import json
 from datetime import datetime
 from typing import Any
 
@@ -20,6 +21,7 @@ from .sitegen import (
     write_weekly_pages,
 )
 from .sources import SOURCES
+from .briefing import build_or_fallback_briefing
 
 
 def default_db_path() -> str:
@@ -355,6 +357,21 @@ def cmd_build_site(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_build_briefing(args: argparse.Namespace) -> int:
+    index_path = os.path.join(args.docs_dir, "index.md")
+    res = build_or_fallback_briefing(
+        docs_dir=args.docs_dir,
+        index_path=index_path,
+        fallback_index_path=args.fallback_index,
+        range_start=args.range_start,
+        range_end=args.range_end,
+        max_items=args.max_items,
+        model=args.model,
+    )
+    print("build-briefing:", json.dumps(res, ensure_ascii=False))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="collector", description="Weekly incremental press-release collector (MVP).")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -417,6 +434,19 @@ def main(argv: list[str] | None = None) -> int:
     )
     ps.add_argument("--sources", nargs="*", default=None, help="Filter by sources")
     ps.set_defaults(func=cmd_build_site)
+
+    pb = sub.add_parser("build-briefing", help="Build 30-sec weekly briefing and inject into docs/index.md")
+    pb.add_argument("--docs-dir", default=os.path.join(os.getcwd(), "docs"), help="Docs output directory")
+    pb.add_argument(
+        "--fallback-index",
+        default=None,
+        help="Path to previous index.md to reuse briefing when GEMINI_API_KEY missing or API fails",
+    )
+    pb.add_argument("--range-start", default="", help="Range start YYYY-MM-DD (optional; parsed from docs/index.md if omitted)")
+    pb.add_argument("--range-end", default="", help="Range end YYYY-MM-DD (optional; parsed from docs/index.md if omitted)")
+    pb.add_argument("--max-items", type=int, default=30, help="Max recent items to pass to Gemini")
+    pb.add_argument("--model", default=os.getenv("GEMINI_MODEL", "gemini-2.5-flash"), help="Gemini model name")
+    pb.set_defaults(func=cmd_build_briefing)
 
     args = p.parse_args(argv)
 
