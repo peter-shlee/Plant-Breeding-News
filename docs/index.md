@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-09 21:35 (KST)**  
+- 마지막 업데이트: **2026-03-09 21:42 (KST)**  
 - 커버리지(최근 섹션): **2026-03-02 ~ 2026-03-09** (최근 7일)
 
 ## 목차
@@ -23,22 +23,22 @@ title: "식물 육종 뉴스"
 <!-- AUTO_BRIEFING_START -->
 ## 30초 주간 브리핑 (2026-03-02~2026-03-09)
 
-> 이번 주 핵심 이슈를 정책·연구·현장 관점으로 빠르게 정리했다.
+> 글로벌 종자 규제 현대화와 작물별 맞춤형 육종 전략이 가속화되고 있습니다.
 
 ### 1) 정책/규제
 
-- 해외 육종·종자 분야의 정책·기술 변화와 산업 파급효과를 다룬 이슈다. ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/))
-- 해외 육종·종자 분야의 정책·기술 변화와 산업 파급효과를 다룬 이슈다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 아르헨티나 종자협회(ASA)가 지식재산권 강화와 혁신 촉진을 위해 UPOV 1991 협약 가입을 공식 지지했습니다. ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/))
+- 유럽연합이 신육종기술(NGT) 규제 도입의 중요한 분기점을 맞이하며 향후 식물 육종 산업의 미래를 결정할 정치적 결정을 앞두고 있습니다. ([원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/))
 
 ### 2) 연구/기술
 
-- 해외 육종·종자 분야의 정책·기술 변화와 산업 파급효과를 다룬 이슈다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 해외 육종·종자 분야의 정책·기술 변화와 산업 파급효과를 다룬 이슈다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808116&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 캐나다 작물 육종 시스템이 혁신을 위해 명확한 자금 조달 모델과 인프라 공유, 장기적인 계획 수립의 필요성에 직면했습니다. ([원문](https://www.seedworld.com/canada/2026/03/06/canadas-crop-breeding-system-faces-a-turning-point/))
+- 국산 감초의 자급률을 높이기 위해 농촌진흥청이 종자 수확의 최적 시기를 과학적으로 구명했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 ### 3) 유통/시장/현장
 
-- 해외 육종·종자 분야의 정책·기술 변화와 산업 파급효과를 다룬 이슈다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 농촌진흥청은 과수 개화기 저온 피해를 최소화하기 위해 현장 기술지원단을 운영하며 농가 대상 대응 기술을 지원합니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 고품질 단감 ‘감풍’에 대한 시장 수요가 급증함에 따라 최근 2년 사이 재배 면적이 2배로 확대되었습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 식물성 단백질 수요가 증가하면서 캐나다 육종가들이 노란 완두콩과 잠두콩의 단백질 함량 및 가공 효율을 높이는 데 집중하고 있습니다. ([원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/))
 
 <!-- AUTO_BRIEFING_END -->
 
