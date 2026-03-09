@@ -344,8 +344,8 @@ def _is_korean_enough(s: str) -> bool:
         return False
     ko = len(re.findall(r"[가-힣]", t))
     latin = len(re.findall(r"[A-Za-z]", t))
-    # Korean exists and dominates latin letters
-    return ko >= 6 and ko >= latin
+    # Strict Korean mode: allow at most very short acronyms.
+    return ko >= 6 and latin <= 3
 
 
 def _is_placeholder_summary(s: str) -> bool:
