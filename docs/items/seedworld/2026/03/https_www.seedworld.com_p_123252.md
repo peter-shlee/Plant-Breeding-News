@@ -9,7 +9,7 @@ summary: "Scientists at Rothamsted and Clemson University have unified fragmente
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-03-09T19:48:53+09:00"
+fetched_at: "2026-03-09T19:50:59+09:00"
 ---
 # Study Links eccDNA to Rapid Plant Stress Resistance
 

@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-09 19:48 (KST)**  
+- 마지막 업데이트: **2026-03-09 19:51 (KST)**  
 - 커버리지(최근 섹션): **2026-03-02 ~ 2026-03-09** (최근 7일)
 
 ## 목차
@@ -27,18 +27,18 @@ title: "식물 육종 뉴스"
 
 ### 1) 정책/규제
 
-- [Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)) — 아르헨티나 종자협회(ASA)는 밀레이 대통령의 UPOV 1991년 협약 가입 추진 결
-- [부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — ‘부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다.
+- [Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)) — 아르헨티나 종자협회(ASA)는 식물 지식재산권 현대화 및 경쟁력 강화를 위해 UPOV 19
+- [부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 정부 부처들이 유전자 변형 생물체의 안전관리 체계를 강화하기 위해 협력에 나섰다.
 
 ### 2) 연구/기술
 
-- [단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/rda/2026/03/100000808117.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — ‘단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다.
-- [유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인](items/rda/2026/03/100000808116.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808116&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — ‘유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다.
+- [단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/rda/2026/03/100000808117.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 단감 '감풍' 재배 면적이 고품질 시장 수요에 맞춰 2년 만에 2배로 늘어나 보급이 확대되었다.
+- [유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인](items/rda/2026/03/100000808116.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808116&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 유기농 인증 밭에서 토양 구조 개선과 미생물 활성 증가가 확인됐다.
 
 ### 3) 유통/시장/현장
 
 - [농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다](items/rda/2026/03/100000808115.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — ‘농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다.
-- [농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영](items/rda/2026/03/100000808114.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — ‘농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다.
+- [농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영](items/rda/2026/03/100000808114.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 농촌진흥청은 과수 개화 전후 저온 피해에 대응하기 위해 현장 기술지원단을 운영한다.
 
 <!-- AUTO_BRIEFING_END -->
 

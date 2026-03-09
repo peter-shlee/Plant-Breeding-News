@@ -9,7 +9,7 @@ summary: "Can peanut breeding reduce allergen proteins without sacrificing perfo
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-03-09T19:48:53+09:00"
+fetched_at: "2026-03-09T19:50:59+09:00"
 ---
 # Can We Breed a Safer Peanut?
 

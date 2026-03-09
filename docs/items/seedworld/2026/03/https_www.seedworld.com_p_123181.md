@@ -9,7 +9,7 @@ summary: "Part 2 explores Hidde Boersma’s techno-optimistic vision for sustain
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-03-09T19:48:53+09:00"
+fetched_at: "2026-03-09T19:50:59+09:00"
 ---
 # Selling Abundance in a World Addicted to Scarcity
 
