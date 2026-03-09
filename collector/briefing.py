@@ -511,6 +511,24 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
     return "\n".join(lines).rstrip() + "\n"
 
 
+def _sanitize_briefing_block_korean(block: str) -> str:
+    if not block.strip():
+        return block
+
+    out_lines: list[str] = []
+    for line in block.splitlines():
+        if line.lstrip().startswith("- ") and "([원문](" in line:
+            m = re.match(r"^(\s*-\s*)(.*?)(\s*\(\[원문\]\([^\)]+\)\)\s*)$", line)
+            if m:
+                prefix, summ, suffix = m.group(1), m.group(2), m.group(3)
+                summ = _sanitize_summary_text(summ)
+                if not _is_korean_enough(summ) or _is_placeholder_summary(summ):
+                    summ = "해외 육종·종자 분야의 정책·기술 변화와 산업 파급효과를 다룬 이슈다."
+                line = f"{prefix}{summ}{suffix}"
+        out_lines.append(line)
+    return "\n".join(out_lines)
+
+
 def insert_briefing_into_index(index_md: str, briefing_block: str) -> str:
     if not briefing_block.strip():
         return index_md
@@ -575,13 +593,15 @@ def build_or_fallback_briefing(
             existing_fallback_block = ""
 
     if not api_key:
-        # No key -> keep previous block if any
-        out_md = insert_briefing_into_index(index_md, existing_fallback_block)
+        # No key -> keep previous block if any (sanitized)
+        fb = _sanitize_briefing_block_korean(existing_fallback_block)
+        out_md = insert_briefing_into_index(index_md, fb)
         _write_text(index_path, out_md)
         return {"status": "no_api_key", "items": len(items), "used_fallback": bool(existing_fallback_block)}
 
     if not items:
-        out_md = insert_briefing_into_index(index_md, existing_fallback_block)
+        fb = _sanitize_briefing_block_korean(existing_fallback_block)
+        out_md = insert_briefing_into_index(index_md, fb)
         _write_text(index_path, out_md)
         return {"status": "no_recent_items", "items": 0, "used_fallback": bool(existing_fallback_block)}
 
@@ -658,7 +678,8 @@ def build_or_fallback_briefing(
             },
         }
     except Exception as e:
-        # API error -> fallback block
-        out_md = insert_briefing_into_index(index_md, existing_fallback_block)
+        # API error -> fallback block (sanitized)
+        fb = _sanitize_briefing_block_korean(existing_fallback_block)
+        out_md = insert_briefing_into_index(index_md, fb)
         _write_text(index_path, out_md)
         return {"status": "error", "error": str(e), "items": len(items), "used_fallback": bool(existing_fallback_block)}
