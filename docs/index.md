@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-09 19:44 (KST)**  
+- 마지막 업데이트: **2026-03-09 19:46 (KST)**  
 - 커버리지(최근 섹션): **2026-03-02 ~ 2026-03-09** (최근 7일)
 
 ## 목차
@@ -23,20 +23,22 @@ title: "식물 육종 뉴스"
 <!-- AUTO_BRIEFING_START -->
 ## 30초 주간 브리핑 (2026-03-02~2026-03-09)
 
+> 이번 주 핵심 이슈를 정책·연구·현장 관점으로 빠르게 정리했다.
+
 ### 1) 정책/규제
 
-- [Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)) — 정책 요약 1
-- [부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 정책 요약 2
+- [Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)) — 아르헨티나 종자협회(ASA)는 밀레이 대통령의 UPOV 1991 협약 가입 추진을 지지하며,
+- [부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서’를 다루며, 상세 맥락은 원문 확인이 필요하다.
 
 ### 2) 연구/기술
 
-- [Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)) — 연구 요약 1
-- [부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 연구 요약 2
+- [단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/rda/2026/03/100000808117.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대’를 다루며, 상세 맥락은 원문 확인이 필요하다.
+- [유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인](items/rda/2026/03/100000808116.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808116&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인’를 다루며, 상세 맥락은 원문 확인이 필요하다.
 
 ### 3) 유통/시장/현장
 
-- [Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)) — 시장 요약 1
-- [부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 시장 요약 2
+- [농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다](items/rda/2026/03/100000808115.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다’를 다루며, 상세 맥락은 원문 확인이 필요하다.
+- [농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영](items/rda/2026/03/100000808114.md) ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)) — 이 이슈는 ‘농촌진흥청, 과수 개화 전후 저온 피해 대응 현장 기술지원단 운영’를 다루며, 상세 맥락은 원문 확인이 필요하다.
 
 <!-- AUTO_BRIEFING_END -->
 
