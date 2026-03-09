@@ -332,14 +332,75 @@ def _korean_fallback_summary(it: RecentItem) -> str:
     return f"이 이슈는 ‘{it.title}’를 다루며, 핵심 내용은 원문 링크에서 확인할 수 있다."
 
 
-def _fallback_result_from_items(items: list[RecentItem], *, range_start: str, range_end: str) -> dict[str, Any]:
+def _gemini_korean_summaries_for_items(
+    items: list[RecentItem], *, api_key: str, model: str = "gemini-2.5-flash", timeout_s: int = 45
+) -> dict[int, str]:
+    """Best-effort Korean summaries for fallback-picked items.
+
+    Returns {idx: summary}. Missing idx will be filled by local fallback.
+    """
+
+    if not items:
+        return {}
+
+    lines = [
+        "아래 기사들에 대해 한국어 한 줄 요약을 작성하라.",
+        "형식만 출력: idx|요약",
+        "각 요약은 40~110자, 과장 금지, 사실 중심.",
+        "",
+    ]
+    for it in items:
+        excerpt = (it.excerpt or "").strip()
+        if len(excerpt) > 500:
+            excerpt = excerpt[:499] + "…"
+        lines.append(f"idx={it.idx}")
+        lines.append(f"title: {it.title}")
+        lines.append(f"excerpt: {excerpt or '(본문 발췌 없음)'}")
+        lines.append("")
+
+    prompt = "\n".join(lines)
+    text = _call_gemini_generate_text(prompt, api_key=api_key, model=model, timeout_s=timeout_s)
+
+    out: dict[int, str] = {}
+    for raw in (text or "").splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        line = re.sub(r"^[\-*•]\s*", "", line)
+        p = line.split("|", 1)
+        if len(p) != 2:
+            continue
+        idx_m = re.search(r"\d+", p[0])
+        if not idx_m:
+            continue
+        idx = int(idx_m.group(0))
+        summ = re.sub(r"\s+", " ", p[1].strip())
+        if summ:
+            out[idx] = summ
+    return out
+
+
+def _fallback_result_from_items(
+    items: list[RecentItem], *, range_start: str, range_end: str, api_key: str = "", model: str = "gemini-2.5-flash"
+) -> dict[str, Any]:
     # Deterministic fallback: take recent order and split 2 per axis.
     picked = items[:6]
     while len(picked) < 6 and items:
         picked.append(items[len(picked) % len(items)])
 
+    gem_summ: dict[int, str] = {}
+    if api_key:
+        try:
+            gem_summ = _gemini_korean_summaries_for_items(picked, api_key=api_key, model=model)
+        except Exception:
+            gem_summ = {}
+
     def pack(chunk: list[RecentItem]) -> list[dict[str, Any]]:
-        return [{"idx": it.idx, "summary": _korean_fallback_summary(it)} for it in chunk]
+        out: list[dict[str, Any]] = []
+        for it in chunk:
+            s = gem_summ.get(it.idx) or _korean_fallback_summary(it)
+            out.append({"idx": it.idx, "summary": s})
+        return out
 
     return {
         "range": f"{range_start}~{range_end}".strip("~") or "주간",
@@ -522,7 +583,13 @@ def build_or_fallback_briefing(
             or _valid_axis_count("research") < 2
             or _valid_axis_count("market") < 2
         ):
-            result = _fallback_result_from_items(items, range_start=range_start, range_end=range_end)
+            result = _fallback_result_from_items(
+                items,
+                range_start=range_start,
+                range_end=range_end,
+                api_key=api_key,
+                model=model,
+            )
 
         briefing_md = _render_briefing_md(result, items_by_idx=items_by_idx)
         out_md = insert_briefing_into_index(index_md, briefing_md)
