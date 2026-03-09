@@ -317,6 +317,14 @@ def _parse_gemini_line_format(text: str) -> dict[str, Any]:
     return result
 
 
+def _sanitize_summary_text(s: str) -> str:
+    t = re.sub(r"\s+", " ", (s or "").strip())
+    # Remove quoted non-Korean title lead-in like: 'English title' 관련 이슈로,
+    t = re.sub(r"[\"'‘][^\"'’]{8,}[\"'’]\s*관련\s*이슈로[,\s]*", "", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+
 def _korean_fallback_summary(it: RecentItem) -> str:
     ex = (it.excerpt or "").strip()
     title = (it.title or "").strip()
@@ -472,7 +480,7 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
 
         for obj in clean_arr[:2]:
             idx = int(obj.get("idx"))
-            summ = re.sub(r"\s+", " ", (obj.get("summary") or "").strip())
+            summ = _sanitize_summary_text(re.sub(r"\s+", " ", (obj.get("summary") or "").strip()))
             it = items_by_idx.get(idx)
             if not it:
                 continue
@@ -616,7 +624,7 @@ def build_or_fallback_briefing(
                     idx = int(obj.get("idx"))
                 except Exception:
                     continue
-                summ = re.sub(r"\s+", " ", (obj.get("summary") or "").strip())
+                summ = _sanitize_summary_text(re.sub(r"\s+", " ", (obj.get("summary") or "").strip()))
                 if idx in items_by_idx and summ and not _is_placeholder_summary(summ) and _is_korean_enough(summ):
                     c += 1
             return c
