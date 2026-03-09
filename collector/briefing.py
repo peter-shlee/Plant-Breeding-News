@@ -216,7 +216,7 @@ def build_gemini_prompt(items: list[RecentItem], *, range_start: str, range_end:
     return "\n".join(lines).strip() + "\n"
 
 
-def _call_gemini_generate_text(prompt: str, *, api_key: str, model: str = "gemini-2.5-flash", timeout_s: int = 60) -> str:
+def _call_gemini_generate_text(prompt: str, *, api_key: str, model: str = "gemini-3.1-flash-lite-preview", timeout_s: int = 60) -> str:
     """Call Gemini generateContent and return plain text output."""
 
     import requests
@@ -373,7 +373,7 @@ def _is_placeholder_summary(s: str) -> bool:
 
 
 def _gemini_korean_summaries_for_items(
-    items: list[RecentItem], *, api_key: str, model: str = "gemini-2.5-flash", timeout_s: int = 45
+    items: list[RecentItem], *, api_key: str, model: str = "gemini-3.1-flash-lite-preview", timeout_s: int = 45
 ) -> dict[int, str]:
     """Best-effort Korean summaries for fallback-picked items.
 
@@ -431,7 +431,7 @@ def _gemini_korean_summaries_for_items(
 
 
 def _fallback_result_from_items(
-    items: list[RecentItem], *, range_start: str, range_end: str, api_key: str = "", model: str = "gemini-2.5-flash"
+    items: list[RecentItem], *, range_start: str, range_end: str, api_key: str = "", model: str = "gemini-3.1-flash-lite-preview"
 ) -> dict[str, Any]:
     # Deterministic fallback: take recent order and split 2 per axis.
     picked = items[:6]
@@ -562,7 +562,7 @@ def build_or_fallback_briefing(
     range_start: str,
     range_end: str,
     max_items: int = 30,
-    model: str = "gemini-2.5-flash",
+    model: str = "gemini-3.1-flash-lite-preview",
 ) -> dict[str, Any]:
     """Build briefing and inject into docs/index.md.
 

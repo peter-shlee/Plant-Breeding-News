@@ -445,7 +445,7 @@ def main(argv: list[str] | None = None) -> int:
     pb.add_argument("--range-start", default="", help="Range start YYYY-MM-DD (optional; parsed from docs/index.md if omitted)")
     pb.add_argument("--range-end", default="", help="Range end YYYY-MM-DD (optional; parsed from docs/index.md if omitted)")
     pb.add_argument("--max-items", type=int, default=30, help="Max recent items to pass to Gemini")
-    pb.add_argument("--model", default=os.getenv("GEMINI_MODEL", "gemini-2.5-flash"), help="Gemini model name")
+    pb.add_argument("--model", default=os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite-preview"), help="Gemini model name")
     pb.set_defaults(func=cmd_build_briefing)
 
     args = p.parse_args(argv)
