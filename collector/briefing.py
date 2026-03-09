@@ -406,25 +406,7 @@ def _gemini_korean_summaries_for_items(
         line = re.sub(r"^[\-*•\d\.\)\s]+", "", line).strip().strip('"“”')
         line = re.sub(r"\s+", " ", line)
 
-        # If not Korean enough, force one-shot Korean rewrite.
-        if line and not _is_korean_enough(line):
-            try:
-                t2 = _call_gemini_generate_text(
-                    "아래 문장을 자연스러운 한국어 한 줄(35~95자)로 바꿔라. 설명 없이 문장만 출력.\n"
-                    + line,
-                    api_key=api_key,
-                    model=model,
-                    timeout_s=timeout_s,
-                )
-                line2 = (t2 or "").strip().splitlines()[0] if (t2 or "").strip() else ""
-                line2 = re.sub(r"^[\-*•\d\.\)\s]+", "", line2).strip().strip('"“”')
-                line2 = re.sub(r"\s+", " ", line2)
-                if line2:
-                    line = line2
-            except Exception:
-                pass
-
-        if line and not _is_placeholder_summary(line) and _is_korean_enough(line):
+        if line and not _is_placeholder_summary(line):
             out[it.idx] = line
 
     return out
@@ -486,7 +468,7 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
             it = items_by_idx.get(idx)
             if not it:
                 continue
-            if not _is_korean_enough(summ) or _is_placeholder_summary(summ):
+            if _is_placeholder_summary(summ):
                 summ = _korean_fallback_summary(it)
             out.append(f"- {summ} ([원문]({it.original_url}))")
 
@@ -509,24 +491,6 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
 
     lines.append(BRIEFING_END)
     return "\n".join(lines).rstrip() + "\n"
-
-
-def _sanitize_briefing_block_korean(block: str) -> str:
-    if not block.strip():
-        return block
-
-    out_lines: list[str] = []
-    for line in block.splitlines():
-        if line.lstrip().startswith("- ") and "([원문](" in line:
-            m = re.match(r"^(\s*-\s*)(.*?)(\s*\(\[원문\]\([^\)]+\)\)\s*)$", line)
-            if m:
-                prefix, summ, suffix = m.group(1), m.group(2), m.group(3)
-                summ = _sanitize_summary_text(summ)
-                if not _is_korean_enough(summ) or _is_placeholder_summary(summ):
-                    summ = "해외 육종·종자 분야의 정책·기술 변화와 산업 파급효과를 다룬 이슈다."
-                line = f"{prefix}{summ}{suffix}"
-        out_lines.append(line)
-    return "\n".join(out_lines)
 
 
 def insert_briefing_into_index(index_md: str, briefing_block: str) -> str:
@@ -593,15 +557,13 @@ def build_or_fallback_briefing(
             existing_fallback_block = ""
 
     if not api_key:
-        # No key -> keep previous block if any (sanitized)
-        fb = _sanitize_briefing_block_korean(existing_fallback_block)
-        out_md = insert_briefing_into_index(index_md, fb)
+        # No key -> keep previous block if any
+        out_md = insert_briefing_into_index(index_md, existing_fallback_block)
         _write_text(index_path, out_md)
         return {"status": "no_api_key", "items": len(items), "used_fallback": bool(existing_fallback_block)}
 
     if not items:
-        fb = _sanitize_briefing_block_korean(existing_fallback_block)
-        out_md = insert_briefing_into_index(index_md, fb)
+        out_md = insert_briefing_into_index(index_md, existing_fallback_block)
         _write_text(index_path, out_md)
         return {"status": "no_recent_items", "items": 0, "used_fallback": bool(existing_fallback_block)}
 
@@ -647,7 +609,7 @@ def build_or_fallback_briefing(
                 except Exception:
                     continue
                 summ = _sanitize_summary_text(re.sub(r"\s+", " ", (obj.get("summary") or "").strip()))
-                if idx in items_by_idx and summ and not _is_placeholder_summary(summ) and _is_korean_enough(summ):
+                if idx in items_by_idx and summ and not _is_placeholder_summary(summ):
                     c += 1
             return c
 
@@ -678,8 +640,7 @@ def build_or_fallback_briefing(
             },
         }
     except Exception as e:
-        # API error -> fallback block (sanitized)
-        fb = _sanitize_briefing_block_korean(existing_fallback_block)
-        out_md = insert_briefing_into_index(index_md, fb)
+        # API error -> fallback block
+        out_md = insert_briefing_into_index(index_md, existing_fallback_block)
         _write_text(index_path, out_md)
         return {"status": "error", "error": str(e), "items": len(items), "used_fallback": bool(existing_fallback_block)}
