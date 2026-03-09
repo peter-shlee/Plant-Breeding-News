@@ -327,15 +327,25 @@ def _korean_fallback_summary(it: RecentItem) -> str:
         if s:
             if len(s) > 140:
                 s = s[:139].rstrip() + "…"
-            # Non-Korean excerpt: still produce a natural Korean sentence.
-            if not re.search(r"[가-힣]", s):
-                return f"‘{title}’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다."
+            # Non-Korean excerpt -> use generic Korean sentence (no foreign title echo)
+            if not _is_korean_enough(s):
+                return "해외 육종·종자 분야의 정책·기술 변화와 산업 파급효과를 다룬 이슈다."
             return s
 
-    # If no excerpt, synthesize from title without dead phrases.
+    # If no excerpt, synthesize from title without exposing non-Korean title.
     if re.search(r"[가-힣]", title):
-        return f"‘{title}’ 관련 핵심 동향으로, 현장 적용과 제도 변화 관점에서 주목할 내용이다."
-    return f"‘{title}’ 이슈로, 육종·종자 분야의 최근 변화 방향을 보여준다."
+        return f"{title} 관련 핵심 동향으로, 현장 적용과 제도 변화 관점에서 주목할 내용이다."
+    return "해외 육종·종자 분야의 최신 동향을 다룬 이슈로, 정책·시장 변화 신호를 보여준다."
+
+
+def _is_korean_enough(s: str) -> bool:
+    t = (s or "").strip()
+    if not t:
+        return False
+    ko = len(re.findall(r"[가-힣]", t))
+    latin = len(re.findall(r"[A-Za-z]", t))
+    # Korean exists and dominates latin letters
+    return ko >= 6 and ko >= latin
 
 
 def _is_placeholder_summary(s: str) -> bool:
@@ -385,7 +395,26 @@ def _gemini_korean_summaries_for_items(
         line = (text or "").strip().splitlines()[0] if (text or "").strip() else ""
         line = re.sub(r"^[\-*•\d\.\)\s]+", "", line).strip().strip('"“”')
         line = re.sub(r"\s+", " ", line)
-        if line and not _is_placeholder_summary(line):
+
+        # If not Korean enough, force one-shot Korean rewrite.
+        if line and not _is_korean_enough(line):
+            try:
+                t2 = _call_gemini_generate_text(
+                    "아래 문장을 자연스러운 한국어 한 줄(35~95자)로 바꿔라. 설명 없이 문장만 출력.\n"
+                    + line,
+                    api_key=api_key,
+                    model=model,
+                    timeout_s=timeout_s,
+                )
+                line2 = (t2 or "").strip().splitlines()[0] if (t2 or "").strip() else ""
+                line2 = re.sub(r"^[\-*•\d\.\)\s]+", "", line2).strip().strip('"“”')
+                line2 = re.sub(r"\s+", " ", line2)
+                if line2:
+                    line = line2
+            except Exception:
+                pass
+
+        if line and not _is_placeholder_summary(line) and _is_korean_enough(line):
             out[it.idx] = line
 
     return out
@@ -447,6 +476,8 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
             it = items_by_idx.get(idx)
             if not it:
                 continue
+            if not _is_korean_enough(summ) or _is_placeholder_summary(summ):
+                summ = _korean_fallback_summary(it)
             out.append(f"- {summ} ([원문]({it.original_url}))")
 
         out.append("")
@@ -586,7 +617,7 @@ def build_or_fallback_briefing(
                 except Exception:
                     continue
                 summ = re.sub(r"\s+", " ", (obj.get("summary") or "").strip())
-                if idx in items_by_idx and summ and not _is_placeholder_summary(summ):
+                if idx in items_by_idx and summ and not _is_placeholder_summary(summ) and _is_korean_enough(summ):
                     c += 1
             return c
 
