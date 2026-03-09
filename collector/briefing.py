@@ -194,19 +194,19 @@ def build_gemini_prompt(items: list[RecentItem], *, range_start: str, range_end:
     lines.append("- 각 기사 요약(summary)은 1~2문장, 한국어, 과장 없이 사실 기반으로 쓴다.")
     lines.append("- 전체는 30초 내 읽을 수 있게 간결하게(대략 900~1200자 수준) 만든다.")
     lines.append("")
-    lines.append("[출력 형식: JSON만 출력]")
-    lines.append("{")
-    lines.append('  "range": "YYYY-MM-DD~YYYY-MM-DD",')
-    lines.append('  "policy": [{"idx": 1, "summary": "..."}, {"idx": 2, "summary": "..."}],')
-    lines.append('  "research": [{"idx": 3, "summary": "..."}, {"idx": 4, "summary": "..."}],')
-    lines.append('  "market": [{"idx": 5, "summary": "..."}, {"idx": 6, "summary": "..."}],')
-    lines.append('  "one_liner": "이번 주 한줄 요약(선택)"')
-    lines.append("}")
+    lines.append("[출력 형식: 아래 라인 포맷만 출력. JSON/코드블록 금지]")
+    lines.append("RANGE: YYYY-MM-DD~YYYY-MM-DD")
+    lines.append("ONE_LINER: 한줄 요약(선택)")
+    lines.append("POLICY: idx|요약")
+    lines.append("POLICY: idx|요약")
+    lines.append("RESEARCH: idx|요약")
+    lines.append("RESEARCH: idx|요약")
+    lines.append("MARKET: idx|요약")
+    lines.append("MARKET: idx|요약")
     lines.append("")
     lines.append(f"[기간] {range_start}~{range_end}")
     lines.append("[기사 목록]")
     for it in items:
-        # Provide excerpt (may be empty).
         excerpt = it.excerpt or "(본문 발췌 없음)"
         lines.append(f"- idx={it.idx} | date={it.date} | source={it.source}")
         lines.append(f"  title: {it.title}")
@@ -216,11 +216,8 @@ def build_gemini_prompt(items: list[RecentItem], *, range_start: str, range_end:
     return "\n".join(lines).strip() + "\n"
 
 
-def _call_gemini_generate_json(prompt: str, *, api_key: str, model: str = "gemini-2.5-flash", timeout_s: int = 60) -> dict[str, Any]:
-    """Call Gemini generateContent.
-
-    Uses direct HTTP to avoid extra deps.
-    """
+def _call_gemini_generate_text(prompt: str, *, api_key: str, model: str = "gemini-2.5-flash", timeout_s: int = 60) -> str:
+    """Call Gemini generateContent and return plain text output."""
 
     import requests
 
@@ -234,7 +231,6 @@ def _call_gemini_generate_json(prompt: str, *, api_key: str, model: str = "gemin
         "generationConfig": {
             "temperature": 0.4,
             "maxOutputTokens": 900,
-            "responseMimeType": "application/json",
         },
     }
 
@@ -243,20 +239,67 @@ def _call_gemini_generate_json(prompt: str, *, api_key: str, model: str = "gemin
         raise RuntimeError(f"Gemini HTTP {r.status_code}: {r.text[:300]}")
     data = r.json()
 
-    # Extract text from first candidate
     try:
-        text = data["candidates"][0]["content"]["parts"][0]["text"]
+        return data["candidates"][0]["content"]["parts"][0]["text"]
     except Exception:
         raise RuntimeError(f"Gemini response missing candidate text: {json.dumps(data)[:500]}")
 
-    try:
-        return json.loads(text)
-    except Exception:
-        # Sometimes it returns plain JSON without being valid due to trailing text.
-        m = re.search(r"\{.*\}", text, flags=re.S)
-        if m:
-            return json.loads(m.group(0))
-        raise
+
+def _parse_gemini_line_format(text: str) -> dict[str, Any]:
+    """Parse line-based format from Gemini output.
+
+    Expected:
+      RANGE: ...
+      ONE_LINER: ...
+      POLICY: idx|summary
+      RESEARCH: idx|summary
+      MARKET: idx|summary
+    """
+
+    result: dict[str, Any] = {
+        "range": "",
+        "one_liner": "",
+        "policy": [],
+        "research": [],
+        "market": [],
+    }
+
+    axis_map = {
+        "POLICY": "policy",
+        "RESEARCH": "research",
+        "MARKET": "market",
+    }
+
+    for raw in (text or "").splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+
+        m_range = re.match(r"^RANGE\s*:\s*(.+)$", line, flags=re.I)
+        if m_range:
+            result["range"] = m_range.group(1).strip()
+            continue
+
+        m_ol = re.match(r"^ONE_LINER\s*:\s*(.+)$", line, flags=re.I)
+        if m_ol:
+            result["one_liner"] = m_ol.group(1).strip()
+            continue
+
+        m_axis = re.match(r"^(POLICY|RESEARCH|MARKET)\s*:\s*(.+)$", line, flags=re.I)
+        if m_axis:
+            axis = axis_map[m_axis.group(1).upper()]
+            rhs = m_axis.group(2).strip()
+            # idx|summary
+            p = rhs.split("|", 1)
+            if len(p) != 2:
+                continue
+            idx_s, summ = p[0].strip(), p[1].strip()
+            if not re.fullmatch(r"\d+", idx_s):
+                continue
+            result[axis].append({"idx": int(idx_s), "summary": summ})
+            continue
+
+    return result
 
 
 def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, RecentItem]) -> str:
@@ -264,16 +307,28 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
         out: list[str] = []
         out.append(f"### {title}\n")
         arr = result.get(key) or []
+
+        # Deduplicate idx while preserving order
+        seen_idx: set[int] = set()
+        clean_arr: list[dict[str, Any]] = []
         for obj in arr:
+            try:
+                idx = int(obj.get("idx"))
+            except Exception:
+                continue
+            if idx in seen_idx:
+                continue
+            seen_idx.add(idx)
+            clean_arr.append(obj)
+
+        for obj in clean_arr[:2]:
             idx = int(obj.get("idx"))
-            summ = (obj.get("summary") or "").strip()
+            summ = re.sub(r"\s+", " ", (obj.get("summary") or "").strip())
             it = items_by_idx.get(idx)
             if not it:
                 continue
-            # We control links to avoid hallucinations.
-            out.append(
-                f"- [{it.title}]({it.item_path}) ([원문]({it.original_url})) — {summ}"
-            )
+            out.append(f"- [{it.title}]({it.item_path}) ([원문]({it.original_url})) — {summ}")
+
         out.append("")
         return out
 
@@ -372,12 +427,48 @@ def build_or_fallback_briefing(
     prompt = build_gemini_prompt(items, range_start=range_start, range_end=range_end)
 
     try:
-        result = _call_gemini_generate_json(prompt, api_key=api_key, model=model)
+        # 1st attempt
+        text = _call_gemini_generate_text(prompt, api_key=api_key, model=model)
+        result = _parse_gemini_line_format(text)
+
+        # Basic validation; if sparse/bad format, retry once with strict repair prompt.
+        def _axis_len(k: str) -> int:
+            return len(result.get(k) or [])
+
+        need_retry = (_axis_len("policy") == 0 or _axis_len("research") == 0 or _axis_len("market") == 0)
+        if need_retry:
+            repair_prompt = (
+                "아래 출력은 형식이 맞지 않다. 설명 없이 라인 포맷으로만 다시 출력하라.\n"
+                "RANGE: ...\nONE_LINER: ...\n"
+                "POLICY: idx|요약\nPOLICY: idx|요약\n"
+                "RESEARCH: idx|요약\nRESEARCH: idx|요약\n"
+                "MARKET: idx|요약\nMARKET: idx|요약\n\n"
+                f"[원본출력]\n{text}"
+            )
+            text2 = _call_gemini_generate_text(repair_prompt, api_key=api_key, model=model)
+            result2 = _parse_gemini_line_format(text2)
+            # Use repaired result if better
+            if (
+                len(result2.get("policy") or []) >= len(result.get("policy") or [])
+                and len(result2.get("research") or []) >= len(result.get("research") or [])
+                and len(result2.get("market") or []) >= len(result.get("market") or [])
+            ):
+                result = result2
+
         items_by_idx = {it.idx: it for it in items}
         briefing_md = _render_briefing_md(result, items_by_idx=items_by_idx)
         out_md = insert_briefing_into_index(index_md, briefing_md)
         _write_text(index_path, out_md)
-        return {"status": "ok", "items": len(items), "used_fallback": False}
+        return {
+            "status": "ok",
+            "items": len(items),
+            "used_fallback": False,
+            "counts": {
+                "policy": len(result.get("policy") or []),
+                "research": len(result.get("research") or []),
+                "market": len(result.get("market") or []),
+            },
+        }
     except Exception as e:
         # API error -> fallback block
         out_md = insert_briefing_into_index(index_md, existing_fallback_block)
