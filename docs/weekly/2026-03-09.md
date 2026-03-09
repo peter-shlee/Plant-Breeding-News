@@ -197,10 +197,6 @@ range_end: "2026-03-09"
   - 2026-03-02 · `seedworld` · [읽기](../items/seedworld/2026/03/https_www.seedworld.com_p_123218.md) · [원문](https://www.seedworld.com/canada/2026/03/02/canadian-seed-industry-warns-of-lost-year-in-crop-breeding-and-field-trials/)
   - Public-private seed development system faces mounting pressure, raising concerns about lost field data, disrupted breeding cycles and long-term yield gains The post Canadian Seed Industry Warns of Lo…
 
-- **[Estudio en Paraná muestra aumentos de productividad con la coinoculación de soja](../items/seedworld/2026/03/https_www.seedworld.com_p_123035.md)**
-  - 2026-03-02 · `seedworld` · [읽기](../items/seedworld/2026/03/https_www.seedworld.com_p_123035.md) · [원문](https://www.seedworld.com/latam/2026/03/02/estudio-en-parana-muestra-aumentos-de-productividad-con-la-coinoculacion-de-soja/)
-  - Un estudio en Paraná de Embrapa Soja e IDR-Paraná muestra que la co-inoculación de semillas de soja mejora la productividad de forma consistente. Diez años de validación en Unidades de Referencia Tec…
-
 
 ## By source
 
@@ -403,7 +399,3 @@ range_end: "2026-03-09"
 - **[Canadian Seed Industry Warns of Lost Year in Crop Breeding and Field Trials](../items/seedworld/2026/03/https_www.seedworld.com_p_123218.md)**
   - 2026-03-02 · [읽기](../items/seedworld/2026/03/https_www.seedworld.com_p_123218.md) · [원문](https://www.seedworld.com/canada/2026/03/02/canadian-seed-industry-warns-of-lost-year-in-crop-breeding-and-field-trials/)
   - Public-private seed development system faces mounting pressure, raising concerns about lost field data, disrupted breeding cycles and long-term yield gains The post Canadian Seed Industry Warns of Lo…
-
-- **[Estudio en Paraná muestra aumentos de productividad con la coinoculación de soja](../items/seedworld/2026/03/https_www.seedworld.com_p_123035.md)**
-  - 2026-03-02 · [읽기](../items/seedworld/2026/03/https_www.seedworld.com_p_123035.md) · [원문](https://www.seedworld.com/latam/2026/03/02/estudio-en-parana-muestra-aumentos-de-productividad-con-la-coinoculacion-de-soja/)
-  - Un estudio en Paraná de Embrapa Soja e IDR-Paraná muestra que la co-inoculación de semillas de soja mejora la productividad de forma consistente. Diez años de validación en Unidades de Referencia Tec…

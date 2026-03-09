@@ -11,7 +11,7 @@ tags:
   - "밀"
   - "콩"
   - "옥수수"
-fetched_at: "2026-03-09T19:50:59+09:00"
+fetched_at: "2026-03-09T21:14:20+09:00"
 ---
 # Plant Hormone Therapy Could Help Crops Fight Disease Without Sacrificing Yield
 

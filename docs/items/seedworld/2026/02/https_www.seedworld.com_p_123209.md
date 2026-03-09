@@ -9,7 +9,7 @@ summary: "Two wheat breeding legends say cutting front-line science that deliver
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-03-09T19:50:59+09:00"
+fetched_at: "2026-03-09T21:14:20+09:00"
 ---
 # LETTER TO THE EDITOR: Fiscal Discipline Should Target AAFC Overhead — Not High-Return Research
 

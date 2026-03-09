@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-n
 summary: "Protein content in yellow peas and processing advantages of small-seeded faba beans are becoming key breeding targets for pulse breeders The post Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies appeared"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T19:50:59+09:00"
+fetched_at: "2026-03-09T21:14:20+09:00"
 ---
 # Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies
 

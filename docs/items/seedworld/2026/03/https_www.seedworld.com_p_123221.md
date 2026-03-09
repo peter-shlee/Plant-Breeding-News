@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/02/inside-j-s-henry-sons-new-seed
 summary: "Standing in a new seed processing facility for the first time is equal parts pride and pressure. Pride, because years of planning have finally taken physical shape."
 attachments: []
 tags: []
-fetched_at: "2026-03-09T19:50:59+09:00"
+fetched_at: "2026-03-09T21:14:20+09:00"
 ---
 # Inside J.S. Henry & Son’s New Seed Plant: Lessons Learned Building a Third-Generation Processing Facility
 

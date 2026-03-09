@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/26/genebanks-from-africa-asia-and
 summary: "The Svalbard Global Seed Vault marked its first 2026 deposit, securing 7,864 seed samples from 10 genebanks across Africa, Asia, Europe and the Americas. First-time contributions came from Guatemala and Niger, alongside the vault’s"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T19:50:59+09:00"
+fetched_at: "2026-03-09T21:14:20+09:00"
 ---
 # Genebanks from Africa, Asia and Europe Safeguard Crops in Svalbard
 

@@ -9,7 +9,7 @@ summary: "A Paraná study by Embrapa Soja and IDR-Paraná shows soybean seed co-
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-03-09T19:50:59+09:00"
+fetched_at: "2026-03-09T21:14:20+09:00"
 ---
 # Paraná Study Shows Productivity Gains with Soybean Co-Inoculation
 
