@@ -9,7 +9,7 @@ summary: "Cuts affecting sites like Lacombe, Scott and Indian Head could leave m
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-03-09T21:26:46+09:00"
+fetched_at: "2026-03-09T21:35:11+09:00"
 ---
 # Loss of Prairie Research Stations Threatens Wheat Testing System, PGDC Committee Hears
 

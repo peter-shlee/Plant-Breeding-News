@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/04/how-the-middle-east-war-could-ripp
 summary: "A war unfolding in the Middle East is already sending ripple effects through global fertilizer, energy and shipping markets. In this episode of The Way I See It, Seed World U.S."
 attachments: []
 tags: []
-fetched_at: "2026-03-09T21:26:46+09:00"
+fetched_at: "2026-03-09T21:35:11+09:00"
 ---
 # How the Middle East War Could Ripple Through the Seed Industry
 
