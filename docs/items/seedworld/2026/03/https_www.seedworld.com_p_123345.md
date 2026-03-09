@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/05/long-term-study-shows-soil-imb
 summary: "A 70-year long-term experiment shows that nutrient imbalances in soil—especially potassium deficiency combined with nitrogen fertilization—can severely disrupt mycorrhizal symbiosis, the vital partnership between plants and beneficial"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T11:29:56+09:00"
+fetched_at: "2026-03-09T18:23:28+09:00"
 ---
 # Long-Term Study Shows Soil Imbalances Can Weaken Crop Defenses
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/03/new-mustard-variety-promises-y
 summary: "Big yield gains, market risks and federal research cuts dominated flax and mustard discussions at today's Prairie Grain Development Committee meetings in Banff The post New Mustard Promises Yield Gains as PRCO Flags GM and Research Risks"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T11:29:56+09:00"
+fetched_at: "2026-03-09T18:23:28+09:00"
 ---
 # New Mustard Promises Yield Gains as PRCO Flags GM and Research Risks
 

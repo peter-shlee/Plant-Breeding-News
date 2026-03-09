@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/04/biological-seed-treatments-inn
 summary: "Biological seed treatments are rapidly advancing across global agriculture, driven by innovation, regulatory shifts and growing farmer demand for improved crop performance."
 attachments: []
 tags: []
-fetched_at: "2026-03-09T11:29:56+09:00"
+fetched_at: "2026-03-09T18:23:28+09:00"
 ---
 # Biological Seed Treatments: Innovation, Regulation and Market Expansion
 

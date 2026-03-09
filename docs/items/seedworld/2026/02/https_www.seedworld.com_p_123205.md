@@ -9,7 +9,7 @@ summary: "A new report released today by the Canadian Wheat Research Coalition w
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-03-09T11:29:56+09:00"
+fetched_at: "2026-03-09T18:23:28+09:00"
 ---
 # Federal Budget Cuts Put Canada’s Wheat Breeding System at Risk, New Report Warns
 

@@ -9,7 +9,7 @@ summary: "2025’s record-breaking 17-billion-bushel U.S. corn crop reinforced t
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-03-09T11:29:56+09:00"
+fetched_at: "2026-03-09T18:23:28+09:00"
 ---
 # What’s Next in Corn Genetics? Corteva’s Plan for 2026 and Beyond
 

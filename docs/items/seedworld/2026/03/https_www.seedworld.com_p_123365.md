@@ -9,7 +9,7 @@ summary: "Groups like the Canadian Wheat Research Coalition say clearer funding 
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-03-09T11:29:56+09:00"
+fetched_at: "2026-03-09T18:23:28+09:00"
 ---
 # Canada’s Crop Breeding System Faces a Turning Point
 
