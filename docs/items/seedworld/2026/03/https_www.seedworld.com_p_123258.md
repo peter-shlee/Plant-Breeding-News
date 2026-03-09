@@ -9,7 +9,7 @@ summary: "Long before recent federal cuts made headlines, Canadian farmers were 
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-03-09T06:40:06+09:00"
+fetched_at: "2026-03-09T11:29:56+09:00"
 ---
 # Who Funds Wheat Research in Canada? Increasingly, it’s Farmers
 
