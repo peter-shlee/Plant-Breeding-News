@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/03/whats-the-right-amount-of-educatio
 summary: "The seed industry faces a talent bottleneck: professionals want to grow into leadership but can’t pause careers for full-time degrees. Education can be stacked strategically."
 attachments: []
 tags: []
-fetched_at: "2026-03-09T18:23:28+09:00"
+fetched_at: "2026-03-09T18:43:30+09:00"
 ---
 # What’s the Right Amount of Education for You?
 
