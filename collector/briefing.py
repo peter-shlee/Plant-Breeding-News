@@ -342,7 +342,9 @@ def _korean_fallback_summary(it: RecentItem) -> str:
 
     # If no excerpt, synthesize from title without exposing non-Korean title.
     if re.search(r"[가-힣]", title):
-        return f"{title} 관련 핵심 동향으로, 현장 적용과 제도 변화 관점에서 주목할 내용이다."
+        title_ko = re.sub(r"[A-Za-z]", "", title)
+        title_ko = re.sub(r"\s+", " ", title_ko).strip()
+        return f"{title_ko} 관련 핵심 동향으로, 현장 적용과 제도 변화 관점에서 주목할 내용이다."
     return "해외 육종·종자 분야의 최신 동향을 다룬 이슈로, 정책·시장 변화 신호를 보여준다."
 
 
@@ -352,8 +354,8 @@ def _is_korean_enough(s: str) -> bool:
         return False
     ko = len(re.findall(r"[가-힣]", t))
     latin = len(re.findall(r"[A-Za-z]", t))
-    # Strict Korean mode: allow at most very short acronyms.
-    return ko >= 6 and latin <= 3
+    # Strict Korean mode: disallow latin letters in final summary text.
+    return ko >= 6 and latin == 0
 
 
 def _is_placeholder_summary(s: str) -> bool:
