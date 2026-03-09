@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/02/canadian-seed-industry-warns-o
 summary: "Public-private seed development system faces mounting pressure, raising concerns about lost field data, disrupted breeding cycles and long-term yield gains The post Canadian Seed Industry Warns of Lost Year in Crop Breeding and Field"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T21:22:16+09:00"
+fetched_at: "2026-03-09T21:24:31+09:00"
 ---
 # Canadian Seed Industry Warns of Lost Year in Crop Breeding and Field Trials
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/06/farm-bill-draft-draws-praise-conce
 summary: "Agricultural organizations are reacting to the Farm Bill draft. See what they are saying as we wait for lawmakers to replace the 2018 Farm Bill The post Farm Bill Draft Draws Praise, Concerns From Agricultural Groups appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T21:22:16+09:00"
+fetched_at: "2026-03-09T21:24:31+09:00"
 ---
 # Farm Bill Draft Draws Praise, Concerns From Agricultural Groups
 
