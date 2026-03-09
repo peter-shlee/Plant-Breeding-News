@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/02/strengthening-canadas-variety-
 summary: "The variety‑breeding landscape in Canada is undergoing a profound transformation. For decades, public research programs have formed the backbone of crop improvement efforts across the country."
 attachments: []
 tags: []
-fetched_at: "2026-03-09T19:46:56+09:00"
+fetched_at: "2026-03-09T19:48:53+09:00"
 ---
 # Strengthening Canada’s Variety Development Pipeline Through Private-Sector Innovation
 

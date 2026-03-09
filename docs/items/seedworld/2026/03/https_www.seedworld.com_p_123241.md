@@ -9,7 +9,7 @@ summary: "When you think of corn country, you tend to focus on the Midwestern st
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-03-09T19:46:56+09:00"
+fetched_at: "2026-03-09T19:48:53+09:00"
 ---
 # Corn Moves South
 
