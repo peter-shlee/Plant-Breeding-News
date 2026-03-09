@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/02/estudio-en-parana-muestra-aumen
 summary: "Un estudio en Paraná de Embrapa Soja e IDR-Paraná muestra que la co-inoculación de semillas de soja mejora la productividad de forma consistente. Diez años de validación en Unidades de Referencia Tecnológica en campos comerciales"
 attachments: []
 tags: []
-fetched_at: "2026-03-09T21:18:14+09:00"
+fetched_at: "2026-03-09T21:19:44+09:00"
 ---
 # Estudio en Paraná muestra aumentos de productividad con la coinoculación de soja
 
