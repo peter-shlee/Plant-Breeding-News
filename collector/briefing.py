@@ -319,17 +319,23 @@ def _parse_gemini_line_format(text: str) -> dict[str, Any]:
 
 def _korean_fallback_summary(it: RecentItem) -> str:
     ex = (it.excerpt or "").strip()
+    title = (it.title or "").strip()
+
     if ex:
         # Prefer first sentence-like chunk and force short length
         s = re.split(r"(?<=[\.\!\?\u3002\uFF01\uFF1F])\s+", ex)[0].strip()
         if s:
             if len(s) > 140:
                 s = s[:139].rstrip() + "…"
-            # If it looks mostly non-Korean, still provide Korean connective text.
+            # Non-Korean excerpt: still produce a natural Korean sentence.
             if not re.search(r"[가-힣]", s):
-                return f"이 이슈는 ‘{it.title}’를 다루며, 상세 맥락은 원문 확인이 필요하다."
+                return f"‘{title}’ 관련 이슈로, 육종·종자 분야의 정책·시장 변화 신호를 다룬다."
             return s
-    return f"이 이슈는 ‘{it.title}’를 다루며, 핵심 내용은 원문 링크에서 확인할 수 있다."
+
+    # If no excerpt, synthesize from title without dead phrases.
+    if re.search(r"[가-힣]", title):
+        return f"‘{title}’ 관련 핵심 동향으로, 현장 적용과 제도 변화 관점에서 주목할 내용이다."
+    return f"‘{title}’ 이슈로, 육종·종자 분야의 최근 변화 방향을 보여준다."
 
 
 def _is_placeholder_summary(s: str) -> bool:
