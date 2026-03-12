@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-09 21:42 (KST)**  
-- 커버리지(최근 섹션): **2026-03-02 ~ 2026-03-09** (최근 7일)
+- 마지막 업데이트: **2026-03-13 06:45 (KST)**  
+- 커버리지(최근 섹션): **2026-03-06 ~ 2026-03-13** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 <a id="highlights"></a>
 
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-03-02~2026-03-09)
+## 30초 주간 브리핑 (2026-03-06~2026-03-13)
 
-> 글로벌 종자 규제 현대화와 작물별 맞춤형 육종 전략이 가속화되고 있습니다.
+> 식물 육종 및 농업 분야의 AI 기술 도입 가속화와 글로벌 지식재산권 강화 움직임이 주목받는 한 주였습니다.
 
 ### 1) 정책/규제
 
-- 아르헨티나 종자협회(ASA)가 지식재산권 강화와 혁신 촉진을 위해 UPOV 1991 협약 가입을 공식 지지했습니다. ([원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/))
-- 유럽연합이 신육종기술(NGT) 규제 도입의 중요한 분기점을 맞이하며 향후 식물 육종 산업의 미래를 결정할 정치적 결정을 앞두고 있습니다. ([원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/))
+- 아르헨티나 종자협회(ASA)가 지식재산권 보호 강화와 품종 육성자 권리 보호를 위해 UPOV 1991 가입을 공식 지지했습니다. ([원문](https://www.seedworld.com/latam/2026/03/10/argentine-seed-association-supports-upov-91-as-a-strategic-step-for-competitiveness/))
+- 농촌진흥청 등 관련 부처가 협력하여 유전자 변형 생물체(LMO)에 대한 안전관리 체계를 한층 강화하기로 했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 ### 2) 연구/기술
 
-- 캐나다 작물 육종 시스템이 혁신을 위해 명확한 자금 조달 모델과 인프라 공유, 장기적인 계획 수립의 필요성에 직면했습니다. ([원문](https://www.seedworld.com/canada/2026/03/06/canadas-crop-breeding-system-faces-a-turning-point/))
-- 국산 감초의 자급률을 높이기 위해 농촌진흥청이 종자 수확의 최적 시기를 과학적으로 구명했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 브라질 연구진이 기후 데이터와 잎 이미지를 분석해 아시아 대두 녹병 위험을 예측하는 클라우드 기반 AI 플랫폼을 개발했습니다. ([원문](https://www.seedworld.com/latam/2026/03/12/brazilian-scientists-develop-ai-platform-to-predict-asian-soybean-rust/))
+- 농촌진흥청이 머신러닝 알고리즘을 활용해 식용곤충 제품에 대한 소비자 수용도 점수를 예측하는 기술을 확보했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808144&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 ### 3) 유통/시장/현장
 
-- 고품질 단감 ‘감풍’에 대한 시장 수요가 급증함에 따라 최근 2년 사이 재배 면적이 2배로 확대되었습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 식물성 단백질 수요가 증가하면서 캐나다 육종가들이 노란 완두콩과 잠두콩의 단백질 함량 및 가공 효율을 높이는 데 집중하고 있습니다. ([원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/))
+- SGS 캐나다가 바이어(Bayer)사의 옥수수 형질 테스트 기관으로 승인받아 북미 종자 기업들의 검사 효율성이 개선될 전망입니다. ([원문](https://www.seedworld.com/canada/2026/03/11/sgs-canada-crop-science-now-authorized-for-bayer-corn-trait-testing-in-canada/))
+- 유럽 종자 시장에서 불법 종자 복제가 문제가 됨에 따라, 반침해국(AIB)이 데이터 분석을 통해 적발 및 단속을 강화하고 있습니다. ([원문](https://www.seedworld.com/europe/2026/03/10/the-invisible-leak-in-the-seed-sector/))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -46,8 +46,17 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[쌀알 투명하고 병에 강한 신품종 벼 '달하미' 개발](items/nics/2026/03/944005.md)**
-  - 2026-03-03 · `nics` · [읽기](items/nics/2026/03/944005.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944005)
+- **[Advances in Genome Biology & Technology Agriculture Conference Discounted for Seed World Friends](items/seedworld/2026/03/https_www.seedworld.com_p_123406.md)**
+  - 2026-03-11 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123406.md) · [원문](https://www.seedworld.com/us/2026/03/10/genome-biology-technology-agriculture-conference-discounted-for-seed-world-friends/)
+  - Seed World readers can receive $250 off registration for the AGBT Agriculture meeting April 12–15, 2026 in Phoenix, where plant, animal and industry scientists gather to explore how genomics is advan…
+
+- **[Argentine Seed Association Supports UPOV 91 as a Strategic Step for Competitiveness](items/seedworld/2026/03/https_www.seedworld.com_p_123296.md)**
+  - 2026-03-10 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123296.md) · [원문](https://www.seedworld.com/latam/2026/03/10/argentine-seed-association-supports-upov-91-as-a-strategic-step-for-competitiveness/)
+  - The Argentine Seed Association (ASA) backs President Javier Milei’s push to modernize plant intellectual property and advance Argentina’s accession to UPOV 1991. ASA says stronger breeders’ rights, i…
+
+- **[논 재배 확대 및 소비 촉진 논의 ‘중앙-지방 밭작물 협의회’ 개최](items/rda/2026/03/100000808143.md)**
+  - 2026-03-10 · `rda` · [읽기](items/rda/2026/03/100000808143.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808143&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 3월 10일 대전광역시 중구에서 우수 밭작물 품종 개발·보급 및 소비 촉진을 위한 ‘2026년 밭작물 신품종 개발 과제 및 소비 촉진 중앙-지방 연구협의회’를 개최했다. 이날 협의회에는 국립식량과학원과 지방 농촌진흥기관 관계자 40여 명이 참석해 콩, 참깨, 들깨, 녹두 등 주요 밭작물의 지역별 적합 품종 선정과 지역적응시험 계…
 
 - **[Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md)**
   - 2026-03-09 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) · [원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)
@@ -57,41 +66,125 @@ title: "식물 육종 뉴스"
   - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md) · [원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/)
   - Europe is edging closer to a major milestone on New Genomic Techniques. In this Seed World Europe discussion, Petar Madjarac and Marcel Bruins explain where EU NGT regulation stands and why the next…
 
-- **[10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md)**
-  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md) · [원문](https://www.seedworld.com/canada/2026/03/05/10-years-after-upov-91-is-canada-ready-for-a-new-plant-breeding-funding-model/)
-  - PBR Commissioner Anthony Parker says collaboration between producers, public breeders and private companies will determine the future of innovation The post 10 Years After UPOV ’91: Is Canada Ready f…
-
-- **[Study Links eccDNA to Rapid Plant Stress Resistance](items/seedworld/2026/03/https_www.seedworld.com_p_123252.md)**
-  - 2026-03-03 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123252.md) · [원문](https://www.seedworld.com/europe/2026/03/03/study-links-eccdna-to-rapid-plant-stress-resistance/)
-  - Scientists at Rothamsted and Clemson University have unified fragmented research to show that extrachromosomal circular DNA (eccDNA) acts as a genomic “shock absorber” in plants.
-
-- **[Can We Breed a Safer Peanut?](items/seedworld/2026/03/https_www.seedworld.com_p_123232.md)**
-  - 2026-03-03 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123232.md) · [원문](https://www.seedworld.com/us/2026/03/02/can-we-breed-a-safer-peanut/)
-  - Can peanut breeding reduce allergen proteins without sacrificing performance? Clemson scientists are stacking genetics and gene editing to find out.
-
 - **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/rda/2026/03/100000808113.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/nihhs/2026/03/100000808113.md)**
   - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808113.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808113&mc=MN0000000136)
 
-- **[부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](items/rda/2026/03/100000808118.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808118.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Brazilian Scientists Develop AI Platform to Predict Asian Soybean Rust](items/seedworld/2026/03/https_www.seedworld.com_p_123302.md)**
+  - 2026-03-12 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123302.md) · [원문](https://www.seedworld.com/latam/2026/03/12/brazilian-scientists-develop-ai-platform-to-predict-asian-soybean-rust/)
+  - Brazilian researchers created a cloud-based AI platform to predict Asian soybean rust risk by fusing climate sensor data, agronomic factors, and leaf images. The dashboard classifies risk as low, med…
 
-- **[단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/rda/2026/03/100000808117.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808117.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Square Wheels and Round Thinking: Why AI in Agribusiness Starts with First Principles](items/seedworld/2026/03/https_www.seedworld.com_p_123454.md)**
+  - 2026-03-12 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123454.md) · [원문](https://www.seedworld.com/europe/2026/03/12/square-wheels-and-round-thinking-why-ai-in-agribusiness-starts-with-first-principles/)
+  - AI consultant Robert Newcombe urges farmers to challenge tradition and use artificial intelligence to rethink farm operations. Drawing on his dairy farm background, he says AI works best for reducing…
 
-- **[유기농 인증 밭 ‘토양 구조’ 개선, ‘미생물 활성’ 증가 확인](items/rda/2026/03/100000808116.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808116.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808116&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[SGS Canada Crop Science Now Authorized for Bayer Corn Trait Testing in Canada](items/seedworld/2026/03/https_www.seedworld.com_p_123442.md)**
+  - 2026-03-12 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123442.md) · [원문](https://www.seedworld.com/canada/2026/03/11/sgs-canada-crop-science-now-authorized-for-bayer-corn-trait-testing-in-canada/)
+  - New Canadian-based corn trait testing includes herbicide bioassays and ELISA trait testing, helping seed corn companies avoid cross-border delays and improve turnaround time.
 
-- **[농촌진흥청, 남수단 한빛농장에 케이(K)-농업기술 뿌리내린다](items/rda/2026/03/100000808115.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808115.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808115&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Canada is On the Brink. Let’s Talk About It](items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
+  - 2026-03-12 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123435.md) · [원문](https://www.seedworld.com/canada/canada360/on-the-brink/2026/03/11/canada-is-on-the-brink-lets-talk-about-it/)
+  - Explore Seed World’s cross-Canada journey into the future of plant breeding, crop innovation, and the decisions shaping Canadian agriculture. The post Canada is On the Brink.
+
+- **[Científicos Brasileños desarrollan una plataforma de IA para predecir la roya asiática de la soja](items/seedworld/2026/03/https_www.seedworld.com_p_123299.md)**
+  - 2026-03-11 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123299.md) · [원문](https://www.seedworld.com/latam/2026/03/11/cientificos-brasilenos-desarrollan-una-plataforma-de-ia-para-predecir-la-roya-asiatica-de-la-soja/)
+  - Científicos brasileños desarrollaron una plataforma en la nube con IA para predecir el riesgo de roya asiática de la soja, integrando datos climáticos, parámetros agronómicos e imágenes de hojas.
 
 
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
+
+- **[Brazilian Scientists Develop AI Platform to Predict Asian Soybean Rust](items/seedworld/2026/03/https_www.seedworld.com_p_123302.md)**
+  - 2026-03-12 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123302.md) · [원문](https://www.seedworld.com/latam/2026/03/12/brazilian-scientists-develop-ai-platform-to-predict-asian-soybean-rust/)
+  - Brazilian researchers created a cloud-based AI platform to predict Asian soybean rust risk by fusing climate sensor data, agronomic factors, and leaf images. The dashboard classifies risk as low, med…
+
+- **[Square Wheels and Round Thinking: Why AI in Agribusiness Starts with First Principles](items/seedworld/2026/03/https_www.seedworld.com_p_123454.md)**
+  - 2026-03-12 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123454.md) · [원문](https://www.seedworld.com/europe/2026/03/12/square-wheels-and-round-thinking-why-ai-in-agribusiness-starts-with-first-principles/)
+  - AI consultant Robert Newcombe urges farmers to challenge tradition and use artificial intelligence to rethink farm operations. Drawing on his dairy farm background, he says AI works best for reducing…
+
+- **[SGS Canada Crop Science Now Authorized for Bayer Corn Trait Testing in Canada](items/seedworld/2026/03/https_www.seedworld.com_p_123442.md)**
+  - 2026-03-12 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123442.md) · [원문](https://www.seedworld.com/canada/2026/03/11/sgs-canada-crop-science-now-authorized-for-bayer-corn-trait-testing-in-canada/)
+  - New Canadian-based corn trait testing includes herbicide bioassays and ELISA trait testing, helping seed corn companies avoid cross-border delays and improve turnaround time.
+
+- **[Canada is On the Brink. Let’s Talk About It](items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
+  - 2026-03-12 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123435.md) · [원문](https://www.seedworld.com/canada/canada360/on-the-brink/2026/03/11/canada-is-on-the-brink-lets-talk-about-it/)
+  - Explore Seed World’s cross-Canada journey into the future of plant breeding, crop innovation, and the decisions shaping Canadian agriculture. The post Canada is On the Brink.
+
+- **[Científicos Brasileños desarrollan una plataforma de IA para predecir la roya asiática de la soja](items/seedworld/2026/03/https_www.seedworld.com_p_123299.md)**
+  - 2026-03-11 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123299.md) · [원문](https://www.seedworld.com/latam/2026/03/11/cientificos-brasilenos-desarrollan-una-plataforma-de-ia-para-predecir-la-roya-asiatica-de-la-soja/)
+  - Científicos brasileños desarrollaron una plataforma en la nube con IA para predecir el riesgo de roya asiática de la soja, integrando datos climáticos, parámetros agronómicos e imágenes de hojas.
+
+- **[Coated Seeds Changed Alfalfa Forever. Who’s Next?](items/seedworld/2026/03/https_www.seedworld.com_p_123431.md)**
+  - 2026-03-11 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123431.md) · [원문](https://www.seedworld.com/us/2026/03/11/coated-seeds-changed-alfalfa-forever-whos-next/)
+  - Coated seed was once seen by alfalfa growers as unnecessary cost and weight. Over time, growers recognized clear agronomic benefits: coatings create a protective micro-environment with fungicides, in…
+
+- **[Svalbard Global Seed Vault Nominated for Nobel Peace Prize](items/seedworld/2026/03/https_www.seedworld.com_p_123419.md)**
+  - 2026-03-11 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123419.md) · [원문](https://www.seedworld.com/europe/2026/03/11/svalbard-global-s/)
+  - Geir Pollestad, Norwegian MP and former agriculture minister, has nominated the Svalbard Global Seed Vault for the Nobel Peace Prize, together with NordGen, FAO, Crop Trust, and CGIAR.
+
+- **[Advances in Genome Biology & Technology Agriculture Conference Discounted for Seed World Friends](items/seedworld/2026/03/https_www.seedworld.com_p_123406.md)**
+  - 2026-03-11 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123406.md) · [원문](https://www.seedworld.com/us/2026/03/10/genome-biology-technology-agriculture-conference-discounted-for-seed-world-friends/)
+  - Seed World readers can receive $250 off registration for the AGBT Agriculture meeting April 12–15, 2026 in Phoenix, where plant, animal and industry scientists gather to explore how genomics is advan…
+
+- **[논 재배 확대 및 소비 촉진 논의 ‘중앙-지방 밭작물 협의회’ 개최](items/nics/2026/03/944028.md)**
+  - 2026-03-11 · `nics` · [읽기](items/nics/2026/03/944028.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944028)
+
+- **[Register Now For Our Webinar on the Future of Plant Breeding](items/seedworld/2026/03/https_www.seedworld.com_p_122978.md)**
+  - 2026-03-10 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_122978.md) · [원문](https://www.seedworld.com/canada/2026/03/10/register-now-for-our-webinar-on-the-future-of-plant-breeding/)
+  - This webinar will ask a simple question: If we could design the ideal plant breeding model for Western Canada today, what would it look like The post Register Now For Our Webinar on the Future of Pla…
+
+- **[Argentine Seed Association Supports UPOV 91 as a Strategic Step for Competitiveness](items/seedworld/2026/03/https_www.seedworld.com_p_123296.md)**
+  - 2026-03-10 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123296.md) · [원문](https://www.seedworld.com/latam/2026/03/10/argentine-seed-association-supports-upov-91-as-a-strategic-step-for-competitiveness/)
+  - The Argentine Seed Association (ASA) backs President Javier Milei’s push to modernize plant intellectual property and advance Argentina’s accession to UPOV 1991. ASA says stronger breeders’ rights, i…
+
+- **[The Invisible Leak in the Seed Sector](items/seedworld/2026/03/https_www.seedworld.com_p_123400.md)**
+  - 2026-03-10 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123400.md) · [원문](https://www.seedworld.com/europe/2026/03/10/the-invisible-leak-in-the-seed-sector/)
+  - Illegal seed reproduction is quietly distorting Europe’s vegetable seed markets. New data from the Anti-Infringement Bureau (AIB) reveals where infringement occurs, why reporting has risen 86%, and h…
+
+- **[The Talent We Lose Along The Way](items/seedworld/2026/03/https_www.seedworld.com_p_123397.md)**
+  - 2026-03-10 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123397.md) · [원문](https://www.seedworld.com/latam/2026/03/10/the-talent-we-lose-along-the-way/)
+  - Enid Perez-Lara recounts her journey restarting a PhD after emigrating to Canada and reflects on how women scientists from outside Western countries often must repeatedly prove their credentials.
+
+- **[El talento que se pierde en el camino](items/seedworld/2026/03/https_www.seedworld.com_p_123394.md)**
+  - 2026-03-10 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123394.md) · [원문](https://www.seedworld.com/latam/2026/03/10/el-talento-que-se-pierde-en-el-camino/)
+  - Enid Perez-Lara relata cómo tuvo que reiniciar su doctorado tras emigrar a Canadá y reflexiona sobre cómo muchas científicas inmigrantes deben volver a demostrar su credibilidad.
+
+- **[Scientists Map the Genetic Diversity of Soybean’s Most Damaging Pest](items/seedworld/2026/03/https_www.seedworld.com_p_123389.md)**
+  - 2026-03-10 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123389.md) · [원문](https://www.seedworld.com/us/2026/03/09/scientists-map-the-genetic-diversity-of-soybeans-most-damaging-pest/)
+  - Scientists at the University of Illinois have developed the first soybean cyst nematode pangenome, revealing the pest’s genetic diversity and helping researchers understand how SCN overcomes soybean…
+
+- **[Take 3: ASTA Vegetable and Flower Seed Conference](items/seedworld/2026/03/https_www.seedworld.com_p_123386.md)**
+  - 2026-03-10 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123386.md) · [원문](https://www.seedworld.com/us/2026/03/09/take-3-asta-vegetable-and-flower/)
+  - Seed World launches a new video series called Take 3, where editors share three takeaways from major seed industry events. In the first episode, Aimee Nielson and Aiden Brook reflect on insights from…
+
+- **[“입맛 대신 데이터” 인공지능으로 곤충식품 소비자 선호 예측한다](items/rda/2026/03/100000808144.md)**
+  - 2026-03-10 · `rda` · [읽기](items/rda/2026/03/100000808144.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808144&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 고려대(김유경 교수 연구팀)와 함께 식용곤충 제품 개발에 활용할 수 있도록 곤충식품 소비자 수용도 점수* 예측 기반 기술을 확보했다. * 소비자 수용도 점수(CAS): 신제품이 시장에서 얼마나 긍정적으로 받아들여지고, 실제 구매나 사용으로 이어질 가능성이 높은지를 정량화한 지표 이 기술은 곤충식품 관련 데이터와 기존 관능 평가…
+
+- **[논 재배 확대 및 소비 촉진 논의 ‘중앙-지방 밭작물 협의회’ 개최](items/rda/2026/03/100000808143.md)**
+  - 2026-03-10 · `rda` · [읽기](items/rda/2026/03/100000808143.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808143&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 3월 10일 대전광역시 중구에서 우수 밭작물 품종 개발·보급 및 소비 촉진을 위한 ‘2026년 밭작물 신품종 개발 과제 및 소비 촉진 중앙-지방 연구협의회’를 개최했다. 이날 협의회에는 국립식량과학원과 지방 농촌진흥기관 관계자 40여 명이 참석해 콩, 참깨, 들깨, 녹두 등 주요 밭작물의 지역별 적합 품종 선정과 지역적응시험 계…
+
+- **[농촌진흥청, ‘연구개발–기술보급 공동협의체’ 출범](items/rda/2026/03/100000808142.md)**
+  - 2026-03-10 · `rda` · [읽기](items/rda/2026/03/100000808142.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808142&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 3월 10일 본청 국제회의장에서 ‘연구개발–기술보급 공동협의체 출범식’을 개최하고, 본격적인 활동에 들어갔다. 이날 출범식에는 김상경 차장(위원장)을 비롯해 실·국장, 분과장 등 공동협의체 회원 36명이 참석해 연구개발과 기술 보급 협력 기반을 구축하고, 공동 목표와 운영 방향을 공유했다.
+
+- **[‘국립식량과학원-식량작물 현장전문가’ 경쟁력 강화 방안 논의](items/nics/2026/03/944023.md)**
+  - 2026-03-10 · `nics` · [읽기](items/nics/2026/03/944023.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944023)
+
+- **[국내 양파, 혈관 건강·당뇨 예방 돕는 플라보노이드 성분 풍부](items/nics/2026/03/944022.md)**
+  - 2026-03-10 · `nics` · [읽기](items/nics/2026/03/944022.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944022)
+
+- **[‘땅심’ 낮은 논, 토양개량제 투입해 필수 성분 채워야](items/nics/2026/03/944021.md)**
+  - 2026-03-10 · `nics` · [읽기](items/nics/2026/03/944021.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944021)
+
+- **[AAFC’s Science Footprint is Changing — its Commitment to Innovation is Not](items/seedworld/2026/03/https_www.seedworld.com_p_123377.md)**
+  - 2026-03-09 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123377.md) · [원문](https://www.seedworld.com/canada/2026/03/09/aafcs-science-footprint-is-changing-its-commitment-to-innovation-is-not/)
+  - Site closures and program consolidation are part of a strategic effort to preserve breeding and germplasm enhancement, says Assistant Deputy Minister Arran McPherson The post AAFC’s Science Footprint…
 
 - **[Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md)**
   - 2026-03-09 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123293.md) · [원문](https://www.seedworld.com/latam/2026/03/09/asociacion-argentina-de-semillas-apoya-el-acta-upov-91-como-un-paso-estrategico-para-la-competitividad/)
@@ -113,81 +206,7 @@ title: "식물 육종 뉴스"
   - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808114.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/rda/2026/03/100000808113.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 어린이 농업과학 체험교육 연중 진행](items/rda/2026/03/100000808111.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808111.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808111&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘국립식량과학원-식량작물 현장전문가’ 경쟁력 강화 방안 논의](items/rda/2026/03/100000808109.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808109.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808109&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[흰색 양송이 ‘도담’ 재배 안정성, 상품성 현장서 확인](items/rda/2026/03/100000808108.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808108.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808108&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 노사 소통 강화…상생·협력적 조직문화 확산](items/rda/2026/03/100000808107.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808107.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808107&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[국내 양파, 혈관 건강·당뇨 예방 돕는 플라보노이드 성분 풍부](items/rda/2026/03/100000808106.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808106.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808106&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농업 신기술 ‘수요자 맞춤형 동영상’으로 현장 이해도 쑥쑥](items/rda/2026/03/100000808105.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808105.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808105&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[혈당 관리에 도움되는 ‘원기2호’ 고춧잎, 환·차·국수로 변신](items/rda/2026/03/100000808104.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808104.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808104&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘기관 간 공동 대응’으로 딸기 유전자원 안전보존 강화](items/rda/2026/03/100000808103.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808103.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808103&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[토끼고기 추출물, 혈당 대사 반응 변화 확인](items/rda/2026/03/100000808102.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808102.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808102&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농업생명자원 보존 역량 강화 교육 실시](items/rda/2026/03/100000808101.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808101.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808101&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘토종벌’ 안정적인 수박 생산 돕는다](items/rda/2026/03/100000808100.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808100.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808100&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“배·사과 과수원을 지키자” 꽃 피기 전 ‘과수화상병’ 방제 필수](items/rda/2026/03/100000808099.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808099.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808099&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“생태계는 내 친구!” 초등학생 대상 환경생물 관찰교실 운영](items/rda/2026/03/100000808098.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808098.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808098&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[봄철 농사 앞두고 ‘농기계 점검‧정비’ 필수](items/rda/2026/03/100000808096.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808096.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808096&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘땅심’ 낮은 논, 토양개량제 투입해 필수 성분 채워야](items/rda/2026/03/100000808095.md)**
-  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808095.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808095&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[단감 ‘감풍’ 면적 2년 새 2배, 고품질 시장 수요 대응 보급 확대](items/nihhs/2026/03/100000808117.md)**
-  - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808117.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808117&mc=MN0000000136)
-
-- **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](items/nihhs/2026/03/100000808113.md)**
-  - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808113.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808113&mc=MN0000000136)
-
-- **[혈당 관리에 도움되는 ‘원기2호’ 고춧잎, 환·차·국수로 변신](items/nihhs/2026/03/100000808104.md)**
-  - 2026-03-09 · `nihhs` · [읽기](items/nihhs/2026/03/100000808104.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808104&mc=MN0000000136)
-
-- **[Farm Bill Draft Draws Praise, Concerns From Agricultural Groups](items/seedworld/2026/03/https_www.seedworld.com_p_123372.md)**
-  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123372.md) · [원문](https://www.seedworld.com/us/2026/03/06/farm-bill-draft-draws-praise-concerns-from-agricultural-groups/)
-  - Agricultural organizations are reacting to the Farm Bill draft. See what they are saying as we wait for lawmakers to replace the 2018 Farm Bill The post Farm Bill Draft Draws Praise, Concerns From Ag…
-
-- **[Canada’s Crop Breeding System Faces a Turning Point](items/seedworld/2026/03/https_www.seedworld.com_p_123365.md)**
-  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123365.md) · [원문](https://www.seedworld.com/canada/2026/03/06/canadas-crop-breeding-system-faces-a-turning-point/)
-  - Groups like the Canadian Wheat Research Coalition say clearer funding models, shared infrastructure and long-term planning are essential for innovation The post Canada’s Crop Breeding System Faces a…
-
-- **[Let’s Talk: A Critical Moment for New Genomic Techniques in Europe](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md)**
-  - 2026-03-07 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123366.md) · [원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/)
-  - Europe is edging closer to a major milestone on New Genomic Techniques. In this Seed World Europe discussion, Petar Madjarac and Marcel Bruins explain where EU NGT regulation stands and why the next…
-
-- **[Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md)**
-  - 2026-03-06 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123357.md) · [원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/)
-  - Protein content in yellow peas and processing advantages of small-seeded faba beans are becoming key breeding targets for pulse breeders The post Plant-Protein Demand Shaping New Yellow Pea and Faba…
-
-- **[10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md)**
-  - 2026-03-05 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123351.md) · [원문](https://www.seedworld.com/canada/2026/03/05/10-years-after-upov-91-is-canada-ready-for-a-new-plant-breeding-funding-model/)
-  - PBR Commissioner Anthony Parker says collaboration between producers, public breeders and private companies will determine the future of innovation The post 10 Years After UPOV ’91: Is Canada Ready f…
+  - 2026-03-09 · `rda` · [읽기](items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 
 <a id="weekly-archive"></a>
@@ -195,6 +214,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-03-13](weekly/2026-03-13.md)
 - [2026-03-09](weekly/2026-03-09.md)
 - [2026-03-06](weekly/2026-03-06.md)
 - [2026-03-04](weekly/2026-03-04.md)

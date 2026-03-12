@@ -11,6 +11,18 @@ source: "rda"
 
 ## 2026-03
 
+- **[“입맛 대신 데이터” 인공지능으로 곤충식품 소비자 선호 예측한다](../../items/rda/2026/03/100000808144.md)**
+  - 2026-03-10 · [읽기](../../items/rda/2026/03/100000808144.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808144&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 고려대(김유경 교수 연구팀)와 함께 식용곤충 제품 개발에 활용할 수 있도록 곤충식품 소비자 수용도 점수* 예측 기반 기술을 확보했다. * 소비자 수용도 점수(CAS): 신제품이 시장에서 얼마나 긍정적으로 받아들여지고, 실제 구매나 사용으로 이어질 가능성이 높은지를 정량화한 지표 이 기술은 곤충식품 관련 데이터와 기존 관능 평가…
+
+- **[논 재배 확대 및 소비 촉진 논의 ‘중앙-지방 밭작물 협의회’ 개최](../../items/rda/2026/03/100000808143.md)**
+  - 2026-03-10 · [읽기](../../items/rda/2026/03/100000808143.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808143&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 3월 10일 대전광역시 중구에서 우수 밭작물 품종 개발·보급 및 소비 촉진을 위한 ‘2026년 밭작물 신품종 개발 과제 및 소비 촉진 중앙-지방 연구협의회’를 개최했다. 이날 협의회에는 국립식량과학원과 지방 농촌진흥기관 관계자 40여 명이 참석해 콩, 참깨, 들깨, 녹두 등 주요 밭작물의 지역별 적합 품종 선정과 지역적응시험 계…
+
+- **[농촌진흥청, ‘연구개발–기술보급 공동협의체’ 출범](../../items/rda/2026/03/100000808142.md)**
+  - 2026-03-10 · [읽기](../../items/rda/2026/03/100000808142.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808142&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 3월 10일 본청 국제회의장에서 ‘연구개발–기술보급 공동협의체 출범식’을 개최하고, 본격적인 활동에 들어갔다. 이날 출범식에는 김상경 차장(위원장)을 비롯해 실·국장, 분과장 등 공동협의체 회원 36명이 참석해 연구개발과 기술 보급 협력 기반을 구축하고, 공동 목표와 운영 방향을 공유했다.
+
 - **[부처 간 협력, 유전자 변형 생물체 안전관리 체계 강화 나서](../../items/rda/2026/03/100000808118.md)**
   - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808118.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
@@ -27,10 +39,10 @@ source: "rda"
   - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808114.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[감초 국산화 앞당길 ‘종자 수확 최적 시기’ 밝혀](../../items/rda/2026/03/100000808113.md)**
-  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[농촌진흥청, 어린이 농업과학 체험교육 연중 진행](../../items/rda/2026/03/100000808111.md)**
-  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808111.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808111&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808111.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808111&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[‘국립식량과학원-식량작물 현장전문가’ 경쟁력 강화 방안 논의](../../items/rda/2026/03/100000808109.md)**
   - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808109.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808109&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
@@ -51,16 +63,16 @@ source: "rda"
   - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808104.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808104&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[‘기관 간 공동 대응’으로 딸기 유전자원 안전보존 강화](../../items/rda/2026/03/100000808103.md)**
-  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808103.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808103&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808103.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808103&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[토끼고기 추출물, 혈당 대사 반응 변화 확인](../../items/rda/2026/03/100000808102.md)**
-  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808102.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808102&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808102.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808102&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[농업생명자원 보존 역량 강화 교육 실시](../../items/rda/2026/03/100000808101.md)**
-  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808101.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808101&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808101.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808101&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[‘토종벌’ 안정적인 수박 생산 돕는다](../../items/rda/2026/03/100000808100.md)**
-  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808100.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808100&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808100.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808100&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[“배·사과 과수원을 지키자” 꽃 피기 전 ‘과수화상병’ 방제 필수](../../items/rda/2026/03/100000808099.md)**
   - 2026-03-09 · [읽기](../../items/rda/2026/03/100000808099.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000808099&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
@@ -79,9 +91,3 @@ source: "rda"
 
 - **[산물소득자료 기반 ‘맞춤 처방전’ 제공, 농가 소득 향상 지원](../../items/rda/2026/02/100000807933.md)**
   - 2026-02-28 · [읽기](../../items/rda/2026/02/100000807933.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000807933&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농진청-식약처, 아열대 작물 농약 기준 마련에 협력 강화한다](../../items/rda/2026/02/100000807931.md)**
-  - 2026-02-28 · [읽기](../../items/rda/2026/02/100000807931.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000807931&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[봄철 딸기 품질 지키기 ‘환경·양분·병해충’ 관리 요령 제시](../../items/rda/2026/02/100000807929.md)**
-  - 2026-02-28 · [읽기](../../items/rda/2026/02/100000807929.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000807929&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)

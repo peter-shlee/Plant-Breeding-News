@@ -11,6 +11,18 @@ source: "nics"
 
 ## 2026-03
 
+- **[논 재배 확대 및 소비 촉진 논의 ‘중앙-지방 밭작물 협의회’ 개최](../../items/nics/2026/03/944028.md)**
+  - 2026-03-11 · [읽기](../../items/nics/2026/03/944028.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944028)
+
+- **[‘국립식량과학원-식량작물 현장전문가’ 경쟁력 강화 방안 논의](../../items/nics/2026/03/944023.md)**
+  - 2026-03-10 · [읽기](../../items/nics/2026/03/944023.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944023)
+
+- **[국내 양파, 혈관 건강·당뇨 예방 돕는 플라보노이드 성분 풍부](../../items/nics/2026/03/944022.md)**
+  - 2026-03-10 · [읽기](../../items/nics/2026/03/944022.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944022)
+
+- **[‘땅심’ 낮은 논, 토양개량제 투입해 필수 성분 채워야](../../items/nics/2026/03/944021.md)**
+  - 2026-03-10 · [읽기](../../items/nics/2026/03/944021.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944021)
+
 - **[식어도 맛있는 쌀 ‘미호’, 안정 수급 위해 ‘민관 한자리’](../../items/nics/2026/03/944007.md)**
   - 2026-03-03 · [읽기](../../items/nics/2026/03/944007.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944007)
 
@@ -28,18 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 이달의 신간](../../items/nics/2026/03/944002.md)**
   - 2026-03-03 · [읽기](../../items/nics/2026/03/944002.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944002)
-
-- **[혈압 낮추는 라이코펜 섭취 “하루 한 컵 방울토마토”](../../items/nics/2026/03/944001.md)**
-  - 2026-03-03 · [읽기](../../items/nics/2026/03/944001.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944001)
-
-
-## 2026-02
-
-- **[밥에 넣어 먹는 작은 검정 땅콩 ‘보담’·‘흑찬’](../../items/nics/2026/02/943992.md)**
-  - 2026-02-19 · [읽기](../../items/nics/2026/02/943992.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943992)
-
-- **[농촌진흥청, 국산 콩 산업 현장 찾아 활성화 방안 모색](../../items/nics/2026/02/943991.md)**
-  - 2026-02-19 · [읽기](../../items/nics/2026/02/943991.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943991)
-
-- **[봄재배 씨감자, 이렇게 관리하세요](../../items/nics/2026/02/943982.md)**
-  - 2026-02-10 · [읽기](../../items/nics/2026/02/943982.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-943982)
