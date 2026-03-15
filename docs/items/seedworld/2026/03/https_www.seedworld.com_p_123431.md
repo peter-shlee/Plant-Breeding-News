@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/11/coated-seeds-changed-alfalfa-forev
 summary: "Coated seed was once seen by alfalfa growers as unnecessary cost and weight. Over time, growers recognized clear agronomic benefits: coatings create a protective micro-environment with fungicides, inoculants, and nutrients that improve"
 attachments: []
 tags: []
-fetched_at: "2026-03-13T06:45:17+09:00"
+fetched_at: "2026-03-16T06:42:32+09:00"
 ---
 # Coated Seeds Changed Alfalfa Forever. Who’s Next?
 

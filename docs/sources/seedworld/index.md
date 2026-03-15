@@ -11,6 +11,10 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[New Gene Discovery Could Help Breed Hardier, Higher-yielding Faba Beans](../../items/seedworld/2026/03/https_www.seedworld.com_p_123422.md)**
+  - 2026-03-13 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123422.md) · [원문](https://www.seedworld.com/europe/2026/03/12/new-gene-discovery-could-help-breed-hardier-higher-yielding-faba-beans/)
+  - Faba bean, an ancient high-protein crop and sustainable European soy alternative, may soon become more frost-resilient. Researchers improved the faba bean reference genome and identified a single gen…
+
 - **[Brazilian Scientists Develop AI Platform to Predict Asian Soybean Rust](../../items/seedworld/2026/03/https_www.seedworld.com_p_123302.md)**
   - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123302.md) · [원문](https://www.seedworld.com/latam/2026/03/12/brazilian-scientists-develop-ai-platform-to-predict-asian-soybean-rust/)
   - Brazilian researchers created a cloud-based AI platform to predict Asian soybean rust risk by fusing climate sensor data, agronomic factors, and leaf images. The dashboard classifies risk as low, med…
@@ -24,7 +28,7 @@ source: "seedworld"
   - New Canadian-based corn trait testing includes herbicide bioassays and ELISA trait testing, helping seed corn companies avoid cross-border delays and improve turnaround time.
 
 - **[Canada is On the Brink. Let’s Talk About It](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
-  - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md) · [원문](https://www.seedworld.com/canada/canada360/on-the-brink/2026/03/11/canada-is-on-the-brink-lets-talk-about-it/)
+  - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/11/canada-is-on-the-brink-lets-talk-about-it/)
   - Explore Seed World’s cross-Canada journey into the future of plant breeding, crop innovation, and the decisions shaping Canadian agriculture. The post Canada is On the Brink.
 
 - **[Científicos Brasileños desarrollan una plataforma de IA para predecir la roya asiática de la soja](../../items/seedworld/2026/03/https_www.seedworld.com_p_123299.md)**
@@ -150,7 +154,3 @@ source: "seedworld"
 - **[Paraná Study Shows Productivity Gains with Soybean Co-Inoculation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123038.md)**
   - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123038.md) · [원문](https://www.seedworld.com/latam/2026/03/03/parana-study-shows-productivity-gains-with-soybean-co-inoculation/)
   - A Paraná study by Embrapa Soja and IDR-Paraná shows soybean seed co-inoculation delivers consistent productivity gains. Ten years of field validation in commercial Technological Reference Units found…
-
-- **[Study Links eccDNA to Rapid Plant Stress Resistance](../../items/seedworld/2026/03/https_www.seedworld.com_p_123252.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123252.md) · [원문](https://www.seedworld.com/europe/2026/03/03/study-links-eccdna-to-rapid-plant-stress-resistance/)
-  - Scientists at Rothamsted and Clemson University have unified fragmented research to show that extrachromosomal circular DNA (eccDNA) acts as a genomic “shock absorber” in plants.

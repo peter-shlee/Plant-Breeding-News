@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/12/square-wheels-and-round-thinki
 summary: "AI consultant Robert Newcombe urges farmers to challenge tradition and use artificial intelligence to rethink farm operations. Drawing on his dairy farm background, he says AI works best for reducing administrative drudgery, improving"
 attachments: []
 tags: []
-fetched_at: "2026-03-13T06:45:17+09:00"
+fetched_at: "2026-03-16T06:42:32+09:00"
 ---
 # Square Wheels and Round Thinking: Why AI in Agribusiness Starts with First Principles
 

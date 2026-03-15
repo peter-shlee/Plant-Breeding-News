@@ -9,7 +9,7 @@ summary: "La Asociación de Semilleros Argentinos (ASA) respaldó la decisión d
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-03-13T06:45:17+09:00"
+fetched_at: "2026-03-16T06:42:32+09:00"
 ---
 # Asociación Argentina de Semillas apoya el Acta UPOV 91 como un paso estratégico para la competitividad
 

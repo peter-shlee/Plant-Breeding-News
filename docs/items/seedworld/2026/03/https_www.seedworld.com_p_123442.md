@@ -9,7 +9,7 @@ summary: "New Canadian-based corn trait testing includes herbicide bioassays and
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-03-13T06:45:17+09:00"
+fetched_at: "2026-03-16T06:42:32+09:00"
 ---
 # SGS Canada Crop Science Now Authorized for Bayer Corn Trait Testing in Canada
 
