@@ -11,6 +11,12 @@ source: "nics"
 
 ## 2026-03
 
+- **[농촌진흥청, ‘데이터 기반 맞춤형 건강 식단 활성화’ 현장 소통 강화](../../items/nics/2026/03/944041.md)**
+  - 2026-03-16 · [읽기](../../items/nics/2026/03/944041.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944041)
+
+- **[농촌진흥청 개발 가공용 찰벼 ‘미르찰’, 소비 확대로 재배면적 급증](../../items/nics/2026/03/944040.md)**
+  - 2026-03-16 · [읽기](../../items/nics/2026/03/944040.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944040)
+
 - **[논 재배 확대 및 소비 촉진 논의 ‘중앙-지방 밭작물 협의회’ 개최](../../items/nics/2026/03/944028.md)**
   - 2026-03-11 · [읽기](../../items/nics/2026/03/944028.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944028)
 
@@ -34,9 +40,3 @@ source: "nics"
 
 - **[정월대보름 맞아 초성 퀴즈 맞히고 선물도 받아요!](../../items/nics/2026/03/944004.md)**
   - 2026-03-03 · [읽기](../../items/nics/2026/03/944004.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944004)
-
-- **[농촌진흥청, ‘아시아 음식 문화유산’ 영문판 발간](../../items/nics/2026/03/944003.md)**
-  - 2026-03-03 · [읽기](../../items/nics/2026/03/944003.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944003)
-
-- **[농촌진흥청, 이달의 신간](../../items/nics/2026/03/944002.md)**
-  - 2026-03-03 · [읽기](../../items/nics/2026/03/944002.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944002)

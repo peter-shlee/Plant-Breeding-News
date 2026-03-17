@@ -9,7 +9,7 @@ summary: "Scientists at the University of Illinois have developed the first soyb
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-03-16T06:42:32+09:00"
+fetched_at: "2026-03-18T06:47:25+09:00"
 ---
 # Scientists Map the Genetic Diversity of Soybean’s Most Damaging Pest
 

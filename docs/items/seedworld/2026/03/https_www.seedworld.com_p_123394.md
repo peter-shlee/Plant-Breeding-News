@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/10/el-talento-que-se-pierde-en-el-
 summary: "Enid Perez-Lara relata cómo tuvo que reiniciar su doctorado tras emigrar a Canadá y reflexiona sobre cómo muchas científicas inmigrantes deben volver a demostrar su credibilidad."
 attachments: []
 tags: []
-fetched_at: "2026-03-16T06:42:32+09:00"
+fetched_at: "2026-03-18T06:47:25+09:00"
 ---
 # El talento que se pierde en el camino
 

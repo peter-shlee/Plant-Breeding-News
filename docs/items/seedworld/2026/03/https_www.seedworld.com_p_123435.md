@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/03/11/canada-is-on-the-
 summary: "Explore Seed World’s cross-Canada journey into the future of plant breeding, crop innovation, and the decisions shaping Canadian agriculture. The post Canada is On the Brink."
 attachments: []
 tags: []
-fetched_at: "2026-03-16T06:42:32+09:00"
+fetched_at: "2026-03-18T06:47:25+09:00"
 ---
 # Canada is On the Brink. Let’s Talk About It
 

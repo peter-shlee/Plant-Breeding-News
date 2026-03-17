@@ -9,7 +9,7 @@ summary: "Seed World readers can receive $250 off registration for the AGBT Agri
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-03-16T06:42:32+09:00"
+fetched_at: "2026-03-18T06:47:25+09:00"
 ---
 # Advances in Genome Biology & Technology Agriculture Conference Discounted for Seed World Friends
 

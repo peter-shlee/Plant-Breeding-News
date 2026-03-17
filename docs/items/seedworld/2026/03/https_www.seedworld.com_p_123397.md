@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/10/the-talent-we-lose-along-the-wa
 summary: "Enid Perez-Lara recounts her journey restarting a PhD after emigrating to Canada and reflects on how women scientists from outside Western countries often must repeatedly prove their credentials."
 attachments: []
 tags: []
-fetched_at: "2026-03-16T06:42:32+09:00"
+fetched_at: "2026-03-18T06:47:25+09:00"
 ---
 # The Talent We Lose Along The Way
 

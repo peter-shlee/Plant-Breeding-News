@@ -9,7 +9,7 @@ summary: "The Argentine Seed Association (ASA) backs President Javier Milei’s 
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-03-16T06:42:32+09:00"
+fetched_at: "2026-03-18T06:47:25+09:00"
 ---
 # Argentine Seed Association Supports UPOV 91 as a Strategic Step for Competitiveness
 

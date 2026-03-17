@@ -11,6 +11,42 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[AOSCA Names New Leadership](../../items/seedworld/2026/03/https_www.seedworld.com_p_123607.md)**
+  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123607.md) · [원문](https://www.seedworld.com/us/2026/03/17/aosca-names-new-leadership/)
+  - AOSCA names Michael Bouck president and Matthew Young vice president following its latest board meeting, marking a leadership transition focused on strengthening seed certification systems across Nor…
+
+- **[The Breeder’s Blind Spot: What Your Genotyping Panel Isn’t Telling You](../../items/seedworld/2026/03/https_www.seedworld.com_p_123600.md)**
+  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123600.md) · [원문](https://www.seedworld.com/us/2026/03/17/the-breeders-blind-spot-what-your-genotyping-panel-isnt-telling-you/)
+  - Computomics' AI-driven platform pairs predictive breeding with pangenome visualization, giving you the architecture behind every crossing decision The post The Breeder’s Blind Spot: What Your Genotyp…
+
+- **[Study Finds No Clear Link Between GMOs and Health Risks](../../items/seedworld/2026/03/https_www.seedworld.com_p_123591.md)**
+  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123591.md) · [원문](https://www.seedworld.com/europe/2026/03/17/study-finds-no-clear-link-between-gmos-and-health-risks/)
+  - A new review of global health data and decades of scientific research found no consistent evidence that GMO consumption is linked to major human health problems. Researchers in South Korea found no c…
+
+- **[Embrapa Introduces New Bean Cultivars Focused on Productivity, Risk Reduction, and Market Quality](../../items/seedworld/2026/03/https_www.seedworld.com_p_123308.md)**
+  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123308.md) · [원문](https://www.seedworld.com/latam/2026/03/17/embrapa-introduces-new-bean-cultivars-focused-on-productivity-risk-reduction-and-market-quality/)
+  - Embrapa Arroz e Feijão, based in Santo Antônio de Goiás (GO), has introduced a new group of bean cultivars designed to address practical demands across the production chain — from […] The post Embrap…
+
+- **[How Disconnected Systems Increase Risk in Seed Companies](../../items/seedworld/2026/03/https_www.seedworld.com_p_123582.md)**
+  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123582.md) · [원문](https://www.seedworld.com/us/2026/03/17/how-disconnected-systems-increase-risk-in-seed-companies/)
+  - Disconnected spreadsheets and siloed systems make seed businesses harder to run, limiting visibility across production, sales, contracts, and inventory. As volume grows, outdated information increase…
+
+- **[Active Collaboration Will Drive Biologicals Adoption](../../items/seedworld/2026/03/https_www.seedworld.com_p_123577.md)**
+  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123577.md) · [원문](https://www.seedworld.com/us/2026/03/17/active-collaboration-will-drive-biologicals-adoption/)
+  - Agriculture innovation now depends on collaboration, not silos. Jord BioScience highlights how integrated biologicals, chemistry, seed technologies, and microbial solutions can deliver consistent, re…
+
+- **[Canada’s Wheat Breeding System Cannot Stay Status Quo, Leaders Warn in New Webinar](../../items/seedworld/2026/03/https_www.seedworld.com_p_123572.md)**
+  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123572.md) · [원문](https://www.seedworld.com/canada/2026/03/16/canadas-wheat-breeding-system-cannot-stay-status-quo-leaders-warn-in-new-webinar/)
+  - Watch our discussion around AAFC cuts and farmer-funded research, which points to the need for structural change in Western Canada’s breeding ecosystem The post Canada’s Wheat Breeding System Cannot…
+
+- **[The Show Me State is Ground Zero in the Fight Against Soybean Cyst Nematode](../../items/seedworld/2026/03/https_www.seedworld.com_p_123565.md)**
+  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123565.md) · [원문](https://www.seedworld.com/us/2026/03/16/the-show-me-state-is-ground-zero-in-the-fight-against-soybean-cyst-nematode/)
+  - By analyzing over 1,100 soybean genomes, scientists uncovered new sources of SCN resistance that could help breeders build more durable protection for future varieties.
+
+- **[Embrapa presenta nuevos cultivares de frijol enfocados en la productividad, la reducción de riesgos y la cali…](../../items/seedworld/2026/03/https_www.seedworld.com_p_123305.md)**
+  - 2026-03-16 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123305.md) · [원문](https://www.seedworld.com/latam/2026/03/16/embrapa-presenta-nuevos-cultivares-de-frijol-enfocados-en-la-productividad-la-reduccion-de-riesgos-y-la-calidad-del-mercado/)
+  - Embrapa Arroz e Feijão lanzó a inicios de 2026 cuatro nuevos cultivares de frijol para aumentar productividad, reducir riesgos agronómicos y mejorar la calidad comercial.
+
 - **[New Gene Discovery Could Help Breed Hardier, Higher-yielding Faba Beans](../../items/seedworld/2026/03/https_www.seedworld.com_p_123422.md)**
   - 2026-03-13 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123422.md) · [원문](https://www.seedworld.com/europe/2026/03/12/new-gene-discovery-could-help-breed-hardier-higher-yielding-faba-beans/)
   - Faba bean, an ancient high-protein crop and sustainable European soy alternative, may soon become more frost-resilient. Researchers improved the faba bean reference genome and identified a single gen…
@@ -46,10 +82,6 @@ source: "seedworld"
 - **[Advances in Genome Biology & Technology Agriculture Conference Discounted for Seed World Friends](../../items/seedworld/2026/03/https_www.seedworld.com_p_123406.md)**
   - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123406.md) · [원문](https://www.seedworld.com/us/2026/03/10/genome-biology-technology-agriculture-conference-discounted-for-seed-world-friends/)
   - Seed World readers can receive $250 off registration for the AGBT Agriculture meeting April 12–15, 2026 in Phoenix, where plant, animal and industry scientists gather to explore how genomics is advan…
-
-- **[Register Now For Our Webinar on the Future of Plant Breeding](../../items/seedworld/2026/03/https_www.seedworld.com_p_122978.md)**
-  - 2026-03-10 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_122978.md) · [원문](https://www.seedworld.com/canada/2026/03/10/register-now-for-our-webinar-on-the-future-of-plant-breeding/)
-  - This webinar will ask a simple question: If we could design the ideal plant breeding model for Western Canada today, what would it look like The post Register Now For Our Webinar on the Future of Pla…
 
 - **[Argentine Seed Association Supports UPOV 91 as a Strategic Step for Competitiveness](../../items/seedworld/2026/03/https_www.seedworld.com_p_123296.md)**
   - 2026-03-10 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123296.md) · [원문](https://www.seedworld.com/latam/2026/03/10/argentine-seed-association-supports-upov-91-as-a-strategic-step-for-competitiveness/)
@@ -122,35 +154,3 @@ source: "seedworld"
 - **[Loss of Prairie Research Stations Threatens Wheat Testing System, PGDC Committee Hears](../../items/seedworld/2026/03/https_www.seedworld.com_p_123323.md)**
   - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123323.md) · [원문](https://www.seedworld.com/canada/2026/03/04/loss-of-prairie-research-stations-poses-challenge-to-wheat-testing-system-committee-hears/)
   - Cuts affecting sites like Lacombe, Scott and Indian Head could leave major production zones without data for evaluating new lines The post Loss of Prairie Research Stations Threatens Wheat Testing Sy…
-
-- **[Modelo mapea daños por heladas en maíz Brasileño 2021](../../items/seedworld/2026/03/https_www.seedworld.com_p_123041.md)**
-  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123041.md) · [원문](https://www.seedworld.com/latam/2026/03/04/modelo-mapea-danos-por-heladas-en-maiz-brasileno-2021/)
-  - Un modelo brasileño mapea el daño por heladas de 2021 en el maíz de segunda cosecha con imágenes Sentinel-2 y aprendizaje automático Random Forest. Probado en más de 700.000 hectáreas del oeste de Pa…
-
-- **[What’s Next in Corn Genetics? Corteva’s Plan for 2026 and Beyond](../../items/seedworld/2026/03/https_www.seedworld.com_p_123290.md)**
-  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123290.md) · [원문](https://www.seedworld.com/us/2026/03/04/whats-next-in-corn-genetics-cortevas-plan-for-2026-and-beyond/)
-  - 2025’s record-breaking 17-billion-bushel U.S. corn crop reinforced the shift happening in the conversation around corn genetics.
-
-- **[Biological Seed Treatments: Innovation, Regulation and Market Expansion](../../items/seedworld/2026/03/https_www.seedworld.com_p_123242.md)**
-  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123242.md) · [원문](https://www.seedworld.com/europe/2026/03/04/biological-seed-treatments-innovation-regulation-and-market-expansion/)
-  - Biological seed treatments are rapidly advancing across global agriculture, driven by innovation, regulatory shifts and growing farmer demand for improved crop performance.
-
-- **[What’s the Right Amount of Education for You?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123281.md)**
-  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123281.md) · [원문](https://www.seedworld.com/us/2026/03/03/whats-the-right-amount-of-education-for-you/)
-  - The seed industry faces a talent bottleneck: professionals want to grow into leadership but can’t pause careers for full-time degrees. Education can be stacked strategically.
-
-- **[New Mustard Promises Yield Gains as PRCO Flags GM and Research Risks](../../items/seedworld/2026/03/https_www.seedworld.com_p_123272.md)**
-  - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123272.md) · [원문](https://www.seedworld.com/canada/2026/03/03/new-mustard-variety-promises-yield-gains-as-prco-flags-gm-and-research-risks/)
-  - Big yield gains, market risks and federal research cuts dominated flax and mustard discussions at today's Prairie Grain Development Committee meetings in Banff The post New Mustard Promises Yield Gai…
-
-- **[Corn Moves South](../../items/seedworld/2026/03/https_www.seedworld.com_p_123241.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123241.md) · [원문](https://www.seedworld.com/us/2026/03/03/corn-moves-south/)
-  - When you think of corn country, you tend to focus on the Midwestern states like Illinois, Indiana and Iowa, but a Southern Corn Belt is making waves and growing year over year.
-
-- **[Who Funds Wheat Research in Canada? Increasingly, it’s Farmers](../../items/seedworld/2026/03/https_www.seedworld.com_p_123258.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123258.md) · [원문](https://www.seedworld.com/canada/2026/03/03/who-funds-wheat-research-in-canada-increasingly-its-farmers/)
-  - Long before recent federal cuts made headlines, Canadian farmers were quietly underwriting the country’s wheat breeding system The post Who Funds Wheat Research in Canada?
-
-- **[Paraná Study Shows Productivity Gains with Soybean Co-Inoculation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123038.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123038.md) · [원문](https://www.seedworld.com/latam/2026/03/03/parana-study-shows-productivity-gains-with-soybean-co-inoculation/)
-  - A Paraná study by Embrapa Soja and IDR-Paraná shows soybean seed co-inoculation delivers consistent productivity gains. Ten years of field validation in commercial Technological Reference Units found…
