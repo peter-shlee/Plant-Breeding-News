@@ -9,7 +9,7 @@ summary: "Brazilian researchers created a cloud-based AI platform to predict Asi
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-03-18T06:47:25+09:00"
+fetched_at: "2026-03-20T06:46:24+09:00"
 ---
 # Brazilian Scientists Develop AI Platform to Predict Asian Soybean Rust
 

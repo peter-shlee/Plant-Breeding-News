@@ -11,6 +11,42 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Attend](../../items/seedworld/2026/03/https_www.seedworld.com_p_123773.md)**
+  - 2026-03-20 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123773.md) · [원문](https://www.seedworld.com/canada/2026/03/19/why-the-2026-napb-annual-meeting-at-texas-am-is-a-must-attend/)
+  - Attendees in College Station will explore AI-driven phenotyping, high-throughput data systems, and cutting-edge breeding programs The post Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Atte…
+
+- **[Argentina’s RECSO Sets the Standard for Unified Regional Soybean Trials in 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123314.md)**
+  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123314.md) · [원문](https://www.seedworld.com/latam/2026/03/19/argentinas-recso-sets-the-standard-for-unified-regional-soybean-trials-in-2026/)
+  - With more than four decades of experience in Argentina, the National Soybean Cultivar Evaluation Network (RECSO) will expand to a regional scale in 2026. This transition will establish a network […]…
+
+- **[Why the VUA Matters for Farmers — and the Future of Seed Innovation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123746.md)**
+  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123746.md) · [원문](https://www.seedworld.com/canada/2026/03/19/why-the-vua-matters-for-farmers-and-the-future-of-seed-innovation/)
+  - Seeds Canada’s Lauren Comin explains how agreements like the VUA help sustain plant breeding while adding one more step for growers The post Why the VUA Matters for Farmers — and the Future of Seed I…
+
+- **[Soil Microbes Help Suppress Crop Diseases, Global Study Finds](../../items/seedworld/2026/03/https_www.seedworld.com_p_123594.md)**
+  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123594.md) · [원문](https://www.seedworld.com/europe/2026/03/18/soil-microbes-help-suppress-crop-diseases-global-study-finds/)
+  - A global study has mapped plant pathogen hotspots and found that healthier, more diverse soils can naturally suppress disease. Published in Nature Communications, the research also warns that climate…
+
+- **[OP-ED: No Investment, No Innovation — What’s at Stake for Canadian Farmers](../../items/seedworld/2026/03/https_www.seedworld.com_p_123744.md)**
+  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123744.md) · [원문](https://www.seedworld.com/canada/2026/03/18/op-ed-no-investment-no-innovation-whats-at-stake-for-canadian-farmers/)
+  - Failing to fund crop genetics today could limit farm productivity and profitability tomorrow, as momentum builds behind new value capture tools. Innovation is undeniably important to Canadian agricul…
+
+- **[Corn’s Margin Crisis Deepens as Fertilizer Shock Collides With Planting Season](../../items/seedworld/2026/03/https_www.seedworld.com_p_123740.md)**
+  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123740.md) · [원문](https://www.seedworld.com/us/2026/03/18/corns-margin-crisis-deepens-as-fertilizer-shock-collides-with-planting-season/)
+  - U.S. corn growers face rising fertilizer costs and tighter margins as global disruptions tied to the Strait of Hormuz add pressure during planting season, shaping decisions on inputs, yield and seed…
+
+- **[On the Brink Episode 2: Canadian Conditions Need Made-for-Canada Solutions](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md)**
+  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/18/on-the-brink-episode-2-canadian-conditions-need-made-for-canada-solutions/)
+  - How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post On the Brink Episode 2: Canadian Conditions Need Made-for-Cana…
+
+- **[La RECSO de Argentina establece el estándar para ensayos regionales unificados de soja en 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123311.md)**
+  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123311.md) · [원문](https://www.seedworld.com/latam/2026/03/18/la-recso-de-argentina-establece-el-estandar-para-ensayos-regionales-unificados-de-soja-en-2026/)
+  - La red argentina de evaluación de cultivares de soja RECSO se ampliará en 2026 a escala regional como RRECSO-Américas, integrando a Argentina, Uruguay, Paraguay, Colombia y Perú con protocolos unific…
+
+- **[Keeping Seed Cleaning Plants Moving: 13 Years in Parts & Service](../../items/seedworld/2026/03/https_www.seedworld.com_p_123691.md)**
+  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123691.md) · [원문](https://www.seedworld.com/canada/2026/03/17/keeping-seed-cleaning-plants-moving-13-years-in-parts-service/)
+  - Whether it’s a mechanical issue or a technology challenge, customers want one thing: reliable answers and reliable service The post Keeping Seed Cleaning Plants Moving: 13 Years in Parts & Service ap…
+
 - **[AOSCA Names New Leadership](../../items/seedworld/2026/03/https_www.seedworld.com_p_123607.md)**
   - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123607.md) · [원문](https://www.seedworld.com/us/2026/03/17/aosca-names-new-leadership/)
   - AOSCA names Michael Bouck president and Matthew Young vice president following its latest board meeting, marking a leadership transition focused on strengthening seed certification systems across Nor…
@@ -118,39 +154,3 @@ source: "seedworld"
 - **[Farm Bill Draft Draws Praise, Concerns From Agricultural Groups](../../items/seedworld/2026/03/https_www.seedworld.com_p_123372.md)**
   - 2026-03-07 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123372.md) · [원문](https://www.seedworld.com/us/2026/03/06/farm-bill-draft-draws-praise-concerns-from-agricultural-groups/)
   - Agricultural organizations are reacting to the Farm Bill draft. See what they are saying as we wait for lawmakers to replace the 2018 Farm Bill The post Farm Bill Draft Draws Praise, Concerns From Ag…
-
-- **[Canada’s Crop Breeding System Faces a Turning Point](../../items/seedworld/2026/03/https_www.seedworld.com_p_123365.md)**
-  - 2026-03-07 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123365.md) · [원문](https://www.seedworld.com/canada/2026/03/06/canadas-crop-breeding-system-faces-a-turning-point/)
-  - Groups like the Canadian Wheat Research Coalition say clearer funding models, shared infrastructure and long-term planning are essential for innovation The post Canada’s Crop Breeding System Faces a…
-
-- **[Let’s Talk: A Critical Moment for New Genomic Techniques in Europe](../../items/seedworld/2026/03/https_www.seedworld.com_p_123366.md)**
-  - 2026-03-07 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123366.md) · [원문](https://www.seedworld.com/europe/2026/03/06/lets-talk-a-critical-moment-for-new-genomic-techniques-in-europe/)
-  - Europe is edging closer to a major milestone on New Genomic Techniques. In this Seed World Europe discussion, Petar Madjarac and Marcel Bruins explain where EU NGT regulation stands and why the next…
-
-- **[Plant-Protein Demand Shaping New Yellow Pea and Faba Bean Lines on the Prairies](../../items/seedworld/2026/03/https_www.seedworld.com_p_123357.md)**
-  - 2026-03-06 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123357.md) · [원문](https://www.seedworld.com/canada/2026/03/05/plant-protein-demand-shaping-new-yellow-pea-and-faba-bean-lines-on-the-prairies/)
-  - Protein content in yellow peas and processing advantages of small-seeded faba beans are becoming key breeding targets for pulse breeders The post Plant-Protein Demand Shaping New Yellow Pea and Faba…
-
-- **[10 Years After UPOV ’91: Is Canada Ready for a New Plant Breeding Funding Model?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123351.md)**
-  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123351.md) · [원문](https://www.seedworld.com/canada/2026/03/05/10-years-after-upov-91-is-canada-ready-for-a-new-plant-breeding-funding-model/)
-  - PBR Commissioner Anthony Parker says collaboration between producers, public breeders and private companies will determine the future of innovation The post 10 Years After UPOV ’91: Is Canada Ready f…
-
-- **[Model Maps 2021 Frost Damage in Brazilian Corn](../../items/seedworld/2026/03/https_www.seedworld.com_p_123044.md)**
-  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123044.md) · [원문](https://www.seedworld.com/latam/2026/03/05/model-maps-2021-frost-damage-in-brazilian-corn/)
-  - A Brazilian model maps 2021 frost damage in second-crop corn using Sentinel-2 imagery and Random Forest machine learning. Tested across 700,000+ hectares in western Paraná, the method identified corn…
-
-- **[Long-Term Study Shows Soil Imbalances Can Weaken Crop Defenses](../../items/seedworld/2026/03/https_www.seedworld.com_p_123345.md)**
-  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123345.md) · [원문](https://www.seedworld.com/europe/2026/03/05/long-term-study-shows-soil-imbalances-can-weaken-crop-defenses/)
-  - A 70-year long-term experiment shows that nutrient imbalances in soil—especially potassium deficiency combined with nitrogen fertilization—can severely disrupt mycorrhizal symbiosis, the vital partne…
-
-- **[How the Middle East War Could Ripple Through the Seed Industry](../../items/seedworld/2026/03/https_www.seedworld.com_p_123341.md)**
-  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123341.md) · [원문](https://www.seedworld.com/us/2026/03/04/how-the-middle-east-war-could-ripple-through-the-seed-industry/)
-  - A war unfolding in the Middle East is already sending ripple effects through global fertilizer, energy and shipping markets. In this episode of The Way I See It, Seed World U.S.
-
-- **[New Barley Lines Could Help Beer Stay Fresher Longer](../../items/seedworld/2026/03/https_www.seedworld.com_p_123335.md)**
-  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123335.md) · [원문](https://www.seedworld.com/canada/2026/03/04/new-barley-lines-could-help-beer-stay-fresher-longer/)
-  - The Prairie Recommending Committee for Oats and Barley is reviewing malting barley lines including LOX-less types that reduce flavour staling in beer The post New Barley Lines Could Help Beer Stay Fr…
-
-- **[Loss of Prairie Research Stations Threatens Wheat Testing System, PGDC Committee Hears](../../items/seedworld/2026/03/https_www.seedworld.com_p_123323.md)**
-  - 2026-03-05 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123323.md) · [원문](https://www.seedworld.com/canada/2026/03/04/loss-of-prairie-research-stations-poses-challenge-to-wheat-testing-system-committee-hears/)
-  - Cuts affecting sites like Lacombe, Scott and Indian Head could leave major production zones without data for evaluating new lines The post Loss of Prairie Research Stations Threatens Wheat Testing Sy…

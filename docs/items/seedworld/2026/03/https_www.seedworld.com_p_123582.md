@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/17/how-disconnected-systems-increase-
 summary: "Disconnected spreadsheets and siloed systems make seed businesses harder to run, limiting visibility across production, sales, contracts, and inventory. As volume grows, outdated information increases risk, inefficiency, and margin"
 attachments: []
 tags: []
-fetched_at: "2026-03-18T06:47:25+09:00"
+fetched_at: "2026-03-20T06:46:24+09:00"
 ---
 # How Disconnected Systems Increase Risk in Seed Companies
 

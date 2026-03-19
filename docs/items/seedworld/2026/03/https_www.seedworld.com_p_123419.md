@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/11/svalbard-global-s/"
 summary: "Geir Pollestad, Norwegian MP and former agriculture minister, has nominated the Svalbard Global Seed Vault for the Nobel Peace Prize, together with NordGen, FAO, Crop Trust, and CGIAR."
 attachments: []
 tags: []
-fetched_at: "2026-03-18T06:47:25+09:00"
+fetched_at: "2026-03-20T06:46:24+09:00"
 ---
 # Svalbard Global Seed Vault Nominated for Nobel Peace Prize
 
