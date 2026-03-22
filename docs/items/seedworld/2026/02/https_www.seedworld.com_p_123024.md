@@ -9,7 +9,7 @@ summary: "Chilean researchers report a molecular “switch” that helps plants 
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-03-09T18:43:30+09:00"
+fetched_at: "2026-03-23T06:41:32+09:00"
 ---
 # Chilean Research Identifies Molecular “Switch” Behind Plant Drought Resilience
 

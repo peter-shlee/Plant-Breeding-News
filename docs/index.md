@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-03-20 06:46 (KST)**  
-- 커버리지(최근 섹션): **2026-03-13 ~ 2026-03-20** (최근 7일)
+- 마지막 업데이트: **2026-03-23 06:41 (KST)**  
+- 커버리지(최근 섹션): **2026-03-16 ~ 2026-03-23** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 <a id="highlights"></a>
 
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-03-13~2026-03-20)
+## 30초 주간 브리핑 (2026-03-16~2026-03-23)
 
-> 글로벌 종자 혁신과 지속 가능한 농업 기술을 위한 연구 및 협력 강화 주간.
+> 글로벌 종자 산업의 기술 혁신과 규제 대응, 그리고 생산성 향상을 위한 전략적 변화가 가속화되고 있습니다.
 
 ### 1) 정책/규제
 
-- 종자 혁신을 지속하기 위한 VUA(품종 이용 협약)의 중요성과 농가에 미치는 영향이 강조되었습니다. ([원문](https://www.seedworld.com/canada/2026/03/19/why-the-vua-matters-for-farmers-and-the-future-of-seed-innovation/))
-- 한국 연구진의 검토 결과, GMO 섭취와 주요 인체 건강 질환 간의 명확한 인과관계가 발견되지 않았습니다. ([원문](https://www.seedworld.com/europe/2026/03/17/study-finds-no-clear-link-between-gmos-and-health-risks/))
+- 한국 연구진의 검토 결과, GMO 섭취와 주요 질병 간의 인과관계가 확인되지 않아 유전자 변형 식품의 안전성에 대한 과학적 근거를 제시했습니다. ([원문](https://www.seedworld.com/europe/2026/03/17/study-finds-no-clear-link-between-gmos-and-health-risks/))
+- 캐나다 밀 육종 시스템의 지속 가능성을 위해 정부 지원 축소에 따른 구조적 변화와 농가 주도 연구의 필요성이 제기되었습니다. ([원문](https://www.seedworld.com/canada/2026/03/16/canadas-wheat-breeding-system-cannot-stay-status-quo-leaders-warn-in-new-webinar/))
 
 ### 2) 연구/기술
 
-- 토양 미생물 다양성이 작물 병해를 억제하는 데 기여하며, 기후 변화가 병원균 확산에 미칠 영향에 대한 연구가 발표되었습니다. ([원문](https://www.seedworld.com/europe/2026/03/18/soil-microbes-help-suppress-crop-diseases-global-study-finds/))
-- 대두 낭선충(SCN) 저항성 유전자를 분석하여 차세대 대두 품종 보호를 위한 새로운 육종 기반이 마련되었습니다. ([원문](https://www.seedworld.com/us/2026/03/16/the-show-me-state-is-ground-zero-in-the-fight-against-soybean-cyst-nematode/))
+- 건강하고 다양한 토양 미생물이 작물 질병을 자연적으로 억제한다는 글로벌 연구 결과가 발표되어 미생물 기반의 작물 보호 전략이 주목받고 있습니다. ([원문](https://www.seedworld.com/europe/2026/03/18/soil-microbes-help-suppress-crop-diseases-global-study-finds/))
+- 1,100개 이상의 대두 유전체 분석을 통해 대두 낭선충(SCN)에 대한 새로운 저항성 유전자가 발견되어 육종가들의 품종 개발에 기여할 전망입니다. ([원문](https://www.seedworld.com/us/2026/03/16/the-show-me-state-is-ground-zero-in-the-fight-against-soybean-cyst-nematode/))
 
 ### 3) 유통/시장/현장
 
-- 아르헨티나의 RECSO가 2026년부터 남미 지역 통합 대두 평가 네트워크로 확대되어 표준화된 시험을 수행합니다. ([원문](https://www.seedworld.com/latam/2026/03/19/argentinas-recso-sets-the-standard-for-unified-regional-soybean-trials-in-2026/))
-- 농촌진흥청이 개발한 가공용 찰벼 ‘미르찰’이 소비 확대에 힘입어 국내 재배면적이 급증하고 있습니다. ([원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944040))
+- 엠브라파(Embrapa)가 사일리지와 바이오가스 생산에 최적화된 고수확 사료용 수수 하이브리드 'BRS 662'를 출시했습니다. ([원문](https://www.seedworld.com/latam/2026/03/21/embrapas-new-sorghum-hybrid-targets-silage-biogas-and-energy-production/))
+- 아르헨티나의 RECSO가 2026년부터 남미 전역으로 대두 품종 평가 네트워크를 확장하여 통합된 프로토콜로 생산성 격차 해소에 나섭니다. ([원문](https://www.seedworld.com/latam/2026/03/18/la-recso-de-argentina-establece-el-estandar-para-ensayos-regionales-unificados-de-soja-en-2026/))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -46,13 +46,21 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
+- **[How Biotechnology Could Save the Banana](items/seedworld/2026/03/https_www.seedworld.com_p_123588.md)**
+  - 2026-03-20 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123588.md) · [원문](https://www.seedworld.com/europe/2026/03/19/how-biotechnology-could-save-the-banana/)
+  - Banana Xanthomonas Wilt (BXW) is devastating banana crops across Africa, threatening food security for over 70 million people. With no cure and limited breeding options, scientists are turning to bio…
+
 - **[Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Attend](items/seedworld/2026/03/https_www.seedworld.com_p_123773.md)**
   - 2026-03-20 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123773.md) · [원문](https://www.seedworld.com/canada/2026/03/19/why-the-2026-napb-annual-meeting-at-texas-am-is-a-must-attend/)
   - Attendees in College Station will explore AI-driven phenotyping, high-throughput data systems, and cutting-edge breeding programs The post Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Atte…
 
-- **[New Gene Discovery Could Help Breed Hardier, Higher-yielding Faba Beans](items/seedworld/2026/03/https_www.seedworld.com_p_123422.md)**
-  - 2026-03-13 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123422.md) · [원문](https://www.seedworld.com/europe/2026/03/12/new-gene-discovery-could-help-breed-hardier-higher-yielding-faba-beans/)
-  - Faba bean, an ancient high-protein crop and sustainable European soy alternative, may soon become more frost-resilient. Researchers improved the faba bean reference genome and identified a single gen…
+- **[Embrapa’s New Sorghum Hybrid Targets Silage, Biogas, and Energy Production](items/seedworld/2026/03/https_www.seedworld.com_p_123320.md)**
+  - 2026-03-21 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123320.md) · [원문](https://www.seedworld.com/latam/2026/03/21/embrapas-new-sorghum-hybrid-targets-silage-biogas-and-energy-production/)
+  - Embrapa and Latina Seeds launched the giant forage sorghum hybrid BRS 662 (LAS6002F), designed for silage, biogas, and energy production. The early-cycle cultivar can yield over 80 tons per hectare w…
+
+- **[El nuevo híbrido de sorgo de Embrapa se centra en la producción de ensilado, biogás y energía](items/seedworld/2026/03/https_www.seedworld.com_p_123317.md)**
+  - 2026-03-20 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123317.md) · [원문](https://www.seedworld.com/latam/2026/03/20/el-nuevo-hibrido-de-sorgo-de-embrapa-se-centra-en-la-produccion-de-ensilado-biogas-y-energia/)
+  - Embrapa y Latina Seeds lanzaron el híbrido de sorgo forrajero gigante BRS 662 (LAS6002F), orientado a ensilaje, biogás y producción de energía. El cultivar de ciclo temprano puede superar 80 tonelada…
 
 - **[Argentina’s RECSO Sets the Standard for Unified Regional Soybean Trials in 2026](items/seedworld/2026/03/https_www.seedworld.com_p_123314.md)**
   - 2026-03-19 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123314.md) · [원문](https://www.seedworld.com/latam/2026/03/19/argentinas-recso-sets-the-standard-for-unified-regional-soybean-trials-in-2026/)
@@ -86,19 +94,23 @@ title: "식물 육종 뉴스"
   - 2026-03-18 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123691.md) · [원문](https://www.seedworld.com/canada/2026/03/17/keeping-seed-cleaning-plants-moving-13-years-in-parts-service/)
   - Whether it’s a mechanical issue or a technology challenge, customers want one thing: reliable answers and reliable service The post Keeping Seed Cleaning Plants Moving: 13 Years in Parts & Service ap…
 
-- **[AOSCA Names New Leadership](items/seedworld/2026/03/https_www.seedworld.com_p_123607.md)**
-  - 2026-03-18 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123607.md) · [원문](https://www.seedworld.com/us/2026/03/17/aosca-names-new-leadership/)
-  - AOSCA names Michael Bouck president and Matthew Young vice president following its latest board meeting, marking a leadership transition focused on strengthening seed certification systems across Nor…
-
-- **[The Breeder’s Blind Spot: What Your Genotyping Panel Isn’t Telling You](items/seedworld/2026/03/https_www.seedworld.com_p_123600.md)**
-  - 2026-03-18 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123600.md) · [원문](https://www.seedworld.com/us/2026/03/17/the-breeders-blind-spot-what-your-genotyping-panel-isnt-telling-you/)
-  - Computomics' AI-driven platform pairs predictive breeding with pangenome visualization, giving you the architecture behind every crossing decision The post The Breeder’s Blind Spot: What Your Genotyp…
-
 
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
+
+- **[Embrapa’s New Sorghum Hybrid Targets Silage, Biogas, and Energy Production](items/seedworld/2026/03/https_www.seedworld.com_p_123320.md)**
+  - 2026-03-21 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123320.md) · [원문](https://www.seedworld.com/latam/2026/03/21/embrapas-new-sorghum-hybrid-targets-silage-biogas-and-energy-production/)
+  - Embrapa and Latina Seeds launched the giant forage sorghum hybrid BRS 662 (LAS6002F), designed for silage, biogas, and energy production. The early-cycle cultivar can yield over 80 tons per hectare w…
+
+- **[El nuevo híbrido de sorgo de Embrapa se centra en la producción de ensilado, biogás y energía](items/seedworld/2026/03/https_www.seedworld.com_p_123317.md)**
+  - 2026-03-20 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123317.md) · [원문](https://www.seedworld.com/latam/2026/03/20/el-nuevo-hibrido-de-sorgo-de-embrapa-se-centra-en-la-produccion-de-ensilado-biogas-y-energia/)
+  - Embrapa y Latina Seeds lanzaron el híbrido de sorgo forrajero gigante BRS 662 (LAS6002F), orientado a ensilaje, biogás y producción de energía. El cultivar de ciclo temprano puede superar 80 tonelada…
+
+- **[How Biotechnology Could Save the Banana](items/seedworld/2026/03/https_www.seedworld.com_p_123588.md)**
+  - 2026-03-20 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123588.md) · [원문](https://www.seedworld.com/europe/2026/03/19/how-biotechnology-could-save-the-banana/)
+  - Banana Xanthomonas Wilt (BXW) is devastating banana crops across Africa, threatening food security for over 70 million people. With no cure and limited breeding options, scientists are turning to bio…
 
 - **[Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Attend](items/seedworld/2026/03/https_www.seedworld.com_p_123773.md)**
   - 2026-03-20 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123773.md) · [원문](https://www.seedworld.com/canada/2026/03/19/why-the-2026-napb-annual-meeting-at-texas-am-is-a-must-attend/)
@@ -172,48 +184,13 @@ title: "식물 육종 뉴스"
   - 2026-03-16 · `seedworld` · [읽기](items/seedworld/2026/03/https_www.seedworld.com_p_123305.md) · [원문](https://www.seedworld.com/latam/2026/03/16/embrapa-presenta-nuevos-cultivares-de-frijol-enfocados-en-la-productividad-la-reduccion-de-riesgos-y-la-calidad-del-mercado/)
   - Embrapa Arroz e Feijão lanzó a inicios de 2026 cuatro nuevos cultivares de frijol para aumentar productividad, reducir riesgos agronómicos y mejorar la calidad comercial.
 
-- **[농촌진흥청, ‘데이터 기반 맞춤형 건강 식단 활성화’ 현장 소통 강화](items/nics/2026/03/944041.md)**
-  - 2026-03-16 · `nics` · [읽기](items/nics/2026/03/944041.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944041)
-
-- **[농촌진흥청 개발 가공용 찰벼 ‘미르찰’, 소비 확대로 재배면적 급증](items/nics/2026/03/944040.md)**
-  - 2026-03-16 · `nics` · [읽기](items/nics/2026/03/944040.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944040)
-
-- **[농촌진흥청 개발 ‘킬레이트제 활용 기술’ 농가 호응 잇달아](items/rda/2026/03/100000808211.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808211.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808211&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 미래 농업 연구인재 찾기 대학 순회 설명회](items/rda/2026/03/100000808210.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808210.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808210&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘온도 관리로 망고 출하 시기 분산’ 표준 재배 기술 개발](items/rda/2026/03/100000808209.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808209.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808209&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“꿀벌 보호와 생태계 보전” 다부처 협력 체계 강화](items/rda/2026/03/100000808208.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808208.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808208&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 3월 한 달간 공무직 노동자 소통·공감 교육 진행](items/rda/2026/03/100000808207.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808207.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808207&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[국립원예특작과학원-전북개발공사, 재생에너지 직접 전력거래계약 체결](items/rda/2026/03/100000808206.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808206.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808206&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, ‘데이터 기반 맞춤형 건강 식단 활성화’ 현장 소통 강화](items/rda/2026/03/100000808205.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808205.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808205&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, ‘온실 무인 농작업 로봇 보급 확대’ 현장 점검](items/rda/2026/03/100000808204.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808204.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808204&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청-미주개발은행(IDB) 협력, 중남미‧카리브지역 농업 발전 가속화](items/rda/2026/03/100000808202.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808202.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808202&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청 개발 가공용 찰벼 ‘미르찰’, 소비 확대로 재배면적 급증](items/rda/2026/03/100000808200.md)**
-  - 2026-03-14 · `rda` · [읽기](items/rda/2026/03/100000808200.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808200&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
 
 <a id="weekly-archive"></a>
 ## 지난 주간 아카이브
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-03-23](weekly/2026-03-23.md)
 - [2026-03-20](weekly/2026-03-20.md)
 - [2026-03-18](weekly/2026-03-18.md)
 - [2026-03-16](weekly/2026-03-16.md)

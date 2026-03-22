@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/03/18/on-the-brink-epis
 summary: "How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post On the Brink Episode 2: Canadian Conditions Need Made-for-Canada Solutions appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-03-20T06:46:24+09:00"
+fetched_at: "2026-03-23T06:41:32+09:00"
 ---
 # On the Brink Episode 2: Canadian Conditions Need Made-for-Canada Solutions
 

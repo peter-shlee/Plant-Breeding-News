@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/09/take-3-asta-vegetable-and-flower/"
 summary: "Seed World launches a new video series called Take 3, where editors share three takeaways from major seed industry events. In the first episode, Aimee Nielson and Aiden Brook reflect on insights from the ASTA Vegetable and Flower"
 attachments: []
 tags: []
-fetched_at: "2026-03-20T06:46:24+09:00"
+fetched_at: "2026-03-23T06:41:32+09:00"
 ---
 # Take 3: ASTA Vegetable and Flower Seed Conference
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/19/why-the-vua-matters-for-farmer
 summary: "Seeds Canada’s Lauren Comin explains how agreements like the VUA help sustain plant breeding while adding one more step for growers The post Why the VUA Matters for Farmers — and the Future of Seed Innovation appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-03-20T06:46:24+09:00"
+fetched_at: "2026-03-23T06:41:32+09:00"
 ---
 # Why the VUA Matters for Farmers — and the Future of Seed Innovation
 
