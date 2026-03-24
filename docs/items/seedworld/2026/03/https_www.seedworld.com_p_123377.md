@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/09/aafcs-science-footprint-is-cha
 summary: "Site closures and program consolidation are part of a strategic effort to preserve breeding and germplasm enhancement, says Assistant Deputy Minister Arran McPherson The post AAFC’s Science Footprint is Changing — its Commitment to"
 attachments: []
 tags: []
-fetched_at: "2026-03-23T06:41:32+09:00"
+fetched_at: "2026-03-25T06:47:21+09:00"
 ---
 # AAFC’s Science Footprint is Changing — its Commitment to Innovation is Not
 

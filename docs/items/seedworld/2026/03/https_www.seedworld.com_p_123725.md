@@ -5,14 +5,14 @@ org: "Seed World"
 site_id: "https://www.seedworld.com/?p=123725"
 published_at: "2026-03-18T22:51:29+09:00"
 url: "https://www.seedworld.com/canada/on-the-brink/2026/03/18/on-the-brink-episode-2-canadian-conditions-need-made-for-canada-solutions/"
-summary: "How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post On the Brink Episode 2: Canadian Conditions Need Made-for-Canada Solutions appeared first on Seed"
+summary: "How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post Episode 2: Canadian Conditions Need Made-for-Canada Solutions appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-03-23T06:41:32+09:00"
+fetched_at: "2026-03-25T06:47:21+09:00"
 ---
-# On the Brink Episode 2: Canadian Conditions Need Made-for-Canada Solutions
+# Episode 2: Canadian Conditions Need Made-for-Canada Solutions
 
-How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post On the Brink Episode 2: Canadian Conditions Need Made-for-Canada Solutions appeared first on Seed World .
+How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post Episode 2: Canadian Conditions Need Made-for-Canada Solutions appeared first on Seed World .
 
 ## Original
 

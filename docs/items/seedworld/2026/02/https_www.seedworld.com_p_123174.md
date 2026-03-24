@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/02/24/three-travel-hacks-to-keep-you-foc
 summary: "Winter is conference and travel season—when seed industry leaders plan and contract for the critical summer selling window. Every meeting can grow your business, improve margins, and build partnerships, so staying sharp matters."
 attachments: []
 tags: []
-fetched_at: "2026-03-23T06:41:33+09:00"
+fetched_at: "2026-03-25T06:47:21+09:00"
 ---
 # Three Travel Hacks to Keep You Focused During Work Travel
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/02/24/from-kernel-to-code-apply-to-t
 summary: "Euroseeds is launching the InnovAction Stage 2026—calling visionary start-ups and public–private partnerships to showcase game-changing seed sector innovations. Under “From Kernel to Code,” applicants can submit solutions in seed treatment,"
 attachments: []
 tags: []
-fetched_at: "2026-03-23T06:41:33+09:00"
+fetched_at: "2026-03-25T06:47:21+09:00"
 ---
 # From Kernel to Code: Apply to the InnovAction Stage 2026
 

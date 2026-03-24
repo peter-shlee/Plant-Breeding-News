@@ -11,6 +11,42 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[Ag Day Begins With Seed](../../items/seedworld/2026/03/https_www.seedworld.com_p_123930.md)**
+  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123930.md) · [원문](https://www.seedworld.com/us/2026/03/24/ag-day-begins-with-seed/)
+  - Seed industry leaders share why everything starts with seed for National Ag Day, highlighting innovation, supply chains and the role seed plays in food, fuel and fiber systems.
+
+- **[Peru’s New Gene-Editing Guidelines Could Boost Crop Innovation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123697.md)**
+  - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123697.md) · [원문](https://www.seedworld.com/latam/2026/03/24/perus-new-gene-editing-guidelines-could-boost-crop-innovation/)
+  - Peru’s new gene-editing guidelines create a clearer regulatory path for crops developed with tools like CRISPR. The measure helps determine whether gene-edited organisms qualify as modified living or…
+
+- **[Legacy Project to Support National Food Bank ahead of World Seed Congress 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123907.md)**
+  - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123907.md) · [원문](https://www.seedworld.com/europe/2026/03/24/legacy-project-to-support-national-food-bank-ahead-of-world-seed-congress-2026/)
+  - Ahead of the World Seed Congress 2026 in Lisbon, the new Legacy Project aims to create lasting local impact by uniting the seed sector, students and civil society to grow crops for donation to Portug…
+
+- **[Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact of Hormuz Crisis](../../items/seedworld/2026/03/https_www.seedworld.com_p_123898.md)**
+  - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123898.md) · [원문](https://www.seedworld.com/canada/2026/03/23/diesel-jumps-margins-shrink-canadian-seed-growers-feel-impact-of-hormuz-crisis/)
+  - A global oil chokepoint disruption is rippling into Prairie farms, raising input costs and adding uncertainty ahead of seeding The post Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact…
+
+- **[Industry Leaders Back NAPB Borlaug Scholars — Now New Sponsors Are Invited for 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123825.md)**
+  - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123825.md) · [원문](https://www.seedworld.com/canada/2026/03/23/industry-leaders-back-napb-borlaug-scholars-now-new-sponsors-are-invited-for-2026/)
+  - Supported by organizations like Bayer, the program connects top students with industry mentors — and is expanding opportunities for new partners. The National Association for Plant Breeding (NAPB) Bo…
+
+- **[Study Finds Crops Store Wastewater Drugs Mainly in Leaves](../../items/seedworld/2026/03/https_www.seedworld.com_p_123597.md)**
+  - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123597.md) · [원문](https://www.seedworld.com/europe/2026/03/23/study-finds-crops-store-wastewater-drugs-mainly-in-leaves/)
+  - A Johns Hopkins study found that crops irrigated with treated wastewater, including tomatoes, carrots, and lettuce, tend to accumulate psychoactive pharmaceutical residues mainly in their leaves.
+
+- **[Nuevas directrices de edición genética en Perú podrían impulsar la innovación agrícola](../../items/seedworld/2026/03/https_www.seedworld.com_p_123694.md)**
+  - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123694.md) · [원문](https://www.seedworld.com/latam/2026/03/23/nuevas-directrices-de-edicion-genetica-en-peru-podrian-impulsar-la-innovacion-agricola/)
+  - Las nuevas directrices de edición genética en Perú crean una ruta regulatoria más clara para cultivos desarrollados con herramientas como CRISPR. La medida permite definir si los organismos editados…
+
+- **[Time for Change — PRM and The Wider Context](../../items/seedworld/2026/03/https_www.seedworld.com_p_123762.md)**
+  - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123762.md) · [원문](https://www.seedworld.com/europe/2026/03/23/time-for-change-prm-and-the-wider-context/)
+  - The EU is advancing a new Plant Reproductive Material (PRM) regulation to modernize seed laws, improve traceability, and support biodiversity and food security. Trilogue discussions highlight divisio…
+
+- **[Seeds Don’t Just Grow in Sunlight Anymore](../../items/seedworld/2026/03/https_www.seedworld.com_p_123870.md)**
+  - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123870.md) · [원문](https://www.seedworld.com/us/2026/03/23/seeds-dont-just-grow-in-sunlight-anymore/)
+  - Agrovoltaics is introducing a new growing environment where crops are produced under solar panels, shifting how light, water and stress interact and raising new questions for yield performance, profi…
+
 - **[Embrapa’s New Sorghum Hybrid Targets Silage, Biogas, and Energy Production](../../items/seedworld/2026/03/https_www.seedworld.com_p_123320.md)**
   - 2026-03-21 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123320.md) · [원문](https://www.seedworld.com/latam/2026/03/21/embrapas-new-sorghum-hybrid-targets-silage-biogas-and-energy-production/)
   - Embrapa and Latina Seeds launched the giant forage sorghum hybrid BRS 662 (LAS6002F), designed for silage, biogas, and energy production. The early-cycle cultivar can yield over 80 tons per hectare w…
@@ -24,7 +60,7 @@ source: "seedworld"
   - Banana Xanthomonas Wilt (BXW) is devastating banana crops across Africa, threatening food security for over 70 million people. With no cure and limited breeding options, scientists are turning to bio…
 
 - **[Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Attend](../../items/seedworld/2026/03/https_www.seedworld.com_p_123773.md)**
-  - 2026-03-20 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123773.md) · [원문](https://www.seedworld.com/canada/2026/03/19/why-the-2026-napb-annual-meeting-at-texas-am-is-a-must-attend/)
+  - 2026-03-20 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123773.md) · [원문](https://www.seedworld.com/us/2026/03/19/why-the-2026-napb-annual-meeting-at-texas-am-is-a-must-attend/)
   - Attendees in College Station will explore AI-driven phenotyping, high-throughput data systems, and cutting-edge breeding programs The post Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Atte…
 
 - **[Argentina’s RECSO Sets the Standard for Unified Regional Soybean Trials in 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123314.md)**
@@ -47,9 +83,9 @@ source: "seedworld"
   - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123740.md) · [원문](https://www.seedworld.com/us/2026/03/18/corns-margin-crisis-deepens-as-fertilizer-shock-collides-with-planting-season/)
   - U.S. corn growers face rising fertilizer costs and tighter margins as global disruptions tied to the Strait of Hormuz add pressure during planting season, shaping decisions on inputs, yield and seed…
 
-- **[On the Brink Episode 2: Canadian Conditions Need Made-for-Canada Solutions](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md)**
+- **[Episode 2: Canadian Conditions Need Made-for-Canada Solutions](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md)**
   - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/18/on-the-brink-episode-2-canadian-conditions-need-made-for-canada-solutions/)
-  - How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post On the Brink Episode 2: Canadian Conditions Need Made-for-Cana…
+  - How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post Episode 2: Canadian Conditions Need Made-for-Canada Solutions…
 
 - **[La RECSO de Argentina establece el estándar para ensayos regionales unificados de soja en 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123311.md)**
   - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123311.md) · [원문](https://www.seedworld.com/latam/2026/03/18/la-recso-de-argentina-establece-el-estandar-para-ensayos-regionales-unificados-de-soja-en-2026/)
@@ -111,9 +147,9 @@ source: "seedworld"
   - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123442.md) · [원문](https://www.seedworld.com/canada/2026/03/11/sgs-canada-crop-science-now-authorized-for-bayer-corn-trait-testing-in-canada/)
   - New Canadian-based corn trait testing includes herbicide bioassays and ELISA trait testing, helping seed corn companies avoid cross-border delays and improve turnaround time.
 
-- **[Canada is On the Brink. Let’s Talk About It](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
+- **[Episode 1: Canada is On the Brink. Let’s Talk About It](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
   - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/11/canada-is-on-the-brink-lets-talk-about-it/)
-  - Explore Seed World’s cross-Canada journey into the future of plant breeding, crop innovation, and the decisions shaping Canadian agriculture. The post Canada is On the Brink.
+  - Explore Seed World’s cross-Canada journey into the future of plant breeding, crop innovation, and the decisions shaping Canadian agriculture. The post Episode 1: Canada is On the Brink.
 
 - **[Científicos Brasileños desarrollan una plataforma de IA para predecir la roya asiática de la soja](../../items/seedworld/2026/03/https_www.seedworld.com_p_123299.md)**
   - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123299.md) · [원문](https://www.seedworld.com/latam/2026/03/11/cientificos-brasilenos-desarrollan-una-plataforma-de-ia-para-predecir-la-roya-asiatica-de-la-soja/)
@@ -126,6 +162,10 @@ source: "seedworld"
 - **[Svalbard Global Seed Vault Nominated for Nobel Peace Prize](../../items/seedworld/2026/03/https_www.seedworld.com_p_123419.md)**
   - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123419.md) · [원문](https://www.seedworld.com/europe/2026/03/11/svalbard-global-s/)
   - Geir Pollestad, Norwegian MP and former agriculture minister, has nominated the Svalbard Global Seed Vault for the Nobel Peace Prize, together with NordGen, FAO, Crop Trust, and CGIAR.
+
+- **[Why the “Magic Microbe” Mindset May be Holding Biologicals Back](../../items/seedworld/2026/03/https_www.seedworld.com_p_123414.md)**
+  - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123414.md) · [원문](https://www.seedworld.com/us/2026/03/10/why-the-magic-microbe-mindset-may-be-holding-biologicals-back/)
+  - Biologicals are booming in agriculture. Investment is pouring into the sector and hundreds of companies are developing microbial products designed to improve crop performance, protect plants and supp…
 
 - **[Advances in Genome Biology & Technology Agriculture Conference Discounted for Seed World Friends](../../items/seedworld/2026/03/https_www.seedworld.com_p_123406.md)**
   - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123406.md) · [원문](https://www.seedworld.com/us/2026/03/10/genome-biology-technology-agriculture-conference-discounted-for-seed-world-friends/)
@@ -349,7 +389,3 @@ source: "seedworld"
 - **[Large-Scale DNA Variants Drive Cucumber History, Study Finds](../../items/seedworld/2026/02/https_www.seedworld.com_p_123145.md)**
   - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123145.md) · [원문](https://www.seedworld.com/europe/2026/02/23/large-scale-dna-variants-drive-cucumber-history-study-finds/)
   - A new Nature Genetics study led by Boyce Thompson Institute’s Zhangjun Fei reveals that large DNA “structural variants” play a major role in cucumber evolution and breeding.
-
-- **[Brazil at the Forefront of AI-Driven Soybean Yield Prediction](../../items/seedworld/2026/02/https_www.seedworld.com_p_123018.md)**
-  - 2026-02-21 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123018.md) · [원문](https://www.seedworld.com/latam/2026/02/21/brazil-at-the-forefront-of-ai-driven-soybean-yield-prediction/)
-  - Brazil leads AI-driven soybean yield prediction by applying transfer learning. Researchers adapted a U.S.-trained model to Brazilian conditions using limited state or municipal data, improving cross-…
