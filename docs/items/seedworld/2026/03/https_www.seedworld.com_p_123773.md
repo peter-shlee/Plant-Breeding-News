@@ -9,7 +9,7 @@ summary: "Attendees in College Station will explore AI-driven phenotyping, high-
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-03-25T06:47:21+09:00"
+fetched_at: "2026-03-27T06:45:30+09:00"
 ---
 # Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Attend
 

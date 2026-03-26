@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/02/25/seed-regulatory-modernization-
 summary: "Momentum builds for Canada’s seed regulations overhaul as the CFIA releases its SRM What We Heard Report. Now comes the hard part The post Seed Regulatory Modernization: Where Industry Aligns — and Where it Pushes Back appeared first on"
 attachments: []
 tags: []
-fetched_at: "2026-03-25T06:47:21+09:00"
+fetched_at: "2026-03-27T06:45:31+09:00"
 ---
 # Seed Regulatory Modernization: Where Industry Aligns — and Where it Pushes Back
 

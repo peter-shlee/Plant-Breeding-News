@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/17/embrapa-introduces-new-bean-cul
 summary: "Embrapa Arroz e Feijão, based in Santo Antônio de Goiás (GO), has introduced a new group of bean cultivars designed to address practical demands across the production chain — from […] The post Embrapa Introduces New Bean Cultivars Focused"
 attachments: []
 tags: []
-fetched_at: "2026-03-25T06:47:21+09:00"
+fetched_at: "2026-03-27T06:45:30+09:00"
 ---
 # Embrapa Introduces New Bean Cultivars Focused on Productivity, Risk Reduction, and Market Quality
 

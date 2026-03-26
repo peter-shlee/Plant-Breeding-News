@@ -11,6 +11,46 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[This Week in Seed: A Global Crisis, Rising Costs — and a Bigger Question No One Can Ignore](../../items/seedworld/2026/03/https_www.seedworld.com_p_124044.md)**
+  - 2026-03-27 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124044.md) · [원문](https://www.seedworld.com/canada/2026/03/26/this-week-in-seed-a-global-crisis-rising-costs-and-a-bigger-question-no-one-can-ignore/)
+  - As growers face rising costs, initiatives like the Borlaug Scholars program signal how investment in people and innovation will define the next chapter of seed The post This Week in Seed: A Global Cr…
+
+- **[Plant Pathology, Farmers and 40 Years in Ag: Dr. Kelly Turkington’s Story](../../items/seedworld/2026/03/https_www.seedworld.com_p_124001.md)**
+  - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124001.md) · [원문](https://www.seedworld.com/canada/2026/03/26/plant-pathology-farmers-and-40-years-in-ag-dr-kelly-turkingtons-story/)
+  - As he retires at the end of the month, a leading Canadian plant pathologist shares insights on legacy, mentorship and the real-world impact of crop disease science. Dr.
+
+- **[Argentina Revises GMO Regulations to Boost Innovation in Agriculture](../../items/seedworld/2026/03/https_www.seedworld.com_p_123703.md)**
+  - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123703.md) · [원문](https://www.seedworld.com/latam/2026/03/26/argentina-revises-gmo-regulations-to-boost-innovation-in-agriculture/)
+  - Argentina’s revised GMO regulations aim to accelerate agricultural innovation by simplifying approval processes for experimental and commercial biotech products. Resolution 255/2026 updates technical…
+
+- **[How AI Accelerates the Crop Breeding Cycle](../../items/seedworld/2026/03/https_www.seedworld.com_p_124000.md)**
+  - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124000.md) · [원문](https://www.seedworld.com/us/2026/03/25/how-ai-accelerates-the-crop-breeding-cycle/)
+  - AI-powered imaging and high-throughput phenotyping are changing how crop breeders collect and analyze field data. From drones and robots to massive image datasets, new tools are helping breeders eval…
+
+- **[Episode 3: Why Invest in Canada’s Seed Future?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123936.md)**
+  - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123936.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/25/episode-3-why-invest-in-canadas-seed-future/)
+  - Unger Seed Farm's major new build is more than a construction project. Darcy Unger explains why investment in Canadian plant breeding isn't just a farm decision — it's an industry one.
+
+- **[Argentina revisa la normativa sobre OMG para impulsar la innovación en la agricultura](../../items/seedworld/2026/03/https_www.seedworld.com_p_123700.md)**
+  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123700.md) · [원문](https://www.seedworld.com/latam/2026/03/25/argentina-revisa-la-normativa-sobre-omg-para-impulsar-la-innovacion-en-la-agricultura/)
+  - La actualización de las regulaciones sobre OGM en Argentina busca acelerar la innovación agrícola al simplificar los procesos de aprobación para productos biotecnológicos experimentales y comerciales.
+
+- **[If the Seeding Rate Was Right, Why Is the Stand Thin?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123943.md)**
+  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123943.md) · [원문](https://www.seedworld.com/us/2026/03/25/if-the-seeding-rate-was-right-why-is-the-stand-thin/)
+  - Thin forage stands are often caused not by seeding math, but by biological realities after planting. Seed mortality from poor moisture, weak seed-to-soil contact, timing, and movement can range from…
+
+- **[Scientists Discover a New Plant Immune Complex in Wheat](../../items/seedworld/2026/03/https_www.seedworld.com_p_123913.md)**
+  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123913.md) · [원문](https://www.seedworld.com/europe/2026/03/25/scientists-discover-a-new-plant-immune-complex-in-wheat/)
+  - Researchers discovered a new plant immune defense in wheat, where the WAI3 protein forms an eight-part resistosome that triggers calcium flow and activates disease resistance.
+
+- **[For The Love of Carbs](../../items/seedworld/2026/03/https_www.seedworld.com_p_123767.md)**
+  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123767.md) · [원문](https://www.seedworld.com/europe/2026/03/25/for-the-love-of-carbs/)
+  - Carbohydrates are diverse compounds central to energy, industry, and biology, from sugars and starches to cellulose and DNA components. This overview highlights their chemical complexity, everyday ap…
+
+- **[UK Food System Under Pressure as Report Urges Shift to Sustainable Farming](../../items/seedworld/2026/03/https_www.seedworld.com_p_123919.md)**
+  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123919.md) · [원문](https://www.seedworld.com/europe/2026/03/24/uk-food-system-under-pressure-as-report-urges-shift-to-sustainable-farming/)
+  - A new Demos report, backed by McCain Foods, says sustainable farming could strengthen the UK food system, raise farm profits, cut fertiliser imports and unlock billions in economic value by 2035.
+
 - **[Ag Day Begins With Seed](../../items/seedworld/2026/03/https_www.seedworld.com_p_123930.md)**
   - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123930.md) · [원문](https://www.seedworld.com/us/2026/03/24/ag-day-begins-with-seed/)
   - Seed industry leaders share why everything starts with seed for National Ag Day, highlighting innovation, supply chains and the role seed plays in food, fuel and fiber systems.
@@ -25,7 +65,7 @@ source: "seedworld"
 
 - **[Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact of Hormuz Crisis](../../items/seedworld/2026/03/https_www.seedworld.com_p_123898.md)**
   - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123898.md) · [원문](https://www.seedworld.com/canada/2026/03/23/diesel-jumps-margins-shrink-canadian-seed-growers-feel-impact-of-hormuz-crisis/)
-  - A global oil chokepoint disruption is rippling into Prairie farms, raising input costs and adding uncertainty ahead of seeding The post Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact…
+  - Canadian seed growers are absorbing rising diesel and fertilizer costs after Strait of Hormuz tensions triggered an energy price spike. With margins already thin heading into the 2026 growing season,…
 
 - **[Industry Leaders Back NAPB Borlaug Scholars — Now New Sponsors Are Invited for 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123825.md)**
   - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123825.md) · [원문](https://www.seedworld.com/canada/2026/03/23/industry-leaders-back-napb-borlaug-scholars-now-new-sponsors-are-invited-for-2026/)
@@ -85,7 +125,7 @@ source: "seedworld"
 
 - **[Episode 2: Canadian Conditions Need Made-for-Canada Solutions](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md)**
   - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/18/on-the-brink-episode-2-canadian-conditions-need-made-for-canada-solutions/)
-  - How will decisions made today shape what agriculture looks like into the future? That’s what Episode 2 of On the Brink explores The post Episode 2: Canadian Conditions Need Made-for-Canada Solutions…
+  - Canadian conditions demand Canadian plant breeding solutions. In Episode 2 of On the Brink, Crop Development Centre director Curtis Pozniak explains what's at stake when investment in homegrown crop…
 
 - **[La RECSO de Argentina establece el estándar para ensayos regionales unificados de soja en 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123311.md)**
   - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123311.md) · [원문](https://www.seedworld.com/latam/2026/03/18/la-recso-de-argentina-establece-el-estandar-para-ensayos-regionales-unificados-de-soja-en-2026/)
@@ -149,7 +189,7 @@ source: "seedworld"
 
 - **[Episode 1: Canada is On the Brink. Let’s Talk About It](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
   - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/11/canada-is-on-the-brink-lets-talk-about-it/)
-  - Explore Seed World’s cross-Canada journey into the future of plant breeding, crop innovation, and the decisions shaping Canadian agriculture. The post Episode 1: Canada is On the Brink.
+  - Canadian plant breeding is at a crossroads. On the Brink is Seed World's new video series exploring the future of Canada's seed and crop innovation system.
 
 - **[Científicos Brasileños desarrollan una plataforma de IA para predecir la roya asiática de la soja](../../items/seedworld/2026/03/https_www.seedworld.com_p_123299.md)**
   - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123299.md) · [원문](https://www.seedworld.com/latam/2026/03/11/cientificos-brasilenos-desarrollan-una-plataforma-de-ia-para-predecir-la-roya-asiatica-de-la-soja/)
@@ -357,35 +397,3 @@ source: "seedworld"
 - **[Three Travel Hacks to Keep You Focused During Work Travel](../../items/seedworld/2026/02/https_www.seedworld.com_p_123174.md)**
   - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123174.md) · [원문](https://www.seedworld.com/us/2026/02/24/three-travel-hacks-to-keep-you-focused-during-work-travel/)
   - Winter is conference and travel season—when seed industry leaders plan and contract for the critical summer selling window. Every meeting can grow your business, improve margins, and build partnershi…
-
-- **[Study Warns of Rising Heat Risks for Global Wheat Yields](../../items/seedworld/2026/02/https_www.seedworld.com_p_123148.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123148.md) · [원문](https://www.seedworld.com/europe/2026/02/24/study-warns-of-rising-heat-risks-for-global-wheat-yields/)
-  - New research from Rothamsted Research suggests heatwaves during wheat flowering may soon pose a bigger threat to yields than drought. Using climate projections and the Sirius wheat model, researchers…
-
-- **[A Viral Shortcut? New Gene-Editing System Could Remove a Major Breeding Bottleneck](../../items/seedworld/2026/02/https_www.seedworld.com_p_123168.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123168.md) · [원문](https://www.seedworld.com/us/2026/02/24/a-viral-shortcut-new-gene-editing-system-could-remove-a-major-breeding-bottleneck/)
-  - New research in Nature Plants explores a viral gene-editing delivery system that produces heritable, transgene-free edits in plants, offering a potential path to faster breeding and reduced reliance…
-
-- **[From Kernel to Code: Apply to the InnovAction Stage 2026](../../items/seedworld/2026/02/https_www.seedworld.com_p_123161.md)**
-  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123161.md) · [원문](https://www.seedworld.com/europe/2026/02/24/from-kernel-to-code-apply-to-the-innovaction-stage-2026/)
-  - Euroseeds is launching the InnovAction Stage 2026—calling visionary start-ups and public–private partnerships to showcase game-changing seed sector innovations. Under “From Kernel to Code,” applicant…
-
-- **[Investigación chilena identifica un mecanismo molecular que impulsa la resiliencia de las plantas a la sequía](../../items/seedworld/2026/02/https_www.seedworld.com_p_123021.md)**
-  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123021.md) · [원문](https://www.seedworld.com/latam/2026/02/24/investigacion-chilena-identifica-un-mecanismo-molecular-que-impulsa-la-resiliencia-de-las-plantas-a-la-sequia/)
-  - Investigadores chilenos describen un “interruptor” molecular que ayuda a las plantas a equilibrar crecimiento y supervivencia ante sequía. Publicado en PNAS, el estudio identifica la proteína NLP7 co…
-
-- **[Boosting Soil Carbon Through Smarter Miscanthus Selection](../../items/seedworld/2026/02/https_www.seedworld.com_p_123154.md)**
-  - 2026-02-24 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123154.md) · [원문](https://www.seedworld.com/europe/2026/02/24/boosting-soil-carbon-through-smarter-miscanthus-selection/)
-  - Aberystwyth University researchers report new Miscanthus traits that could boost soil carbon storage, helping climate change mitigation. Published in Frontiers in Plant Science, the study analysed le…
-
-- **[Inside Doug Miller’s 15-Year Tenure at CSGA: SRM, Innovation and Digital Transformation](../../items/seedworld/2026/02/https_www.seedworld.com_p_123157.md)**
-  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123157.md) · [원문](https://www.seedworld.com/canada/2026/02/23/inside-doug-millers-15-year-tenure-at-csga-srm-innovation-and-digital-transformation/)
-  - From controversial digitization to regulatory reform, Miller’s 15-year tenure changed how Canada’s seed certification system operates The post Inside Doug Miller’s 15-Year Tenure at CSGA: SRM, Innova…
-
-- **[Motivation Isn’t Broken. Our Jobs Are.](../../items/seedworld/2026/02/https_www.seedworld.com_p_123111.md)**
-  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123111.md) · [원문](https://www.seedworld.com/us/2026/02/23/motivation-isnt-broken-our-jobs-are/)
-  - People aren't unmotivated. They feel like their work isn't moving the needle.
-
-- **[Large-Scale DNA Variants Drive Cucumber History, Study Finds](../../items/seedworld/2026/02/https_www.seedworld.com_p_123145.md)**
-  - 2026-02-23 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123145.md) · [원문](https://www.seedworld.com/europe/2026/02/23/large-scale-dna-variants-drive-cucumber-history-study-finds/)
-  - A new Nature Genetics study led by Boyce Thompson Institute’s Zhangjun Fei reveals that large DNA “structural variants” play a major role in cucumber evolution and breeding.

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/23/study-finds-crops-store-wastew
 summary: "A Johns Hopkins study found that crops irrigated with treated wastewater, including tomatoes, carrots, and lettuce, tend to accumulate psychoactive pharmaceutical residues mainly in their leaves."
 attachments: []
 tags: []
-fetched_at: "2026-03-25T06:47:21+09:00"
+fetched_at: "2026-03-27T06:45:30+09:00"
 ---
 # Study Finds Crops Store Wastewater Drugs Mainly in Leaves
 

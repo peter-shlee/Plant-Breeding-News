@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "콩"
   - "옥수수"
-fetched_at: "2026-03-25T06:47:21+09:00"
+fetched_at: "2026-03-27T06:45:30+09:00"
 ---
 # Active Collaboration Will Drive Biologicals Adoption
 

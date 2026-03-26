@@ -5,14 +5,14 @@ org: "Seed World"
 site_id: "https://www.seedworld.com/?p=123898"
 published_at: "2026-03-24T04:12:28+09:00"
 url: "https://www.seedworld.com/canada/2026/03/23/diesel-jumps-margins-shrink-canadian-seed-growers-feel-impact-of-hormuz-crisis/"
-summary: "A global oil chokepoint disruption is rippling into Prairie farms, raising input costs and adding uncertainty ahead of seeding The post Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact of Hormuz Crisis appeared first on Seed"
+summary: "Canadian seed growers are absorbing rising diesel and fertilizer costs after Strait of Hormuz tensions triggered an energy price spike. With margins already thin heading into the 2026 growing season, Prairie producers say they have limited"
 attachments: []
 tags: []
-fetched_at: "2026-03-25T06:47:21+09:00"
+fetched_at: "2026-03-27T06:45:30+09:00"
 ---
 # Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact of Hormuz Crisis
 
-A global oil chokepoint disruption is rippling into Prairie farms, raising input costs and adding uncertainty ahead of seeding The post Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact of Hormuz Crisis appeared first on Seed World .
+Canadian seed growers are absorbing rising diesel and fertilizer costs after Strait of Hormuz tensions triggered an energy price spike. With margins already thin heading into the 2026 growing season, Prairie producers say they have limited room to absorb the increase. The post Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact of Hormuz Crisis appeared first on Seed World .
 
 ## Original
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/11/cientificos-brasilenos-desarrol
 summary: "Científicos brasileños desarrollaron una plataforma en la nube con IA para predecir el riesgo de roya asiática de la soja, integrando datos climáticos, parámetros agronómicos e imágenes de hojas."
 attachments: []
 tags: []
-fetched_at: "2026-03-25T06:47:21+09:00"
+fetched_at: "2026-03-27T06:45:30+09:00"
 ---
 # Científicos Brasileños desarrollan una plataforma de IA para predecir la roya asiática de la soja
 
