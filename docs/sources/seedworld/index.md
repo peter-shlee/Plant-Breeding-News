@@ -11,6 +11,22 @@ source: "seedworld"
 
 ## 2026-03
 
+- **[New Embrapa Programs Aim to Cut Carbon Footprint of Corn and Sorghum](../../items/seedworld/2026/03/https_www.seedworld.com_p_123709.md)**
+  - 2026-03-28 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123709.md) · [원문](https://www.seedworld.com/latam/2026/03/28/new-embrapa-programs-aim-to-cut-carbon-footprint-of-corn-and-sorghum/)
+  - Embrapa’s new Low Carbon Corn and Low Carbon Sorghum programs aim to reduce the carbon footprint of grain production in Brazil through science-based certification protocols.
+
+- **[From Waste to Yield: Biochar Innovation Supports Crop Growth](../../items/seedworld/2026/03/https_www.seedworld.com_p_123916.md)**
+  - 2026-03-28 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123916.md) · [원문](https://www.seedworld.com/europe/2026/03/27/from-waste-to-yield-biochar-innovation-supports-crop-growth/)
+  - Researchers developed an engineered sewage sludge biochar paired with Bacillus velezensis that boosts cabbage growth by improving nitrogen uptake and soil microbial activity.
+
+- **[Nuevos programas de Embrapa buscan reducir la huella de carbono del maíz y el sorgo](../../items/seedworld/2026/03/https_www.seedworld.com_p_123706.md)**
+  - 2026-03-27 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123706.md) · [원문](https://www.seedworld.com/latam/2026/03/27/nuevos-programas-de-embrapa-buscan-reducir-la-huella-de-carbono-del-maiz-y-el-sorgo/)
+  - Los nuevos programas de Maíz Bajo en Carbono y Sorgo Bajo en Carbono de Embrapa buscan reducir la huella de carbono de la producción de granos en Brasil mediante protocolos de certificación basados e…
+
+- **[Climate-Ready Wheat Could Secure Future Pasta Production](../../items/seedworld/2026/03/https_www.seedworld.com_p_123910.md)**
+  - 2026-03-27 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123910.md) · [원문](https://www.seedworld.com/europe/2026/03/27/climate-ready-wheat-could-secure-future-pasta-production/)
+  - Researchers from Skoltech, CIMMYT, Italy’s Research Center for Cereal and Industrial Crops, and global partners developed new durum wheat lines with improved freezing tolerance and strong gluten qual…
+
 - **[This Week in Seed: A Global Crisis, Rising Costs — and a Bigger Question No One Can Ignore](../../items/seedworld/2026/03/https_www.seedworld.com_p_124044.md)**
   - 2026-03-27 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124044.md) · [원문](https://www.seedworld.com/canada/2026/03/26/this-week-in-seed-a-global-crisis-rising-costs-and-a-bigger-question-no-one-can-ignore/)
   - As growers face rising costs, initiatives like the Borlaug Scholars program signal how investment in people and innovation will define the next chapter of seed The post This Week in Seed: A Global Cr…
@@ -27,7 +43,7 @@ source: "seedworld"
   - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124000.md) · [원문](https://www.seedworld.com/us/2026/03/25/how-ai-accelerates-the-crop-breeding-cycle/)
   - AI-powered imaging and high-throughput phenotyping are changing how crop breeders collect and analyze field data. From drones and robots to massive image datasets, new tools are helping breeders eval…
 
-- **[Episode 3: Why Invest in Canada’s Seed Future?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123936.md)**
+- **[On the Brink Episode 3: Why Invest in Canada’s Seed Future?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123936.md)**
   - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123936.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/25/episode-3-why-invest-in-canadas-seed-future/)
   - Unger Seed Farm's major new build is more than a construction project. Darcy Unger explains why investment in Canadian plant breeding isn't just a farm decision — it's an industry one.
 
@@ -123,7 +139,7 @@ source: "seedworld"
   - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123740.md) · [원문](https://www.seedworld.com/us/2026/03/18/corns-margin-crisis-deepens-as-fertilizer-shock-collides-with-planting-season/)
   - U.S. corn growers face rising fertilizer costs and tighter margins as global disruptions tied to the Strait of Hormuz add pressure during planting season, shaping decisions on inputs, yield and seed…
 
-- **[Episode 2: Canadian Conditions Need Made-for-Canada Solutions](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md)**
+- **[On the Brink Episode 2: Canadian Conditions Need Made-for-Canada Solutions](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md)**
   - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/18/on-the-brink-episode-2-canadian-conditions-need-made-for-canada-solutions/)
   - Canadian conditions demand Canadian plant breeding solutions. In Episode 2 of On the Brink, Crop Development Centre director Curtis Pozniak explains what's at stake when investment in homegrown crop…
 
@@ -187,7 +203,7 @@ source: "seedworld"
   - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123442.md) · [원문](https://www.seedworld.com/canada/2026/03/11/sgs-canada-crop-science-now-authorized-for-bayer-corn-trait-testing-in-canada/)
   - New Canadian-based corn trait testing includes herbicide bioassays and ELISA trait testing, helping seed corn companies avoid cross-border delays and improve turnaround time.
 
-- **[Episode 1: Canada is On the Brink. Let’s Talk About It](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
+- **[On the Brink Episode 1: Canada is On the Brink. Let’s Talk About It](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
   - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/11/canada-is-on-the-brink-lets-talk-about-it/)
   - Canadian plant breeding is at a crossroads. On the Brink is Seed World's new video series exploring the future of Canada's seed and crop innovation system.
 
@@ -357,43 +373,3 @@ source: "seedworld"
 - **[New Review Advances Precision Gene Insertion in Corn](../../items/seedworld/2026/02/https_www.seedworld.com_p_123032.md)**
   - 2026-02-28 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123032.md) · [원문](https://www.seedworld.com/latam/2026/02/28/new-review-advances-precision-gene-insertion-in-corn/)
   - A new review highlights advances in precision gene insertion in corn, focusing on site-specific transgene integration and genomic “safe harbors.” Led by GCCRC researchers, the study explains how next…
-
-- **[Nueva revisión avanza en la inserción precisa de genes en maíz](../../items/seedworld/2026/02/https_www.seedworld.com_p_123027.md)**
-  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123027.md) · [원문](https://www.seedworld.com/latam/2026/02/27/nueva-revision-avanza-en-la-insercion-precisa-de-genes-en-maiz/)
-  - Una nueva revisión destaca avances en la inserción precisa de genes en maíz, centrada en la integración específica y los “sitios seguros” genómicos. Liderado por investigadores del GCCRC, el estudio…
-
-- **[Early Release of EuroBlight Blight Monitoring Results for the 2025 Potato Crop](../../items/seedworld/2026/02/https_www.seedworld.com_p_123151.md)**
-  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123151.md) · [원문](https://www.seedworld.com/europe/2026/02/26/early-release-of-euroblight-blight-monitoring-results-for-the-2025-potato-crop/)
-  - EuroBlight’s first 2025 potato season results show Europe’s late blight population remains dominated by the aggressive EU36 genotype, while EU43 and EU46 strains continue shifting regionally.
-
-- **[LETTER TO THE EDITOR: Fiscal Discipline Should Target AAFC Overhead — Not High-Return Research](../../items/seedworld/2026/02/https_www.seedworld.com_p_123209.md)**
-  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123209.md) · [원문](https://www.seedworld.com/canada/2026/02/26/letter-to-the-editor-fiscal-discipline-should-target-aafc-overhead-not-high-return-research/)
-  - Two wheat breeding legends say cutting front-line science that delivers some of the highest returns of any public investment is short-term thinking. The post LETTER TO THE EDITOR: Fiscal Discipline S…
-
-- **[Federal Budget Cuts Put Canada’s Wheat Breeding System at Risk, New Report Warns](../../items/seedworld/2026/02/https_www.seedworld.com_p_123205.md)**
-  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123205.md) · [원문](https://www.seedworld.com/canada/2026/02/26/federal-budget-cuts-put-canadas-wheat-breeding-system-at-risk-new-report-warns/)
-  - A new report released today by the Canadian Wheat Research Coalition warns that Canada’s wheat breeding innovation system is facing “critical gaps and risks” The post Federal Budget Cuts Put Canada’s…
-
-- **[Plant Hormone Therapy Could Help Crops Fight Disease Without Sacrificing Yield](../../items/seedworld/2026/02/https_www.seedworld.com_p_123196.md)**
-  - 2026-02-27 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123196.md) · [원문](https://www.seedworld.com/us/2026/02/26/plant-hormone-therapy-could-help-crops-fight-disease-without-sacrificing-yield/)
-  - Colorado State University research shows plant hormone therapy can maintain growth while crops defend against disease, offering potential gains in wheat corn and soybean yield with reduced reliance o…
-
-- **[Genebanks from Africa, Asia and Europe Safeguard Crops in Svalbard](../../items/seedworld/2026/02/https_www.seedworld.com_p_123193.md)**
-  - 2026-02-26 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123193.md) · [원문](https://www.seedworld.com/europe/2026/02/26/genebanks-from-africa-asia-and-europe-safeguard-crops-in-svalbard/)
-  - The Svalbard Global Seed Vault marked its first 2026 deposit, securing 7,864 seed samples from 10 genebanks across Africa, Asia, Europe and the Americas. First-time contributions came from Guatemala…
-
-- **[Seed Regulatory Modernization: Where Industry Aligns — and Where it Pushes Back](../../items/seedworld/2026/02/https_www.seedworld.com_p_123190.md)**
-  - 2026-02-26 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123190.md) · [원문](https://www.seedworld.com/canada/2026/02/25/seed-regulatory-modernization-where-industry-aligns-and-where-it-pushes-back/)
-  - Momentum builds for Canada’s seed regulations overhaul as the CFIA releases its SRM What We Heard Report. Now comes the hard part The post Seed Regulatory Modernization: Where Industry Aligns — and W…
-
-- **[Chilean Research Identifies Molecular “Switch” Behind Plant Drought Resilience](../../items/seedworld/2026/02/https_www.seedworld.com_p_123024.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123024.md) · [원문](https://www.seedworld.com/latam/2026/02/25/chilean-research-identifies-molecular-switch-behind-plant-drought-resilience/)
-  - Chilean researchers report a molecular “switch” that helps plants balance growth and drought survival. Published in PNAS, the study identifies the protein NLP7 as a key regulator: it activates growth…
-
-- **[Dirty Ships, Lifted Embargoes and the Hidden Power of Grain](../../items/seedworld/2026/02/https_www.seedworld.com_p_123178.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123178.md) · [원문](https://www.seedworld.com/europe/2026/02/25/dirty-ships-lifted-embargoes-and-the-hidden-power-of-grain/)
-  - This article examines how climate-driven famine and uninspected grain trade helped spread the Black Death, drawing parallels to today’s risks from illegal and counterfeit seeds.
-
-- **[Three Travel Hacks to Keep You Focused During Work Travel](../../items/seedworld/2026/02/https_www.seedworld.com_p_123174.md)**
-  - 2026-02-25 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123174.md) · [원문](https://www.seedworld.com/us/2026/02/24/three-travel-hacks-to-keep-you-focused-during-work-travel/)
-  - Winter is conference and travel season—when seed industry leaders plan and contract for the critical summer selling window. Every meeting can grow your business, improve margins, and build partnershi…

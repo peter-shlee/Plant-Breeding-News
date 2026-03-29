@@ -11,6 +11,24 @@ source: "nics"
 
 ## 2026-03
 
+- **[기후변화로 달라진 병해충 발생 ‘예측 고도화로 선제 대응’](../../items/nics/2026/03/944093.md)**
+  - 2026-03-27 · [읽기](../../items/nics/2026/03/944093.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944093)
+
+- **[농촌진흥청, ‘쌀밥 밥맛 평가’ 표준화 나선다](../../items/nics/2026/03/944092.md)**
+  - 2026-03-27 · [읽기](../../items/nics/2026/03/944092.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944092)
+
+- **[국립식량과학원-풀무원, 신품종 활용 국산 콩 산업 활성화 협력 강화](../../items/nics/2026/03/944090.md)**
+  - 2026-03-27 · [읽기](../../items/nics/2026/03/944090.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944090)
+
+- **[올해 볍씨는 꼭! 이렇게 소독·육묘 하세요](../../items/nics/2026/03/944087.md)**
+  - 2026-03-27 · [읽기](../../items/nics/2026/03/944087.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944087)
+
+- **[농촌진흥청, 군산 보리 생산·가공 현장 찾아 산업 활성화 방안 모색](../../items/nics/2026/03/944086.md)**
+  - 2026-03-27 · [읽기](../../items/nics/2026/03/944086.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944086)
+
+- **[청년농업인 농산물 고속도로 휴게소 판로 연계 ‘청년농, 협업·상생의 길을 잇다’ ...](../../items/nics/2026/03/944085.md)**
+  - 2026-03-27 · [읽기](../../items/nics/2026/03/944085.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944085)
+
 - **[농촌진흥청, 노지 월동작물 생육 점검…기술지원 방안 논의](../../items/nics/2026/03/944077.md)**
   - 2026-03-26 · [읽기](../../items/nics/2026/03/944077.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944077)
 
@@ -19,24 +37,3 @@ source: "nics"
 
 - **[제3회 2026 농식품 기능성분 분석기술 역량 강화 공동연수 열어](../../items/nics/2026/03/944075.md)**
   - 2026-03-26 · [읽기](../../items/nics/2026/03/944075.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944075)
-
-- **[고랭지배추 반쪽시들음병, 이렇게 하면 방제 효과 탁월!](../../items/nics/2026/03/944074.md)**
-  - 2026-03-26 · [읽기](../../items/nics/2026/03/944074.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944074)
-
-- **[농촌진흥청, 국산 가루쌀 고추장 생산 ‘민관협력’ 방안 모색](../../items/nics/2026/03/944073.md)**
-  - 2026-03-26 · [읽기](../../items/nics/2026/03/944073.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944073)
-
-- **[농촌진흥청, ‘데이터 기반 맞춤형 건강 식단 활성화’ 현장 소통 강화](../../items/nics/2026/03/944041.md)**
-  - 2026-03-16 · [읽기](../../items/nics/2026/03/944041.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944041)
-
-- **[농촌진흥청 개발 가공용 찰벼 ‘미르찰’, 소비 확대로 재배면적 급증](../../items/nics/2026/03/944040.md)**
-  - 2026-03-16 · [읽기](../../items/nics/2026/03/944040.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944040)
-
-- **[논 재배 확대 및 소비 촉진 논의 ‘중앙-지방 밭작물 협의회’ 개최](../../items/nics/2026/03/944028.md)**
-  - 2026-03-11 · [읽기](../../items/nics/2026/03/944028.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944028)
-
-- **[‘국립식량과학원-식량작물 현장전문가’ 경쟁력 강화 방안 논의](../../items/nics/2026/03/944023.md)**
-  - 2026-03-10 · [읽기](../../items/nics/2026/03/944023.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944023)
-
-- **[국내 양파, 혈관 건강·당뇨 예방 돕는 플라보노이드 성분 풍부](../../items/nics/2026/03/944022.md)**
-  - 2026-03-10 · [읽기](../../items/nics/2026/03/944022.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944022)

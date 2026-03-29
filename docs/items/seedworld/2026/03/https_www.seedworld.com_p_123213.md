@@ -9,7 +9,7 @@ summary: "Heads Up® helps soybean growers manage unpredictable disease pressure
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-03-27T06:45:31+09:00"
+fetched_at: "2026-03-30T06:45:42+09:00"
 ---
 # Gene Expression VS Soybean White Mold
 

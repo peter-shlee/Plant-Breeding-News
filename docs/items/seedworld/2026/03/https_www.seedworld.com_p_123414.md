@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/10/why-the-magic-microbe-mindset-may-
 summary: "Biologicals are booming in agriculture. Investment is pouring into the sector and hundreds of companies are developing microbial products designed to improve crop performance, protect plants and support soil health."
 attachments: []
 tags: []
-fetched_at: "2026-03-27T06:45:30+09:00"
+fetched_at: "2026-03-30T06:45:42+09:00"
 ---
 # Why the “Magic Microbe” Mindset May be Holding Biologicals Back
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/23/seeds-dont-just-grow-in-sunlight-a
 summary: "Agrovoltaics is introducing a new growing environment where crops are produced under solar panels, shifting how light, water and stress interact and raising new questions for yield performance, profitability and future seed breeding"
 attachments: []
 tags: []
-fetched_at: "2026-03-27T06:45:30+09:00"
+fetched_at: "2026-03-30T06:45:42+09:00"
 ---
 # Seeds Don’t Just Grow in Sunlight Anymore
 
