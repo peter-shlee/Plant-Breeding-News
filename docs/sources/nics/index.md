@@ -9,6 +9,15 @@ source: "nics"
 
 - [홈으로](../../index.md)
 
+## 2026-04
+
+- **[국산 콩 소비 확대 이끌 ‘국산 콩 연구개발-가공산업 협의체’ 출범](../../items/nics/2026/04/944097.md)**
+  - 2026-04-01 · [읽기](../../items/nics/2026/04/944097.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944097)
+
+- **[‘벼 키다리병’, ‘벼잎선충’ 예방, 종자 선별과 소독 필수](../../items/nics/2026/04/944096.md)**
+  - 2026-04-01 · [읽기](../../items/nics/2026/04/944096.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944096)
+
+
 ## 2026-03
 
 - **[기후변화로 달라진 병해충 발생 ‘예측 고도화로 선제 대응’](../../items/nics/2026/03/944093.md)**
@@ -31,9 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 노지 월동작물 생육 점검…기술지원 방안 논의](../../items/nics/2026/03/944077.md)**
   - 2026-03-26 · [읽기](../../items/nics/2026/03/944077.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944077)
-
-- **[고구마 안정 생산, ‘아주심기’ 전후 철저한 관리가 핵심](../../items/nics/2026/03/944076.md)**
-  - 2026-03-26 · [읽기](../../items/nics/2026/03/944076.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944076)
-
-- **[제3회 2026 농식품 기능성분 분석기술 역량 강화 공동연수 열어](../../items/nics/2026/03/944075.md)**
-  - 2026-03-26 · [읽기](../../items/nics/2026/03/944075.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944075)

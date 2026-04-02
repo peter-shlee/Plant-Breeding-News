@@ -9,7 +9,7 @@ summary: "Watch our discussion around AAFC cuts and farmer-funded research, whic
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-03-30T06:45:42+09:00"
+fetched_at: "2026-04-03T06:47:43+09:00"
 ---
 # Canada’s Wheat Breeding System Cannot Stay Status Quo, Leaders Warn in New Webinar
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/03/11/canada-is-on-the-
 summary: "Canadian plant breeding is at a crossroads. On the Brink is Seed World's new video series exploring the future of Canada's seed and crop innovation system."
 attachments: []
 tags: []
-fetched_at: "2026-03-30T06:45:42+09:00"
+fetched_at: "2026-04-03T06:47:43+09:00"
 ---
 # On the Brink Episode 1: Canada is On the Brink. Let’s Talk About It
 

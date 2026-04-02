@@ -9,7 +9,118 @@ source: "seedworld"
 
 - [홈으로](../../index.md)
 
+## 2026-04
+
+- **[Canada’s Seed Sector This Week: Pressure is Building, but so is Momentum](../../items/seedworld/2026/04/https_www.seedworld.com_p_124177.md)**
+  - 2026-04-03 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124177.md) · [원문](https://www.seedworld.com/canada/2026/04/02/canadas-seed-sector-this-week-pressure-is-building-but-so-is-momentum/)
+  - As funding concerns grow and research capacity tightens, tools like the VUA and a reset in Seeds Canada leadership signal a sector starting to respond in real time The post Canada’s Seed Sector This…
+
+- **[Seeds Canada Prepares for 2026 AGM After Successful Seed School](../../items/seedworld/2026/04/https_www.seedworld.com_p_124170.md)**
+  - 2026-04-03 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124170.md) · [원문](https://www.seedworld.com/canada/2026/04/02/seeds-canada-prepares-for-2026-agm-after-successful-seed-school/)
+  - A full-capacity Seed School in Winnipeg set the stage for July’s Annual Meeting in Saskatoon The post Seeds Canada Prepares for 2026 AGM After Successful Seed School appeared first on Seed World .
+
+- **[Seed Innovation in Canada: The Funding Problem No One Can Ignore](../../items/seedworld/2026/04/https_www.seedworld.com_p_124162.md)**
+  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124162.md) · [원문](https://www.seedworld.com/canada/2026/04/02/seed-innovation-in-canada-the-funding-problem-no-one-can-ignore/)
+  - Seeds Canada CEO Dan Wright explains why current models are falling short — and how new approaches like the Variety Use Agreement could change the game The post Seed Innovation in Canada: The Funding…
+
+- **[Breeders Trust Flags Illegal Seed Potato Sales in Online Marketplaces](../../items/seedworld/2026/04/https_www.seedworld.com_p_124156.md)**
+  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124156.md) · [원문](https://www.seedworld.com/europe/2026/04/02/breeders-trust-flags-illegal-seed-potato-sales-in-online-marketplaces/)
+  - Breeders Trust is monitoring online sales of seed potatoes, highlighting growing cases of illegal trade via Facebook groups and webshops. Uncertified seed and misuse of ware potatoes raise plant bree…
+
+- **[New Jalapeño, Murupi and Ornamental Peppers Move to On-Farm Testing in Brazil](../../items/seedworld/2026/04/https_www.seedworld.com_p_123722.md)**
+  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_123722.md) · [원문](https://www.seedworld.com/latam/2026/04/02/new-jalapeno-murupi-and-ornamental-peppers-move-to-on-farm-testing-in-brazil/)
+  - New jalapeño, murupi, fresh-market, and ornamental pepper materials from Embrapa Vegetables are advancing to on-farm testing in Brazil. Developed to meet demands from growers, processors, and ornamen…
+
+- **[Ukraine’s Seed Sector During the Russian Invasion of Ukraine: Production, Exports and EU Integration](../../items/seedworld/2026/04/https_www.seedworld.com_p_124144.md)**
+  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124144.md) · [원문](https://www.seedworld.com/europe/2026/04/02/ukraines-seed-sector-during-the-russian-invasion-of-ukraine-production-exports-and-eu-integration/)
+  - Ukraine’s seed sector faces disruption from the Russian invasion of Ukraine, including energy shortages, mined farmland, logistics barriers, and labour gaps. Despite producers maintain output, invest…
+
+- **[Your Data Doesn’t End at the Lab, It Shows Up in the Field](../../items/seedworld/2026/04/https_www.seedworld.com_p_124140.md)**
+  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124140.md) · [원문](https://www.seedworld.com/us/2026/04/02/your-data-doesnt-end-at-the-lab-it-shows-up-in-the-field/)
+  - Seed testing decisions often rely on germination percentage alone, but field performance depends on more. This rye case showed how abnormal seedlings, Fusarium pressure, and seed stress can signal hi…
+
+- **[The Final Four? Bioenergy Crops Beyond Corn Competing for the Future of Energy](../../items/seedworld/2026/04/https_www.seedworld.com_p_124127.md)**
+  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124127.md) · [원문](https://www.seedworld.com/us/2026/04/01/bioenergy-crops-beyond-corn-competing-for-the-future-of-energy/)
+  - Four bioenergy crops go head-to-head in a March Madness-style showdown, revealing how poplar, sorghum, switchgrass and mixed prairie are competing beyond corn to shape the future of sustainable energ…
+
+- **[The Overlooked Role of Seed Processors in Crop Success](../../items/seedworld/2026/04/https_www.seedworld.com_p_124126.md)**
+  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124126.md) · [원문](https://www.seedworld.com/canada/2026/04/01/the-overlooked-role-of-seed-processors-in-crop-success/)
+  - While often behind the scenes, seed processors are essential to delivering the consistency and quality growers rely on every season. I didn’t take a straight path into agriculture, but it’s […] The p…
+
+- **[On the Brink Episode 4: The End of the Status Quo](../../items/seedworld/2026/04/https_www.seedworld.com_p_124120.md)**
+  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124120.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/01/on-the-brink-episode-4-the-end-of-the-status-quo/)
+  - Federal cuts are closing key research facilities across Canada. Doug Miller of the Canadian Seed Growers Association joins On the Brink Episode 4 to ask what comes next for Canadian plant breeding —…
+
+- **[Nuevos pimientos jalapeños, murupi y ornamentales pasan a la fase de pruebas en fincas en Brasil](../../items/seedworld/2026/04/https_www.seedworld.com_p_123718.md)**
+  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_123718.md) · [원문](https://www.seedworld.com/latam/2026/04/01/nuevos-pimientos-jalapenos-murupi-y-ornamentales-pasan-a-la-fase-de-pruebas-en-fincas-en-brasil/)
+  - Nuevos materiales de jalapeño, murupi, consumo fresco y pimientos ornamentales de Embrapa Hortalizas avanzan a pruebas en campo en Brasil. Desarrollados para atender a productores, procesadores y mer…
+
+- **[How “Either/Or” Thinking Limits Your Company’s Potential](../../items/seedworld/2026/04/https_www.seedworld.com_p_124115.md)**
+  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124115.md) · [원문](https://www.seedworld.com/us/2026/04/01/how-either-or-thinking-limits-your-companys-potential/)
+  - Leaders often face either-or decisions, from inventory and growth to efficiency and innovation. High-performing companies reject this mindset, managing paradoxes instead.
+
+- **[Let’s Talk: Biologicals Are Gaining Ground](../../items/seedworld/2026/04/https_www.seedworld.com_p_124075.md)**
+  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124075.md) · [원문](https://www.seedworld.com/europe/2026/04/01/lets-talk-biologicals-are-gaining-ground/)
+  - Seed World Europe’s Petar Madjarac, Head of Business Development, EMEA, and Editorial Director Marcel Bruins discuss why the seed sector is paying closer attention now, the industry’s growth trajecto…
+
+- **[Global Seed Sector Progress in Focus in ISF Annual Report 2025](../../items/seedworld/2026/04/https_www.seedworld.com_p_124081.md)**
+  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124081.md) · [원문](https://www.seedworld.com/europe/2026/04/01/global-seed-sector-progress-in-focus-in-isf-annual-report-2025/)
+  - The International Seed Federation’s Annual Report 2025 highlights progress across the global seed sector, including milestones in quality seed, innovation, sustainable value chains, policy engagement…
+
+- **[Why Most Ag Companies Get Executive Leadership Wrong — And How to Fix It](../../items/seedworld/2026/04/https_www.seedworld.com_p_124101.md)**
+  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124101.md) · [원문](https://www.seedworld.com/us/2026/03/31/attract-develop-succeed-executive-leadership-webinar-registration-open/)
+  - Seed World and Kincannon & Reed are hosting a free executive leadership webinar on April 9. Register to save your seat.
+
+- **[Farm Bill Delays Keep Seed in Holding Pattern](../../items/seedworld/2026/04/https_www.seedworld.com_p_124096.md)**
+  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124096.md) · [원문](https://www.seedworld.com/us/2026/03/31/farm-bill-delays-keep-seed-in-holding-pattern/)
+  - In case you’re wondering, the Farm Bill is still not finished! And for most of agriculture, that’s frustrating.
+
+- **[CSGA AGM 2026 Whitehorse: Dates, Travel, Keynote and What to Expect](../../items/seedworld/2026/04/https_www.seedworld.com_p_124086.md)**
+  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124086.md) · [원문](https://www.seedworld.com/canada/2026/03/31/csga-agm-2026-whitehorse-dates-travel-keynote-and-what-to-expect/)
+  - Everything you need to know about the Canadian Seed Growers’ Association AGM, including keynote speaker Bruce Kirkby, travel discounts, Yukon experiences and conference highlights The post CSGA AGM 2…
+
+- **[Seeds That Fix Themselves — A New Lever for Seed Longevity](../../items/seedworld/2026/04/https_www.seedworld.com_p_124085.md)**
+  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124085.md) · [원문](https://www.seedworld.com/us/2026/03/31/seeds-that-fix-themselves-a-new-lever-for-seed-longevity/)
+  - New research from the University of Kentucky shows how a protein repair system helps seeds recover from storage damage and maintain germination, offering breeders a new approach to improving seed lon…
+
+
 ## 2026-03
+
+- **[Rothamsted Barley Becomes First Crop Cleared Under UK Precision-Breeding Rules](../../items/seedworld/2026/03/https_www.seedworld.com_p_124078.md)**
+  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124078.md) · [원문](https://www.seedworld.com/europe/2026/03/31/rothamsted-barley-becomes-first-crop-cleared-under-uk-precision-breeding-rules/)
+  - Rothamsted Research has developed the UK’s first gene-edited barley to receive Precision Bred Organism marketing notice confirmation under new precision-breeding rules.
+
+- **[Study warns Colombia could lose one-fifth of cocoa land by 2050](../../items/seedworld/2026/03/https_www.seedworld.com_p_123715.md)**
+  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123715.md) · [원문](https://www.seedworld.com/latam/2026/03/31/study-warns-colombia-could-lose-one-fifth-of-cocoa-land-by-2050/)
+  - A new study warns Colombia could lose nearly 20% of its cocoa-suitable land by 2050 as climate change alters temperatures and rainfall. The biggest risks are in lowland and northeastern regions, whil…
+
+- **[World Seed Congress 2026: The Case for Joint Actions to Build Resilient Futures](../../items/seedworld/2026/03/https_www.seedworld.com_p_124073.md)**
+  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124073.md) · [원문](https://www.seedworld.com/us/2026/03/31/world-seed-congress-2026-the-case-for-joint-actions-to-build-resilient-futures-2/)
+  - At the ISF World Seed Congress in Lisbon, global seed leaders are addressing seed resilience, trade, innovation, and food security. Portugal highlights how openness and adaptability strengthen food s…
+
+- **[World Seed Congress 2026: The Case for Joint Actions to Build Resilient Futures](../../items/seedworld/2026/03/https_www.seedworld.com_p_124066.md)**
+  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124066.md) · [원문](https://www.seedworld.com/europe/2026/03/31/world-seed-congress-2026-the-case-for-joint-actions-to-build-resilient-futures/)
+  - At the ISF World Seed Congress in Lisbon, global seed leaders are addressing seed resilience, trade, innovation, and food security. Portugal highlights how openness and adaptability strengthen food s…
+
+- **[The Countdown to Euroseeds 2026 in Valencia Has Officially Begun!](../../items/seedworld/2026/03/https_www.seedworld.com_p_124064.md)**
+  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124064.md) · [원문](https://www.seedworld.com/us/2026/03/31/the-countdown-to-euroseeds-2026-in-valencia-has-officially-begun-2/)
+  - Euroseeds Congress 2026 takes place in Valencia, Spain, from 25 to 28 October 2026, bringing together seed sector leaders, policymakers, researchers, entrepreneurs, and students.
+
+- **[The Countdown to Euroseeds 2026 in Valencia Has Officially Begun!](../../items/seedworld/2026/03/https_www.seedworld.com_p_123940.md)**
+  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123940.md) · [원문](https://www.seedworld.com/europe/2026/03/31/the-countdown-to-euroseeds-2026-in-valencia-has-officially-begun/)
+  - Euroseeds Congress 2026 takes place in Valencia, Spain, from 25 to 28 October 2026, bringing together seed sector leaders, policymakers, researchers, entrepreneurs, and students.
+
+- **[CPVR Evaluation: A Key Moment for the Future of Plant Variety Protection in Europe](../../items/seedworld/2026/03/https_www.seedworld.com_p_124060.md)**
+  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124060.md) · [원문](https://www.seedworld.com/europe/2026/03/31/cpvr-evaluation-a-key-moment-for-the-future-of-plant-variety-protection-in-europe/)
+  - The European Commission’s review of Community Plant Variety Rights (CPVR) legislation offers a key opportunity to strengthen EU plant breeding. Euroseeds says the current system provides reliable, co…
+
+- **[Seeds Canada’s New CEO Isn’t Rushing In — And That’s the Strategy](../../items/seedworld/2026/03/https_www.seedworld.com_p_124053.md)**
+  - 2026-03-30 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124053.md) · [원문](https://www.seedworld.com/canada/2026/03/30/seeds-canadas-new-ceo-isnt-rushing-in-and-thats-the-strategy/)
+  - Dan Wright steps into Seeds Canada’s top role with a listening-first approach and a focus on collaboration, innovation and regulatory modernization The post Seeds Canada’s New CEO Isn’t Rushing In —…
+
+- **[Un estudio advierte que Colombia podría perder una quinta parte de sus tierras cacaoteras para 2050](../../items/seedworld/2026/03/https_www.seedworld.com_p_123712.md)**
+  - 2026-03-30 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123712.md) · [원문](https://www.seedworld.com/latam/2026/03/30/un-estudio-advierte-que-colombia-podria-perder-una-quinta-parte-de-sus-tierras-cacaoteras-para-2050/)
+  - Un nuevo estudio advierte que Colombia podría perder casi 20% de su tierra apta para cacao hacia 2050 por cambios en temperatura y lluvias. Los mayores riesgos están en tierras bajas y regiones del n…
 
 - **[New Embrapa Programs Aim to Cut Carbon Footprint of Corn and Sorghum](../../items/seedworld/2026/03/https_www.seedworld.com_p_123709.md)**
   - 2026-03-28 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123709.md) · [원문](https://www.seedworld.com/latam/2026/03/28/new-embrapa-programs-aim-to-cut-carbon-footprint-of-corn-and-sorghum/)
@@ -318,58 +429,3 @@ source: "seedworld"
 - **[New Mustard Promises Yield Gains as PRCO Flags GM and Research Risks](../../items/seedworld/2026/03/https_www.seedworld.com_p_123272.md)**
   - 2026-03-04 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123272.md) · [원문](https://www.seedworld.com/canada/2026/03/03/new-mustard-variety-promises-yield-gains-as-prco-flags-gm-and-research-risks/)
   - Big yield gains, market risks and federal research cuts dominated flax and mustard discussions at today's Prairie Grain Development Committee meetings in Banff The post New Mustard Promises Yield Gai…
-
-- **[Corn Moves South](../../items/seedworld/2026/03/https_www.seedworld.com_p_123241.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123241.md) · [원문](https://www.seedworld.com/us/2026/03/03/corn-moves-south/)
-  - When you think of corn country, you tend to focus on the Midwestern states like Illinois, Indiana and Iowa, but a Southern Corn Belt is making waves and growing year over year.
-
-- **[Who Funds Wheat Research in Canada? Increasingly, it’s Farmers](../../items/seedworld/2026/03/https_www.seedworld.com_p_123258.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123258.md) · [원문](https://www.seedworld.com/canada/2026/03/03/who-funds-wheat-research-in-canada-increasingly-its-farmers/)
-  - Long before recent federal cuts made headlines, Canadian farmers were quietly underwriting the country’s wheat breeding system The post Who Funds Wheat Research in Canada?
-
-- **[Paraná Study Shows Productivity Gains with Soybean Co-Inoculation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123038.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123038.md) · [원문](https://www.seedworld.com/latam/2026/03/03/parana-study-shows-productivity-gains-with-soybean-co-inoculation/)
-  - A Paraná study by Embrapa Soja and IDR-Paraná shows soybean seed co-inoculation delivers consistent productivity gains. Ten years of field validation in commercial Technological Reference Units found…
-
-- **[Study Links eccDNA to Rapid Plant Stress Resistance](../../items/seedworld/2026/03/https_www.seedworld.com_p_123252.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123252.md) · [원문](https://www.seedworld.com/europe/2026/03/03/study-links-eccdna-to-rapid-plant-stress-resistance/)
-  - Scientists at Rothamsted and Clemson University have unified fragmented research to show that extrachromosomal circular DNA (eccDNA) acts as a genomic “shock absorber” in plants.
-
-- **[Strengthening Canada’s Variety Development Pipeline Through Private-Sector Innovation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123238.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123238.md) · [원문](https://www.seedworld.com/canada/2026/03/02/strengthening-canadas-variety-development-pipeline-through-private-sector-innovation/)
-  - The variety‑breeding landscape in Canada is undergoing a profound transformation. For decades, public research programs have formed the backbone of crop improvement efforts across the country.
-
-- **[Can We Breed a Safer Peanut?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123232.md)**
-  - 2026-03-03 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123232.md) · [원문](https://www.seedworld.com/us/2026/03/02/can-we-breed-a-safer-peanut/)
-  - Can peanut breeding reduce allergen proteins without sacrificing performance? Clemson scientists are stacking genetics and gene editing to find out.
-
-- **[Inside J.S. Henry & Son’s New Seed Plant: Lessons Learned Building a Third-Generation Processing Facility](../../items/seedworld/2026/03/https_www.seedworld.com_p_123221.md)**
-  - 2026-03-02 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123221.md) · [원문](https://www.seedworld.com/canada/2026/03/02/inside-j-s-henry-sons-new-seed-plant-lessons-learned-building-a-third-generation-processing-facility/)
-  - Standing in a new seed processing facility for the first time is equal parts pride and pressure. Pride, because years of planning have finally taken physical shape.
-
-- **[Canadian Seed Industry Warns of Lost Year in Crop Breeding and Field Trials](../../items/seedworld/2026/03/https_www.seedworld.com_p_123218.md)**
-  - 2026-03-02 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123218.md) · [원문](https://www.seedworld.com/canada/2026/03/02/canadian-seed-industry-warns-of-lost-year-in-crop-breeding-and-field-trials/)
-  - Public-private seed development system faces mounting pressure, raising concerns about lost field data, disrupted breeding cycles and long-term yield gains The post Canadian Seed Industry Warns of Lo…
-
-- **[Estudio en Paraná muestra aumentos de productividad con la coinoculación de soja](../../items/seedworld/2026/03/https_www.seedworld.com_p_123035.md)**
-  - 2026-03-02 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123035.md) · [원문](https://www.seedworld.com/latam/2026/03/02/estudio-en-parana-muestra-aumentos-de-productividad-con-la-coinoculacion-de-soja/)
-  - Un estudio en Paraná de Embrapa Soja e IDR-Paraná muestra que la co-inoculación de semillas de soja mejora la productividad de forma consistente. Diez años de validación en Unidades de Referencia Tec…
-
-- **[Selling Abundance in a World Addicted to Scarcity](../../items/seedworld/2026/03/https_www.seedworld.com_p_123181.md)**
-  - 2026-03-02 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123181.md) · [원문](https://www.seedworld.com/europe/2026/03/02/selling-abundance-in-a-world-addicted-to-scarcity/)
-  - Part 2 explores Hidde Boersma’s techno-optimistic vision for sustainable agriculture, highlighting WePlanet, ecomodernism, CRISPR, land sparing and high-yield farming. It examines how storytelling, f…
-
-- **[Concepts For Your Seeds](../../items/seedworld/2026/03/https_www.seedworld.com_p_120734.md)**
-  - 2026-03-01 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_120734.md) · [원문](https://www.seedworld.com/us/2026/03/01/concepts-for-your-seeds-5/)
-  - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds referring to their high quality. You get specific and individual […]…
-
-- **[Gene Expression VS Soybean White Mold](../../items/seedworld/2026/03/https_www.seedworld.com_p_123213.md)**
-  - 2026-03-01 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123213.md) · [원문](https://www.seedworld.com/us/2026/03/01/gene-expression-vs-soybean-white-mold/)
-  - Heads Up® helps soybean growers manage unpredictable disease pressure with proactive, full-season protection starting at germination. Unlike narrow fungicide seed treatments and timing-sensitive foli…
-
-
-## 2026-02
-
-- **[New Review Advances Precision Gene Insertion in Corn](../../items/seedworld/2026/02/https_www.seedworld.com_p_123032.md)**
-  - 2026-02-28 · [읽기](../../items/seedworld/2026/02/https_www.seedworld.com_p_123032.md) · [원문](https://www.seedworld.com/latam/2026/02/28/new-review-advances-precision-gene-insertion-in-corn/)
-  - A new review highlights advances in precision gene insertion in corn, focusing on site-specific transgene integration and genomic “safe harbors.” Led by GCCRC researchers, the study explains how next…
