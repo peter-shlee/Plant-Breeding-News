@@ -9,7 +9,7 @@ summary: "New jalapeño, murupi, fresh-market, and ornamental pepper materials f
 attachments: []
 tags:
   - "고추"
-fetched_at: "2026-04-03T06:47:43+09:00"
+fetched_at: "2026-04-06T06:45:24+09:00"
 ---
 # New Jalapeño, Murupi and Ornamental Peppers Move to On-Farm Testing in Brazil
 

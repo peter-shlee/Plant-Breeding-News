@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/17/the-breeders-blind-spot-what-your-
 summary: "Computomics' AI-driven platform pairs predictive breeding with pangenome visualization, giving you the architecture behind every crossing decision The post The Breeder’s Blind Spot: What Your Genotyping Panel Isn’t Telling You appeared"
 attachments: []
 tags: []
-fetched_at: "2026-04-03T06:47:43+09:00"
+fetched_at: "2026-04-06T06:45:24+09:00"
 ---
 # The Breeder’s Blind Spot: What Your Genotyping Panel Isn’t Telling You
 

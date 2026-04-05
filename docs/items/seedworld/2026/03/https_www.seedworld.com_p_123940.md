@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/31/the-countdown-to-euroseeds-202
 summary: "Euroseeds Congress 2026 takes place in Valencia, Spain, from 25 to 28 October 2026, bringing together seed sector leaders, policymakers, researchers, entrepreneurs, and students."
 attachments: []
 tags: []
-fetched_at: "2026-04-03T06:47:43+09:00"
+fetched_at: "2026-04-06T06:45:24+09:00"
 ---
 # The Countdown to Euroseeds 2026 in Valencia Has Officially Begun!
 

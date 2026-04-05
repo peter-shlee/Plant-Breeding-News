@@ -9,7 +9,7 @@ summary: "Rothamsted Research has developed the UK’s first gene-edited barley 
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-04-03T06:47:43+09:00"
+fetched_at: "2026-04-06T06:45:24+09:00"
 ---
 # Rothamsted Barley Becomes First Crop Cleared Under UK Precision-Breeding Rules
 

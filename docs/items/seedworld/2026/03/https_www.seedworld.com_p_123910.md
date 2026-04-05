@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "밀"
-fetched_at: "2026-04-03T06:47:43+09:00"
+fetched_at: "2026-04-06T06:45:24+09:00"
 ---
 # Climate-Ready Wheat Could Secure Future Pasta Production
 

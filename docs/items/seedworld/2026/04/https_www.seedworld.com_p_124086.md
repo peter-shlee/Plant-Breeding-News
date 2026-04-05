@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/31/csga-agm-2026-whitehorse-dates
 summary: "Everything you need to know about the Canadian Seed Growers’ Association AGM, including keynote speaker Bruce Kirkby, travel discounts, Yukon experiences and conference highlights The post CSGA AGM 2026 Whitehorse: Dates, Travel, Keynote"
 attachments: []
 tags: []
-fetched_at: "2026-04-03T06:47:43+09:00"
+fetched_at: "2026-04-06T06:45:24+09:00"
 ---
 # CSGA AGM 2026 Whitehorse: Dates, Travel, Keynote and What to Expect
 

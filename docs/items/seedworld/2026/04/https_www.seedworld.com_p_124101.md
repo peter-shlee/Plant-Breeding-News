@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/31/attract-develop-succeed-executive-
 summary: "Seed World and Kincannon & Reed are hosting a free executive leadership webinar on April 9. Register to save your seat."
 attachments: []
 tags: []
-fetched_at: "2026-04-03T06:47:43+09:00"
+fetched_at: "2026-04-06T06:45:24+09:00"
 ---
 # Why Most Ag Companies Get Executive Leadership Wrong — And How to Fix It
 

@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-04
 
+- **[국립식량과학원, 식량·농식품 산업 협의체와 현장 맞춤형 연구 강화](../../items/nics/2026/04/944101.md)**
+  - 2026-04-03 · [읽기](../../items/nics/2026/04/944101.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944101)
+
 - **[국산 콩 소비 확대 이끌 ‘국산 콩 연구개발-가공산업 협의체’ 출범](../../items/nics/2026/04/944097.md)**
   - 2026-04-01 · [읽기](../../items/nics/2026/04/944097.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944097)
 
@@ -37,6 +40,3 @@ source: "nics"
 
 - **[청년농업인 농산물 고속도로 휴게소 판로 연계 ‘청년농, 협업·상생의 길을 잇다’ ...](../../items/nics/2026/03/944085.md)**
   - 2026-03-27 · [읽기](../../items/nics/2026/03/944085.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944085)
-
-- **[농촌진흥청, 노지 월동작물 생육 점검…기술지원 방안 논의](../../items/nics/2026/03/944077.md)**
-  - 2026-03-26 · [읽기](../../items/nics/2026/03/944077.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944077)
