@@ -11,6 +11,30 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Seed Certification is Adjusting to a System it No Longer Fully Controls](../../items/seedworld/2026/04/https_www.seedworld.com_p_124301.md)**
+  - 2026-04-08 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124301.md) · [원문](https://www.seedworld.com/us/2026/04/07/seed-certification-is-adjusting-to-a-system-it-no-longer-fully-controls/)
+  - Brad Stancil, who won the 2025 Association of Seed Certifying Agencies Excellence in Innovation award, connects regulatory programs with seed certification. The post Seed Certification is Adjusting t…
+
+- **[Soil Microbe Breakthrough Boosts Phosphorus Efficiency in Crops](../../items/seedworld/2026/04/https_www.seedworld.com_p_124199.md)**
+  - 2026-04-07 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124199.md) · [원문](https://www.seedworld.com/europe/2026/04/07/soil-microbe-breakthrough-boosts-phosphorus-efficiency-in-crops/)
+  - A new study finds that combining biochar with phosphate-solubilizing Bacillus bacteria improves phosphorus availability, boosts soil microbial activity, and increases greenhouse cherry tomato yields…
+
+- **[NAPB 2026 in Texas Showcases Innovation as Borlaug Scholars Program Invites New Sponsors](../../items/seedworld/2026/04/https_www.seedworld.com_p_124253.md)**
+  - 2026-04-07 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124253.md) · [원문](https://www.seedworld.com/us/2026/04/06/napb-2026-at-texas-am-showcases-innovation-and-expands-borlaug-scholars-program/)
+  - Registration is open and new sponsors are invited to support future plant breeders as part of the Borlaug Scholarship program The post NAPB 2026 in Texas Showcases Innovation as Borlaug Scholars Prog…
+
+- **[Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits](../../items/seedworld/2026/04/https_www.seedworld.com_p_124218.md)**
+  - 2026-04-06 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124218.md) · [원문](https://www.seedworld.com/canada/2026/04/06/canadian-seed-growers-association-faces-new-chapter-as-doug-miller-exits/)
+  - He leaves behind a more modern, more agile organization at a pivotal moment for Canada’s seed sector The post Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits appeared first…
+
+- **[European Commission Launches Consultation on Plant Variety Rights System](../../items/seedworld/2026/04/https_www.seedworld.com_p_124159.md)**
+  - 2026-04-06 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124159.md) · [원문](https://www.seedworld.com/europe/2026/04/06/european-commission-launches-consultation-on-plant-variety-rights-system/)
+  - The European Commission has opened a consultation on Community Plant Variety Rights legislation and the performance of the CPVO. Stakeholders across the plant breeding, seed, farming and research sec…
+
+- **[CIMMYT Scientist Receives Africa Region Food Security Leadership Award for MLN Work](../../items/seedworld/2026/04/https_www.seedworld.com_p_124193.md)**
+  - 2026-04-06 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124193.md) · [원문](https://www.seedworld.com/europe/2026/04/06/cimmyt-scientist-receives-africa-region-food-security-leadership-award-for-mln-work/)
+  - In Nairobi, African scientists, regulators and seed leaders recognized Suresh L.M. with the Africa Region Food Security Leadership Award for combating maize lethal necrosis.
+
 - **[Canada’s Seed Sector This Week: Pressure is Building, but so is Momentum](../../items/seedworld/2026/04/https_www.seedworld.com_p_124177.md)**
   - 2026-04-03 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124177.md) · [원문](https://www.seedworld.com/canada/2026/04/02/canadas-seed-sector-this-week-pressure-is-building-but-so-is-momentum/)
   - As funding concerns grow and research capacity tightens, tools like the VUA and a reset in Seeds Canada leadership signal a sector starting to respond in real time The post Canada’s Seed Sector This…
@@ -47,7 +71,7 @@ source: "seedworld"
   - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124126.md) · [원문](https://www.seedworld.com/canada/2026/04/01/the-overlooked-role-of-seed-processors-in-crop-success/)
   - While often behind the scenes, seed processors are essential to delivering the consistency and quality growers rely on every season. I didn’t take a straight path into agriculture, but it’s […] The p…
 
-- **[On the Brink Episode 4: The End of the Status Quo](../../items/seedworld/2026/04/https_www.seedworld.com_p_124120.md)**
+- **[The End of the Status Quo: On the Brink Episode 4](../../items/seedworld/2026/04/https_www.seedworld.com_p_124120.md)**
   - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124120.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/01/on-the-brink-episode-4-the-end-of-the-status-quo/)
   - Federal cuts are closing key research facilities across Canada. Doug Miller of the Canadian Seed Growers Association joins On the Brink Episode 4 to ask what comes next for Canadian plant breeding —…
 

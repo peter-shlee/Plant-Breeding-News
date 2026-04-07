@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/01/global-seed-sector-progress-in
 summary: "The International Seed Federation’s Annual Report 2025 highlights progress across the global seed sector, including milestones in quality seed, innovation, sustainable value chains, policy engagement and member services."
 attachments: []
 tags: []
-fetched_at: "2026-04-06T06:45:24+09:00"
+fetched_at: "2026-04-08T06:48:08+09:00"
 ---
 # Global Seed Sector Progress in Focus in ISF Annual Report 2025
 

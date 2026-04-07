@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/25/argentina-revisa-la-normativa-s
 summary: "La actualización de las regulaciones sobre OGM en Argentina busca acelerar la innovación agrícola al simplificar los procesos de aprobación para productos biotecnológicos experimentales y comerciales."
 attachments: []
 tags: []
-fetched_at: "2026-04-06T06:45:24+09:00"
+fetched_at: "2026-04-08T06:48:08+09:00"
 ---
 # Argentina revisa la normativa sobre OMG para impulsar la innovación en la agricultura
 

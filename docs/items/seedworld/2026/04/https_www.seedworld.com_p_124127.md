@@ -9,7 +9,7 @@ summary: "Four bioenergy crops go head-to-head in a March Madness-style showdown
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-04-06T06:45:24+09:00"
+fetched_at: "2026-04-08T06:48:08+09:00"
 ---
 # The Final Four? Bioenergy Crops Beyond Corn Competing for the Future of Energy
 

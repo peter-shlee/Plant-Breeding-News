@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/25/for-the-love-of-carbs/"
 summary: "Carbohydrates are diverse compounds central to energy, industry, and biology, from sugars and starches to cellulose and DNA components. This overview highlights their chemical complexity, everyday applications, and health impacts."
 attachments: []
 tags: []
-fetched_at: "2026-04-06T06:45:24+09:00"
+fetched_at: "2026-04-08T06:48:08+09:00"
 ---
 # For The Love of Carbs
 

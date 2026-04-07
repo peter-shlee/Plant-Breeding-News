@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/18/op-ed-no-investment-no-innovat
 summary: "Failing to fund crop genetics today could limit farm productivity and profitability tomorrow, as momentum builds behind new value capture tools. Innovation is undeniably important to Canadian agriculture."
 attachments: []
 tags: []
-fetched_at: "2026-04-06T06:45:24+09:00"
+fetched_at: "2026-04-08T06:48:08+09:00"
 ---
 # OP-ED: No Investment, No Innovation — What’s at Stake for Canadian Farmers
 

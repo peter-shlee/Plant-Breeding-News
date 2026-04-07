@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/26/argentina-revises-gmo-regulatio
 summary: "Argentina’s revised GMO regulations aim to accelerate agricultural innovation by simplifying approval processes for experimental and commercial biotech products. Resolution 255/2026 updates technical criteria, reduces costs, shortens"
 attachments: []
 tags: []
-fetched_at: "2026-04-06T06:45:24+09:00"
+fetched_at: "2026-04-08T06:48:08+09:00"
 ---
 # Argentina Revises GMO Regulations to Boost Innovation in Agriculture
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/01/how-either-or-thinking-limits-your
 summary: "Leaders often face either-or decisions, from inventory and growth to efficiency and innovation. High-performing companies reject this mindset, managing paradoxes instead."
 attachments: []
 tags: []
-fetched_at: "2026-04-06T06:45:24+09:00"
+fetched_at: "2026-04-08T06:48:08+09:00"
 ---
 # How “Either/Or” Thinking Limits Your Company’s Potential
 
