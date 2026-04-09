@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-04
 
+- **[농촌진흥청, 밀 생육 동향 및 국산 밀 제분 시설 현장 점검](../../items/nics/2026/04/944111.md)**
+  - 2026-04-09 · [읽기](../../items/nics/2026/04/944111.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944111)
+
 - **[‘신동진1’ 질소비료 감축…농가 경영비 줄이고, 쌀 품질 높인다](../../items/nics/2026/04/944107.md)**
   - 2026-04-06 · [읽기](../../items/nics/2026/04/944107.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944107)
 
@@ -37,6 +40,3 @@ source: "nics"
 
 - **[국립식량과학원-풀무원, 신품종 활용 국산 콩 산업 활성화 협력 강화](../../items/nics/2026/03/944090.md)**
   - 2026-03-27 · [읽기](../../items/nics/2026/03/944090.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944090)
-
-- **[올해 볍씨는 꼭! 이렇게 소독·육묘 하세요](../../items/nics/2026/03/944087.md)**
-  - 2026-03-27 · [읽기](../../items/nics/2026/03/944087.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944087)

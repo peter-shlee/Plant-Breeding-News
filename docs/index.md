@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-04-08 06:48 (KST)**  
-- 커버리지(최근 섹션): **2026-04-01 ~ 2026-04-08** (최근 7일)
+- 마지막 업데이트: **2026-04-10 06:48 (KST)**  
+- 커버리지(최근 섹션): **2026-04-03 ~ 2026-04-10** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 <a id="highlights"></a>
 
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-04-01~2026-04-08)
+## 30초 주간 브리핑 (2026-04-03~2026-04-10)
 
-> 글로벌 종자 산업의 규제 변화와 연구 혁신을 통한 지속 가능한 농업 솔루션 모색
+> 기후 변화와 기술 혁신 속에서 작물 생산성 향상을 위한 글로벌 연구와 현장 대응이 가속화되고 있습니다.
 
 ### 1) 정책/규제
 
-- 유럽연합 집행위원회가 식물 품종 보호 권리 법안과 관련 기관의 성과에 대한 이해관계자 의견 수렴을 시작함. ([원문](https://www.seedworld.com/europe/2026/04/06/european-commission-launches-consultation-on-plant-variety-rights-system/))
-- 캐나다 종자 업계는 연구 자금 부족 문제를 해결하기 위해 품종 이용 계약(VUA)과 같은 새로운 모델 도입을 논의 중임. ([원문](https://www.seedworld.com/canada/2026/04/02/seed-innovation-in-canada-the-funding-problem-no-one-can-ignore/))
+- 유럽 종자 협회(Euroseeds) 등은 EU 연구 프로그램에서 농업과 바이오경제 분야가 명확히 명시되어야 한다고 촉구했습니다. ([원문](https://www.seedworld.com/europe/2026/04/08/euroseeds-joins-call-to-preserve-agriculture-and-bioeconomy-in-eu-research-programme/))
+- 미국 종자 인증 기관 협회는 변화하는 환경 속에서 기존의 종자 인증 시스템이 더 이상 통제할 수 없는 새로운 체계에 적응 중이라고 밝혔습니다. ([원문](https://www.seedworld.com/us/2026/04/07/seed-certification-is-adjusting-to-a-system-it-no-longer-fully-controls/))
 
 ### 2) 연구/기술
 
-- 바이오차와 인산 가용화 박테리아를 결합한 토양 미생물 기술이 토마토 수확량을 23% 이상 증대함. ([원문](https://www.seedworld.com/europe/2026/04/07/soil-microbe-breakthrough-boosts-phosphorus-efficiency-in-crops/))
-- CIMMYT 소속 과학자가 옥수수 괴사병(MLN) 저항성 품종 개발 및 아프리카 식량 안보 기여로 공로상을 수상함. ([원문](https://www.seedworld.com/europe/2026/04/06/cimmyt-scientist-receives-africa-region-food-security-leadership-award-for-mln-work/))
+- 글로벌 컨소시엄은 AI와 공간 오믹스 기술을 활용해 밀의 모든 세포와 발달 단계에서 유전자 발현을 매핑하는 연구를 시작했습니다. ([원문](https://www.seedworld.com/europe/2026/04/09/global-consortium-calls-for-mapping-gene-expression-across-all-wheat-cells/))
+- 로담스테드 연구소는 크리스퍼(CRISPR) 기술로 아크릴아마이드 함량을 93% 낮춘 유전자 편집 밀을 개발하여 수확량 손실 없이 안전성을 높였습니다. ([원문](https://www.seedworld.com/europe/2026/04/08/gene-edited-wheat-cuts-harmful-acrylamide-without-yield-loss/))
 
 ### 3) 유통/시장/현장
 
-- 브리더스 트러스트가 온라인 플랫폼 내 불법 씨감자 유통을 적발하며 식물 육종가 권리 보호와 위생 관리를 촉구함. ([원문](https://www.seedworld.com/europe/2026/04/02/breeders-trust-flags-illegal-seed-potato-sales-in-online-marketplaces/))
-- 브라질 농업연구청(Embrapa)이 할라피뇨 등 신규 고추 품종의 현장 실증을 통해 시장 경쟁력 강화에 나섬. ([원문](https://www.seedworld.com/latam/2026/04/02/new-jalapeno-murupi-and-ornamental-peppers-move-to-on-farm-testing-in-brazil/))
+- 브라질에서는 옥수수 얼룩무늬병으로 인해 2020년부터 4년간 연평균 22.7%의 수확량 감소와 65억 달러의 경제적 손실이 발생했습니다. ([원문](https://www.seedworld.com/latam/2026/04/09/corn-stunt-diseases-pose-growing-threat-to-brazils-maize-production/))
+- 농촌진흥청은 이상저온에 대비해 과수 저온 피해 경감용 동결보호제 기술의 현장 적용 상황을 점검하며 농가 피해 예방에 나섰습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809138&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -46,47 +46,51 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
+- **[Gene-Edited Wheat Cuts Harmful Acrylamide Without Yield Loss](items/seedworld/2026/04/https_www.seedworld.com_p_124365.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124365.md) · [원문](https://www.seedworld.com/europe/2026/04/08/gene-edited-wheat-cuts-harmful-acrylamide-without-yield-loss/)
+  - Scientists at Rothamsted Research have developed CRISPR-edited wheat with up to 93% lower asparagine, cutting acrylamide formation in bread and biscuits without reducing yield.
+
+- **[Wageningen to Launch Field Trials with NGT Potatoes](items/seedworld/2026/04/https_www.seedworld.com_p_124408.md)**
+  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124408.md) · [원문](https://www.seedworld.com/europe/2026/04/09/wur-to-launch-field-trials-with-ngt-potatoes-in-2026/)
+  - Wageningen University & Research and the Dutch Ministry of Agriculture will begin new genetically modified potato field trials in 2026, testing disease- and pest-resistant varieties.
+
+- **[Gene Discovery Opens Path to Deeper, More Efficient Crop Roots](items/seedworld/2026/04/https_www.seedworld.com_p_124202.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124202.md) · [원문](https://www.seedworld.com/europe/2026/04/08/gene-discovery-opens-path-to-deeper-more-efficient-crop-roots/)
+  - Researchers identified the plant signaling gene CEPR1 as a promising target for breeding cereal crops with steeper, narrower root systems that may better access water and nutrients.
+
+- **[Watermelon Breeding Under Pressure: What Growers and Breeders Are Up Against](items/seedworld/2026/04/https_www.seedworld.com_p_124208.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124208.md) · [원문](https://www.seedworld.com/europe/2026/04/08/watermelon-breeding-under-pressure-what-growers-and-breeders-are-up-against/)
+  - Watermelon breeding faces growing pressure from climate change, disease threats, limited crop protection, and complex polygenic traits. Narrow genetic diversity and demanding consumer standards add f…
+
+- **[농촌진흥청, 밀 생육 동향 및 국산 밀 제분 시설 현장 점검](items/rda/2026/04/100000809122.md)**
+  - 2026-04-08 · `rda` · [읽기](items/rda/2026/04/100000809122.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809122&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청 김상경 차장은 4월 7일 오후, 전남 구례군 광의면 국산 밀 재배단지를 찾아 밀 생육 상태와 재배 관리 상황을 점검하고, 국산 밀 전용 중소형 제분 시설 운영 현황을 살폈다. 구례밀영농조합법인은 농촌진흥청이 육성한 ‘백강’과 ‘금강’ 품종을 253헥타르(㏊) 면적에 주로 파종해 공동 생산하고 있다.
+
 - **[고구마 가공 제품별 최적 품종과 제조 공법은?](items/nics/2026/04/944106.md)**
   - 2026-04-06 · `nics` · [읽기](items/nics/2026/04/944106.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944106)
 
 - **[고구마 가공 제품별 최적 품종과 제조 공법은?](items/rda/2026/04/100000808979.md)**
-  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808979.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808979&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808979.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808979&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
-- **[Seed Certification is Adjusting to a System it No Longer Fully Controls](items/seedworld/2026/04/https_www.seedworld.com_p_124301.md)**
-  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124301.md) · [원문](https://www.seedworld.com/us/2026/04/07/seed-certification-is-adjusting-to-a-system-it-no-longer-fully-controls/)
-  - Brad Stancil, who won the 2025 Association of Seed Certifying Agencies Excellence in Innovation award, connects regulatory programs with seed certification. The post Seed Certification is Adjusting t…
+- **[‘알디에이(RDA)승용마’ 방목 시작, 마음껏 초원을 달린다](items/rda/2026/04/100000809119.md)**
+  - 2026-04-08 · `rda` · [읽기](items/rda/2026/04/100000809119.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809119&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 ‘알디에이(RDA)승용마’를 4월부터 11월까지 8개월 동안 제주도 중산간 지역 난지축산연구센터 초지에 방목 사육할 계획이라고 밝혔다. ‘알디에이(RDA)승용마’는 농촌진흥청(Rural Development Administration)이 개발한 국산 승용마다.
 
-- **[Soil Microbe Breakthrough Boosts Phosphorus Efficiency in Crops](items/seedworld/2026/04/https_www.seedworld.com_p_124199.md)**
-  - 2026-04-07 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124199.md) · [원문](https://www.seedworld.com/europe/2026/04/07/soil-microbe-breakthrough-boosts-phosphorus-efficiency-in-crops/)
-  - A new study finds that combining biochar with phosphate-solubilizing Bacillus bacteria improves phosphorus availability, boosts soil microbial activity, and increases greenhouse cherry tomato yields…
+- **[고추, 아주심기 시기 저온 노출 기간 길수록 생육 ‘뚝’](items/nihhs/2026/04/100000809121.md)**
+  - 2026-04-08 · `nihhs` · [읽기](items/nihhs/2026/04/100000809121.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000809121&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 고추, 아주심기 시기 저온 노출 기간 길수록 생육…
 
-- **[NAPB 2026 in Texas Showcases Innovation as Borlaug Scholars Program Invites New Sponsors](items/seedworld/2026/04/https_www.seedworld.com_p_124253.md)**
-  - 2026-04-07 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124253.md) · [원문](https://www.seedworld.com/us/2026/04/06/napb-2026-at-texas-am-showcases-innovation-and-expands-borlaug-scholars-program/)
-  - Registration is open and new sponsors are invited to support future plant breeders as part of the Borlaug Scholarship program The post NAPB 2026 in Texas Showcases Innovation as Borlaug Scholars Prog…
+- **[Why Strategic Seed Production Partnerships Matter More Than Ever](items/seedworld/2026/04/https_www.seedworld.com_p_124436.md)**
+  - 2026-04-10 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124436.md) · [원문](https://www.seedworld.com/us/2026/04/09/why-strategic-seed-production-partnerships-matter-more-than-ever/)
+  - Strategic seed production partnerships matter more than ever before. Seed companies are facing a complex environment with tight timelines, growing condition shifts and complicated logistics that crea…
 
-- **[Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits](items/seedworld/2026/04/https_www.seedworld.com_p_124218.md)**
-  - 2026-04-06 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124218.md) · [원문](https://www.seedworld.com/canada/2026/04/06/canadian-seed-growers-association-faces-new-chapter-as-doug-miller-exits/)
-  - He leaves behind a more modern, more agile organization at a pivotal moment for Canada’s seed sector The post Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits appeared first…
+- **[Lacombe Closure Puts Spotlight on Canada’s Agricultural Research Workforce](items/seedworld/2026/04/https_www.seedworld.com_p_124426.md)**
+  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124426.md) · [원문](https://www.seedworld.com/canada/2026/04/09/lacombe-closure-puts-spotlight-on-canadas-agricultural-research-workforce/)
+  - From relocation decisions to talent retention, Lori Oatway of Western Crop Innovations outlines the human side of research system changes. News of the planned closure of Agriculture and Agri-Food Can…
 
-- **[European Commission Launches Consultation on Plant Variety Rights System](items/seedworld/2026/04/https_www.seedworld.com_p_124159.md)**
-  - 2026-04-06 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124159.md) · [원문](https://www.seedworld.com/europe/2026/04/06/european-commission-launches-consultation-on-plant-variety-rights-system/)
-  - The European Commission has opened a consultation on Community Plant Variety Rights legislation and the performance of the CPVO. Stakeholders across the plant breeding, seed, farming and research sec…
-
-- **[CIMMYT Scientist Receives Africa Region Food Security Leadership Award for MLN Work](items/seedworld/2026/04/https_www.seedworld.com_p_124193.md)**
-  - 2026-04-06 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124193.md) · [원문](https://www.seedworld.com/europe/2026/04/06/cimmyt-scientist-receives-africa-region-food-security-leadership-award-for-mln-work/)
-  - In Nairobi, African scientists, regulators and seed leaders recognized Suresh L.M. with the Africa Region Food Security Leadership Award for combating maize lethal necrosis.
-
-- **[‘신동진1’ 질소비료 감축…농가 경영비 줄이고, 쌀 품질 높인다](items/nics/2026/04/944107.md)**
-  - 2026-04-06 · `nics` · [읽기](items/nics/2026/04/944107.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944107)
-
-- **[인공지능으로 여는 치유농업의 미래, 산업화·창업 전략 모색](items/rda/2026/04/100000808983.md)**
-  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808983.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808983&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농업 현장에 필요한 기술, “언제나, 누구나 제안하세요!”](items/rda/2026/04/100000808982.md)**
-  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808982.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808982&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘신동진1’ 질소비료 감축…농가 경영비 줄이고, 쌀 품질 높인다](items/rda/2026/04/100000808981.md)**
-  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808981.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808981&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Corn Stunt Diseases Pose Growing Threat to Brazil’s Maize Production](items/seedworld/2026/04/https_www.seedworld.com_p_124374.md)**
+  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124374.md) · [원문](https://www.seedworld.com/latam/2026/04/09/corn-stunt-diseases-pose-growing-threat-to-brazils-maize-production/)
+  - Corn leafhopper-driven stunt diseases have caused major maize losses in Brazil, with a new study estimating average yield reductions of 22.7% between 2020 and 2024, worth US$6.5 billion annually.
 
 
 <a id="recent"></a>
@@ -94,9 +98,112 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
+- **[Why Strategic Seed Production Partnerships Matter More Than Ever](items/seedworld/2026/04/https_www.seedworld.com_p_124436.md)**
+  - 2026-04-10 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124436.md) · [원문](https://www.seedworld.com/us/2026/04/09/why-strategic-seed-production-partnerships-matter-more-than-ever/)
+  - Strategic seed production partnerships matter more than ever before. Seed companies are facing a complex environment with tight timelines, growing condition shifts and complicated logistics that crea…
+
+- **[Lacombe Closure Puts Spotlight on Canada’s Agricultural Research Workforce](items/seedworld/2026/04/https_www.seedworld.com_p_124426.md)**
+  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124426.md) · [원문](https://www.seedworld.com/canada/2026/04/09/lacombe-closure-puts-spotlight-on-canadas-agricultural-research-workforce/)
+  - From relocation decisions to talent retention, Lori Oatway of Western Crop Innovations outlines the human side of research system changes. News of the planned closure of Agriculture and Agri-Food Can…
+
+- **[Corn Stunt Diseases Pose Growing Threat to Brazil’s Maize Production](items/seedworld/2026/04/https_www.seedworld.com_p_124374.md)**
+  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124374.md) · [원문](https://www.seedworld.com/latam/2026/04/09/corn-stunt-diseases-pose-growing-threat-to-brazils-maize-production/)
+  - Corn leafhopper-driven stunt diseases have caused major maize losses in Brazil, with a new study estimating average yield reductions of 22.7% between 2020 and 2024, worth US$6.5 billion annually.
+
+- **[Global Consortium Calls for Mapping Gene Expression Across All Wheat Cells](items/seedworld/2026/04/https_www.seedworld.com_p_124359.md)**
+  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124359.md) · [원문](https://www.seedworld.com/europe/2026/04/09/global-consortium-calls-for-mapping-gene-expression-across-all-wheat-cells/)
+  - The Wheat Spatial Omics Consortium, spanning 80 researchers in nine countries, urges a global effort to map gene expression across every wheat cell type and developmental stage.
+
+- **[Wageningen to Launch Field Trials with NGT Potatoes](items/seedworld/2026/04/https_www.seedworld.com_p_124408.md)**
+  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124408.md) · [원문](https://www.seedworld.com/europe/2026/04/09/wur-to-launch-field-trials-with-ngt-potatoes-in-2026/)
+  - Wageningen University & Research and the Dutch Ministry of Agriculture will begin new genetically modified potato field trials in 2026, testing disease- and pest-resistant varieties.
+
+- **[Scientists Develop Leaf-Friendly Electrode for Smart Agriculture](items/seedworld/2026/04/https_www.seedworld.com_p_124205.md)**
+  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124205.md) · [원문](https://www.seedworld.com/europe/2026/04/09/scientists-develop-leaf-friendly-electrode-for-smart-agriculture/)
+  - Researchers at the Institute of Science Tokyo have developed an ultra-thin, transparent, water-resistant nanofilm electrode that monitors plant stress without disrupting leaf function.
+
+- **[노지 감귤꽃 ‘5월 7일’ 활짝 필 전망, 지난해보다 일주일 빨라](items/rda/2026/04/100000809140.md)**
+  - 2026-04-09 · `rda` · [읽기](items/rda/2026/04/100000809140.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809140&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 노지 감귤 주산지의 싹 나는 시기(발아기)와 그간의 꽃 핀 시기(만개기), 4월 기상 상황을 종합 분석한 결과, 올해 노지 감귤꽃은 5월 7일께 활짝 필 것으로 예측했다. 이는 지난해보다 7일 정도 빠르고, 평년(2016∼2025, 과거 10년)과 비슷한 수준이다.
+
+- **[‘원예 시설 시공업체 한자리에’ 현장 애로 해소·협력 방안 모색](items/rda/2026/04/100000809139.md)**
+  - 2026-04-09 · `rda` · [읽기](items/rda/2026/04/100000809139.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809139&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립원예특작과학원이 4월 7일 본원(전북특별자치도 완주)에서 ‘원예 시설 시공업체 소통 간담회’를 열고, 업체 목소리를 들었다. 이번 간담회에는 김대현 원장을 비롯해 시설원예연구소 관계자, 원예 시설 시공업체 20여 곳 대표 등 30여 명이 참석했다.
+
+- **[농촌진흥청, 과수 저온 피해 경감 기술 적용 현장 점검](items/rda/2026/04/100000809138.md)**
+  - 2026-04-09 · `rda` · [읽기](items/rda/2026/04/100000809138.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809138&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립원예특작과학원 김대현 원장은 4월 6일 충남 천안에 있는 배 과수원을 찾아 ‘과수 저온 피해 경감용 동결보호제’ 현장 적용 상황을 점검했다. 이 자리에서 김 원장은 “최근 포근한 날씨가 이어졌지만, 배꽃 피는 시기 갑작스럽게 찾아올 수 있는 이상저온에 대비해 경각심을 늦춰서는 안 된다.”라고 당부했다.
+
+- **[농촌진흥청, 밀 생육 동향 및 국산 밀 제분 시설 현장 점검](items/nics/2026/04/944111.md)**
+  - 2026-04-09 · `nics` · [읽기](items/nics/2026/04/944111.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944111)
+
+- **[노지 감귤꽃 ‘5월 7일’ 활짝 필 전망, 지난해보다 일주일 빨라](items/nihhs/2026/04/100000809140.md)**
+  - 2026-04-09 · `nihhs` · [읽기](items/nihhs/2026/04/100000809140.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000809140&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 노지 감귤꽃 ‘5월 7일’ 활짝 필 전망, 지난해보…
+
+- **[‘원예 시설 시공업체 한자리에’ 현장 애로 해소·협력 방안 모색](items/nihhs/2026/04/100000809139.md)**
+  - 2026-04-09 · `nihhs` · [읽기](items/nihhs/2026/04/100000809139.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000809139&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 ‘원예 시설 시공업체 한자리에’ 현장 애로 해소·협…
+
+- **[농촌진흥청, 과수 저온 피해 경감 기술 적용 현장 점검](items/nihhs/2026/04/100000809138.md)**
+  - 2026-04-09 · `nihhs` · [읽기](items/nihhs/2026/04/100000809138.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000809138&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 농촌진흥청, 과수 저온 피해 경감 기술 적용 현장…
+
+- **[An Investment In Every Canadian: On the Brink Episode 5](items/seedworld/2026/04/https_www.seedworld.com_p_124340.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124340.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/08/an-investment-in-every-canadian-on-the-brink-episode-5/)
+  - Gerald Girard, Director of Barley Procurement at Malteurop, explains how investment in Canadian plant breeding sustains the supply chain — delivering stable barley supply and consistent quality all t…
+
+- **[Gene-Edited Wheat Cuts Harmful Acrylamide Without Yield Loss](items/seedworld/2026/04/https_www.seedworld.com_p_124365.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124365.md) · [원문](https://www.seedworld.com/europe/2026/04/08/gene-edited-wheat-cuts-harmful-acrylamide-without-yield-loss/)
+  - Scientists at Rothamsted Research have developed CRISPR-edited wheat with up to 93% lower asparagine, cutting acrylamide formation in bread and biscuits without reducing yield.
+
+- **[Brasil enfrenta creciente riesgo por achaparramiento del maíz](items/seedworld/2026/04/https_www.seedworld.com_p_124371.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124371.md) · [원문](https://www.seedworld.com/latam/2026/04/08/brasil-enfrenta-creciente-riesgo-por-achaparramiento-del-maiz/)
+  - Las enfermedades del achaparramiento del maíz, transmitidas por la chicharrita, han provocado grandes pérdidas en Brasil. Un estudio estima una reducción media del 22,7% del rendimiento entre 2020 y…
+
+- **[Euroseeds Joins Call to Preserve Agriculture and Bioeconomy in EU Research Programme](items/seedworld/2026/04/https_www.seedworld.com_p_124362.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124362.md) · [원문](https://www.seedworld.com/europe/2026/04/08/euroseeds-joins-call-to-preserve-agriculture-and-bioeconomy-in-eu-research-programme/)
+  - Euroseeds and more than 20 stakeholders have welcomed MEP Christian Ehler’s draft ITRE report on Horizon Europe 2028–2034 but urge lawmakers to keep agriculture and the bioeconomy explicitly named in…
+
+- **[Gene Discovery Opens Path to Deeper, More Efficient Crop Roots](items/seedworld/2026/04/https_www.seedworld.com_p_124202.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124202.md) · [원문](https://www.seedworld.com/europe/2026/04/08/gene-discovery-opens-path-to-deeper-more-efficient-crop-roots/)
+  - Researchers identified the plant signaling gene CEPR1 as a promising target for breeding cereal crops with steeper, narrower root systems that may better access water and nutrients.
+
+- **[From Motion to Momentum: Where Strategy Begins](items/seedworld/2026/04/https_www.seedworld.com_p_124356.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124356.md) · [원문](https://www.seedworld.com/us/2026/04/08/from-motion-to-momentum-where-strategy-begins-3/)
+  - Clear strategy gives organizations purpose, direction, and competitive focus, while planning turns that vision into action. When leaders define why they exist, who they serve, and how they create val…
+
+- **[From Motion to Momentum: Where Strategy Begins](items/seedworld/2026/04/https_www.seedworld.com_p_124353.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124353.md) · [원문](https://www.seedworld.com/europe/2026/04/08/from-motion-to-momentum-where-strategy-begins-2/)
+  - Clear strategy gives organizations purpose, direction, and competitive focus, while planning turns that vision into action. When leaders define why they exist, who they serve, and how they create val…
+
+- **[From Motion to Momentum: Where Strategy Begins](items/seedworld/2026/04/https_www.seedworld.com_p_124350.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124350.md) · [원문](https://www.seedworld.com/canada/2026/04/08/from-motion-to-momentum-where-strategy-begins/)
+  - Clear strategy gives organizations purpose, direction, and competitive focus, while planning turns that vision into action. When leaders define why they exist, who they serve, and how they create val…
+
+- **[Watermelon Breeding Under Pressure: What Growers and Breeders Are Up Against](items/seedworld/2026/04/https_www.seedworld.com_p_124208.md)**
+  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124208.md) · [원문](https://www.seedworld.com/europe/2026/04/08/watermelon-breeding-under-pressure-what-growers-and-breeders-are-up-against/)
+  - Watermelon breeding faces growing pressure from climate change, disease threats, limited crop protection, and complex polygenic traits. Narrow genetic diversity and demanding consumer standards add f…
+
 - **[Seed Certification is Adjusting to a System it No Longer Fully Controls](items/seedworld/2026/04/https_www.seedworld.com_p_124301.md)**
   - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124301.md) · [원문](https://www.seedworld.com/us/2026/04/07/seed-certification-is-adjusting-to-a-system-it-no-longer-fully-controls/)
   - Brad Stancil, who won the 2025 Association of Seed Certifying Agencies Excellence in Innovation award, connects regulatory programs with seed certification. The post Seed Certification is Adjusting t…
+
+- **[농촌진흥청, 밀 생육 동향 및 국산 밀 제분 시설 현장 점검](items/rda/2026/04/100000809122.md)**
+  - 2026-04-08 · `rda` · [읽기](items/rda/2026/04/100000809122.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809122&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청 김상경 차장은 4월 7일 오후, 전남 구례군 광의면 국산 밀 재배단지를 찾아 밀 생육 상태와 재배 관리 상황을 점검하고, 국산 밀 전용 중소형 제분 시설 운영 현황을 살폈다. 구례밀영농조합법인은 농촌진흥청이 육성한 ‘백강’과 ‘금강’ 품종을 253헥타르(㏊) 면적에 주로 파종해 공동 생산하고 있다.
+
+- **[고추, 아주심기 시기 저온 노출 기간 길수록 생육 ‘뚝’](items/rda/2026/04/100000809121.md)**
+  - 2026-04-08 · `rda` · [읽기](items/rda/2026/04/100000809121.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809121&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 봄철 이상기상으로 고추 아주심기 시기에 저온 피해 우려가 커지고 있다. 농촌진흥청(청장 이승돈)은 저온 노출 강도와 기간에 따른 고추 생육과 수확량 변화를 밝히고, 농가 실천 기술을 제시했다.
+
+- **[‘알디에이(RDA)승용마’ 방목 시작, 마음껏 초원을 달린다](items/rda/2026/04/100000809119.md)**
+  - 2026-04-08 · `rda` · [읽기](items/rda/2026/04/100000809119.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809119&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 ‘알디에이(RDA)승용마’를 4월부터 11월까지 8개월 동안 제주도 중산간 지역 난지축산연구센터 초지에 방목 사육할 계획이라고 밝혔다. ‘알디에이(RDA)승용마’는 농촌진흥청(Rural Development Administration)이 개발한 국산 승용마다.
+
+- **[고추, 아주심기 시기 저온 노출 기간 길수록 생육 ‘뚝’](items/nihhs/2026/04/100000809121.md)**
+  - 2026-04-08 · `nihhs` · [읽기](items/nihhs/2026/04/100000809121.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000809121&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 고추, 아주심기 시기 저온 노출 기간 길수록 생육…
 
 - **[Soil Microbe Breakthrough Boosts Phosphorus Efficiency in Crops](items/seedworld/2026/04/https_www.seedworld.com_p_124199.md)**
   - 2026-04-07 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124199.md) · [원문](https://www.seedworld.com/europe/2026/04/07/soil-microbe-breakthrough-boosts-phosphorus-efficiency-in-crops/)
@@ -110,102 +217,13 @@ title: "식물 육종 뉴스"
   - 2026-04-06 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124218.md) · [원문](https://www.seedworld.com/canada/2026/04/06/canadian-seed-growers-association-faces-new-chapter-as-doug-miller-exits/)
   - He leaves behind a more modern, more agile organization at a pivotal moment for Canada’s seed sector The post Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits appeared first…
 
-- **[European Commission Launches Consultation on Plant Variety Rights System](items/seedworld/2026/04/https_www.seedworld.com_p_124159.md)**
-  - 2026-04-06 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124159.md) · [원문](https://www.seedworld.com/europe/2026/04/06/european-commission-launches-consultation-on-plant-variety-rights-system/)
-  - The European Commission has opened a consultation on Community Plant Variety Rights legislation and the performance of the CPVO. Stakeholders across the plant breeding, seed, farming and research sec…
-
-- **[CIMMYT Scientist Receives Africa Region Food Security Leadership Award for MLN Work](items/seedworld/2026/04/https_www.seedworld.com_p_124193.md)**
-  - 2026-04-06 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124193.md) · [원문](https://www.seedworld.com/europe/2026/04/06/cimmyt-scientist-receives-africa-region-food-security-leadership-award-for-mln-work/)
-  - In Nairobi, African scientists, regulators and seed leaders recognized Suresh L.M. with the Africa Region Food Security Leadership Award for combating maize lethal necrosis.
-
-- **[‘신동진1’ 질소비료 감축…농가 경영비 줄이고, 쌀 품질 높인다](items/nics/2026/04/944107.md)**
-  - 2026-04-06 · `nics` · [읽기](items/nics/2026/04/944107.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944107)
-
-- **[고구마 가공 제품별 최적 품종과 제조 공법은?](items/nics/2026/04/944106.md)**
-  - 2026-04-06 · `nics` · [읽기](items/nics/2026/04/944106.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944106)
-
-- **[인공지능으로 여는 치유농업의 미래, 산업화·창업 전략 모색](items/rda/2026/04/100000808983.md)**
-  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808983.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808983&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농업 현장에 필요한 기술, “언제나, 누구나 제안하세요!”](items/rda/2026/04/100000808982.md)**
-  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808982.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808982&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘신동진1’ 질소비료 감축…농가 경영비 줄이고, 쌀 품질 높인다](items/rda/2026/04/100000808981.md)**
-  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808981.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808981&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[고구마 가공 제품별 최적 품종과 제조 공법은?](items/rda/2026/04/100000808979.md)**
-  - 2026-04-05 · `rda` · [읽기](items/rda/2026/04/100000808979.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808979&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[인공지능으로 여는 치유농업의 미래, 산업화·창업 전략 모색](items/nihhs/2026/04/100000808983.md)**
-  - 2026-04-05 · `nihhs` · [읽기](items/nihhs/2026/04/100000808983.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808983&mc=MN0000000136)
-
-- **[Canada’s Seed Sector This Week: Pressure is Building, but so is Momentum](items/seedworld/2026/04/https_www.seedworld.com_p_124177.md)**
-  - 2026-04-03 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124177.md) · [원문](https://www.seedworld.com/canada/2026/04/02/canadas-seed-sector-this-week-pressure-is-building-but-so-is-momentum/)
-  - As funding concerns grow and research capacity tightens, tools like the VUA and a reset in Seeds Canada leadership signal a sector starting to respond in real time The post Canada’s Seed Sector This…
-
-- **[Seeds Canada Prepares for 2026 AGM After Successful Seed School](items/seedworld/2026/04/https_www.seedworld.com_p_124170.md)**
-  - 2026-04-03 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124170.md) · [원문](https://www.seedworld.com/canada/2026/04/02/seeds-canada-prepares-for-2026-agm-after-successful-seed-school/)
-  - A full-capacity Seed School in Winnipeg set the stage for July’s Annual Meeting in Saskatoon The post Seeds Canada Prepares for 2026 AGM After Successful Seed School appeared first on Seed World .
-
-- **[농촌진흥청, ‘여성과학기술인’ 상호 협력·소통 자리 마련](items/rda/2026/04/100000808946.md)**
-  - 2026-04-03 · `rda` · [읽기](items/rda/2026/04/100000808946.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808946&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 농약 업계와 손잡고 세계 시장 진출 박차](items/rda/2026/04/100000808938.md)**
-  - 2026-04-03 · `rda` · [읽기](items/rda/2026/04/100000808938.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808938&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘재활 치유농업’ 전국 현장 실증에서 신체기능 향상 효과 확인](items/rda/2026/04/100000808937.md)**
-  - 2026-04-03 · `rda` · [읽기](items/rda/2026/04/100000808937.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000808937&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청-법제처, 지방농촌진흥기관 공무원 자치법규 입안 역량교육 추진](items/rda/2026/04/100000808934.md)**
-  - 2026-04-03 · `rda` · [읽기](items/rda/2026/04/100000808934.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808934&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[국립식량과학원, 식량·농식품 산업 협의체와 현장 맞춤형 연구 강화](items/nics/2026/04/944101.md)**
-  - 2026-04-03 · `nics` · [읽기](items/nics/2026/04/944101.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944101)
-
-- **[‘재활 치유농업’ 전국 현장 실증에서 신체기능 향상 효과 확인](items/nihhs/2026/04/100000808937.md)**
-  - 2026-04-03 · `nihhs` · [읽기](items/nihhs/2026/04/100000808937.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000808937&mc=MN0000000136)
-
-- **[Seed Innovation in Canada: The Funding Problem No One Can Ignore](items/seedworld/2026/04/https_www.seedworld.com_p_124162.md)**
-  - 2026-04-02 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124162.md) · [원문](https://www.seedworld.com/canada/2026/04/02/seed-innovation-in-canada-the-funding-problem-no-one-can-ignore/)
-  - Seeds Canada CEO Dan Wright explains why current models are falling short — and how new approaches like the Variety Use Agreement could change the game The post Seed Innovation in Canada: The Funding…
-
-- **[Breeders Trust Flags Illegal Seed Potato Sales in Online Marketplaces](items/seedworld/2026/04/https_www.seedworld.com_p_124156.md)**
-  - 2026-04-02 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124156.md) · [원문](https://www.seedworld.com/europe/2026/04/02/breeders-trust-flags-illegal-seed-potato-sales-in-online-marketplaces/)
-  - Breeders Trust is monitoring online sales of seed potatoes, highlighting growing cases of illegal trade via Facebook groups and webshops. Uncertified seed and misuse of ware potatoes raise plant bree…
-
-- **[New Jalapeño, Murupi and Ornamental Peppers Move to On-Farm Testing in Brazil](items/seedworld/2026/04/https_www.seedworld.com_p_123722.md)**
-  - 2026-04-02 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_123722.md) · [원문](https://www.seedworld.com/latam/2026/04/02/new-jalapeno-murupi-and-ornamental-peppers-move-to-on-farm-testing-in-brazil/)
-  - New jalapeño, murupi, fresh-market, and ornamental pepper materials from Embrapa Vegetables are advancing to on-farm testing in Brazil. Developed to meet demands from growers, processors, and ornamen…
-
-- **[Ukraine’s Seed Sector During the Russian Invasion of Ukraine: Production, Exports and EU Integration](items/seedworld/2026/04/https_www.seedworld.com_p_124144.md)**
-  - 2026-04-02 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124144.md) · [원문](https://www.seedworld.com/europe/2026/04/02/ukraines-seed-sector-during-the-russian-invasion-of-ukraine-production-exports-and-eu-integration/)
-  - Ukraine’s seed sector faces disruption from the Russian invasion of Ukraine, including energy shortages, mined farmland, logistics barriers, and labour gaps. Despite producers maintain output, invest…
-
-- **[Your Data Doesn’t End at the Lab, It Shows Up in the Field](items/seedworld/2026/04/https_www.seedworld.com_p_124140.md)**
-  - 2026-04-02 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124140.md) · [원문](https://www.seedworld.com/us/2026/04/02/your-data-doesnt-end-at-the-lab-it-shows-up-in-the-field/)
-  - Seed testing decisions often rely on germination percentage alone, but field performance depends on more. This rye case showed how abnormal seedlings, Fusarium pressure, and seed stress can signal hi…
-
-- **[The Final Four? Bioenergy Crops Beyond Corn Competing for the Future of Energy](items/seedworld/2026/04/https_www.seedworld.com_p_124127.md)**
-  - 2026-04-02 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124127.md) · [원문](https://www.seedworld.com/us/2026/04/01/bioenergy-crops-beyond-corn-competing-for-the-future-of-energy/)
-  - Four bioenergy crops go head-to-head in a March Madness-style showdown, revealing how poplar, sorghum, switchgrass and mixed prairie are competing beyond corn to shape the future of sustainable energ…
-
-- **[The Overlooked Role of Seed Processors in Crop Success](items/seedworld/2026/04/https_www.seedworld.com_p_124126.md)**
-  - 2026-04-02 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124126.md) · [원문](https://www.seedworld.com/canada/2026/04/01/the-overlooked-role-of-seed-processors-in-crop-success/)
-  - While often behind the scenes, seed processors are essential to delivering the consistency and quality growers rely on every season. I didn’t take a straight path into agriculture, but it’s […] The p…
-
-- **[The End of the Status Quo: On the Brink Episode 4](items/seedworld/2026/04/https_www.seedworld.com_p_124120.md)**
-  - 2026-04-02 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124120.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/01/on-the-brink-episode-4-the-end-of-the-status-quo/)
-  - Federal cuts are closing key research facilities across Canada. Doug Miller of the Canadian Seed Growers Association joins On the Brink Episode 4 to ask what comes next for Canadian plant breeding —…
-
-- **[농촌진흥청, 노사 협력 구축 ‘노사협의회 상생 공동 연수(워크숍)’ 개최](items/rda/2026/04/100000808929.md)**
-  - 2026-04-02 · `rda` · [읽기](items/rda/2026/04/100000808929.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000808929&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
 
 <a id="weekly-archive"></a>
 ## 지난 주간 아카이브
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-04-10](weekly/2026-04-10.md)
 - [2026-04-08](weekly/2026-04-08.md)
 - [2026-04-06](weekly/2026-04-06.md)
 - [2026-04-03](weekly/2026-04-03.md)

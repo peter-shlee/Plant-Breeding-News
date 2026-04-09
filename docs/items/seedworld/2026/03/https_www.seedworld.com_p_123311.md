@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/18/la-recso-de-argentina-establece
 summary: "La red argentina de evaluación de cultivares de soja RECSO se ampliará en 2026 a escala regional como RRECSO-Américas, integrando a Argentina, Uruguay, Paraguay, Colombia y Perú con protocolos unificados."
 attachments: []
 tags: []
-fetched_at: "2026-04-08T06:48:08+09:00"
+fetched_at: "2026-04-10T06:48:37+09:00"
 ---
 # La RECSO de Argentina establece el estándar para ensayos regionales unificados de soja en 2026
 

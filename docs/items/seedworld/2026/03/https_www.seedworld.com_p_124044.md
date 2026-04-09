@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/26/this-week-in-seed-a-global-cri
 summary: "As growers face rising costs, initiatives like the Borlaug Scholars program signal how investment in people and innovation will define the next chapter of seed The post This Week in Seed: A Global Crisis, Rising Costs — and a Bigger"
 attachments: []
 tags: []
-fetched_at: "2026-04-08T06:48:08+09:00"
+fetched_at: "2026-04-10T06:48:37+09:00"
 ---
 # This Week in Seed: A Global Crisis, Rising Costs — and a Bigger Question No One Can Ignore
 

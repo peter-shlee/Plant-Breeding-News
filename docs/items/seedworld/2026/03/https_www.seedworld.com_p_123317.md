@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/20/el-nuevo-hibrido-de-sorgo-de-em
 summary: "Embrapa y Latina Seeds lanzaron el híbrido de sorgo forrajero gigante BRS 662 (LAS6002F), orientado a ensilaje, biogás y producción de energía. El cultivar de ciclo temprano puede superar 80 toneladas por hectárea, con fuerte rebrote y"
 attachments: []
 tags: []
-fetched_at: "2026-04-08T06:48:08+09:00"
+fetched_at: "2026-04-10T06:48:37+09:00"
 ---
 # El nuevo híbrido de sorgo de Embrapa se centra en la producción de ensilado, biogás y energía
 
