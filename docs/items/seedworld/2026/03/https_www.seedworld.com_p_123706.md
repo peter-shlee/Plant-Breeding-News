@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/27/nuevos-programas-de-embrapa-bus
 summary: "Los nuevos programas de Maíz Bajo en Carbono y Sorgo Bajo en Carbono de Embrapa buscan reducir la huella de carbono de la producción de granos en Brasil mediante protocolos de certificación basados en ciencia."
 attachments: []
 tags: []
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # Nuevos programas de Embrapa buscan reducir la huella de carbono del maíz y el sorgo
 

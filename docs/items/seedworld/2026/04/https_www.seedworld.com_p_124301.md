@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/07/seed-certification-is-adjusting-to
 summary: "Brad Stancil, who won the 2025 Association of Seed Certifying Agencies Excellence in Innovation award, connects regulatory programs with seed certification. The post Seed Certification is Adjusting to a System it No Longer Fully Controls"
 attachments: []
 tags: []
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # Seed Certification is Adjusting to a System it No Longer Fully Controls
 

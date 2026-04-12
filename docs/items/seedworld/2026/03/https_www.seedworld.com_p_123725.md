@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/03/18/on-the-brink-epis
 summary: "Canadian conditions demand Canadian plant breeding solutions. In Episode 2 of On the Brink, Crop Development Centre director Curtis Pozniak explains what's at stake when investment in homegrown crop innovation slows down."
 attachments: []
 tags: []
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # Canadian Conditions Need Made-for-Canada Solutions: On the Brink Episode 2
 

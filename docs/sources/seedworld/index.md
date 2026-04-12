@@ -11,6 +11,18 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Why the Fertilizer Crisis Won’t End When the Iran War Does](../../items/seedworld/2026/04/https_www.seedworld.com_p_124511.md)**
+  - 2026-04-11 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124511.md) · [원문](https://www.seedworld.com/us/2026/04/10/why-the-fertilizer-crisis-wont-end-with-the-war/)
+  - The fertilizer crisis gripping global agriculture was already building before the war with Iran. The situation was already taking place across supply chains, buying habits and investment pipelines.
+
+- **[Supporting Genebanks: Enlightened Self Interest](../../items/seedworld/2026/04/https_www.seedworld.com_p_124413.md)**
+  - 2026-04-10 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124413.md) · [원문](https://www.seedworld.com/europe/2026/04/10/supporting-genebanks-enlightened-self-interest/)
+  - Genebanks are essential public infrastructure that conserve crop diversity and support breeders, food security, and climate resilience. While governments and the Crop Trust provide core funding, priv…
+
+- **[Marc’s Take This Week: The People Behind Plant Breeding — and What Canada Risks Losing](../../items/seedworld/2026/04/https_www.seedworld.com_p_124508.md)**
+  - 2026-04-10 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124508.md) · [원문](https://www.seedworld.com/canada/2026/04/09/marcs-take-this-week-the-people-behind-plant-breeding-and-what-canada-risks-losing/)
+  - From consistent barley supply to the potential loss of decades of expertise in Lacombe, this week’s stories connect the human and economic impact of agricultural investment.
+
 - **[Why Strategic Seed Production Partnerships Matter More Than Ever](../../items/seedworld/2026/04/https_www.seedworld.com_p_124436.md)**
   - 2026-04-10 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124436.md) · [원문](https://www.seedworld.com/us/2026/04/09/why-strategic-seed-production-partnerships-matter-more-than-ever/)
   - Strategic seed production partnerships matter more than ever before. Seed companies are facing a complex environment with tight timelines, growing condition shifts and complicated logistics that crea…
@@ -381,35 +393,3 @@ source: "seedworld"
 - **[Embrapa presenta nuevos cultivares de frijol enfocados en la productividad, la reducción de riesgos y la cali…](../../items/seedworld/2026/03/https_www.seedworld.com_p_123305.md)**
   - 2026-03-16 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123305.md) · [원문](https://www.seedworld.com/latam/2026/03/16/embrapa-presenta-nuevos-cultivares-de-frijol-enfocados-en-la-productividad-la-reduccion-de-riesgos-y-la-calidad-del-mercado/)
   - Embrapa Arroz e Feijão lanzó a inicios de 2026 cuatro nuevos cultivares de frijol para aumentar productividad, reducir riesgos agronómicos y mejorar la calidad comercial.
-
-- **[New Gene Discovery Could Help Breed Hardier, Higher-yielding Faba Beans](../../items/seedworld/2026/03/https_www.seedworld.com_p_123422.md)**
-  - 2026-03-13 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123422.md) · [원문](https://www.seedworld.com/europe/2026/03/12/new-gene-discovery-could-help-breed-hardier-higher-yielding-faba-beans/)
-  - Faba bean, an ancient high-protein crop and sustainable European soy alternative, may soon become more frost-resilient. Researchers improved the faba bean reference genome and identified a single gen…
-
-- **[Brazilian Scientists Develop AI Platform to Predict Asian Soybean Rust](../../items/seedworld/2026/03/https_www.seedworld.com_p_123302.md)**
-  - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123302.md) · [원문](https://www.seedworld.com/latam/2026/03/12/brazilian-scientists-develop-ai-platform-to-predict-asian-soybean-rust/)
-  - Brazilian researchers created a cloud-based AI platform to predict Asian soybean rust risk by fusing climate sensor data, agronomic factors, and leaf images. The dashboard classifies risk as low, med…
-
-- **[Square Wheels and Round Thinking: Why AI in Agribusiness Starts with First Principles](../../items/seedworld/2026/03/https_www.seedworld.com_p_123454.md)**
-  - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123454.md) · [원문](https://www.seedworld.com/europe/2026/03/12/square-wheels-and-round-thinking-why-ai-in-agribusiness-starts-with-first-principles/)
-  - AI consultant Robert Newcombe urges farmers to challenge tradition and use artificial intelligence to rethink farm operations. Drawing on his dairy farm background, he says AI works best for reducing…
-
-- **[SGS Canada Crop Science Now Authorized for Bayer Corn Trait Testing in Canada](../../items/seedworld/2026/03/https_www.seedworld.com_p_123442.md)**
-  - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123442.md) · [원문](https://www.seedworld.com/canada/2026/03/11/sgs-canada-crop-science-now-authorized-for-bayer-corn-trait-testing-in-canada/)
-  - New Canadian-based corn trait testing includes herbicide bioassays and ELISA trait testing, helping seed corn companies avoid cross-border delays and improve turnaround time.
-
-- **[Canada is On the Brink. Let’s Talk About It: On the Brink Episode 1](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md)**
-  - 2026-03-12 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123435.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/11/canada-is-on-the-brink-lets-talk-about-it/)
-  - Canadian plant breeding is at a crossroads. On the Brink is Seed World's new video series exploring the future of Canada's seed and crop innovation system.
-
-- **[Científicos Brasileños desarrollan una plataforma de IA para predecir la roya asiática de la soja](../../items/seedworld/2026/03/https_www.seedworld.com_p_123299.md)**
-  - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123299.md) · [원문](https://www.seedworld.com/latam/2026/03/11/cientificos-brasilenos-desarrollan-una-plataforma-de-ia-para-predecir-la-roya-asiatica-de-la-soja/)
-  - Científicos brasileños desarrollaron una plataforma en la nube con IA para predecir el riesgo de roya asiática de la soja, integrando datos climáticos, parámetros agronómicos e imágenes de hojas.
-
-- **[Coated Seeds Changed Alfalfa Forever. Who’s Next?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123431.md)**
-  - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123431.md) · [원문](https://www.seedworld.com/us/2026/03/11/coated-seeds-changed-alfalfa-forever-whos-next/)
-  - Coated seed was once seen by alfalfa growers as unnecessary cost and weight. Over time, growers recognized clear agronomic benefits: coatings create a protective micro-environment with fungicides, in…
-
-- **[Svalbard Global Seed Vault Nominated for Nobel Peace Prize](../../items/seedworld/2026/03/https_www.seedworld.com_p_123419.md)**
-  - 2026-03-11 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123419.md) · [원문](https://www.seedworld.com/europe/2026/03/11/svalbard-global-s/)
-  - Geir Pollestad, Norwegian MP and former agriculture minister, has nominated the Svalbard Global Seed Vault for the Nobel Peace Prize, together with NordGen, FAO, Crop Trust, and CGIAR.

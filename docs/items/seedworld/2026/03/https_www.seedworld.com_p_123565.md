@@ -9,7 +9,7 @@ summary: "By analyzing over 1,100 soybean genomes, scientists uncovered new sour
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # The Show Me State is Ground Zero in the Fight Against Soybean Cyst Nematode
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/02/seed-innovation-in-canada-the-
 summary: "Seeds Canada CEO Dan Wright explains why current models are falling short — and how new approaches like the Variety Use Agreement could change the game The post Seed Innovation in Canada: The Funding Problem No One Can Ignore appeared"
 attachments: []
 tags: []
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # Seed Innovation in Canada: The Funding Problem No One Can Ignore
 

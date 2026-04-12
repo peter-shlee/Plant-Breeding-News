@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/17/study-finds-no-clear-link-betw
 summary: "A new review of global health data and decades of scientific research found no consistent evidence that GMO consumption is linked to major human health problems. Researchers in South Korea found no causal association between GMOs and"
 attachments: []
 tags: []
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # Study Finds No Clear Link Between GMOs and Health Risks
 

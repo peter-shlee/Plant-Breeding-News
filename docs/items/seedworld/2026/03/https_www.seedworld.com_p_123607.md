@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/17/aosca-names-new-leadership/"
 summary: "AOSCA names Michael Bouck president and Matthew Young vice president following its latest board meeting, marking a leadership transition focused on strengthening seed certification systems across North America."
 attachments: []
 tags: []
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # AOSCA Names New Leadership
 

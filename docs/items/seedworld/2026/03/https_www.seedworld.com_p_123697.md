@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "gene-editing"
   - "벼"
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # Peru’s New Gene-Editing Guidelines Could Boost Crop Innovation
 

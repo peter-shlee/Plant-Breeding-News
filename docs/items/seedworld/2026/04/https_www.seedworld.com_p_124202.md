@@ -9,7 +9,7 @@ summary: "Researchers identified the plant signaling gene CEPR1 as a promising t
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # Gene Discovery Opens Path to Deeper, More Efficient Crop Roots
 

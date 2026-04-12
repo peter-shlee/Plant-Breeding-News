@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/04/08/an-investment-in-
 summary: "Gerald Girard, Director of Barley Procurement at Malteurop, explains how investment in Canadian plant breeding sustains the supply chain — delivering stable barley supply and consistent quality all the way to the consumer."
 attachments: []
 tags: []
-fetched_at: "2026-04-10T06:48:37+09:00"
+fetched_at: "2026-04-13T06:46:46+09:00"
 ---
 # An Investment In Every Canadian: On the Brink Episode 5
 
