@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/30/un-estudio-advierte-que-colombi
 summary: "Un nuevo estudio advierte que Colombia podría perder casi 20% de su tierra apta para cacao hacia 2050 por cambios en temperatura y lluvias. Los mayores riesgos están en tierras bajas y regiones del noreste, mientras algunas zonas altas"
 attachments: []
 tags: []
-fetched_at: "2026-04-13T06:46:46+09:00"
+fetched_at: "2026-04-15T06:49:15+09:00"
 ---
 # Un estudio advierte que Colombia podría perder una quinta parte de sus tierras cacaoteras para 2050
 

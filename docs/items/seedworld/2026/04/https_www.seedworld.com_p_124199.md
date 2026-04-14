@@ -9,7 +9,7 @@ summary: "A new study finds that combining biochar with phosphate-solubilizing B
 attachments: []
 tags:
   - "토마토"
-fetched_at: "2026-04-13T06:46:46+09:00"
+fetched_at: "2026-04-15T06:49:15+09:00"
 ---
 # Soil Microbe Breakthrough Boosts Phosphorus Efficiency in Crops
 

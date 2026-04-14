@@ -11,7 +11,7 @@ tags:
   - "genomics"
   - "gene-editing"
   - "감자"
-fetched_at: "2026-04-13T06:46:46+09:00"
+fetched_at: "2026-04-15T06:49:15+09:00"
 ---
 # Wageningen to Launch Field Trials with NGT Potatoes
 

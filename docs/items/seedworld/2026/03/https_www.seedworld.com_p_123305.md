@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/16/embrapa-presenta-nuevos-cultiva
 summary: "Embrapa Arroz e Feijão lanzó a inicios de 2026 cuatro nuevos cultivares de frijol para aumentar productividad, reducir riesgos agronómicos y mejorar la calidad comercial."
 attachments: []
 tags: []
-fetched_at: "2026-04-13T06:46:46+09:00"
+fetched_at: "2026-04-15T06:49:15+09:00"
 ---
 # Embrapa presenta nuevos cultivares de frijol enfocados en la productividad, la reducción de riesgos y la calidad del mercado
 

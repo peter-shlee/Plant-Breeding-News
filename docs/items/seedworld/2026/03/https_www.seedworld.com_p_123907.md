@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/24/legacy-project-to-support-nati
 summary: "Ahead of the World Seed Congress 2026 in Lisbon, the new Legacy Project aims to create lasting local impact by uniting the seed sector, students and civil society to grow crops for donation to Portugal’s National Food Bank."
 attachments: []
 tags: []
-fetched_at: "2026-04-13T06:46:46+09:00"
+fetched_at: "2026-04-15T06:49:15+09:00"
 ---
 # Legacy Project to Support National Food Bank ahead of World Seed Congress 2026
 

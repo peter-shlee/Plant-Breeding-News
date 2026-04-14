@@ -11,6 +11,38 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Seed Programs International Connects Smallholder Farmers to the Seed Sector](../../items/seedworld/2026/04/https_www.seedworld.com_p_124620.md)**
+  - 2026-04-14 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124620.md) · [원문](https://www.seedworld.com/us/2026/04/14/seed-programs-international-connects-smallholder-farmers-to-the-seed-sector/)
+  - A small team, a global network and millions reached — Seed Programs International connects smallholder farmers to the seed sector, turning donations and partnerships into measurable food security imp…
+
+- **[New Soybean Variety Targets Herbicide-Resistant Weeds](../../items/seedworld/2026/04/https_www.seedworld.com_p_124380.md)**
+  - 2026-04-14 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124380.md) · [원문](https://www.seedworld.com/latam/2026/04/14/new-soybean-variety-targets-herbicide-resistant-weeds/)
+  - Embrapa Soja and Caramuru Alimentos have launched BRS 579, a high-yield soybean cultivar for north-central Mato Grosso that combines strong plant health with STS herbicide tolerance.
+
+- **[Drones and AI Transform Wheat Crop Monitoring for Climate Resilience](../../items/seedworld/2026/04/https_www.seedworld.com_p_124601.md)**
+  - 2026-04-14 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124601.md) · [원문](https://www.seedworld.com/europe/2026/04/14/drones-and-ai-transform-wheat-crop-monitoring-for-climate-resilience/)
+  - Drones and artificial intelligence are transforming how scientists monitor wheat crops and identify climate-resilient varieties. By tracking crop growth with advanced imaging and sensors, researchers…
+
+- **[A Quiet Giant in Pea Breeding: Remembering AAFC Scientist D.J. Bing](../../items/seedworld/2026/04/https_www.seedworld.com_p_124589.md)**
+  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124589.md) · [원문](https://www.seedworld.com/canada/2026/04/13/a-quiet-giant-in-pea-breeding-remembering-aafc-scientist-d-j-bing/)
+  - Colleagues recall a humble, dedicated breeder whose work advanced field pea genetics while his mentorship and integrity left a deep impression The post A Quiet Giant in Pea Breeding: Remembering AAFC…
+
+- **[Nueva variedad de soja para el control de malezas resistentes a herbicidas](../../items/seedworld/2026/04/https_www.seedworld.com_p_124377.md)**
+  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124377.md) · [원문](https://www.seedworld.com/latam/2026/04/13/nueva-variedad-de-soja-para-el-control-de-malezas-resistentes-a-herbicidas/)
+  - Embrapa Soja y Caramuru Alimentos lanzaron BRS 579, una nueva variedad de soja de alto rendimiento para el centro-norte de Mato Grosso que combina sanidad vegetal y tolerancia STS a herbicidas.
+
+- **[New Mapping Tools Offer Deeper Insights into UK Soil Health](../../items/seedworld/2026/04/https_www.seedworld.com_p_124368.md)**
+  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124368.md) · [원문](https://www.seedworld.com/europe/2026/04/13/new-mapping-tools-offer-deeper-insights-into-uk-soil-health/)
+  - A new suite of high-resolution soil and landscape maps for Great Britain will help farmers, land managers, and researchers improve soil health, biodiversity, and climate resilience.
+
+- **[Euroseeds NextGen Forum 2026 Connects Students with Seed Sector Careers](../../items/seedworld/2026/04/https_www.seedworld.com_p_124418.md)**
+  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124418.md) · [원문](https://www.seedworld.com/europe/2026/04/13/euroseeds-nextgen-forum-2026-connects-students-with-seed-sector-careers/)
+  - The Euroseeds NextGen Forum 2026 in Valencia connects young researchers with seed industry leaders to address talent gaps in plant breeding. Bringing together students, PhDs and professionals, the in…
+
+- **[Farming Isn’t Chemistry; It’s Ecology](../../items/seedworld/2026/04/https_www.seedworld.com_p_124555.md)**
+  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124555.md) · [원문](https://www.seedworld.com/us/2026/04/12/farming-isnt-chemistry-its-ecology/)
+  - Modern agriculture must move beyond a chemistry-only mindset and embrace soil ecology. Crop performance depends on microbial communities that drive nutrient cycling, stress tolerance, and resilience.
+
 - **[Why the Fertilizer Crisis Won’t End When the Iran War Does](../../items/seedworld/2026/04/https_www.seedworld.com_p_124511.md)**
   - 2026-04-11 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124511.md) · [원문](https://www.seedworld.com/us/2026/04/10/why-the-fertilizer-crisis-wont-end-with-the-war/)
   - The fertilizer crisis gripping global agriculture was already building before the war with Iran. The situation was already taking place across supply chains, buying habits and investment pipelines.

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/09/why-strategic-seed-production-part
 summary: "Strategic seed production partnerships matter more than ever before. Seed companies are facing a complex environment with tight timelines, growing condition shifts and complicated logistics that create pressure."
 attachments: []
 tags: []
-fetched_at: "2026-04-13T06:46:46+09:00"
+fetched_at: "2026-04-15T06:49:15+09:00"
 ---
 # Why Strategic Seed Production Partnerships Matter More Than Ever
 

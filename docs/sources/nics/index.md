@@ -11,6 +11,15 @@ source: "nics"
 
 ## 2026-04
 
+- **[국내 오가피 순, 플라보노이드·사포닌 풍부… 기능성 식품 소재 가치 높아](../../items/nics/2026/04/944119.md)**
+  - 2026-04-13 · [읽기](../../items/nics/2026/04/944119.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944119)
+
+- **[‘데이터는 정밀하게, 에너지는 적게’…밭작물 재배 기술 교육](../../items/nics/2026/04/944118.md)**
+  - 2026-04-13 · [읽기](../../items/nics/2026/04/944118.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944118)
+
+- **[농촌진흥청, 유채 영양 성분 밝혀 “나물용 채소 가치 재확인”](../../items/nics/2026/04/944117.md)**
+  - 2026-04-13 · [읽기](../../items/nics/2026/04/944117.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944117)
+
 - **[농촌진흥청, 밀 생육 동향 및 국산 밀 제분 시설 현장 점검](../../items/nics/2026/04/944111.md)**
   - 2026-04-09 · [읽기](../../items/nics/2026/04/944111.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944111)
 
@@ -34,9 +43,3 @@ source: "nics"
 
 - **[기후변화로 달라진 병해충 발생 ‘예측 고도화로 선제 대응’](../../items/nics/2026/03/944093.md)**
   - 2026-03-27 · [읽기](../../items/nics/2026/03/944093.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944093)
-
-- **[농촌진흥청, ‘쌀밥 밥맛 평가’ 표준화 나선다](../../items/nics/2026/03/944092.md)**
-  - 2026-03-27 · [읽기](../../items/nics/2026/03/944092.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944092)
-
-- **[국립식량과학원-풀무원, 신품종 활용 국산 콩 산업 활성화 협력 강화](../../items/nics/2026/03/944090.md)**
-  - 2026-03-27 · [읽기](../../items/nics/2026/03/944090.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944090)
