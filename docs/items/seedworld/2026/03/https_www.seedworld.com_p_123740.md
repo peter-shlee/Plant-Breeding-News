@@ -9,7 +9,7 @@ summary: "U.S. corn growers face rising fertilizer costs and tighter margins as 
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:12+09:00"
 ---
 # Corn’s Margin Crisis Deepens as Fertilizer Shock Collides With Planting Season
 

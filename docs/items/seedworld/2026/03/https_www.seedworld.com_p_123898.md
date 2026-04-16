@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/23/diesel-jumps-margins-shrink-ca
 summary: "Canadian seed growers are absorbing rising diesel and fertilizer costs after Strait of Hormuz tensions triggered an energy price spike. With margins already thin heading into the 2026 growing season, Prairie producers say they have limited"
 attachments: []
 tags: []
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:12+09:00"
 ---
 # Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact of Hormuz Crisis
 

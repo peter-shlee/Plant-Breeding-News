@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/23/time-for-change-prm-and-the-wi
 summary: "The EU is advancing a new Plant Reproductive Material (PRM) regulation to modernize seed laws, improve traceability, and support biodiversity and food security. Trilogue discussions highlight divisions over exemptions, seed exchanges, and"
 attachments: []
 tags: []
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:12+09:00"
 ---
 # Time for Change — PRM and The Wider Context
 

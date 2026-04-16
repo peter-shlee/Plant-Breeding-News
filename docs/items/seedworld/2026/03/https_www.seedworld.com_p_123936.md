@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/03/25/episode-3-why-inv
 summary: "Unger Seed Farm's major new build is more than a construction project. Darcy Unger explains why investment in Canadian plant breeding isn't just a farm decision — it's an industry one."
 attachments: []
 tags: []
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:12+09:00"
 ---
 # Why Invest in Canada’s Seed Future: On the Brink Episode 3
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/23/industry-leaders-back-napb-bor
 summary: "Supported by organizations like Bayer, the program connects top students with industry mentors — and is expanding opportunities for new partners. The National Association for Plant Breeding (NAPB) Borlaug Scholarship […] The post Industry"
 attachments: []
 tags: []
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:12+09:00"
 ---
 # Industry Leaders Back NAPB Borlaug Scholars — Now New Sponsors Are Invited for 2026
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/13/a-quiet-giant-in-pea-breeding-
 summary: "Colleagues recall a humble, dedicated breeder whose work advanced field pea genetics while his mentorship and integrity left a deep impression The post A Quiet Giant in Pea Breeding: Remembering AAFC Scientist D.J."
 attachments: []
 tags: []
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:11+09:00"
 ---
 # A Quiet Giant in Pea Breeding: Remembering AAFC Scientist D.J. Bing
 

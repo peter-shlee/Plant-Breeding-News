@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/09/marcs-take-this-week-the-peopl
 summary: "From consistent barley supply to the potential loss of decades of expertise in Lacombe, this week’s stories connect the human and economic impact of agricultural investment."
 attachments: []
 tags: []
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:11+09:00"
 ---
 # Marc’s Take This Week: The People Behind Plant Breeding — and What Canada Risks Losing
 

@@ -11,6 +11,38 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Marc’s Take This Week: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md)**
+  - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md) · [원문](https://www.seedworld.com/canada/2026/04/16/marcs-take-this-week-the-quiet-leaders-behind-seed-innovation-and-why-they-matter-more-than-ever/)
+  - From wheat breeder Dean Spaner to pea scientist D.J. Bing, this week’s stories highlight the human foundation of plant breeding, and why good policy is critical for innovation The post Marc’s Take Th…
+
+- **[“I’m Dean”: The Humble Leadership of Wheat Breeder Dean Spaner Leaves Lasting Mark on Prairie Agriculture](../../items/seedworld/2026/04/https_www.seedworld.com_p_124650.md)**
+  - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124650.md) · [원문](https://www.seedworld.com/canada/2026/04/16/im-dean-the-quiet-leadership-of-wheat-breeder-dean-spaner-leaves-lasting-mark-on-prairie-agriculture/)
+  - Known for his humility and sharp scientific mind, he transformed wheat breeding in Alberta while creating a lab culture that felt like family The post “I’m Dean”: The Humble Leadership of Wheat Breed…
+
+- **[New Platform Maps Brazil’s Wheat Trade, Industry and Production](../../items/seedworld/2026/04/https_www.seedworld.com_p_124386.md)**
+  - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124386.md) · [원문](https://www.seedworld.com/latam/2026/04/16/new-platform-maps-brazils-wheat-trade-industry-and-production/)
+  - Embrapa has launched the Trigo no Brasil digital platform, providing integrated data and maps on Brazil’s wheat value chain, from production to trade and processing. Designed to support policy and in…
+
+- **[20 Most Promising Young Plant Breeders in Europe 2026](../../items/seedworld/2026/04/https_www.seedworld.com_p_124565.md)**
+  - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124565.md) · [원문](https://www.seedworld.com/europe/2026/04/16/20-most-promising-young-plant-breeders-in-europe-2026/)
+  - Seed World Europe’s April 2026 edition highlights the 20 Most Promising Young Plant Breeders in Europe, showcasing innovators shaping the future of agriculture. Combining classical breeding with geno…
+
+- **[Innovation in Agriculture Depends on Plant Breeders’ Rights, Says UPOV President](../../items/seedworld/2026/04/https_www.seedworld.com_p_124638.md)**
+  - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124638.md) · [원문](https://www.seedworld.com/canada/2026/04/15/plant-breeders-rights-drive-investment-says-new-upov-president/)
+  - Balancing tradition and innovation remains the key challenge in building a sustainable breeding ecosystem, says Anthony Parker The post Innovation in Agriculture Depends on Plant Breeders’ Rights, Sa…
+
+- **[Producing More With Less: On the Brink Episode 6](../../items/seedworld/2026/04/https_www.seedworld.com_p_124626.md)**
+  - 2026-04-15 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124626.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/15/producing-more-with-less-on-the-brink-episode-6/)
+  - Dairy farmer Andrew Campbell explains why producing more with less on Canadian farms depends entirely on keeping plant breeding research in Canada. The post Producing More With Less: On the Brink Epi…
+
+- **[Nueva plataforma digital analiza el comercio, la industria y la producción de trigo en Brasil](../../items/seedworld/2026/04/https_www.seedworld.com_p_124383.md)**
+  - 2026-04-15 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124383.md) · [원문](https://www.seedworld.com/latam/2026/04/15/nueva-plataforma-digital-analiza-el-comercio-la-industria-y-la-produccion-de-trigo-en-brasil/)
+  - Embrapa lanzó la plataforma digital Trigo no Brasil, que integra datos y mapas sobre toda la cadena del trigo en Brasil, desde producción hasta comercio e industria. Diseñada para apoyar políticas e…
+
+- **[Defining Seed and Food Security](../../items/seedworld/2026/04/https_www.seedworld.com_p_124423.md)**
+  - 2026-04-15 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124423.md) · [원문](https://www.seedworld.com/europe/2026/04/14/defining-seed-and-food-security/)
+  - Food security is understood differently across cultures, with China prioritizing it as a core national security issue while Western societies often take it for granted.
+
 - **[Seed Programs International Connects Smallholder Farmers to the Seed Sector](../../items/seedworld/2026/04/https_www.seedworld.com_p_124620.md)**
   - 2026-04-14 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124620.md) · [원문](https://www.seedworld.com/us/2026/04/14/seed-programs-international-connects-smallholder-farmers-to-the-seed-sector/)
   - A small team, a global network and millions reached — Seed Programs International connects smallholder farmers to the seed sector, turning donations and partnerships into measurable food security imp…
@@ -389,39 +421,3 @@ source: "seedworld"
 - **[Keeping Seed Cleaning Plants Moving: 13 Years in Parts & Service](../../items/seedworld/2026/03/https_www.seedworld.com_p_123691.md)**
   - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123691.md) · [원문](https://www.seedworld.com/canada/2026/03/17/keeping-seed-cleaning-plants-moving-13-years-in-parts-service/)
   - Whether it’s a mechanical issue or a technology challenge, customers want one thing: reliable answers and reliable service The post Keeping Seed Cleaning Plants Moving: 13 Years in Parts & Service ap…
-
-- **[AOSCA Names New Leadership](../../items/seedworld/2026/03/https_www.seedworld.com_p_123607.md)**
-  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123607.md) · [원문](https://www.seedworld.com/us/2026/03/17/aosca-names-new-leadership/)
-  - AOSCA names Michael Bouck president and Matthew Young vice president following its latest board meeting, marking a leadership transition focused on strengthening seed certification systems across Nor…
-
-- **[The Breeder’s Blind Spot: What Your Genotyping Panel Isn’t Telling You](../../items/seedworld/2026/03/https_www.seedworld.com_p_123600.md)**
-  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123600.md) · [원문](https://www.seedworld.com/us/2026/03/17/the-breeders-blind-spot-what-your-genotyping-panel-isnt-telling-you/)
-  - Computomics' AI-driven platform pairs predictive breeding with pangenome visualization, giving you the architecture behind every crossing decision The post The Breeder’s Blind Spot: What Your Genotyp…
-
-- **[Study Finds No Clear Link Between GMOs and Health Risks](../../items/seedworld/2026/03/https_www.seedworld.com_p_123591.md)**
-  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123591.md) · [원문](https://www.seedworld.com/europe/2026/03/17/study-finds-no-clear-link-between-gmos-and-health-risks/)
-  - A new review of global health data and decades of scientific research found no consistent evidence that GMO consumption is linked to major human health problems. Researchers in South Korea found no c…
-
-- **[Embrapa Introduces New Bean Cultivars Focused on Productivity, Risk Reduction, and Market Quality](../../items/seedworld/2026/03/https_www.seedworld.com_p_123308.md)**
-  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123308.md) · [원문](https://www.seedworld.com/latam/2026/03/17/embrapa-introduces-new-bean-cultivars-focused-on-productivity-risk-reduction-and-market-quality/)
-  - Embrapa Arroz e Feijão, based in Santo Antônio de Goiás (GO), has introduced a new group of bean cultivars designed to address practical demands across the production chain — from […] The post Embrap…
-
-- **[How Disconnected Systems Increase Risk in Seed Companies](../../items/seedworld/2026/03/https_www.seedworld.com_p_123582.md)**
-  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123582.md) · [원문](https://www.seedworld.com/us/2026/03/17/how-disconnected-systems-increase-risk-in-seed-companies/)
-  - Disconnected spreadsheets and siloed systems make seed businesses harder to run, limiting visibility across production, sales, contracts, and inventory. As volume grows, outdated information increase…
-
-- **[Active Collaboration Will Drive Biologicals Adoption](../../items/seedworld/2026/03/https_www.seedworld.com_p_123577.md)**
-  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123577.md) · [원문](https://www.seedworld.com/us/2026/03/17/active-collaboration-will-drive-biologicals-adoption/)
-  - Agriculture innovation now depends on collaboration, not silos. Jord BioScience highlights how integrated biologicals, chemistry, seed technologies, and microbial solutions can deliver consistent, re…
-
-- **[Canada’s Wheat Breeding System Cannot Stay Status Quo, Leaders Warn in New Webinar](../../items/seedworld/2026/03/https_www.seedworld.com_p_123572.md)**
-  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123572.md) · [원문](https://www.seedworld.com/canada/2026/03/16/canadas-wheat-breeding-system-cannot-stay-status-quo-leaders-warn-in-new-webinar/)
-  - Watch our discussion around AAFC cuts and farmer-funded research, which points to the need for structural change in Western Canada’s breeding ecosystem The post Canada’s Wheat Breeding System Cannot…
-
-- **[The Show Me State is Ground Zero in the Fight Against Soybean Cyst Nematode](../../items/seedworld/2026/03/https_www.seedworld.com_p_123565.md)**
-  - 2026-03-17 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123565.md) · [원문](https://www.seedworld.com/us/2026/03/16/the-show-me-state-is-ground-zero-in-the-fight-against-soybean-cyst-nematode/)
-  - By analyzing over 1,100 soybean genomes, scientists uncovered new sources of SCN resistance that could help breeders build more durable protection for future varieties.
-
-- **[Embrapa presenta nuevos cultivares de frijol enfocados en la productividad, la reducción de riesgos y la cali…](../../items/seedworld/2026/03/https_www.seedworld.com_p_123305.md)**
-  - 2026-03-16 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123305.md) · [원문](https://www.seedworld.com/latam/2026/03/16/embrapa-presenta-nuevos-cultivares-de-frijol-enfocados-en-la-productividad-la-reduccion-de-riesgos-y-la-calidad-del-mercado/)
-  - Embrapa Arroz e Feijão lanzó a inicios de 2026 cuatro nuevos cultivares de frijol para aumentar productividad, reducir riesgos agronómicos y mejorar la calidad comercial.

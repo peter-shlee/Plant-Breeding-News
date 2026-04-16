@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-04-15 06:49 (KST)**  
-- 커버리지(최근 섹션): **2026-04-08 ~ 2026-04-15** (최근 7일)
+- 마지막 업데이트: **2026-04-17 06:48 (KST)**  
+- 커버리지(최근 섹션): **2026-04-10 ~ 2026-04-17** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 <a id="highlights"></a>
 
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-04-08~2026-04-15)
+## 30초 주간 브리핑 (2026-04-10~2026-04-17)
 
-> 기후 위기 대응을 위한 스마트 농업 기술 도입과 글로벌 종자 협력 체계 강화가 가속화되고 있습니다.
+> 식물 육종의 혁신을 이끄는 정책적 보호와 차세대 연구 기술의 발전이 주목받고 있습니다.
 
 ### 1) 정책/규제
 
-- 유전자원 보존과 식량 안보를 위해 공공 부문뿐만 아니라 민간 차원의 유전자 은행 지원과 투자가 필수적입니다. ([원문](https://www.seedworld.com/europe/2026/04/10/supporting-genebanks-enlightened-self-interest/))
-- 농촌진흥청이 한-스위스 국제협력을 통해 기후 위기에 대응하는 지속 가능한 유기농업 모델 개발에 나섭니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809171&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- UPOV 의장은 농업 혁신을 지속하기 위해 식물 육종가의 권리 보호가 필수적임을 강조했습니다. ([원문](https://www.seedworld.com/canada/2026/04/15/plant-breeders-rights-drive-investment-says-new-upov-president/))
+- 식량 안보에 대한 국가별 인식 차이가 규제와 연구 방향에 영향을 미치며, 서구권의 정책적 대응이 중요해지고 있습니다. ([원문](https://www.seedworld.com/europe/2026/04/14/defining-seed-and-food-security/))
 
 ### 2) 연구/기술
 
-- 드론과 AI를 활용한 밀 작물 모니터링 기술이 기후 회복력이 뛰어난 품종 선발과 개발 비용 절감을 돕고 있습니다. ([원문](https://www.seedworld.com/europe/2026/04/14/drones-and-ai-transform-wheat-crop-monitoring-for-climate-resilience/))
-- 농촌진흥청이 수수 1,000계통에 대한 유전형 분석 데이터를 공개하여 국내 육종 효율성을 극대화할 전망입니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809176&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 드론과 AI 기술을 활용한 밀 작물 모니터링이 기후 회복력이 뛰어난 품종 선발과 육종 효율 향상에 기여하고 있습니다. ([원문](https://www.seedworld.com/europe/2026/04/14/drones-and-ai-transform-wheat-crop-monitoring-for-climate-resilience/))
+- 영국에서 개발된 고해상도 토양 지도 데이터가 디지털 농업과 지속 가능한 토지 관리를 위한 정밀한 정보를 제공합니다. ([원문](https://www.seedworld.com/europe/2026/04/13/new-mapping-tools-offer-deeper-insights-into-uk-soil-health/))
 
 ### 3) 유통/시장/현장
 
-- 브라질에서 제초제 내성을 갖춘 고수익 신품종 대두 'BRS 579'가 출시되어 잡초 관리 효율과 생산성을 높입니다. ([원문](https://www.seedworld.com/latam/2026/04/14/new-soybean-variety-targets-herbicide-resistant-weeds/))
-- 유로시드(Euroseeds)가 'NextGen 포럼 2026'을 열어 차세대 연구자와 산업계 리더를 연결하고 육종 분야 인재 부족 문제 해결에 나섭니다. ([원문](https://www.seedworld.com/europe/2026/04/13/euroseeds-nextgen-forum-2026-connects-students-with-seed-sector-careers/))
+- 브라질의 'Trigo no Brasil' 플랫폼이 밀 가치 사슬 전반의 데이터를 통합하여 시장 의사결정과 투자 효율을 높이고 있습니다. ([원문](https://www.seedworld.com/latam/2026/04/16/new-platform-maps-brazils-wheat-trade-industry-and-production/))
+- 브라질에서 제초제 저항성 잡초를 방제할 수 있는 고수익 신품종 대두 'BRS 579'가 출시되어 농가 생산성 향상이 기대됩니다. ([원문](https://www.seedworld.com/latam/2026/04/14/new-soybean-variety-targets-herbicide-resistant-weeds/))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -46,34 +46,41 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[Gene-Edited Wheat Cuts Harmful Acrylamide Without Yield Loss](items/seedworld/2026/04/https_www.seedworld.com_p_124365.md)**
-  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124365.md) · [원문](https://www.seedworld.com/europe/2026/04/08/gene-edited-wheat-cuts-harmful-acrylamide-without-yield-loss/)
-  - Scientists at Rothamsted Research have developed CRISPR-edited wheat with up to 93% lower asparagine, cutting acrylamide formation in bread and biscuits without reducing yield.
+- **[20 Most Promising Young Plant Breeders in Europe 2026](items/seedworld/2026/04/https_www.seedworld.com_p_124565.md)**
+  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124565.md) · [원문](https://www.seedworld.com/europe/2026/04/16/20-most-promising-young-plant-breeders-in-europe-2026/)
+  - Seed World Europe’s April 2026 edition highlights the 20 Most Promising Young Plant Breeders in Europe, showcasing innovators shaping the future of agriculture. Combining classical breeding with geno…
 
-- **[“육종 효율성 극대화” 수수 1,000계통 유전형 분석 데이터 공개](items/rda/2026/04/100000809176.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809176.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809176&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[Wageningen to Launch Field Trials with NGT Potatoes](items/seedworld/2026/04/https_www.seedworld.com_p_124408.md)**
-  - 2026-04-09 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124408.md) · [원문](https://www.seedworld.com/europe/2026/04/09/wur-to-launch-field-trials-with-ngt-potatoes-in-2026/)
-  - Wageningen University & Research and the Dutch Ministry of Agriculture will begin new genetically modified potato field trials in 2026, testing disease- and pest-resistant varieties.
+- **[Innovation in Agriculture Depends on Plant Breeders’ Rights, Says UPOV President](items/seedworld/2026/04/https_www.seedworld.com_p_124638.md)**
+  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124638.md) · [원문](https://www.seedworld.com/canada/2026/04/15/plant-breeders-rights-drive-investment-says-new-upov-president/)
+  - Balancing tradition and innovation remains the key challenge in building a sustainable breeding ecosystem, says Anthony Parker The post Innovation in Agriculture Depends on Plant Breeders’ Rights, Sa…
 
 - **[Drones and AI Transform Wheat Crop Monitoring for Climate Resilience](items/seedworld/2026/04/https_www.seedworld.com_p_124601.md)**
   - 2026-04-14 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124601.md) · [원문](https://www.seedworld.com/europe/2026/04/14/drones-and-ai-transform-wheat-crop-monitoring-for-climate-resilience/)
   - Drones and artificial intelligence are transforming how scientists monitor wheat crops and identify climate-resilient varieties. By tracking crop growth with advanced imaging and sensors, researchers…
 
-- **[Gene Discovery Opens Path to Deeper, More Efficient Crop Roots](items/seedworld/2026/04/https_www.seedworld.com_p_124202.md)**
-  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124202.md) · [원문](https://www.seedworld.com/europe/2026/04/08/gene-discovery-opens-path-to-deeper-more-efficient-crop-roots/)
-  - Researchers identified the plant signaling gene CEPR1 as a promising target for breeding cereal crops with steeper, narrower root systems that may better access water and nutrients.
+- **[Marc’s Take This Week: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever](items/seedworld/2026/04/https_www.seedworld.com_p_124656.md)**
+  - 2026-04-17 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124656.md) · [원문](https://www.seedworld.com/canada/2026/04/16/marcs-take-this-week-the-quiet-leaders-behind-seed-innovation-and-why-they-matter-more-than-ever/)
+  - From wheat breeder Dean Spaner to pea scientist D.J. Bing, this week’s stories highlight the human foundation of plant breeding, and why good policy is critical for innovation The post Marc’s Take Th…
 
-- **[Watermelon Breeding Under Pressure: What Growers and Breeders Are Up Against](items/seedworld/2026/04/https_www.seedworld.com_p_124208.md)**
-  - 2026-04-08 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124208.md) · [원문](https://www.seedworld.com/europe/2026/04/08/watermelon-breeding-under-pressure-what-growers-and-breeders-are-up-against/)
-  - Watermelon breeding faces growing pressure from climate change, disease threats, limited crop protection, and complex polygenic traits. Narrow genetic diversity and demanding consumer standards add f…
+- **[“I’m Dean”: The Humble Leadership of Wheat Breeder Dean Spaner Leaves Lasting Mark on Prairie Agriculture](items/seedworld/2026/04/https_www.seedworld.com_p_124650.md)**
+  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124650.md) · [원문](https://www.seedworld.com/canada/2026/04/16/im-dean-the-quiet-leadership-of-wheat-breeder-dean-spaner-leaves-lasting-mark-on-prairie-agriculture/)
+  - Known for his humility and sharp scientific mind, he transformed wheat breeding in Alberta while creating a lab culture that felt like family The post “I’m Dean”: The Humble Leadership of Wheat Breed…
 
-- **[“국산 차나무 품종 보급 속도 낸다” 제주 농가 재배 현장 살펴](items/rda/2026/04/100000809175.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809175.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809175&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[New Platform Maps Brazil’s Wheat Trade, Industry and Production](items/seedworld/2026/04/https_www.seedworld.com_p_124386.md)**
+  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124386.md) · [원문](https://www.seedworld.com/latam/2026/04/16/new-platform-maps-brazils-wheat-trade-industry-and-production/)
+  - Embrapa has launched the Trigo no Brasil digital platform, providing integrated data and maps on Brazil’s wheat value chain, from production to trade and processing. Designed to support policy and in…
 
-- **[“국산 차나무 품종 보급 속도 낸다” 제주 농가 재배 현장 살펴](items/nihhs/2026/04/100000809175.md)**
-  - 2026-04-10 · `nihhs` · [읽기](items/nihhs/2026/04/100000809175.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000809175&mc=MN0000000136)
+- **[Producing More With Less: On the Brink Episode 6](items/seedworld/2026/04/https_www.seedworld.com_p_124626.md)**
+  - 2026-04-15 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124626.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/15/producing-more-with-less-on-the-brink-episode-6/)
+  - Dairy farmer Andrew Campbell explains why producing more with less on Canadian farms depends entirely on keeping plant breeding research in Canada. The post Producing More With Less: On the Brink Epi…
+
+- **[Nueva plataforma digital analiza el comercio, la industria y la producción de trigo en Brasil](items/seedworld/2026/04/https_www.seedworld.com_p_124383.md)**
+  - 2026-04-15 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124383.md) · [원문](https://www.seedworld.com/latam/2026/04/15/nueva-plataforma-digital-analiza-el-comercio-la-industria-y-la-produccion-de-trigo-en-brasil/)
+  - Embrapa lanzó la plataforma digital Trigo no Brasil, que integra datos y mapas sobre toda la cadena del trigo en Brasil, desde producción hasta comercio e industria. Diseñada para apoyar políticas e…
+
+- **[Defining Seed and Food Security](items/seedworld/2026/04/https_www.seedworld.com_p_124423.md)**
+  - 2026-04-15 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124423.md) · [원문](https://www.seedworld.com/europe/2026/04/14/defining-seed-and-food-security/)
+  - Food security is understood differently across cultures, with China prioritizing it as a core national security issue while Western societies often take it for granted.
 
 - **[Seed Programs International Connects Smallholder Farmers to the Seed Sector](items/seedworld/2026/04/https_www.seedworld.com_p_124620.md)**
   - 2026-04-14 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124620.md) · [원문](https://www.seedworld.com/us/2026/04/14/seed-programs-international-connects-smallholder-farmers-to-the-seed-sector/)
@@ -87,15 +94,43 @@ title: "식물 육종 뉴스"
   - 2026-04-13 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124589.md) · [원문](https://www.seedworld.com/canada/2026/04/13/a-quiet-giant-in-pea-breeding-remembering-aafc-scientist-d-j-bing/)
   - Colleagues recall a humble, dedicated breeder whose work advanced field pea genetics while his mentorship and integrity left a deep impression The post A Quiet Giant in Pea Breeding: Remembering AAFC…
 
-- **[Nueva variedad de soja para el control de malezas resistentes a herbicidas](items/seedworld/2026/04/https_www.seedworld.com_p_124377.md)**
-  - 2026-04-13 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124377.md) · [원문](https://www.seedworld.com/latam/2026/04/13/nueva-variedad-de-soja-para-el-control-de-malezas-resistentes-a-herbicidas/)
-  - Embrapa Soja y Caramuru Alimentos lanzaron BRS 579, una nueva variedad de soja de alto rendimiento para el centro-norte de Mato Grosso que combina sanidad vegetal y tolerancia STS a herbicidas.
-
 
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
+
+- **[Marc’s Take This Week: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever](items/seedworld/2026/04/https_www.seedworld.com_p_124656.md)**
+  - 2026-04-17 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124656.md) · [원문](https://www.seedworld.com/canada/2026/04/16/marcs-take-this-week-the-quiet-leaders-behind-seed-innovation-and-why-they-matter-more-than-ever/)
+  - From wheat breeder Dean Spaner to pea scientist D.J. Bing, this week’s stories highlight the human foundation of plant breeding, and why good policy is critical for innovation The post Marc’s Take Th…
+
+- **[“I’m Dean”: The Humble Leadership of Wheat Breeder Dean Spaner Leaves Lasting Mark on Prairie Agriculture](items/seedworld/2026/04/https_www.seedworld.com_p_124650.md)**
+  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124650.md) · [원문](https://www.seedworld.com/canada/2026/04/16/im-dean-the-quiet-leadership-of-wheat-breeder-dean-spaner-leaves-lasting-mark-on-prairie-agriculture/)
+  - Known for his humility and sharp scientific mind, he transformed wheat breeding in Alberta while creating a lab culture that felt like family The post “I’m Dean”: The Humble Leadership of Wheat Breed…
+
+- **[New Platform Maps Brazil’s Wheat Trade, Industry and Production](items/seedworld/2026/04/https_www.seedworld.com_p_124386.md)**
+  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124386.md) · [원문](https://www.seedworld.com/latam/2026/04/16/new-platform-maps-brazils-wheat-trade-industry-and-production/)
+  - Embrapa has launched the Trigo no Brasil digital platform, providing integrated data and maps on Brazil’s wheat value chain, from production to trade and processing. Designed to support policy and in…
+
+- **[20 Most Promising Young Plant Breeders in Europe 2026](items/seedworld/2026/04/https_www.seedworld.com_p_124565.md)**
+  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124565.md) · [원문](https://www.seedworld.com/europe/2026/04/16/20-most-promising-young-plant-breeders-in-europe-2026/)
+  - Seed World Europe’s April 2026 edition highlights the 20 Most Promising Young Plant Breeders in Europe, showcasing innovators shaping the future of agriculture. Combining classical breeding with geno…
+
+- **[Innovation in Agriculture Depends on Plant Breeders’ Rights, Says UPOV President](items/seedworld/2026/04/https_www.seedworld.com_p_124638.md)**
+  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124638.md) · [원문](https://www.seedworld.com/canada/2026/04/15/plant-breeders-rights-drive-investment-says-new-upov-president/)
+  - Balancing tradition and innovation remains the key challenge in building a sustainable breeding ecosystem, says Anthony Parker The post Innovation in Agriculture Depends on Plant Breeders’ Rights, Sa…
+
+- **[Producing More With Less: On the Brink Episode 6](items/seedworld/2026/04/https_www.seedworld.com_p_124626.md)**
+  - 2026-04-15 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124626.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/15/producing-more-with-less-on-the-brink-episode-6/)
+  - Dairy farmer Andrew Campbell explains why producing more with less on Canadian farms depends entirely on keeping plant breeding research in Canada. The post Producing More With Less: On the Brink Epi…
+
+- **[Nueva plataforma digital analiza el comercio, la industria y la producción de trigo en Brasil](items/seedworld/2026/04/https_www.seedworld.com_p_124383.md)**
+  - 2026-04-15 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124383.md) · [원문](https://www.seedworld.com/latam/2026/04/15/nueva-plataforma-digital-analiza-el-comercio-la-industria-y-la-produccion-de-trigo-en-brasil/)
+  - Embrapa lanzó la plataforma digital Trigo no Brasil, que integra datos y mapas sobre toda la cadena del trigo en Brasil, desde producción hasta comercio e industria. Diseñada para apoyar políticas e…
+
+- **[Defining Seed and Food Security](items/seedworld/2026/04/https_www.seedworld.com_p_124423.md)**
+  - 2026-04-15 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124423.md) · [원문](https://www.seedworld.com/europe/2026/04/14/defining-seed-and-food-security/)
+  - Food security is understood differently across cultures, with China prioritizing it as a core national security issue while Western societies often take it for granted.
 
 - **[Seed Programs International Connects Smallholder Farmers to the Seed Sector](items/seedworld/2026/04/https_www.seedworld.com_p_124620.md)**
   - 2026-04-14 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124620.md) · [원문](https://www.seedworld.com/us/2026/04/14/seed-programs-international-connects-smallholder-farmers-to-the-seed-sector/)
@@ -150,61 +185,13 @@ title: "식물 육종 뉴스"
   - 2026-04-10 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124508.md) · [원문](https://www.seedworld.com/canada/2026/04/09/marcs-take-this-week-the-people-behind-plant-breeding-and-what-canada-risks-losing/)
   - From consistent barley supply to the potential loss of decades of expertise in Lacombe, this week’s stories connect the human and economic impact of agricultural investment.
 
-- **[Why Strategic Seed Production Partnerships Matter More Than Ever](items/seedworld/2026/04/https_www.seedworld.com_p_124436.md)**
-  - 2026-04-10 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124436.md) · [원문](https://www.seedworld.com/us/2026/04/09/why-strategic-seed-production-partnerships-matter-more-than-ever/)
-  - Strategic seed production partnerships matter more than ever before. Seed companies are facing a complex environment with tight timelines, growing condition shifts and complicated logistics that crea…
-
-- **[브랜드감귤대학 ‘문 활짝’, 감귤산업 이끌 인재 키운다](items/rda/2026/04/100000809180.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809180.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809180&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[영농부산물 파쇄지원, 농업 현장 안전·환경·효율 동시 실현](items/rda/2026/04/100000809177.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809177.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809177&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“육종 효율성 극대화” 수수 1,000계통 유전형 분석 데이터 공개](items/rda/2026/04/100000809176.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809176.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809176&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“국산 차나무 품종 보급 속도 낸다” 제주 농가 재배 현장 살펴](items/rda/2026/04/100000809175.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809175.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809175&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, ‘중앙치유농업센터’ 건립 순항…안전 관리 실태 점검](items/rda/2026/04/100000809174.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809174.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809174&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[감 탄저병 예방 첫걸음 ‘병든 가지·낙엽 제거’와 ‘예방 방제’](items/rda/2026/04/100000809173.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809173.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809173&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[국내 오가피 순, 플라보노이드·사포닌 풍부… 기능성 식품 소재 가치 높아](items/rda/2026/04/100000809172.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809172.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809172&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘한-스위스 국제협력’ 기후 위기 대응 유기농 모델 개발](items/rda/2026/04/100000809171.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809171.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809171&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘데이터는 정밀하게, 에너지는 적게’…밭작물 재배 기술 교육](items/rda/2026/04/100000809169.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809169.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809169&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 농촌관광 활성화 방안 현장 전문가 머리 맞대](items/rda/2026/04/100000809168.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809168.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809168&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[중앙-지방 농촌진흥기관, 농업 생산비 절감 기술 보급 확대 총력](items/rda/2026/04/100000809167.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809167.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809167&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 유채 영양 성분 밝혀 “나물용 채소 가치 재확인”](items/rda/2026/04/100000809166.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809166.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809166&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농업 연구 ‘인공지능 전환(AX)’ 앞당길 고성능 컴퓨팅 자원 확보](items/rda/2026/04/100000809165.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809165.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809165&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, ‘농업인 안전365 캠페인’…농업 현장 안전 강화](items/rda/2026/04/100000809164.md)**
-  - 2026-04-10 · `rda` · [읽기](items/rda/2026/04/100000809164.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809164&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[브랜드감귤대학 ‘문 활짝’, 감귤산업 이끌 인재 키운다](items/nihhs/2026/04/100000809180.md)**
-  - 2026-04-10 · `nihhs` · [읽기](items/nihhs/2026/04/100000809180.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000809180&mc=MN0000000136)
-
 
 <a id="weekly-archive"></a>
 ## 지난 주간 아카이브
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-04-17](weekly/2026-04-17.md)
 - [2026-04-15](weekly/2026-04-15.md)
 - [2026-04-13](weekly/2026-04-13.md)
 - [2026-04-10](weekly/2026-04-10.md)

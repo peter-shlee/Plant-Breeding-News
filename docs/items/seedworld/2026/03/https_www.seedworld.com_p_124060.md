@@ -9,7 +9,7 @@ summary: "The European Commission’s review of Community Plant Variety Rights (
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:12+09:00"
 ---
 # CPVR Evaluation: A Key Moment for the Future of Plant Variety Protection in Europe
 

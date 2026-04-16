@@ -9,7 +9,7 @@ summary: "Researchers discovered a new plant immune defense in wheat, where the 
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:12+09:00"
 ---
 # Scientists Discover a New Plant Immune Complex in Wheat
 

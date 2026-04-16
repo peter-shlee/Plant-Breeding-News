@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/02/seeds-canada-prepares-for-2026
 summary: "A full-capacity Seed School in Winnipeg set the stage for July’s Annual Meeting in Saskatoon The post Seeds Canada Prepares for 2026 AGM After Successful Seed School appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-04-15T06:49:15+09:00"
+fetched_at: "2026-04-17T06:48:11+09:00"
 ---
 # Seeds Canada Prepares for 2026 AGM After Successful Seed School
 
