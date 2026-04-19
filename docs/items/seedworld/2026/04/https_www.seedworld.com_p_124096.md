@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/31/farm-bill-delays-keep-seed-in-hold
 summary: "In case you’re wondering, the Farm Bill is still not finished! And for most of agriculture, that’s frustrating."
 attachments: []
 tags: []
-fetched_at: "2026-04-17T06:48:11+09:00"
+fetched_at: "2026-04-20T06:47:37+09:00"
 ---
 # Farm Bill Delays Keep Seed in Holding Pattern
 

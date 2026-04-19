@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/24/ag-day-begins-with-seed/"
 summary: "Seed industry leaders share why everything starts with seed for National Ag Day, highlighting innovation, supply chains and the role seed plays in food, fuel and fiber systems."
 attachments: []
 tags: []
-fetched_at: "2026-04-17T06:48:12+09:00"
+fetched_at: "2026-04-20T06:47:38+09:00"
 ---
 # Ag Day Begins With Seed
 

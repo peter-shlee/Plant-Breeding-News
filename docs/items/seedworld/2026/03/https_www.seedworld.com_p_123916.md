@@ -9,7 +9,7 @@ summary: "Researchers developed an engineered sewage sludge biochar paired with 
 attachments: []
 tags:
   - "배추"
-fetched_at: "2026-04-17T06:48:12+09:00"
+fetched_at: "2026-04-20T06:47:38+09:00"
 ---
 # From Waste to Yield: Biochar Innovation Supports Crop Growth
 

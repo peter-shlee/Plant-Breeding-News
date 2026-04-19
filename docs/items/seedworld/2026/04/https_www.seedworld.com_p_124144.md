@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/02/ukraines-seed-sector-during-th
 summary: "Ukraine’s seed sector faces disruption from the Russian invasion of Ukraine, including energy shortages, mined farmland, logistics barriers, and labour gaps. Despite producers maintain output, invest in infrastructure, adapt operations."
 attachments: []
 tags: []
-fetched_at: "2026-04-17T06:48:11+09:00"
+fetched_at: "2026-04-20T06:47:37+09:00"
 ---
 # Ukraine’s Seed Sector During the Russian Invasion of Ukraine: Production, Exports and EU Integration
 

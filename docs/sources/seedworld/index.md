@@ -11,6 +11,18 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Seed Banks May Limit Gene Drives for Weed Control](../../items/seedworld/2026/04/https_www.seedworld.com_p_124677.md)**
+  - 2026-04-18 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124677.md) · [원문](https://www.seedworld.com/us/2026/04/17/seed-banks-may-limit-gene-drives-for-weed-control/)
+  - New research from Cornell University shows seed banks, long-lived reserves of dormant seeds in soil, could slow or limit the spread of gene drives in plants. The findings highlight a key challenge an…
+
+- **[No todos los cultivos son iguales](../../items/seedworld/2026/04/https_www.seedworld.com_p_124670.md)**
+  - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124670.md) · [원문](https://www.seedworld.com/latam/2026/04/17/no-todos-los-cultivos-son-iguales/)
+  - Científica investigadora con casi 10 años en el Instituto Nacional de Investigaciones del Tabaco de Cuba, liderando mejoramiento genético, huella genética por ADN, resistencia a enfermedades, caracte…
+
+- **[All Crops Are Not Created Equal](../../items/seedworld/2026/04/https_www.seedworld.com_p_124667.md)**
+  - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124667.md) · [원문](https://www.seedworld.com/latam/2026/04/17/all-crops-are-not-created-equal/)
+  - Research scientist with nearly 10 years at Cuba’s National Tobacco Research Institute, leading tobacco breeding, DNA fingerprinting, disease resistance, germplasm characterization, and stress-respons…
+
 - **[Marc’s Take This Week: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md)**
   - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md) · [원문](https://www.seedworld.com/canada/2026/04/16/marcs-take-this-week-the-quiet-leaders-behind-seed-innovation-and-why-they-matter-more-than-ever/)
   - From wheat breeder Dean Spaner to pea scientist D.J. Bing, this week’s stories highlight the human foundation of plant breeding, and why good policy is critical for innovation The post Marc’s Take Th…
@@ -377,47 +389,3 @@ source: "seedworld"
 - **[Embrapa’s New Sorghum Hybrid Targets Silage, Biogas, and Energy Production](../../items/seedworld/2026/03/https_www.seedworld.com_p_123320.md)**
   - 2026-03-21 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123320.md) · [원문](https://www.seedworld.com/latam/2026/03/21/embrapas-new-sorghum-hybrid-targets-silage-biogas-and-energy-production/)
   - Embrapa and Latina Seeds launched the giant forage sorghum hybrid BRS 662 (LAS6002F), designed for silage, biogas, and energy production. The early-cycle cultivar can yield over 80 tons per hectare w…
-
-- **[El nuevo híbrido de sorgo de Embrapa se centra en la producción de ensilado, biogás y energía](../../items/seedworld/2026/03/https_www.seedworld.com_p_123317.md)**
-  - 2026-03-20 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123317.md) · [원문](https://www.seedworld.com/latam/2026/03/20/el-nuevo-hibrido-de-sorgo-de-embrapa-se-centra-en-la-produccion-de-ensilado-biogas-y-energia/)
-  - Embrapa y Latina Seeds lanzaron el híbrido de sorgo forrajero gigante BRS 662 (LAS6002F), orientado a ensilaje, biogás y producción de energía. El cultivar de ciclo temprano puede superar 80 tonelada…
-
-- **[How Biotechnology Could Save the Banana](../../items/seedworld/2026/03/https_www.seedworld.com_p_123588.md)**
-  - 2026-03-20 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123588.md) · [원문](https://www.seedworld.com/europe/2026/03/19/how-biotechnology-could-save-the-banana/)
-  - Banana Xanthomonas Wilt (BXW) is devastating banana crops across Africa, threatening food security for over 70 million people. With no cure and limited breeding options, scientists are turning to bio…
-
-- **[Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Attend](../../items/seedworld/2026/03/https_www.seedworld.com_p_123773.md)**
-  - 2026-03-20 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123773.md) · [원문](https://www.seedworld.com/us/2026/03/19/why-the-2026-napb-annual-meeting-at-texas-am-is-a-must-attend/)
-  - Attendees in College Station will explore AI-driven phenotyping, high-throughput data systems, and cutting-edge breeding programs The post Why the 2026 NAPB Annual Meeting at Texas A&M is a Must-Atte…
-
-- **[Argentina’s RECSO Sets the Standard for Unified Regional Soybean Trials in 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123314.md)**
-  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123314.md) · [원문](https://www.seedworld.com/latam/2026/03/19/argentinas-recso-sets-the-standard-for-unified-regional-soybean-trials-in-2026/)
-  - With more than four decades of experience in Argentina, the National Soybean Cultivar Evaluation Network (RECSO) will expand to a regional scale in 2026. This transition will establish a network […]…
-
-- **[Why the VUA Matters for Farmers — and the Future of Seed Innovation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123746.md)**
-  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123746.md) · [원문](https://www.seedworld.com/canada/2026/03/19/why-the-vua-matters-for-farmers-and-the-future-of-seed-innovation/)
-  - Seeds Canada’s Lauren Comin explains how agreements like the VUA help sustain plant breeding while adding one more step for growers The post Why the VUA Matters for Farmers — and the Future of Seed I…
-
-- **[Soil Microbes Help Suppress Crop Diseases, Global Study Finds](../../items/seedworld/2026/03/https_www.seedworld.com_p_123594.md)**
-  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123594.md) · [원문](https://www.seedworld.com/europe/2026/03/18/soil-microbes-help-suppress-crop-diseases-global-study-finds/)
-  - A global study has mapped plant pathogen hotspots and found that healthier, more diverse soils can naturally suppress disease. Published in Nature Communications, the research also warns that climate…
-
-- **[OP-ED: No Investment, No Innovation — What’s at Stake for Canadian Farmers](../../items/seedworld/2026/03/https_www.seedworld.com_p_123744.md)**
-  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123744.md) · [원문](https://www.seedworld.com/canada/2026/03/18/op-ed-no-investment-no-innovation-whats-at-stake-for-canadian-farmers/)
-  - Failing to fund crop genetics today could limit farm productivity and profitability tomorrow, as momentum builds behind new value capture tools. Innovation is undeniably important to Canadian agricul…
-
-- **[Corn’s Margin Crisis Deepens as Fertilizer Shock Collides With Planting Season](../../items/seedworld/2026/03/https_www.seedworld.com_p_123740.md)**
-  - 2026-03-19 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123740.md) · [원문](https://www.seedworld.com/us/2026/03/18/corns-margin-crisis-deepens-as-fertilizer-shock-collides-with-planting-season/)
-  - U.S. corn growers face rising fertilizer costs and tighter margins as global disruptions tied to the Strait of Hormuz add pressure during planting season, shaping decisions on inputs, yield and seed…
-
-- **[Canadian Conditions Need Made-for-Canada Solutions: On the Brink Episode 2](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md)**
-  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123725.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/18/on-the-brink-episode-2-canadian-conditions-need-made-for-canada-solutions/)
-  - Canadian conditions demand Canadian plant breeding solutions. In Episode 2 of On the Brink, Crop Development Centre director Curtis Pozniak explains what's at stake when investment in homegrown crop…
-
-- **[La RECSO de Argentina establece el estándar para ensayos regionales unificados de soja en 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123311.md)**
-  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123311.md) · [원문](https://www.seedworld.com/latam/2026/03/18/la-recso-de-argentina-establece-el-estandar-para-ensayos-regionales-unificados-de-soja-en-2026/)
-  - La red argentina de evaluación de cultivares de soja RECSO se ampliará en 2026 a escala regional como RRECSO-Américas, integrando a Argentina, Uruguay, Paraguay, Colombia y Perú con protocolos unific…
-
-- **[Keeping Seed Cleaning Plants Moving: 13 Years in Parts & Service](../../items/seedworld/2026/03/https_www.seedworld.com_p_123691.md)**
-  - 2026-03-18 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123691.md) · [원문](https://www.seedworld.com/canada/2026/03/17/keeping-seed-cleaning-plants-moving-13-years-in-parts-service/)
-  - Whether it’s a mechanical issue or a technology challenge, customers want one thing: reliable answers and reliable service The post Keeping Seed Cleaning Plants Moving: 13 Years in Parts & Service ap…

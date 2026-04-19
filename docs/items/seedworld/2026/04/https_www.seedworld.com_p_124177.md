@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/02/canadas-seed-sector-this-week-
 summary: "As funding concerns grow and research capacity tightens, tools like the VUA and a reset in Seeds Canada leadership signal a sector starting to respond in real time The post Canada’s Seed Sector This Week: Pressure is Building, but so is"
 attachments: []
 tags: []
-fetched_at: "2026-04-17T06:48:11+09:00"
+fetched_at: "2026-04-20T06:47:37+09:00"
 ---
 # Canada’s Seed Sector This Week: Pressure is Building, but so is Momentum
 
