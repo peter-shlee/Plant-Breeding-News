@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/31/world-seed-congress-2026-the-c
 summary: "At the ISF World Seed Congress in Lisbon, global seed leaders are addressing seed resilience, trade, innovation, and food security. Portugal highlights how openness and adaptability strengthen food systems."
 attachments: []
 tags: []
-fetched_at: "2026-04-20T06:47:37+09:00"
+fetched_at: "2026-04-22T06:49:03+09:00"
 ---
 # World Seed Congress 2026: The Case for Joint Actions to Build Resilient Futures
 

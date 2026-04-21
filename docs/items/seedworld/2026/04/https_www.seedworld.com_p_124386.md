@@ -9,7 +9,7 @@ summary: "Embrapa has launched the Trigo no Brasil digital platform, providing i
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-04-20T06:47:37+09:00"
+fetched_at: "2026-04-22T06:49:03+09:00"
 ---
 # New Platform Maps Brazil’s Wheat Trade, Industry and Production
 

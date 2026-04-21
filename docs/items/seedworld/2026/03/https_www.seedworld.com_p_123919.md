@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/03/24/uk-food-system-under-pressure-
 summary: "A new Demos report, backed by McCain Foods, says sustainable farming could strengthen the UK food system, raise farm profits, cut fertiliser imports and unlock billions in economic value by 2035."
 attachments: []
 tags: []
-fetched_at: "2026-04-20T06:47:38+09:00"
+fetched_at: "2026-04-22T06:49:03+09:00"
 ---
 # UK Food System Under Pressure as Report Urges Shift to Sustainable Farming
 

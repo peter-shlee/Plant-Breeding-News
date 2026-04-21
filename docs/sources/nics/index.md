@@ -11,6 +11,18 @@ source: "nics"
 
 ## 2026-04
 
+- **[국산 밀 빵·과자, ‘케이(K)-푸드’ 날개 달고 도약 가능성 충분](../../items/nics/2026/04/944135.md)**
+  - 2026-04-20 · [읽기](../../items/nics/2026/04/944135.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944135)
+
+- **[이른 봄 고온·잦은 비, 보리·밀 병 피해 키워 “적기 방제로 예방”](../../items/nics/2026/04/944134.md)**
+  - 2026-04-20 · [읽기](../../items/nics/2026/04/944134.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944134)
+
+- **[국립식량과학원, 청년농업인 간담회 “식량 산업 경쟁력 높이자” 한목소리](../../items/nics/2026/04/944133.md)**
+  - 2026-04-20 · [읽기](../../items/nics/2026/04/944133.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944133)
+
+- **[간 건강 개선 효능 뛰어난 새싹보리 ‘혜누리’ 보급 확대](../../items/nics/2026/04/944132.md)**
+  - 2026-04-20 · [읽기](../../items/nics/2026/04/944132.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944132)
+
 - **[국내 오가피 순, 플라보노이드·사포닌 풍부… 기능성 식품 소재 가치 높아](../../items/nics/2026/04/944119.md)**
   - 2026-04-13 · [읽기](../../items/nics/2026/04/944119.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944119)
 
@@ -28,18 +40,3 @@ source: "nics"
 
 - **[고구마 가공 제품별 최적 품종과 제조 공법은?](../../items/nics/2026/04/944106.md)**
   - 2026-04-06 · [읽기](../../items/nics/2026/04/944106.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944106)
-
-- **[국립식량과학원, 식량·농식품 산업 협의체와 현장 맞춤형 연구 강화](../../items/nics/2026/04/944101.md)**
-  - 2026-04-03 · [읽기](../../items/nics/2026/04/944101.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944101)
-
-- **[국산 콩 소비 확대 이끌 ‘국산 콩 연구개발-가공산업 협의체’ 출범](../../items/nics/2026/04/944097.md)**
-  - 2026-04-01 · [읽기](../../items/nics/2026/04/944097.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944097)
-
-- **[‘벼 키다리병’, ‘벼잎선충’ 예방, 종자 선별과 소독 필수](../../items/nics/2026/04/944096.md)**
-  - 2026-04-01 · [읽기](../../items/nics/2026/04/944096.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944096)
-
-
-## 2026-03
-
-- **[기후변화로 달라진 병해충 발생 ‘예측 고도화로 선제 대응’](../../items/nics/2026/03/944093.md)**
-  - 2026-03-27 · [읽기](../../items/nics/2026/03/944093.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944093)

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/01/lets-talk-biologicals-are-gain
 summary: "Seed World Europe’s Petar Madjarac, Head of Business Development, EMEA, and Editorial Director Marcel Bruins discuss why the seed sector is paying closer attention now, the industry’s growth trajectory, and what must happen next."
 attachments: []
 tags: []
-fetched_at: "2026-04-20T06:47:37+09:00"
+fetched_at: "2026-04-22T06:49:03+09:00"
 ---
 # Let’s Talk: Biologicals Are Gaining Ground
 

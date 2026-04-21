@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/09/scientists-develop-leaf-friend
 summary: "Researchers at the Institute of Science Tokyo have developed an ultra-thin, transparent, water-resistant nanofilm electrode that monitors plant stress without disrupting leaf function."
 attachments: []
 tags: []
-fetched_at: "2026-04-20T06:47:37+09:00"
+fetched_at: "2026-04-22T06:49:03+09:00"
 ---
 # Scientists Develop Leaf-Friendly Electrode for Smart Agriculture
 

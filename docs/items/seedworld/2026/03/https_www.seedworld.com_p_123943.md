@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/03/25/if-the-seeding-rate-was-right-why-
 summary: "Thin forage stands are often caused not by seeding math, but by biological realities after planting. Seed mortality from poor moisture, weak seed-to-soil contact, timing, and movement can range from 10% to over 90%."
 attachments: []
 tags: []
-fetched_at: "2026-04-20T06:47:38+09:00"
+fetched_at: "2026-04-22T06:49:03+09:00"
 ---
 # If the Seeding Rate Was Right, Why Is the Stand Thin?
 

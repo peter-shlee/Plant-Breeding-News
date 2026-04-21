@@ -11,6 +11,26 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Global Institute for Food Security Names Jason Reinheimer CEO](../../items/seedworld/2026/04/https_www.seedworld.com_p_124723.md)**
+  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124723.md) · [원문](https://www.seedworld.com/canada/2026/04/21/global-institute-for-food-security-names-jason-reinheimer-ceo/)
+  - The Australian-born plant breeding expert steps into the role with a mission to turn ag innovation into real-world impact faster The post Global Institute for Food Security Names Jason Reinheimer CEO…
+
+- **[Euroseeds Welcomes Member States’ Backing of NGT Regulation Deal](../../items/seedworld/2026/04/https_www.seedworld.com_p_124709.md)**
+  - 2026-04-21 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124709.md) · [원문](https://www.seedworld.com/europe/2026/04/21/euroseeds-welcomes-member-states-backing-of-ngt-regulation-deal/)
+  - Euroseeds welcomes EU Member States’ formal adoption of the Council’s first-reading position on the new Regulation on New Genomic Techniques (NGTs). The decision confirms the trilogue compromise with…
+
+- **[The System Built For Corn Isn’t Built For What’s Next](../../items/seedworld/2026/04/https_www.seedworld.com_p_124705.md)**
+  - 2026-04-21 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124705.md) · [원문](https://www.seedworld.com/us/2026/04/20/the-system-built-for-corn-isnt-built-for-whats-next/)
+  - Diversification is gaining traction across U.S. agriculture, but a recent Corn Belt analysis shows markets and infrastructure for crops beyond corn still lag, limiting adoption and slowing demand for…
+
+- **[VUAs: A Critical Piece of Canada’s Ag Future](../../items/seedworld/2026/04/https_www.seedworld.com_p_124694.md)**
+  - 2026-04-20 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124694.md) · [원문](https://www.seedworld.com/canada/2026/04/20/vuas-a-critical-piece-of-canadas-ag-future/)
+  - Whether we’re looking one year out or 20, the strength of our industry depends on the quality of the genetics we have access to. They drive yield, resilience, and ultimately […] The post VUAs: A Crit…
+
+- **[Legume Generation Project Aims to Boost Legume Breeding and Protein Crop Performance in Europe](../../items/seedworld/2026/04/https_www.seedworld.com_p_124559.md)**
+  - 2026-04-20 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124559.md) · [원문](https://www.seedworld.com/europe/2026/04/20/legume-generation-project-aims-to-boost-legume-breeding-and-protein-crop-performance-in-europe/)
+  - Legume Generation aims to strengthen European legume breeding through breeder-led innovation, addressing yield gaps, underinvestment, and reliance on imported protein. By uniting research and breedin…
+
 - **[Seed Banks May Limit Gene Drives for Weed Control](../../items/seedworld/2026/04/https_www.seedworld.com_p_124677.md)**
   - 2026-04-18 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124677.md) · [원문](https://www.seedworld.com/us/2026/04/17/seed-banks-may-limit-gene-drives-for-weed-control/)
   - New research from Cornell University shows seed banks, long-lived reserves of dormant seeds in soil, could slow or limit the spread of gene drives in plants. The findings highlight a key challenge an…
@@ -23,9 +43,9 @@ source: "seedworld"
   - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124667.md) · [원문](https://www.seedworld.com/latam/2026/04/17/all-crops-are-not-created-equal/)
   - Research scientist with nearly 10 years at Cuba’s National Tobacco Research Institute, leading tobacco breeding, DNA fingerprinting, disease resistance, germplasm characterization, and stress-respons…
 
-- **[Marc’s Take This Week: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md)**
+- **[Marc’s Take: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md)**
   - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md) · [원문](https://www.seedworld.com/canada/2026/04/16/marcs-take-this-week-the-quiet-leaders-behind-seed-innovation-and-why-they-matter-more-than-ever/)
-  - From wheat breeder Dean Spaner to pea scientist D.J. Bing, this week’s stories highlight the human foundation of plant breeding, and why good policy is critical for innovation The post Marc’s Take Th…
+  - From wheat breeder Dean Spaner to pea scientist D.J. Bing, these stories highlight the human foundation of plant breeding, and why it's critical for innovation The post Marc’s Take: The Quiet Leaders…
 
 - **[“I’m Dean”: The Humble Leadership of Wheat Breeder Dean Spaner Leaves Lasting Mark on Prairie Agriculture](../../items/seedworld/2026/04/https_www.seedworld.com_p_124650.md)**
   - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124650.md) · [원문](https://www.seedworld.com/canada/2026/04/16/im-dean-the-quiet-leadership-of-wheat-breeder-dean-spaner-leaves-lasting-mark-on-prairie-agriculture/)
@@ -385,7 +405,3 @@ source: "seedworld"
 - **[Seeds Don’t Just Grow in Sunlight Anymore](../../items/seedworld/2026/03/https_www.seedworld.com_p_123870.md)**
   - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123870.md) · [원문](https://www.seedworld.com/us/2026/03/23/seeds-dont-just-grow-in-sunlight-anymore/)
   - Agrovoltaics is introducing a new growing environment where crops are produced under solar panels, shifting how light, water and stress interact and raising new questions for yield performance, profi…
-
-- **[Embrapa’s New Sorghum Hybrid Targets Silage, Biogas, and Energy Production](../../items/seedworld/2026/03/https_www.seedworld.com_p_123320.md)**
-  - 2026-03-21 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123320.md) · [원문](https://www.seedworld.com/latam/2026/03/21/embrapas-new-sorghum-hybrid-targets-silage-biogas-and-energy-production/)
-  - Embrapa and Latina Seeds launched the giant forage sorghum hybrid BRS 662 (LAS6002F), designed for silage, biogas, and energy production. The early-cycle cultivar can yield over 80 tons per hectare w…

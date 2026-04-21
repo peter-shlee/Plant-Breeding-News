@@ -9,7 +9,7 @@ summary: "Balancing tradition and innovation remains the key challenge in buildi
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-04-20T06:47:37+09:00"
+fetched_at: "2026-04-22T06:49:03+09:00"
 ---
 # Innovation in Agriculture Depends on Plant Breeders’ Rights, Says UPOV President
 
