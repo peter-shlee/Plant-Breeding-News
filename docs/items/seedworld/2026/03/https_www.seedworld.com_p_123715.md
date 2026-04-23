@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/03/31/study-warns-colombia-could-lose
 summary: "A new study warns Colombia could lose nearly 20% of its cocoa-suitable land by 2050 as climate change alters temperatures and rainfall. The biggest risks are in lowland and northeastern regions, while some higher-altitude areas may become"
 attachments: []
 tags: []
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:51+09:00"
 ---
 # Study warns Colombia could lose one-fifth of cocoa land by 2050
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/04/01/on-the-brink-epis
 summary: "Federal cuts are closing key research facilities across Canada. Doug Miller of the Canadian Seed Growers Association joins On the Brink Episode 4 to ask what comes next for Canadian plant breeding — and who builds the model that replaces"
 attachments: []
 tags: []
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:50+09:00"
 ---
 # The End of the Status Quo: On the Brink Episode 4
 

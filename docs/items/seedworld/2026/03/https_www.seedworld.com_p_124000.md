@@ -9,7 +9,7 @@ summary: "AI-powered imaging and high-throughput phenotyping are changing how cr
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:51+09:00"
 ---
 # How AI Accelerates the Crop Breeding Cycle
 

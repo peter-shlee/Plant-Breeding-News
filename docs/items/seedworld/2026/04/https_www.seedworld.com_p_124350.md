@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/08/from-motion-to-momentum-where-
 summary: "Clear strategy gives organizations purpose, direction, and competitive focus, while planning turns that vision into action. When leaders define why they exist, who they serve, and how they create value, teams align and momentum grows."
 attachments: []
 tags: []
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:50+09:00"
 ---
 # From Motion to Momentum: Where Strategy Begins
 

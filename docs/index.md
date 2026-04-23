@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-04-22 06:49 (KST)**  
-- 커버리지(최근 섹션): **2026-04-15 ~ 2026-04-22** (최근 7일)
+- 마지막 업데이트: **2026-04-24 06:48 (KST)**  
+- 커버리지(최근 섹션): **2026-04-17 ~ 2026-04-24** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 <a id="highlights"></a>
 
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-04-15~2026-04-22)
+## 30초 주간 브리핑 (2026-04-17~2026-04-24)
 
-> 신규 유전체 기술 규제 완화와 작물 육종 혁신을 위한 국제적 움직임이 가속화되고 있습니다.
+> 글로벌 식물 육종의 정책 변화와 기술 혁신, 그리고 시장의 새로운 도전 과제를 짚어봅니다.
 
 ### 1) 정책/규제
 
-- EU 회원국들이 신규 유전체 기술(NGT) 규제안을 공식 채택하며 농업 혁신과 경쟁력 강화를 위한 발판을 마련했습니다. ([원문](https://www.seedworld.com/europe/2026/04/21/euroseeds-welcomes-member-states-backing-of-ngt-regulation-deal/))
-- 캐나다 농업의 미래를 위해 작물 유전학의 품질을 높이는 것이 산업 경쟁력의 핵심 요소로 강조되고 있습니다. ([원문](https://www.seedworld.com/canada/2026/04/20/vuas-a-critical-piece-of-canadas-ag-future/))
+- 유럽연합 회원국들이 신유전체교정기술(NGT) 규제안에 합의하며 농업 혁신과 식량 안보 강화를 위한 제도적 발판을 마련했습니다. ([원문](https://www.seedworld.com/europe/2026/04/21/euroseeds-welcomes-member-states-backing-of-ngt-regulation-deal/))
+- 캐나다 식물 육종 시스템이 글로벌 경쟁력을 유지하기 위해 혁신 보호와 시스템 개선이라는 중대한 기로에 서 있습니다. ([원문](https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-system-at-a-crossroads-says-incoming-gifs-ceo-jason-reinheimer/))
 
 ### 2) 연구/기술
 
-- 유럽의 'Legume Generation' 프로젝트가 콩류 육종 혁신을 통해 단백질 작물의 생산성과 지속가능성을 높이는 연구를 시작했습니다. ([원문](https://www.seedworld.com/europe/2026/04/20/legume-generation-project-aims-to-boost-legume-breeding-and-protein-crop-performance-in-europe/))
-- 코넬 대학교 연구 결과, 토양 내 종자 은행이 잡초 방제를 위한 유전자 드라이브 기술의 확산을 제한할 수 있음이 확인되었습니다. ([원문](https://www.seedworld.com/us/2026/04/17/seed-banks-may-limit-gene-drives-for-weed-control/))
+- 영국 다윈 생명의 나무 프로젝트가 생물 다양성 유전체 정보를 확보하여 작물 회복력 강화와 육종 혁신에 약 3조 원의 경제적 가치를 창출할 전망입니다. ([원문](https://www.seedworld.com/europe/2026/04/22/3-billion-dna-project-how-sequencing-uk-biodiversity-could-transform-agriculture-and-innovation/))
+- 스페인의 연구 결과, 태양광 패널을 활용한 농업 시스템이 토마토 재배 시 물 사용량을 절반으로 줄여 향후 내음성 품종 육종의 새로운 기회를 제시했습니다. ([원문](https://www.seedworld.com/europe/2026/04/23/solar-panels-boost-crop-efficiency-tomato-systems-use-half-the-water/))
 
 ### 3) 유통/시장/현장
 
-- 미국 농업계에서 옥수수 편중 시스템을 넘어선 작물 다변화가 논의되고 있으나, 인프라 부족이 시장 확대의 걸림돌로 지적되었습니다. ([원문](https://www.seedworld.com/us/2026/04/20/the-system-built-for-corn-isnt-built-for-whats-next/))
-- 국산 밀을 활용한 빵과 과자가 'K-푸드' 열풍과 함께 국내외 시장에서 새로운 도약의 가능성을 보여주고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809352&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 미국 농업에서 옥수수 중심의 시스템을 넘어 다양한 작물로의 전환이 요구되나, 시장 인프라 부족이 새로운 종자 수요 확대를 제한하고 있습니다. ([원문](https://www.seedworld.com/us/2026/04/20/the-system-built-for-corn-isnt-built-for-whats-next/))
+- 코스타리카가 우수한 연구 인프라와 규제 안정성을 바탕으로 글로벌 종자 기업들의 R&D 투자 허브로 급부상하고 있습니다. ([원문](https://www.seedworld.com/latam/2026/04/22/por-que-costa-rica-atrae-inversion-e-id-global-en-semillas/))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -46,55 +46,99 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
+- **[£3 Billion DNA Project: How Sequencing UK Biodiversity Could Transform Agriculture and Innovation](items/seedworld/2026/04/https_www.seedworld.com_p_124728.md)**
+  - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124728.md) · [원문](https://www.seedworld.com/europe/2026/04/22/3-billion-dna-project-how-sequencing-uk-biodiversity-could-transform-agriculture-and-innovation/)
+  - The Darwin Tree of Life Project could generate nearly £3 billion in economic value across the UK and Ireland by sequencing all complex life. For agriculture, gains of £800 million to £1.4 billion cou…
+
 - **[Euroseeds Welcomes Member States’ Backing of NGT Regulation Deal](items/seedworld/2026/04/https_www.seedworld.com_p_124709.md)**
   - 2026-04-21 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124709.md) · [원문](https://www.seedworld.com/europe/2026/04/21/euroseeds-welcomes-member-states-backing-of-ngt-regulation-deal/)
   - Euroseeds welcomes EU Member States’ formal adoption of the Council’s first-reading position on the new Regulation on New Genomic Techniques (NGTs). The decision confirms the trilogue compromise with…
 
-- **[20 Most Promising Young Plant Breeders in Europe 2026](items/seedworld/2026/04/https_www.seedworld.com_p_124565.md)**
-  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124565.md) · [원문](https://www.seedworld.com/europe/2026/04/16/20-most-promising-young-plant-breeders-in-europe-2026/)
-  - Seed World Europe’s April 2026 edition highlights the 20 Most Promising Young Plant Breeders in Europe, showcasing innovators shaping the future of agriculture. Combining classical breeding with geno…
+- **[Register For Our Webinar on the Future of Value Creation](items/seedworld/2026/04/https_www.seedworld.com_p_124784.md)**
+  - 2026-04-24 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124784.md) · [원문](https://www.seedworld.com/canada/2026/04/23/register-for-our-webinar-on-the-future-of-value-creation/)
+  - The post Register For Our Webinar on the Future of Value Creation appeared first on Seed World .
 
-- **[Innovation in Agriculture Depends on Plant Breeders’ Rights, Says UPOV President](items/seedworld/2026/04/https_www.seedworld.com_p_124638.md)**
-  - 2026-04-16 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124638.md) · [원문](https://www.seedworld.com/canada/2026/04/15/plant-breeders-rights-drive-investment-says-new-upov-president/)
-  - Balancing tradition and innovation remains the key challenge in building a sustainable breeding ecosystem, says Anthony Parker The post Innovation in Agriculture Depends on Plant Breeders’ Rights, Sa…
+- **[Canada’s Plant Breeding Future Hinges on Trust, Not Just Funding Models — Marc’s Take This Week](items/seedworld/2026/04/https_www.seedworld.com_p_124776.md)**
+  - 2026-04-24 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124776.md) · [원문](https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-future-hinges-on-trust-not-just-funding-models-marcs-take-this-week/)
+  - Global competition and funding challenges are forcing change, but skepticism from farmers could shape what comes next The post Canada’s Plant Breeding Future Hinges on Trust, Not Just Funding Models…
+
+- **[100 Years Is Rare in Seeds](items/seedworld/2026/04/https_www.seedworld.com_p_124768.md)**
+  - 2026-04-24 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124768.md) · [원문](https://www.seedworld.com/us/2026/04/23/100-years-is-rare-in-seeds/)
+  - Happy Birthday! Pioneer marks 100 years in the seed industry, offering a case study in what it takes to survive shifting markets, evolving technology, and changing farmer expectations.
+
+- **[Canada’s Plant Breeding System at a Crossroads, Says Incoming GIFS CEO Jason Reinheimer](items/seedworld/2026/04/https_www.seedworld.com_p_124764.md)**
+  - 2026-04-23 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124764.md) · [원문](https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-system-at-a-crossroads-says-incoming-gifs-ceo-jason-reinheimer/)
+  - In the latest Seed World Podcast, Reinheimer explains why Canada risks falling behind globally, and what must change to protect innovation The post Canada’s Plant Breeding System at a Crossroads, Say…
+
+- **[Solar Panels Boost Crop Efficiency: Tomato Systems Use Half the Water](items/seedworld/2026/04/https_www.seedworld.com_p_124731.md)**
+  - 2026-04-23 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124731.md) · [원문](https://www.seedworld.com/europe/2026/04/23/solar-panels-boost-crop-efficiency-tomato-systems-use-half-the-water/)
+  - Agrovoltaic tomato systems could help agriculture save water while producing renewable energy on the same land. Research in Spain found that combining solar panels with deficit irrigation cut water u…
+
+- **[LETTER TO THE EDITOR: “Consolidation” is a False Efficiency in Crop Breeding](items/seedworld/2026/04/https_www.seedworld.com_p_124747.md)**
+  - 2026-04-23 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124747.md) · [원문](https://www.seedworld.com/canada/2026/04/22/letter-to-the-editor-consolidation-is-a-false-efficiency-in-crop-breeding/)
+  - Three retired breeders say centralizing AAFC research may save costs on paper, but it narrows genetic discovery, increases farm risk and slows agricultural innovation The post LETTER TO THE EDITOR: “…
+
+- **[What’s at Stake in Every Slice: On the Brink Episode 7](items/seedworld/2026/04/https_www.seedworld.com_p_124712.md)**
+  - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124712.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/22/whats-at-stake-in-every-slice-on-the-brink-episode-7/)
+  - Adam Dyck of Warburton's Canada warns Canada risks losing its plant breeding investment edge — and the international wheat contracts that depend on it. The post What’s at Stake in Every Slice: On the…
+
+- **[Por qué Costa Rica atrae inversión e I+D global en semillas](items/seedworld/2026/04/https_www.seedworld.com_p_124613.md)**
+  - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124613.md) · [원문](https://www.seedworld.com/latam/2026/04/22/por-que-costa-rica-atrae-inversion-e-id-global-en-semillas/)
+  - Costa Rica es un centro líder en innovación de semillas, con estabilidad regulatoria, diversidad climática y talento especializado. Su marco científico, ventaja de contraestación e infraestructura av…
+
+- **[Why Costa Rica Is Attracting Global Seed Investment and R&D](items/seedworld/2026/04/https_www.seedworld.com_p_124605.md)**
+  - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124605.md) · [원문](https://www.seedworld.com/europe/2026/04/22/why-costa-rica-is-attracting-global-seed-investment-and-rd/)
+  - Costa Rica is a leading hub for seed innovation, offering regulatory stability, diverse microclimates and skilled talent. Its science-based framework, counter-season advantage and advanced R&D infras…
 
 - **[Global Institute for Food Security Names Jason Reinheimer CEO](items/seedworld/2026/04/https_www.seedworld.com_p_124723.md)**
   - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124723.md) · [원문](https://www.seedworld.com/canada/2026/04/21/global-institute-for-food-security-names-jason-reinheimer-ceo/)
   - The Australian-born plant breeding expert steps into the role with a mission to turn ag innovation into real-world impact faster The post Global Institute for Food Security Names Jason Reinheimer CEO…
-
-- **[The System Built For Corn Isn’t Built For What’s Next](items/seedworld/2026/04/https_www.seedworld.com_p_124705.md)**
-  - 2026-04-21 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124705.md) · [원문](https://www.seedworld.com/us/2026/04/20/the-system-built-for-corn-isnt-built-for-whats-next/)
-  - Diversification is gaining traction across U.S. agriculture, but a recent Corn Belt analysis shows markets and infrastructure for crops beyond corn still lag, limiting adoption and slowing demand for…
-
-- **[VUAs: A Critical Piece of Canada’s Ag Future](items/seedworld/2026/04/https_www.seedworld.com_p_124694.md)**
-  - 2026-04-20 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124694.md) · [원문](https://www.seedworld.com/canada/2026/04/20/vuas-a-critical-piece-of-canadas-ag-future/)
-  - Whether we’re looking one year out or 20, the strength of our industry depends on the quality of the genetics we have access to. They drive yield, resilience, and ultimately […] The post VUAs: A Crit…
-
-- **[Legume Generation Project Aims to Boost Legume Breeding and Protein Crop Performance in Europe](items/seedworld/2026/04/https_www.seedworld.com_p_124559.md)**
-  - 2026-04-20 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124559.md) · [원문](https://www.seedworld.com/europe/2026/04/20/legume-generation-project-aims-to-boost-legume-breeding-and-protein-crop-performance-in-europe/)
-  - Legume Generation aims to strengthen European legume breeding through breeder-led innovation, addressing yield gaps, underinvestment, and reliance on imported protein. By uniting research and breedin…
-
-- **[국산 밀 빵·과자, ‘케이(K)-푸드’ 날개 달고 도약 가능성 충분](items/nics/2026/04/944135.md)**
-  - 2026-04-20 · `nics` · [읽기](items/nics/2026/04/944135.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944135)
-
-- **[이른 봄 고온·잦은 비, 보리·밀 병 피해 키워 “적기 방제로 예방”](items/nics/2026/04/944134.md)**
-  - 2026-04-20 · `nics` · [읽기](items/nics/2026/04/944134.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944134)
-
-- **[국립식량과학원, 청년농업인 간담회 “식량 산업 경쟁력 높이자” 한목소리](items/nics/2026/04/944133.md)**
-  - 2026-04-20 · `nics` · [읽기](items/nics/2026/04/944133.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944133)
-
-- **[간 건강 개선 효능 뛰어난 새싹보리 ‘혜누리’ 보급 확대](items/nics/2026/04/944132.md)**
-  - 2026-04-20 · `nics` · [읽기](items/nics/2026/04/944132.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944132)
-
-- **[Seed Banks May Limit Gene Drives for Weed Control](items/seedworld/2026/04/https_www.seedworld.com_p_124677.md)**
-  - 2026-04-18 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124677.md) · [원문](https://www.seedworld.com/us/2026/04/17/seed-banks-may-limit-gene-drives-for-weed-control/)
-  - New research from Cornell University shows seed banks, long-lived reserves of dormant seeds in soil, could slow or limit the spread of gene drives in plants. The findings highlight a key challenge an…
 
 
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
+
+- **[Register For Our Webinar on the Future of Value Creation](items/seedworld/2026/04/https_www.seedworld.com_p_124784.md)**
+  - 2026-04-24 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124784.md) · [원문](https://www.seedworld.com/canada/2026/04/23/register-for-our-webinar-on-the-future-of-value-creation/)
+  - The post Register For Our Webinar on the Future of Value Creation appeared first on Seed World .
+
+- **[Canada’s Plant Breeding Future Hinges on Trust, Not Just Funding Models — Marc’s Take This Week](items/seedworld/2026/04/https_www.seedworld.com_p_124776.md)**
+  - 2026-04-24 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124776.md) · [원문](https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-future-hinges-on-trust-not-just-funding-models-marcs-take-this-week/)
+  - Global competition and funding challenges are forcing change, but skepticism from farmers could shape what comes next The post Canada’s Plant Breeding Future Hinges on Trust, Not Just Funding Models…
+
+- **[100 Years Is Rare in Seeds](items/seedworld/2026/04/https_www.seedworld.com_p_124768.md)**
+  - 2026-04-24 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124768.md) · [원문](https://www.seedworld.com/us/2026/04/23/100-years-is-rare-in-seeds/)
+  - Happy Birthday! Pioneer marks 100 years in the seed industry, offering a case study in what it takes to survive shifting markets, evolving technology, and changing farmer expectations.
+
+- **[Canada’s Plant Breeding System at a Crossroads, Says Incoming GIFS CEO Jason Reinheimer](items/seedworld/2026/04/https_www.seedworld.com_p_124764.md)**
+  - 2026-04-23 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124764.md) · [원문](https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-system-at-a-crossroads-says-incoming-gifs-ceo-jason-reinheimer/)
+  - In the latest Seed World Podcast, Reinheimer explains why Canada risks falling behind globally, and what must change to protect innovation The post Canada’s Plant Breeding System at a Crossroads, Say…
+
+- **[Solar Panels Boost Crop Efficiency: Tomato Systems Use Half the Water](items/seedworld/2026/04/https_www.seedworld.com_p_124731.md)**
+  - 2026-04-23 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124731.md) · [원문](https://www.seedworld.com/europe/2026/04/23/solar-panels-boost-crop-efficiency-tomato-systems-use-half-the-water/)
+  - Agrovoltaic tomato systems could help agriculture save water while producing renewable energy on the same land. Research in Spain found that combining solar panels with deficit irrigation cut water u…
+
+- **[LETTER TO THE EDITOR: “Consolidation” is a False Efficiency in Crop Breeding](items/seedworld/2026/04/https_www.seedworld.com_p_124747.md)**
+  - 2026-04-23 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124747.md) · [원문](https://www.seedworld.com/canada/2026/04/22/letter-to-the-editor-consolidation-is-a-false-efficiency-in-crop-breeding/)
+  - Three retired breeders say centralizing AAFC research may save costs on paper, but it narrows genetic discovery, increases farm risk and slows agricultural innovation The post LETTER TO THE EDITOR: “…
+
+- **[What’s at Stake in Every Slice: On the Brink Episode 7](items/seedworld/2026/04/https_www.seedworld.com_p_124712.md)**
+  - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124712.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/22/whats-at-stake-in-every-slice-on-the-brink-episode-7/)
+  - Adam Dyck of Warburton's Canada warns Canada risks losing its plant breeding investment edge — and the international wheat contracts that depend on it. The post What’s at Stake in Every Slice: On the…
+
+- **[Por qué Costa Rica atrae inversión e I+D global en semillas](items/seedworld/2026/04/https_www.seedworld.com_p_124613.md)**
+  - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124613.md) · [원문](https://www.seedworld.com/latam/2026/04/22/por-que-costa-rica-atrae-inversion-e-id-global-en-semillas/)
+  - Costa Rica es un centro líder en innovación de semillas, con estabilidad regulatoria, diversidad climática y talento especializado. Su marco científico, ventaja de contraestación e infraestructura av…
+
+- **[Why Costa Rica Is Attracting Global Seed Investment and R&D](items/seedworld/2026/04/https_www.seedworld.com_p_124605.md)**
+  - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124605.md) · [원문](https://www.seedworld.com/europe/2026/04/22/why-costa-rica-is-attracting-global-seed-investment-and-rd/)
+  - Costa Rica is a leading hub for seed innovation, offering regulatory stability, diverse microclimates and skilled talent. Its science-based framework, counter-season advantage and advanced R&D infras…
+
+- **[£3 Billion DNA Project: How Sequencing UK Biodiversity Could Transform Agriculture and Innovation](items/seedworld/2026/04/https_www.seedworld.com_p_124728.md)**
+  - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124728.md) · [원문](https://www.seedworld.com/europe/2026/04/22/3-billion-dna-project-how-sequencing-uk-biodiversity-could-transform-agriculture-and-innovation/)
+  - The Darwin Tree of Life Project could generate nearly £3 billion in economic value across the UK and Ireland by sequencing all complex life. For agriculture, gains of £800 million to £1.4 billion cou…
 
 - **[Global Institute for Food Security Names Jason Reinheimer CEO](items/seedworld/2026/04/https_www.seedworld.com_p_124723.md)**
   - 2026-04-22 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124723.md) · [원문](https://www.seedworld.com/canada/2026/04/21/global-institute-for-food-security-names-jason-reinheimer-ceo/)
@@ -140,67 +184,13 @@ title: "식물 육종 뉴스"
   - 2026-04-17 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124667.md) · [원문](https://www.seedworld.com/latam/2026/04/17/all-crops-are-not-created-equal/)
   - Research scientist with nearly 10 years at Cuba’s National Tobacco Research Institute, leading tobacco breeding, DNA fingerprinting, disease resistance, germplasm characterization, and stress-respons…
 
-- **[Marc’s Take: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever](items/seedworld/2026/04/https_www.seedworld.com_p_124656.md)**
-  - 2026-04-17 · `seedworld` · [읽기](items/seedworld/2026/04/https_www.seedworld.com_p_124656.md) · [원문](https://www.seedworld.com/canada/2026/04/16/marcs-take-this-week-the-quiet-leaders-behind-seed-innovation-and-why-they-matter-more-than-ever/)
-  - From wheat breeder Dean Spaner to pea scientist D.J. Bing, these stories highlight the human foundation of plant breeding, and why it's critical for innovation The post Marc’s Take: The Quiet Leaders…
-
-- **[농촌진흥청, 맛‧기능성 높인 고소애 단백질 제품 개발 속도](items/rda/2026/04/100000809353.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809353.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809353&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[국산 밀 빵·과자, ‘케이(K)-푸드’ 날개 달고 도약 가능성 충분](items/rda/2026/04/100000809352.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809352.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809352&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[버려지던 사과·배 가지, 버섯 배지 원료로 활용 가능성 확인](items/rda/2026/04/100000809351.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809351.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809351&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 한국과학기술연구원 스마트팜융합연구센터 방문, 연구 협력 방향 논의](items/rda/2026/04/100000809349.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809349.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809349&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[사과 ‘골든볼’ 더 노랗고 예쁘게, 품질 높이는 재배 기술 제시](items/rda/2026/04/100000809347.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809347.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809347&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[이른 봄 고온·잦은 비, 보리·밀 병 피해 키워 “적기 방제로 예방”](items/rda/2026/04/100000809346.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809346.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809346&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[국립식량과학원, 청년농업인 간담회 “식량 산업 경쟁력 높이자” 한목소리](items/rda/2026/04/100000809345.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809345.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809345&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청 ‘여과액비 활용 경축순환농업 시범단지 구축’ 본격 추진](items/rda/2026/04/100000809344.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809344.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000809344&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 여름배추 안정 생산 “씨스트선충 방제 철저 당부”](items/rda/2026/04/100000809343.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809343.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809343&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“가뭄에도 피해 최소화” 옥수수 유전자 기능 확인](items/rda/2026/04/100000809342.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809342.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809342&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[봄 야외 농작업 활발…진드기 매개 감염병 주의](items/rda/2026/04/100000809336.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809336.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809336&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[간 건강 개선 효능 뛰어난 새싹보리 ‘혜누리’ 보급 확대](items/rda/2026/04/100000809335.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809335.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809335&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[한-우루과이 협력 ‘식물 기반 기능성 소재’ 세계 시장 진출 물꼬](items/rda/2026/04/100000809333.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809333.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809333&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[지속 가능한 농업의 미래 ‘친환경‧유기농업’ 기술 현장 살핀다](items/rda/2026/04/100000809331.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809331.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809331&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[식물 병 진단 역량 높여 신속한 병해 대응 체계 구축한다](items/rda/2026/04/100000809330.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809330.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809330&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 과학의 날 맞아 ‘맛있는 농업과학 실험실’ 연다](items/rda/2026/04/100000809329.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809329.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000809329&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, ‘우리흑돈’ 고급화·대중화 동시 공략](items/rda/2026/04/100000809328.md)**
-  - 2026-04-17 · `rda` · [읽기](items/rda/2026/04/100000809328.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000809328&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
 
 <a id="weekly-archive"></a>
 ## 지난 주간 아카이브
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-04-24](weekly/2026-04-24.md)
 - [2026-04-22](weekly/2026-04-22.md)
 - [2026-04-20](weekly/2026-04-20.md)
 - [2026-04-17](weekly/2026-04-17.md)

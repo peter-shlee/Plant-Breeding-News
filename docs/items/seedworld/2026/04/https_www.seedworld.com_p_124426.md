@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/09/lacombe-closure-puts-spotlight
 summary: "From relocation decisions to talent retention, Lori Oatway of Western Crop Innovations outlines the human side of research system changes. News of the planned closure of Agriculture and Agri-Food Canada’s […] The post Lacombe Closure Puts"
 attachments: []
 tags: []
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:50+09:00"
 ---
 # Lacombe Closure Puts Spotlight on Canada’s Agricultural Research Workforce
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/10/why-the-fertilizer-crisis-wont-end
 summary: "The fertilizer crisis gripping global agriculture was already building before the war with Iran. The situation was already taking place across supply chains, buying habits and investment pipelines."
 attachments: []
 tags: []
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:50+09:00"
 ---
 # Why the Fertilizer Crisis Won’t End When the Iran War Does
 

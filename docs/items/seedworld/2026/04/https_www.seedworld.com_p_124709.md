@@ -9,7 +9,7 @@ summary: "Euroseeds welcomes EU Member States’ formal adoption of the Council�
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:49+09:00"
 ---
 # Euroseeds Welcomes Member States’ Backing of NGT Regulation Deal
 

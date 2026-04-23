@@ -11,6 +11,46 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Register For Our Webinar on the Future of Value Creation](../../items/seedworld/2026/04/https_www.seedworld.com_p_124784.md)**
+  - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124784.md) · [원문](https://www.seedworld.com/canada/2026/04/23/register-for-our-webinar-on-the-future-of-value-creation/)
+  - The post Register For Our Webinar on the Future of Value Creation appeared first on Seed World .
+
+- **[Canada’s Plant Breeding Future Hinges on Trust, Not Just Funding Models — Marc’s Take This Week](../../items/seedworld/2026/04/https_www.seedworld.com_p_124776.md)**
+  - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124776.md) · [원문](https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-future-hinges-on-trust-not-just-funding-models-marcs-take-this-week/)
+  - Global competition and funding challenges are forcing change, but skepticism from farmers could shape what comes next The post Canada’s Plant Breeding Future Hinges on Trust, Not Just Funding Models…
+
+- **[100 Years Is Rare in Seeds](../../items/seedworld/2026/04/https_www.seedworld.com_p_124768.md)**
+  - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124768.md) · [원문](https://www.seedworld.com/us/2026/04/23/100-years-is-rare-in-seeds/)
+  - Happy Birthday! Pioneer marks 100 years in the seed industry, offering a case study in what it takes to survive shifting markets, evolving technology, and changing farmer expectations.
+
+- **[Canada’s Plant Breeding System at a Crossroads, Says Incoming GIFS CEO Jason Reinheimer](../../items/seedworld/2026/04/https_www.seedworld.com_p_124764.md)**
+  - 2026-04-23 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124764.md) · [원문](https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-system-at-a-crossroads-says-incoming-gifs-ceo-jason-reinheimer/)
+  - In the latest Seed World Podcast, Reinheimer explains why Canada risks falling behind globally, and what must change to protect innovation The post Canada’s Plant Breeding System at a Crossroads, Say…
+
+- **[Solar Panels Boost Crop Efficiency: Tomato Systems Use Half the Water](../../items/seedworld/2026/04/https_www.seedworld.com_p_124731.md)**
+  - 2026-04-23 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124731.md) · [원문](https://www.seedworld.com/europe/2026/04/23/solar-panels-boost-crop-efficiency-tomato-systems-use-half-the-water/)
+  - Agrovoltaic tomato systems could help agriculture save water while producing renewable energy on the same land. Research in Spain found that combining solar panels with deficit irrigation cut water u…
+
+- **[LETTER TO THE EDITOR: “Consolidation” is a False Efficiency in Crop Breeding](../../items/seedworld/2026/04/https_www.seedworld.com_p_124747.md)**
+  - 2026-04-23 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124747.md) · [원문](https://www.seedworld.com/canada/2026/04/22/letter-to-the-editor-consolidation-is-a-false-efficiency-in-crop-breeding/)
+  - Three retired breeders say centralizing AAFC research may save costs on paper, but it narrows genetic discovery, increases farm risk and slows agricultural innovation The post LETTER TO THE EDITOR: “…
+
+- **[What’s at Stake in Every Slice: On the Brink Episode 7](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md)**
+  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/22/whats-at-stake-in-every-slice-on-the-brink-episode-7/)
+  - Adam Dyck of Warburton's Canada warns Canada risks losing its plant breeding investment edge — and the international wheat contracts that depend on it. The post What’s at Stake in Every Slice: On the…
+
+- **[Por qué Costa Rica atrae inversión e I+D global en semillas](../../items/seedworld/2026/04/https_www.seedworld.com_p_124613.md)**
+  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124613.md) · [원문](https://www.seedworld.com/latam/2026/04/22/por-que-costa-rica-atrae-inversion-e-id-global-en-semillas/)
+  - Costa Rica es un centro líder en innovación de semillas, con estabilidad regulatoria, diversidad climática y talento especializado. Su marco científico, ventaja de contraestación e infraestructura av…
+
+- **[Why Costa Rica Is Attracting Global Seed Investment and R&D](../../items/seedworld/2026/04/https_www.seedworld.com_p_124605.md)**
+  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124605.md) · [원문](https://www.seedworld.com/europe/2026/04/22/why-costa-rica-is-attracting-global-seed-investment-and-rd/)
+  - Costa Rica is a leading hub for seed innovation, offering regulatory stability, diverse microclimates and skilled talent. Its science-based framework, counter-season advantage and advanced R&D infras…
+
+- **[£3 Billion DNA Project: How Sequencing UK Biodiversity Could Transform Agriculture and Innovation](../../items/seedworld/2026/04/https_www.seedworld.com_p_124728.md)**
+  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124728.md) · [원문](https://www.seedworld.com/europe/2026/04/22/3-billion-dna-project-how-sequencing-uk-biodiversity-could-transform-agriculture-and-innovation/)
+  - The Darwin Tree of Life Project could generate nearly £3 billion in economic value across the UK and Ireland by sequencing all complex life. For agriculture, gains of £800 million to £1.4 billion cou…
+
 - **[Global Institute for Food Security Names Jason Reinheimer CEO](../../items/seedworld/2026/04/https_www.seedworld.com_p_124723.md)**
   - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124723.md) · [원문](https://www.seedworld.com/canada/2026/04/21/global-institute-for-food-security-names-jason-reinheimer-ceo/)
   - The Australian-born plant breeding expert steps into the role with a mission to turn ag innovation into real-world impact faster The post Global Institute for Food Security Names Jason Reinheimer CEO…
@@ -369,39 +409,3 @@ source: "seedworld"
 - **[UK Food System Under Pressure as Report Urges Shift to Sustainable Farming](../../items/seedworld/2026/03/https_www.seedworld.com_p_123919.md)**
   - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123919.md) · [원문](https://www.seedworld.com/europe/2026/03/24/uk-food-system-under-pressure-as-report-urges-shift-to-sustainable-farming/)
   - A new Demos report, backed by McCain Foods, says sustainable farming could strengthen the UK food system, raise farm profits, cut fertiliser imports and unlock billions in economic value by 2035.
-
-- **[Ag Day Begins With Seed](../../items/seedworld/2026/03/https_www.seedworld.com_p_123930.md)**
-  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123930.md) · [원문](https://www.seedworld.com/us/2026/03/24/ag-day-begins-with-seed/)
-  - Seed industry leaders share why everything starts with seed for National Ag Day, highlighting innovation, supply chains and the role seed plays in food, fuel and fiber systems.
-
-- **[Peru’s New Gene-Editing Guidelines Could Boost Crop Innovation](../../items/seedworld/2026/03/https_www.seedworld.com_p_123697.md)**
-  - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123697.md) · [원문](https://www.seedworld.com/latam/2026/03/24/perus-new-gene-editing-guidelines-could-boost-crop-innovation/)
-  - Peru’s new gene-editing guidelines create a clearer regulatory path for crops developed with tools like CRISPR. The measure helps determine whether gene-edited organisms qualify as modified living or…
-
-- **[Legacy Project to Support National Food Bank ahead of World Seed Congress 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123907.md)**
-  - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123907.md) · [원문](https://www.seedworld.com/europe/2026/03/24/legacy-project-to-support-national-food-bank-ahead-of-world-seed-congress-2026/)
-  - Ahead of the World Seed Congress 2026 in Lisbon, the new Legacy Project aims to create lasting local impact by uniting the seed sector, students and civil society to grow crops for donation to Portug…
-
-- **[Diesel Jumps, Margins Shrink: Canadian Seed Growers Feel Impact of Hormuz Crisis](../../items/seedworld/2026/03/https_www.seedworld.com_p_123898.md)**
-  - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123898.md) · [원문](https://www.seedworld.com/canada/2026/03/23/diesel-jumps-margins-shrink-canadian-seed-growers-feel-impact-of-hormuz-crisis/)
-  - Canadian seed growers are absorbing rising diesel and fertilizer costs after Strait of Hormuz tensions triggered an energy price spike. With margins already thin heading into the 2026 growing season,…
-
-- **[Industry Leaders Back NAPB Borlaug Scholars — Now New Sponsors Are Invited for 2026](../../items/seedworld/2026/03/https_www.seedworld.com_p_123825.md)**
-  - 2026-03-24 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123825.md) · [원문](https://www.seedworld.com/canada/2026/03/23/industry-leaders-back-napb-borlaug-scholars-now-new-sponsors-are-invited-for-2026/)
-  - Supported by organizations like Bayer, the program connects top students with industry mentors — and is expanding opportunities for new partners. The National Association for Plant Breeding (NAPB) Bo…
-
-- **[Study Finds Crops Store Wastewater Drugs Mainly in Leaves](../../items/seedworld/2026/03/https_www.seedworld.com_p_123597.md)**
-  - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123597.md) · [원문](https://www.seedworld.com/europe/2026/03/23/study-finds-crops-store-wastewater-drugs-mainly-in-leaves/)
-  - A Johns Hopkins study found that crops irrigated with treated wastewater, including tomatoes, carrots, and lettuce, tend to accumulate psychoactive pharmaceutical residues mainly in their leaves.
-
-- **[Nuevas directrices de edición genética en Perú podrían impulsar la innovación agrícola](../../items/seedworld/2026/03/https_www.seedworld.com_p_123694.md)**
-  - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123694.md) · [원문](https://www.seedworld.com/latam/2026/03/23/nuevas-directrices-de-edicion-genetica-en-peru-podrian-impulsar-la-innovacion-agricola/)
-  - Las nuevas directrices de edición genética en Perú crean una ruta regulatoria más clara para cultivos desarrollados con herramientas como CRISPR. La medida permite definir si los organismos editados…
-
-- **[Time for Change — PRM and The Wider Context](../../items/seedworld/2026/03/https_www.seedworld.com_p_123762.md)**
-  - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123762.md) · [원문](https://www.seedworld.com/europe/2026/03/23/time-for-change-prm-and-the-wider-context/)
-  - The EU is advancing a new Plant Reproductive Material (PRM) regulation to modernize seed laws, improve traceability, and support biodiversity and food security. Trilogue discussions highlight divisio…
-
-- **[Seeds Don’t Just Grow in Sunlight Anymore](../../items/seedworld/2026/03/https_www.seedworld.com_p_123870.md)**
-  - 2026-03-23 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123870.md) · [원문](https://www.seedworld.com/us/2026/03/23/seeds-dont-just-grow-in-sunlight-anymore/)
-  - Agrovoltaics is introducing a new growing environment where crops are produced under solar panels, shifting how light, water and stress interact and raising new questions for yield performance, profi…

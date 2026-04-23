@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/13/euroseeds-nextgen-forum-2026-c
 summary: "The Euroseeds NextGen Forum 2026 in Valencia connects young researchers with seed industry leaders to address talent gaps in plant breeding. Bringing together students, PhDs and professionals, the initiative fosters networking, career"
 attachments: []
 tags: []
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:50+09:00"
 ---
 # Euroseeds NextGen Forum 2026 Connects Students with Seed Sector Careers
 

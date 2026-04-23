@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/06/canadian-seed-growers-associat
 summary: "He leaves behind a more modern, more agile organization at a pivotal moment for Canada’s seed sector The post Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-04-22T06:49:03+09:00"
+fetched_at: "2026-04-24T06:48:50+09:00"
 ---
 # Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits
 
