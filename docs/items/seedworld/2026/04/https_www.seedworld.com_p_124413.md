@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/10/supporting-genebanks-enlighten
 summary: "Genebanks are essential public infrastructure that conserve crop diversity and support breeders, food security, and climate resilience. While governments and the Crop Trust provide core funding, private-sector support remains vital."
 attachments: []
 tags: []
-fetched_at: "2026-04-24T06:48:50+09:00"
+fetched_at: "2026-04-27T06:48:34+09:00"
 ---
 # Supporting Genebanks: Enlightened Self Interest
 

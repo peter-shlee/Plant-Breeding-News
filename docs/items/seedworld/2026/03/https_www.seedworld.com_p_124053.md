@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/03/30/seeds-canadas-new-ceo-isnt-rus
 summary: "Dan Wright steps into Seeds Canada’s top role with a listening-first approach and a focus on collaboration, innovation and regulatory modernization The post Seeds Canada’s New CEO Isn’t Rushing In — And That’s the Strategy appeared first"
 attachments: []
 tags: []
-fetched_at: "2026-04-24T06:48:51+09:00"
+fetched_at: "2026-04-27T06:48:34+09:00"
 ---
 # Seeds Canada’s New CEO Isn’t Rushing In — And That’s the Strategy
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/17/no-todos-los-cultivos-son-igual
 summary: "Científica investigadora con casi 10 años en el Instituto Nacional de Investigaciones del Tabaco de Cuba, liderando mejoramiento genético, huella genética por ADN, resistencia a enfermedades, caracterización de germoplasma y estudios de"
 attachments: []
 tags: []
-fetched_at: "2026-04-24T06:48:49+09:00"
+fetched_at: "2026-04-27T06:48:34+09:00"
 ---
 # No todos los cultivos son iguales
 

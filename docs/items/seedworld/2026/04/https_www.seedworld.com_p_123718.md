@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/01/nuevos-pimientos-jalapenos-muru
 summary: "Nuevos materiales de jalapeño, murupi, consumo fresco y pimientos ornamentales de Embrapa Hortalizas avanzan a pruebas en campo en Brasil. Desarrollados para atender a productores, procesadores y mercados ornamentales, buscan mejorar"
 attachments: []
 tags: []
-fetched_at: "2026-04-24T06:48:50+09:00"
+fetched_at: "2026-04-27T06:48:34+09:00"
 ---
 # Nuevos pimientos jalapeños, murupi y ornamentales pasan a la fase de pruebas en fincas en Brasil
 

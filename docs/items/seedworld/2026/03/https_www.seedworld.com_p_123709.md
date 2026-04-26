@@ -9,7 +9,7 @@ summary: "Embrapa’s new Low Carbon Corn and Low Carbon Sorghum programs aim to
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-04-24T06:48:51+09:00"
+fetched_at: "2026-04-27T06:48:34+09:00"
 ---
 # New Embrapa Programs Aim to Cut Carbon Footprint of Corn and Sorghum
 

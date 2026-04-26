@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/08/brasil-enfrenta-creciente-riesg
 summary: "Las enfermedades del achaparramiento del maíz, transmitidas por la chicharrita, han provocado grandes pérdidas en Brasil. Un estudio estima una reducción media del 22,7% del rendimiento entre 2020 y 2024, equivalente a US$6.500 millones"
 attachments: []
 tags: []
-fetched_at: "2026-04-24T06:48:50+09:00"
+fetched_at: "2026-04-27T06:48:34+09:00"
 ---
 # Brasil enfrenta creciente riesgo por achaparramiento del maíz
 

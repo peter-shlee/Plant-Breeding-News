@@ -11,6 +11,26 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Elevated Fertilizer Costs Make Seed Testing a Strategic Imperative](../../items/seedworld/2026/04/https_www.seedworld.com_p_124792.md)**
+  - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124792.md) · [원문](https://www.seedworld.com/canada/2026/04/24/elevated-fertilizer-costs-make-seed-testing-a-strategic-imperative/)
+  - Ongoing disruptions to global shipping routes through the Strait of Hormuz have tightened fertilizer supply and driven nutrient prices higher. What’s the impact on the industry?
+
+- **[Breeders Trust Settles Case Over Illegal Seed Potato Listing In Denmark](../../items/seedworld/2026/04/https_www.seedworld.com_p_124789.md)**
+  - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124789.md) · [원문](https://www.seedworld.com/europe/2026/04/24/breeders-trust-settles-case-over-illegal-seed-potato-listing-in-denmark/)
+  - Danish potato grower settles Breeders Trust case after a Facebook listing offered protected Solist seed potatoes, underscoring that online advertisements can infringe plant breeders’ rights even with…
+
+- **[“Lazy” Crop Roots: Traditional Sorghum Outperforms on Recycled Phosphorus](../../items/seedworld/2026/04/https_www.seedworld.com_p_124737.md)**
+  - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124737.md) · [원문](https://www.seedworld.com/europe/2026/04/24/lazy-crop-roots-traditional-sorghum-outperforms-on-recycled-phosphorus/)
+  - Traditional sorghum lines may hold the key to more efficient crop nutrition as agriculture shifts toward recycled fertilisers. A University of Queensland study found landraces outperformed modern sor…
+
+- **[Embrapa’s Mariangela Hungria Named to TIME100 2026 for Pioneering Sustainable Agriculture Innovations](../../items/seedworld/2026/04/https_www.seedworld.com_p_124753.md)**
+  - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124753.md) · [원문](https://www.seedworld.com/latam/2026/04/24/embrapas-mariangela-hungria-named-to-time100-2026-for-pioneering-sustainable-agriculture-innovations/)
+  - Embrapa scientist Mariangela Hungria was named to TIME100 2026 in the Pioneers category for advancing sustainable agriculture. A global leader in biological inputs, she helped replace chemical fertil…
+
+- **[Mariangela Hungria, de Embrapa, incluida en la lista TIME100 2026 por sus innovaciones pioneras en agricultur…](../../items/seedworld/2026/04/https_www.seedworld.com_p_124750.md)**
+  - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124750.md) · [원문](https://www.seedworld.com/latam/2026/04/24/mariangela-hungria-de-embrapa-incluida-en-la-lista-time100-2026-por-sus-innovaciones-pioneras-en-agricultura-sostenible/)
+  - La científica de Embrapa Mariangela Hungria fue incluida en la lista TIME100 2026, en la categoría Pioneros, por impulsar la agricultura sostenible. Referente mundial en insumos biológicos, ayudó a s…
+
 - **[Register For Our Webinar on the Future of Value Creation](../../items/seedworld/2026/04/https_www.seedworld.com_p_124784.md)**
   - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124784.md) · [원문](https://www.seedworld.com/canada/2026/04/23/register-for-our-webinar-on-the-future-of-value-creation/)
   - The post Register For Our Webinar on the Future of Value Creation appeared first on Seed World .
@@ -361,51 +381,3 @@ source: "seedworld"
 - **[From Waste to Yield: Biochar Innovation Supports Crop Growth](../../items/seedworld/2026/03/https_www.seedworld.com_p_123916.md)**
   - 2026-03-28 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123916.md) · [원문](https://www.seedworld.com/europe/2026/03/27/from-waste-to-yield-biochar-innovation-supports-crop-growth/)
   - Researchers developed an engineered sewage sludge biochar paired with Bacillus velezensis that boosts cabbage growth by improving nitrogen uptake and soil microbial activity.
-
-- **[Nuevos programas de Embrapa buscan reducir la huella de carbono del maíz y el sorgo](../../items/seedworld/2026/03/https_www.seedworld.com_p_123706.md)**
-  - 2026-03-27 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123706.md) · [원문](https://www.seedworld.com/latam/2026/03/27/nuevos-programas-de-embrapa-buscan-reducir-la-huella-de-carbono-del-maiz-y-el-sorgo/)
-  - Los nuevos programas de Maíz Bajo en Carbono y Sorgo Bajo en Carbono de Embrapa buscan reducir la huella de carbono de la producción de granos en Brasil mediante protocolos de certificación basados e…
-
-- **[Climate-Ready Wheat Could Secure Future Pasta Production](../../items/seedworld/2026/03/https_www.seedworld.com_p_123910.md)**
-  - 2026-03-27 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123910.md) · [원문](https://www.seedworld.com/europe/2026/03/27/climate-ready-wheat-could-secure-future-pasta-production/)
-  - Researchers from Skoltech, CIMMYT, Italy’s Research Center for Cereal and Industrial Crops, and global partners developed new durum wheat lines with improved freezing tolerance and strong gluten qual…
-
-- **[This Week in Seed: A Global Crisis, Rising Costs — and a Bigger Question No One Can Ignore](../../items/seedworld/2026/03/https_www.seedworld.com_p_124044.md)**
-  - 2026-03-27 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124044.md) · [원문](https://www.seedworld.com/canada/2026/03/26/this-week-in-seed-a-global-crisis-rising-costs-and-a-bigger-question-no-one-can-ignore/)
-  - As growers face rising costs, initiatives like the Borlaug Scholars program signal how investment in people and innovation will define the next chapter of seed The post This Week in Seed: A Global Cr…
-
-- **[Plant Pathology, Farmers and 40 Years in Ag: Dr. Kelly Turkington’s Story](../../items/seedworld/2026/03/https_www.seedworld.com_p_124001.md)**
-  - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124001.md) · [원문](https://www.seedworld.com/canada/2026/03/26/plant-pathology-farmers-and-40-years-in-ag-dr-kelly-turkingtons-story/)
-  - As he retires at the end of the month, a leading Canadian plant pathologist shares insights on legacy, mentorship and the real-world impact of crop disease science. Dr.
-
-- **[Argentina Revises GMO Regulations to Boost Innovation in Agriculture](../../items/seedworld/2026/03/https_www.seedworld.com_p_123703.md)**
-  - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123703.md) · [원문](https://www.seedworld.com/latam/2026/03/26/argentina-revises-gmo-regulations-to-boost-innovation-in-agriculture/)
-  - Argentina’s revised GMO regulations aim to accelerate agricultural innovation by simplifying approval processes for experimental and commercial biotech products. Resolution 255/2026 updates technical…
-
-- **[How AI Accelerates the Crop Breeding Cycle](../../items/seedworld/2026/03/https_www.seedworld.com_p_124000.md)**
-  - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124000.md) · [원문](https://www.seedworld.com/us/2026/03/25/how-ai-accelerates-the-crop-breeding-cycle/)
-  - AI-powered imaging and high-throughput phenotyping are changing how crop breeders collect and analyze field data. From drones and robots to massive image datasets, new tools are helping breeders eval…
-
-- **[Why Invest in Canada’s Seed Future: On the Brink Episode 3](../../items/seedworld/2026/03/https_www.seedworld.com_p_123936.md)**
-  - 2026-03-26 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123936.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/03/25/episode-3-why-invest-in-canadas-seed-future/)
-  - Unger Seed Farm's major new build is more than a construction project. Darcy Unger explains why investment in Canadian plant breeding isn't just a farm decision — it's an industry one.
-
-- **[Argentina revisa la normativa sobre OMG para impulsar la innovación en la agricultura](../../items/seedworld/2026/03/https_www.seedworld.com_p_123700.md)**
-  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123700.md) · [원문](https://www.seedworld.com/latam/2026/03/25/argentina-revisa-la-normativa-sobre-omg-para-impulsar-la-innovacion-en-la-agricultura/)
-  - La actualización de las regulaciones sobre OGM en Argentina busca acelerar la innovación agrícola al simplificar los procesos de aprobación para productos biotecnológicos experimentales y comerciales.
-
-- **[If the Seeding Rate Was Right, Why Is the Stand Thin?](../../items/seedworld/2026/03/https_www.seedworld.com_p_123943.md)**
-  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123943.md) · [원문](https://www.seedworld.com/us/2026/03/25/if-the-seeding-rate-was-right-why-is-the-stand-thin/)
-  - Thin forage stands are often caused not by seeding math, but by biological realities after planting. Seed mortality from poor moisture, weak seed-to-soil contact, timing, and movement can range from…
-
-- **[Scientists Discover a New Plant Immune Complex in Wheat](../../items/seedworld/2026/03/https_www.seedworld.com_p_123913.md)**
-  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123913.md) · [원문](https://www.seedworld.com/europe/2026/03/25/scientists-discover-a-new-plant-immune-complex-in-wheat/)
-  - Researchers discovered a new plant immune defense in wheat, where the WAI3 protein forms an eight-part resistosome that triggers calcium flow and activates disease resistance.
-
-- **[For The Love of Carbs](../../items/seedworld/2026/03/https_www.seedworld.com_p_123767.md)**
-  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123767.md) · [원문](https://www.seedworld.com/europe/2026/03/25/for-the-love-of-carbs/)
-  - Carbohydrates are diverse compounds central to energy, industry, and biology, from sugars and starches to cellulose and DNA components. This overview highlights their chemical complexity, everyday ap…
-
-- **[UK Food System Under Pressure as Report Urges Shift to Sustainable Farming](../../items/seedworld/2026/03/https_www.seedworld.com_p_123919.md)**
-  - 2026-03-25 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123919.md) · [원문](https://www.seedworld.com/europe/2026/03/24/uk-food-system-under-pressure-as-report-urges-shift-to-sustainable-farming/)
-  - A new Demos report, backed by McCain Foods, says sustainable farming could strengthen the UK food system, raise farm profits, cut fertiliser imports and unlock billions in economic value by 2035.
