@@ -11,6 +11,24 @@ source: "nics"
 
 ## 2026-04
 
+- **[농촌진흥청, 기후·에너지 위기 극복 ‘저탄소 벼 재배 기술’ 확립](../../items/nics/2026/04/944154.md)**
+  - 2026-04-27 · [읽기](../../items/nics/2026/04/944154.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944154)
+
+- **[농촌진흥청, 식물 기반 대체식품 원료·소재 국산화 “민관 머리 맞대”](../../items/nics/2026/04/944153.md)**
+  - 2026-04-27 · [읽기](../../items/nics/2026/04/944153.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944153)
+
+- **[농촌진흥청, 국산 품종 ‘케이-씨드 오일’(K-Seed Oil) 알린다](../../items/nics/2026/04/944152.md)**
+  - 2026-04-27 · [읽기](../../items/nics/2026/04/944152.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944152)
+
+- **[농촌진흥청, ‘현장 밀착형’ 벼 안전 육묘 기술 지원 강화](../../items/nics/2026/04/944151.md)**
+  - 2026-04-27 · [읽기](../../items/nics/2026/04/944151.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944151)
+
+- **[식량원-농관원, 고품질 쌀 유통 질서 확립 ‘벼 품종 판별 협력 강화’](../../items/nics/2026/04/944150.md)**
+  - 2026-04-27 · [읽기](../../items/nics/2026/04/944150.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944150)
+
+- **[국립식량과학원-한국도로공사 전북본부, ‘청년농, 협업·상생의 길을 잇다’ 사업 추...](../../items/nics/2026/04/944149.md)**
+  - 2026-04-27 · [읽기](../../items/nics/2026/04/944149.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944149)
+
 - **[국산 밀 빵·과자, ‘케이(K)-푸드’ 날개 달고 도약 가능성 충분](../../items/nics/2026/04/944135.md)**
   - 2026-04-20 · [읽기](../../items/nics/2026/04/944135.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944135)
 
@@ -22,21 +40,3 @@ source: "nics"
 
 - **[간 건강 개선 효능 뛰어난 새싹보리 ‘혜누리’ 보급 확대](../../items/nics/2026/04/944132.md)**
   - 2026-04-20 · [읽기](../../items/nics/2026/04/944132.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944132)
-
-- **[국내 오가피 순, 플라보노이드·사포닌 풍부… 기능성 식품 소재 가치 높아](../../items/nics/2026/04/944119.md)**
-  - 2026-04-13 · [읽기](../../items/nics/2026/04/944119.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944119)
-
-- **[‘데이터는 정밀하게, 에너지는 적게’…밭작물 재배 기술 교육](../../items/nics/2026/04/944118.md)**
-  - 2026-04-13 · [읽기](../../items/nics/2026/04/944118.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944118)
-
-- **[농촌진흥청, 유채 영양 성분 밝혀 “나물용 채소 가치 재확인”](../../items/nics/2026/04/944117.md)**
-  - 2026-04-13 · [읽기](../../items/nics/2026/04/944117.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944117)
-
-- **[농촌진흥청, 밀 생육 동향 및 국산 밀 제분 시설 현장 점검](../../items/nics/2026/04/944111.md)**
-  - 2026-04-09 · [읽기](../../items/nics/2026/04/944111.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944111)
-
-- **[‘신동진1’ 질소비료 감축…농가 경영비 줄이고, 쌀 품질 높인다](../../items/nics/2026/04/944107.md)**
-  - 2026-04-06 · [읽기](../../items/nics/2026/04/944107.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944107)
-
-- **[고구마 가공 제품별 최적 품종과 제조 공법은?](../../items/nics/2026/04/944106.md)**
-  - 2026-04-06 · [읽기](../../items/nics/2026/04/944106.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944106)

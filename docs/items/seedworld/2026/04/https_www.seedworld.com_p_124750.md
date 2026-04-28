@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/24/mariangela-hungria-de-embrapa-i
 summary: "La científica de Embrapa Mariangela Hungria fue incluida en la lista TIME100 2026, en la categoría Pioneros, por impulsar la agricultura sostenible. Referente mundial en insumos biológicos, ayudó a sustituir fertilizantes químicos por"
 attachments: []
 tags: []
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # Mariangela Hungria, de Embrapa, incluida en la lista TIME100 2026 por sus innovaciones pioneras en agricultura sostenible
 

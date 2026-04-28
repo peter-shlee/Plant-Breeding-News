@@ -11,6 +11,42 @@ source: "seedworld"
 
 ## 2026-04
 
+- **[Who Speaks for Seed in Canada-U.S. Trade? Michael Harvey Takes a Seat](../../items/seedworld/2026/04/https_www.seedworld.com_p_124863.md)**
+  - 2026-04-29 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124863.md) · [원문](https://www.seedworld.com/canada/2026/04/28/who-speaks-for-seed-in-canada-u-s-trade-michael-harvey-takes-a-seat/)
+  - With CUSMA talks approaching, CAFTA’s executive director joins Ottawa’s new advisory committee to represent agri-food exporters The post Who Speaks for Seed in Canada-U.S.
+
+- **[What Fuels a Plant Before Sunlight Takes Over?](../../items/seedworld/2026/04/https_www.seedworld.com_p_124869.md)**
+  - 2026-04-29 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124869.md) · [원문](https://www.seedworld.com/us/2026/04/28/what-fuels-a-plant-before-sunlight-takes-over/)
+  - Scientists identified how the PEX11 protein regulates peroxisome growth in young plants, helping seedlings use stored energy before photosynthesis begins and offering insight relevant to bioengineeri…
+
+- **[Scientists Use CRISPR to Strengthen Grapevines in African First](../../items/seedworld/2026/04/https_www.seedworld.com_p_124838.md)**
+  - 2026-04-28 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124838.md) · [원문](https://www.seedworld.com/europe/2026/04/28/scientists-use-crispr-to-strengthen-grapevines-in-african-first/)
+  - African researchers used CRISPR to successfully edit grapevine DNA for the first time in a woody crop on the continent. By switching off the VvDMR6.1 gene, the study reduced susceptibility to downy m…
+
+- **[CRISPR Study Unlocks Precision Chromosome Editing in Wheat](../../items/seedworld/2026/04/https_www.seedworld.com_p_124831.md)**
+  - 2026-04-28 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124831.md) · [원문](https://www.seedworld.com/europe/2026/04/28/crispr-study-unlocks-precision-chromosome-editing-in-wheat/)
+  - IPK researchers used CRISPR/Cas to reduce or remove chromosomes in wheat and other large-genome plants by targeting satellite DNA. Published in Plant Communications, the breakthrough shows how precis…
+
+- **[Euroseeds InnovAction Stage 2026: Deadline April 30](../../items/seedworld/2026/04/https_www.seedworld.com_p_124815.md)**
+  - 2026-04-28 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124815.md) · [원문](https://www.seedworld.com/europe/2026/04/28/euroseeds-innovaction-stage-2026-deadline-april-30/)
+  - Euroseeds Congress 2026 InnovAction Stage offers startups, research initiatives, and established seed companies a platform to showcase breakthrough innovations. Madeleine Baerg and Dr.
+
+- **[What To Expect at Euroseeds 2026](../../items/seedworld/2026/04/https_www.seedworld.com_p_124812.md)**
+  - 2026-04-28 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124812.md) · [원문](https://www.seedworld.com/europe/2026/04/28/what-to-expect-at-euroseeds-2026/)
+  - Shawn Brook interviews Garlich von Essen on the future of the seed sector ahead of Euroseeds Congress 2026, exploring geopolitical shifts, innovation, regulation, sustainability, biologicals, traceab…
+
+- **[$40M Investment Expands Agronomy Research Capacity at Oklahoma State](../../items/seedworld/2026/04/https_www.seedworld.com_p_124804.md)**
+  - 2026-04-27 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124804.md) · [원문](https://www.seedworld.com/us/2026/04/27/40m-investment-expands-agronomy-research-capacity-at-oklahoma-state/)
+  - Oklahoma State University will build a new Agronomy Discovery Center following a $40 million state investment, expanding crop research capacity and supporting wheat breeding, soil science and broader…
+
+- **[Seed Programs International conecta a los pequeños agricultores con el sector de las semillas](../../items/seedworld/2026/04/https_www.seedworld.com_p_124755.md)**
+  - 2026-04-27 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124755.md) · [원문](https://www.seedworld.com/latam/2026/04/27/seed-programs-international-conecta-a-los-pequenos-agricultores-con-el-sector-de-las-semillas/)
+  - Seed Programs International conecta empresas semilleras, financiadores y socios locales para ayudar a pequeños agricultores a producir alimentos y fortalecer la seguridad alimentaria.
+
+- **[Yearbook Advice vs. Seed Business Reality: “Never Change” Is an Awful Strategy](../../items/seedworld/2026/04/https_www.seedworld.com_p_124800.md)**
+  - 2026-04-27 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124800.md) · [원문](https://www.seedworld.com/us/2026/04/26/yearbook-advice-vs-seed-business-reality-never-change-is-an-awful-strategy/)
+  - Seed companies can’t rely on “never change” thinking. To stay competitive, leaders must protect customer trust while evolving sales channels, pricing models, digital tools, agronomic insight, and pro…
+
 - **[Elevated Fertilizer Costs Make Seed Testing a Strategic Imperative](../../items/seedworld/2026/04/https_www.seedworld.com_p_124792.md)**
   - 2026-04-24 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124792.md) · [원문](https://www.seedworld.com/canada/2026/04/24/elevated-fertilizer-costs-make-seed-testing-a-strategic-imperative/)
   - Ongoing disruptions to global shipping routes through the Strait of Hormuz have tightened fertilizer supply and driven nutrient prices higher. What’s the impact on the industry?
@@ -373,11 +409,3 @@ source: "seedworld"
 - **[Un estudio advierte que Colombia podría perder una quinta parte de sus tierras cacaoteras para 2050](../../items/seedworld/2026/03/https_www.seedworld.com_p_123712.md)**
   - 2026-03-30 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123712.md) · [원문](https://www.seedworld.com/latam/2026/03/30/un-estudio-advierte-que-colombia-podria-perder-una-quinta-parte-de-sus-tierras-cacaoteras-para-2050/)
   - Un nuevo estudio advierte que Colombia podría perder casi 20% de su tierra apta para cacao hacia 2050 por cambios en temperatura y lluvias. Los mayores riesgos están en tierras bajas y regiones del n…
-
-- **[New Embrapa Programs Aim to Cut Carbon Footprint of Corn and Sorghum](../../items/seedworld/2026/03/https_www.seedworld.com_p_123709.md)**
-  - 2026-03-28 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123709.md) · [원문](https://www.seedworld.com/latam/2026/03/28/new-embrapa-programs-aim-to-cut-carbon-footprint-of-corn-and-sorghum/)
-  - Embrapa’s new Low Carbon Corn and Low Carbon Sorghum programs aim to reduce the carbon footprint of grain production in Brazil through science-based certification protocols.
-
-- **[From Waste to Yield: Biochar Innovation Supports Crop Growth](../../items/seedworld/2026/03/https_www.seedworld.com_p_123916.md)**
-  - 2026-03-28 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123916.md) · [원문](https://www.seedworld.com/europe/2026/03/27/from-waste-to-yield-biochar-innovation-supports-crop-growth/)
-  - Researchers developed an engineered sewage sludge biochar paired with Bacillus velezensis that boosts cabbage growth by improving nitrogen uptake and soil microbial activity.

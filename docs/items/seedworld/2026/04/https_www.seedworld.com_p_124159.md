@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/06/european-commission-launches-c
 summary: "The European Commission has opened a consultation on Community Plant Variety Rights legislation and the performance of the CPVO. Stakeholders across the plant breeding, seed, farming and research sectors are invited to share feedback on"
 attachments: []
 tags: []
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # European Commission Launches Consultation on Plant Variety Rights System
 

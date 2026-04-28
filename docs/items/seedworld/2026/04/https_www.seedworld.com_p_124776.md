@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-future-
 summary: "Global competition and funding challenges are forcing change, but skepticism from farmers could shape what comes next The post Canada’s Plant Breeding Future Hinges on Trust, Not Just Funding Models — Marc’s Take This Week appeared first"
 attachments: []
 tags: []
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # Canada’s Plant Breeding Future Hinges on Trust, Not Just Funding Models — Marc’s Take This Week
 

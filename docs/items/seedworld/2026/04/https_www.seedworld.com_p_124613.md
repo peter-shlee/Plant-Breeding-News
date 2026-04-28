@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/22/por-que-costa-rica-atrae-invers
 summary: "Costa Rica es un centro líder en innovación de semillas, con estabilidad regulatoria, diversidad climática y talento especializado. Su marco científico, ventaja de contraestación e infraestructura avanzada permiten a las empresas"
 attachments: []
 tags: []
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # Por qué Costa Rica atrae inversión e I+D global en semillas
 

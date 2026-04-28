@@ -9,7 +9,7 @@ summary: "Agrovoltaic tomato systems could help agriculture save water while pro
 attachments: []
 tags:
   - "토마토"
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # Solar Panels Boost Crop Efficiency: Tomato Systems Use Half the Water
 

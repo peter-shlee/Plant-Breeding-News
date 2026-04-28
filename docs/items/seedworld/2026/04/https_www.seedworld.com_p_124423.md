@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/14/defining-seed-and-food-securit
 summary: "Food security is understood differently across cultures, with China prioritizing it as a core national security issue while Western societies often take it for granted."
 attachments: []
 tags: []
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # Defining Seed and Food Security
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/01/the-overlooked-role-of-seed-pr
 summary: "While often behind the scenes, seed processors are essential to delivering the consistency and quality growers rely on every season. I didn’t take a straight path into agriculture, but it’s […] The post The Overlooked Role of Seed"
 attachments: []
 tags: []
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # The Overlooked Role of Seed Processors in Crop Success
 

@@ -9,7 +9,7 @@ summary: "Corn leafhopper-driven stunt diseases have caused major maize losses i
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # Corn Stunt Diseases Pose Growing Threat to Brazil’s Maize Production
 

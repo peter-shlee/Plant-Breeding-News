@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "phenotyping"
   - "밀"
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # Drones and AI Transform Wheat Crop Monitoring for Climate Resilience
 

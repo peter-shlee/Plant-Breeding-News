@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/20/legume-generation-project-aims
 summary: "Legume Generation aims to strengthen European legume breeding through breeder-led innovation, addressing yield gaps, underinvestment, and reliance on imported protein. By uniting research and breeding across key crops, the project"
 attachments: []
 tags: []
-fetched_at: "2026-04-27T06:48:34+09:00"
+fetched_at: "2026-04-29T06:50:27+09:00"
 ---
 # Legume Generation Project Aims to Boost Legume Breeding and Protein Crop Performance in Europe
 
