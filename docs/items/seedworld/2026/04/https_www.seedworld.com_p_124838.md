@@ -11,7 +11,7 @@ tags:
   - "genomics"
   - "gene-editing"
   - "phenotyping"
-fetched_at: "2026-04-29T06:50:27+09:00"
+fetched_at: "2026-05-01T06:51:04+09:00"
 ---
 # Scientists Use CRISPR to Strengthen Grapevines in African First
 

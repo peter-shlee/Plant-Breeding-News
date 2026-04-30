@@ -9,7 +9,7 @@ summary: "The Wheat Spatial Omics Consortium, spanning 80 researchers in nine co
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-04-29T06:50:27+09:00"
+fetched_at: "2026-05-01T06:51:04+09:00"
 ---
 # Global Consortium Calls for Mapping Gene Expression Across All Wheat Cells
 

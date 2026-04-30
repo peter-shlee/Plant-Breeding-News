@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/17/all-crops-are-not-created-equal
 summary: "Research scientist with nearly 10 years at Cuba’s National Tobacco Research Institute, leading tobacco breeding, DNA fingerprinting, disease resistance, germplasm characterization, and stress-response studies while completing a PhD."
 attachments: []
 tags: []
-fetched_at: "2026-04-29T06:50:27+09:00"
+fetched_at: "2026-05-01T06:51:04+09:00"
 ---
 # All Crops Are Not Created Equal
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/02/your-data-doesnt-end-at-the-lab-it
 summary: "Seed testing decisions often rely on germination percentage alone, but field performance depends on more. This rye case showed how abnormal seedlings, Fusarium pressure, and seed stress can signal hidden risk despite acceptable germination"
 attachments: []
 tags: []
-fetched_at: "2026-04-29T06:50:27+09:00"
+fetched_at: "2026-05-01T06:51:04+09:00"
 ---
 # Your Data Doesn’t End at the Lab, It Shows Up in the Field
 

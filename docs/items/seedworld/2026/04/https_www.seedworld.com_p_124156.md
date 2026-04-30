@@ -9,7 +9,7 @@ summary: "Breeders Trust is monitoring online sales of seed potatoes, highlighti
 attachments: []
 tags:
   - "감자"
-fetched_at: "2026-04-29T06:50:27+09:00"
+fetched_at: "2026-05-01T06:51:04+09:00"
 ---
 # Breeders Trust Flags Illegal Seed Potato Sales in Online Marketplaces
 

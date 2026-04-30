@@ -9,7 +9,38 @@ source: "seedworld"
 
 - [홈으로](../../index.md)
 
+## 2026-05
+
+- **[Marc’s Take: Canada’s Ag Innovation Problem Isn’t Ideas — It’s Getting Them to Market](../../items/seedworld/2026/05/https_www.seedworld.com_p_124956.md)**
+  - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124956.md) · [원문](https://www.seedworld.com/canada/2026/04/30/marcs-take-canadas-ag-innovation-problem-isnt-ideas-its-getting-them-to-market/)
+  - From the “valley of death” in funding to a fractured variety marketplace and unclear trade representation, Canada’s seed sector faces a systemic challenge The post Marc’s Take: Canada’s Ag Innovation…
+
+- **[The “Valley of Death” in Canadian Ag Innovation](../../items/seedworld/2026/05/https_www.seedworld.com_p_124951.md)**
+  - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124951.md) · [원문](https://www.seedworld.com/canada/2026/04/30/the-valley-of-death-in-canadian-ag-innovation/)
+  - Why promising research fails to reach the market, and what leaders say needs to change The post The “Valley of Death” in Canadian Ag Innovation appeared first on Seed World .
+
+
 ## 2026-04
+
+- **[SAF de canola de segunda cosecha puede reducir emisiones hasta 55 % en Brasil](../../items/seedworld/2026/04/https_www.seedworld.com_p_124758.md)**
+  - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124758.md) · [원문](https://www.seedworld.com/latam/2026/04/30/saf-de-canola-de-segunda-cosecha-puede-reducir-emisiones-hasta-55-en-brasil/)
+  - Un análisis de ciclo de vida del SAF de canola de segunda cosecha en Brasil indica reducciones de hasta 55% frente al Jet A-1 fósil en escenarios óptimos. El estudio señala límites por regulaciones y…
+
+- **[From One Breeder’s Vision to a Global Legacy](../../items/seedworld/2026/04/https_www.seedworld.com_p_124845.md)**
+  - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124845.md) · [원문](https://www.seedworld.com/europe/2026/04/29/from-one-breeders-vision-to-a-global-legacy/)
+  - With 170 years of independence, KWS combines scientific expertise, long-term thinking and farmer partnerships to advance modern plant breeding. From sugar beet origins to a global portfolio spanning…
+
+- **[Climate-Smart Farming: Study Shows How Biochar Can Improve Yields and Soil](../../items/seedworld/2026/04/https_www.seedworld.com_p_124835.md)**
+  - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124835.md) · [원문](https://www.seedworld.com/europe/2026/04/29/climate-smart-farming-study-shows-how-biochar-can-improve-yields-and-soil/)
+  - A new global biochar model helps predict how biochar affects crop yields, soil carbon storage and greenhouse gas emissions across farming systems. Tested with data from 48 field sites, the study show…
+
+- **[Finding Canada’s Way: Rebuilding the Variety Marketplace | On the Brink Episode 8](../../items/seedworld/2026/04/https_www.seedworld.com_p_124862.md)**
+  - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124862.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/29/finding-canadas-way-rebuilding-the-variety-marketplace-on-the-brink-episode-8/)
+  - Greg Stamp has spent 20 years farming in Western Canada and his verdict on the current variety marketplace is straightforward: the system is broken. In Episode 9 of On the Brink, Stamp makes the case…
+
+- **[Up to 40% of U.S. Food Never Gets Eaten. The Pressure Starts at Seed](../../items/seedworld/2026/04/https_www.seedworld.com_p_124877.md)**
+  - 2026-04-29 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124877.md) · [원문](https://www.seedworld.com/us/2026/04/29/up-to-40-of-u-s-food-never-gets-eaten-the-pressure-starts-at-seed/)
+  - U.S. food waste reaches up to 40% of the supply, with 133 billion pounds lost annually.
 
 - **[Who Speaks for Seed in Canada-U.S. Trade? Michael Harvey Takes a Seat](../../items/seedworld/2026/04/https_www.seedworld.com_p_124863.md)**
   - 2026-04-29 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124863.md) · [원문](https://www.seedworld.com/canada/2026/04/28/who-speaks-for-seed-in-canada-u-s-trade-michael-harvey-takes-a-seat/)
@@ -354,58 +385,3 @@ source: "seedworld"
 - **[Global Seed Sector Progress in Focus in ISF Annual Report 2025](../../items/seedworld/2026/04/https_www.seedworld.com_p_124081.md)**
   - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124081.md) · [원문](https://www.seedworld.com/europe/2026/04/01/global-seed-sector-progress-in-focus-in-isf-annual-report-2025/)
   - The International Seed Federation’s Annual Report 2025 highlights progress across the global seed sector, including milestones in quality seed, innovation, sustainable value chains, policy engagement…
-
-- **[Why Most Ag Companies Get Executive Leadership Wrong — And How to Fix It](../../items/seedworld/2026/04/https_www.seedworld.com_p_124101.md)**
-  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124101.md) · [원문](https://www.seedworld.com/us/2026/03/31/attract-develop-succeed-executive-leadership-webinar-registration-open/)
-  - Seed World and Kincannon & Reed are hosting a free executive leadership webinar on April 9. Register to save your seat.
-
-- **[Farm Bill Delays Keep Seed in Holding Pattern](../../items/seedworld/2026/04/https_www.seedworld.com_p_124096.md)**
-  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124096.md) · [원문](https://www.seedworld.com/us/2026/03/31/farm-bill-delays-keep-seed-in-holding-pattern/)
-  - In case you’re wondering, the Farm Bill is still not finished! And for most of agriculture, that’s frustrating.
-
-- **[CSGA AGM 2026 Whitehorse: Dates, Travel, Keynote and What to Expect](../../items/seedworld/2026/04/https_www.seedworld.com_p_124086.md)**
-  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124086.md) · [원문](https://www.seedworld.com/canada/2026/03/31/csga-agm-2026-whitehorse-dates-travel-keynote-and-what-to-expect/)
-  - Everything you need to know about the Canadian Seed Growers’ Association AGM, including keynote speaker Bruce Kirkby, travel discounts, Yukon experiences and conference highlights The post CSGA AGM 2…
-
-- **[Seeds That Fix Themselves — A New Lever for Seed Longevity](../../items/seedworld/2026/04/https_www.seedworld.com_p_124085.md)**
-  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124085.md) · [원문](https://www.seedworld.com/us/2026/03/31/seeds-that-fix-themselves-a-new-lever-for-seed-longevity/)
-  - New research from the University of Kentucky shows how a protein repair system helps seeds recover from storage damage and maintain germination, offering breeders a new approach to improving seed lon…
-
-
-## 2026-03
-
-- **[Rothamsted Barley Becomes First Crop Cleared Under UK Precision-Breeding Rules](../../items/seedworld/2026/03/https_www.seedworld.com_p_124078.md)**
-  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124078.md) · [원문](https://www.seedworld.com/europe/2026/03/31/rothamsted-barley-becomes-first-crop-cleared-under-uk-precision-breeding-rules/)
-  - Rothamsted Research has developed the UK’s first gene-edited barley to receive Precision Bred Organism marketing notice confirmation under new precision-breeding rules.
-
-- **[Study warns Colombia could lose one-fifth of cocoa land by 2050](../../items/seedworld/2026/03/https_www.seedworld.com_p_123715.md)**
-  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123715.md) · [원문](https://www.seedworld.com/latam/2026/03/31/study-warns-colombia-could-lose-one-fifth-of-cocoa-land-by-2050/)
-  - A new study warns Colombia could lose nearly 20% of its cocoa-suitable land by 2050 as climate change alters temperatures and rainfall. The biggest risks are in lowland and northeastern regions, whil…
-
-- **[World Seed Congress 2026: The Case for Joint Actions to Build Resilient Futures](../../items/seedworld/2026/03/https_www.seedworld.com_p_124073.md)**
-  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124073.md) · [원문](https://www.seedworld.com/us/2026/03/31/world-seed-congress-2026-the-case-for-joint-actions-to-build-resilient-futures-2/)
-  - At the ISF World Seed Congress in Lisbon, global seed leaders are addressing seed resilience, trade, innovation, and food security. Portugal highlights how openness and adaptability strengthen food s…
-
-- **[World Seed Congress 2026: The Case for Joint Actions to Build Resilient Futures](../../items/seedworld/2026/03/https_www.seedworld.com_p_124066.md)**
-  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124066.md) · [원문](https://www.seedworld.com/europe/2026/03/31/world-seed-congress-2026-the-case-for-joint-actions-to-build-resilient-futures/)
-  - At the ISF World Seed Congress in Lisbon, global seed leaders are addressing seed resilience, trade, innovation, and food security. Portugal highlights how openness and adaptability strengthen food s…
-
-- **[The Countdown to Euroseeds 2026 in Valencia Has Officially Begun!](../../items/seedworld/2026/03/https_www.seedworld.com_p_124064.md)**
-  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124064.md) · [원문](https://www.seedworld.com/us/2026/03/31/the-countdown-to-euroseeds-2026-in-valencia-has-officially-begun-2/)
-  - Euroseeds Congress 2026 takes place in Valencia, Spain, from 25 to 28 October 2026, bringing together seed sector leaders, policymakers, researchers, entrepreneurs, and students.
-
-- **[The Countdown to Euroseeds 2026 in Valencia Has Officially Begun!](../../items/seedworld/2026/03/https_www.seedworld.com_p_123940.md)**
-  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123940.md) · [원문](https://www.seedworld.com/europe/2026/03/31/the-countdown-to-euroseeds-2026-in-valencia-has-officially-begun/)
-  - Euroseeds Congress 2026 takes place in Valencia, Spain, from 25 to 28 October 2026, bringing together seed sector leaders, policymakers, researchers, entrepreneurs, and students.
-
-- **[CPVR Evaluation: A Key Moment for the Future of Plant Variety Protection in Europe](../../items/seedworld/2026/03/https_www.seedworld.com_p_124060.md)**
-  - 2026-03-31 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124060.md) · [원문](https://www.seedworld.com/europe/2026/03/31/cpvr-evaluation-a-key-moment-for-the-future-of-plant-variety-protection-in-europe/)
-  - The European Commission’s review of Community Plant Variety Rights (CPVR) legislation offers a key opportunity to strengthen EU plant breeding. Euroseeds says the current system provides reliable, co…
-
-- **[Seeds Canada’s New CEO Isn’t Rushing In — And That’s the Strategy](../../items/seedworld/2026/03/https_www.seedworld.com_p_124053.md)**
-  - 2026-03-30 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_124053.md) · [원문](https://www.seedworld.com/canada/2026/03/30/seeds-canadas-new-ceo-isnt-rushing-in-and-thats-the-strategy/)
-  - Dan Wright steps into Seeds Canada’s top role with a listening-first approach and a focus on collaboration, innovation and regulatory modernization The post Seeds Canada’s New CEO Isn’t Rushing In —…
-
-- **[Un estudio advierte que Colombia podría perder una quinta parte de sus tierras cacaoteras para 2050](../../items/seedworld/2026/03/https_www.seedworld.com_p_123712.md)**
-  - 2026-03-30 · [읽기](../../items/seedworld/2026/03/https_www.seedworld.com_p_123712.md) · [원문](https://www.seedworld.com/latam/2026/03/30/un-estudio-advierte-que-colombia-podria-perder-una-quinta-parte-de-sus-tierras-cacaoteras-para-2050/)
-  - Un nuevo estudio advierte que Colombia podría perder casi 20% de su tierra apta para cacao hacia 2050 por cambios en temperatura y lluvias. Los mayores riesgos están en tierras bajas y regiones del n…

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/22/why-costa-rica-is-attracting-g
 summary: "Costa Rica is a leading hub for seed innovation, offering regulatory stability, diverse microclimates and skilled talent. Its science-based framework, counter-season advantage and advanced R&D infrastructure enable companies to test,"
 attachments: []
 tags: []
-fetched_at: "2026-04-29T06:50:27+09:00"
+fetched_at: "2026-05-01T06:51:04+09:00"
 ---
 # Why Costa Rica Is Attracting Global Seed Investment and R&D
 

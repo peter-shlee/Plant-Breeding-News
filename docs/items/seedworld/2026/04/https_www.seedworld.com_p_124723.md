@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/21/global-institute-for-food-secu
 summary: "The Australian-born plant breeding expert steps into the role with a mission to turn ag innovation into real-world impact faster The post Global Institute for Food Security Names Jason Reinheimer CEO appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-04-29T06:50:27+09:00"
+fetched_at: "2026-05-01T06:51:04+09:00"
 ---
 # Global Institute for Food Security Names Jason Reinheimer CEO
 

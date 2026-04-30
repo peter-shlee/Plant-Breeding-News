@@ -9,7 +9,7 @@ summary: "In Nairobi, African scientists, regulators and seed leaders recognized
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-04-29T06:50:27+09:00"
+fetched_at: "2026-05-01T06:51:04+09:00"
 ---
 # CIMMYT Scientist Receives Africa Region Food Security Leadership Award for MLN Work
 
