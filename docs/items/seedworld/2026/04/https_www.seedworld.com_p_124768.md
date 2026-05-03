@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/23/100-years-is-rare-in-seeds/"
 summary: "Happy Birthday! Pioneer marks 100 years in the seed industry, offering a case study in what it takes to survive shifting markets, evolving technology, and changing farmer expectations."
 attachments: []
 tags: []
-fetched_at: "2026-05-01T06:51:04+09:00"
+fetched_at: "2026-05-04T06:47:55+09:00"
 ---
 # 100 Years Is Rare in Seeds
 

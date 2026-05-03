@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/30/marcs-take-canadas-ag-innovati
 summary: "From the “valley of death” in funding to a fractured variety marketplace and unclear trade representation, Canada’s seed sector faces a systemic challenge The post Marc’s Take: Canada’s Ag Innovation Problem Isn’t Ideas — It’s Getting Them"
 attachments: []
 tags: []
-fetched_at: "2026-05-01T06:51:04+09:00"
+fetched_at: "2026-05-04T06:47:55+09:00"
 ---
 # Marc’s Take: Canada’s Ag Innovation Problem Isn’t Ideas — It’s Getting Them to Market
 

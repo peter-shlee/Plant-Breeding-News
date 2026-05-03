@@ -9,7 +9,7 @@ summary: "Known for his humility and sharp scientific mind, he transformed wheat
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-05-01T06:51:04+09:00"
+fetched_at: "2026-05-04T06:47:55+09:00"
 ---
 # “I’m Dean”: The Humble Leadership of Wheat Breeder Dean Spaner Leaves Lasting Mark on Prairie Agriculture
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/13/nueva-variedad-de-soja-para-el-
 summary: "Embrapa Soja y Caramuru Alimentos lanzaron BRS 579, una nueva variedad de soja de alto rendimiento para el centro-norte de Mato Grosso que combina sanidad vegetal y tolerancia STS a herbicidas."
 attachments: []
 tags: []
-fetched_at: "2026-05-01T06:51:04+09:00"
+fetched_at: "2026-05-04T06:47:55+09:00"
 ---
 # Nueva variedad de soja para el control de malezas resistentes a herbicidas
 

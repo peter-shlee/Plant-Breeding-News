@@ -11,6 +11,18 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[The Farm Bill Moves Forward. The Pressure Isn’t Going Away](../../items/seedworld/2026/05/https_www.seedworld.com_p_124962.md)**
+  - 2026-05-02 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124962.md) · [원문](https://www.seedworld.com/us/2026/05/01/the-farm-bill-moves-forward-the-pressure-isnt-going-away/)
+  - Commodity groups are largely backing the House farm bill, citing economic pressure and the need for a stronger safety net, while others say key gaps remain. For the seed industry, the bigger question…
+
+- **[Canola Crop-Based SAF Shows Up to 55% Emissions Reduction Potential in Brazil](../../items/seedworld/2026/05/https_www.seedworld.com_p_124761.md)**
+  - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124761.md) · [원문](https://www.seedworld.com/latam/2026/05/01/canola-crop-based-saf-shows-up-to-55-emissions-reduction-potential-in-brazil/)
+  - A life cycle assessment of sustainable aviation fuel from second-crop canola in Brazil shows potential greenhouse gas reductions of up to 55% versus fossil Jet A-1 under optimal scenarios.
+
+- **[UPOV Launches Global PVP Certificate](../../items/seedworld/2026/05/https_www.seedworld.com_p_124944.md)**
+  - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124944.md) · [원문](https://www.seedworld.com/europe/2026/05/01/upov-launches-global-pvp-certificate/)
+  - UPOV has launched a new PVP Certificate for private sector professionals in plant variety protection. The internationally recognized program validates expertise in the UPOV system, supports career ad…
+
 - **[Marc’s Take: Canada’s Ag Innovation Problem Isn’t Ideas — It’s Getting Them to Market](../../items/seedworld/2026/05/https_www.seedworld.com_p_124956.md)**
   - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124956.md) · [원문](https://www.seedworld.com/canada/2026/04/30/marcs-take-canadas-ag-innovation-problem-isnt-ideas-its-getting-them-to-market/)
   - From the “valley of death” in funding to a fractured variety marketplace and unclear trade representation, Canada’s seed sector faces a systemic challenge The post Marc’s Take: Canada’s Ag Innovation…
@@ -329,59 +341,3 @@ source: "seedworld"
 - **[CIMMYT Scientist Receives Africa Region Food Security Leadership Award for MLN Work](../../items/seedworld/2026/04/https_www.seedworld.com_p_124193.md)**
   - 2026-04-06 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124193.md) · [원문](https://www.seedworld.com/europe/2026/04/06/cimmyt-scientist-receives-africa-region-food-security-leadership-award-for-mln-work/)
   - In Nairobi, African scientists, regulators and seed leaders recognized Suresh L.M. with the Africa Region Food Security Leadership Award for combating maize lethal necrosis.
-
-- **[Canada’s Seed Sector This Week: Pressure is Building, but so is Momentum](../../items/seedworld/2026/04/https_www.seedworld.com_p_124177.md)**
-  - 2026-04-03 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124177.md) · [원문](https://www.seedworld.com/canada/2026/04/02/canadas-seed-sector-this-week-pressure-is-building-but-so-is-momentum/)
-  - As funding concerns grow and research capacity tightens, tools like the VUA and a reset in Seeds Canada leadership signal a sector starting to respond in real time The post Canada’s Seed Sector This…
-
-- **[Seeds Canada Prepares for 2026 AGM After Successful Seed School](../../items/seedworld/2026/04/https_www.seedworld.com_p_124170.md)**
-  - 2026-04-03 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124170.md) · [원문](https://www.seedworld.com/canada/2026/04/02/seeds-canada-prepares-for-2026-agm-after-successful-seed-school/)
-  - A full-capacity Seed School in Winnipeg set the stage for July’s Annual Meeting in Saskatoon The post Seeds Canada Prepares for 2026 AGM After Successful Seed School appeared first on Seed World .
-
-- **[Seed Innovation in Canada: The Funding Problem No One Can Ignore](../../items/seedworld/2026/04/https_www.seedworld.com_p_124162.md)**
-  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124162.md) · [원문](https://www.seedworld.com/canada/2026/04/02/seed-innovation-in-canada-the-funding-problem-no-one-can-ignore/)
-  - Seeds Canada CEO Dan Wright explains why current models are falling short — and how new approaches like the Variety Use Agreement could change the game The post Seed Innovation in Canada: The Funding…
-
-- **[Breeders Trust Flags Illegal Seed Potato Sales in Online Marketplaces](../../items/seedworld/2026/04/https_www.seedworld.com_p_124156.md)**
-  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124156.md) · [원문](https://www.seedworld.com/europe/2026/04/02/breeders-trust-flags-illegal-seed-potato-sales-in-online-marketplaces/)
-  - Breeders Trust is monitoring online sales of seed potatoes, highlighting growing cases of illegal trade via Facebook groups and webshops. Uncertified seed and misuse of ware potatoes raise plant bree…
-
-- **[New Jalapeño, Murupi and Ornamental Peppers Move to On-Farm Testing in Brazil](../../items/seedworld/2026/04/https_www.seedworld.com_p_123722.md)**
-  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_123722.md) · [원문](https://www.seedworld.com/latam/2026/04/02/new-jalapeno-murupi-and-ornamental-peppers-move-to-on-farm-testing-in-brazil/)
-  - New jalapeño, murupi, fresh-market, and ornamental pepper materials from Embrapa Vegetables are advancing to on-farm testing in Brazil. Developed to meet demands from growers, processors, and ornamen…
-
-- **[Ukraine’s Seed Sector During the Russian Invasion of Ukraine: Production, Exports and EU Integration](../../items/seedworld/2026/04/https_www.seedworld.com_p_124144.md)**
-  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124144.md) · [원문](https://www.seedworld.com/europe/2026/04/02/ukraines-seed-sector-during-the-russian-invasion-of-ukraine-production-exports-and-eu-integration/)
-  - Ukraine’s seed sector faces disruption from the Russian invasion of Ukraine, including energy shortages, mined farmland, logistics barriers, and labour gaps. Despite producers maintain output, invest…
-
-- **[Your Data Doesn’t End at the Lab, It Shows Up in the Field](../../items/seedworld/2026/04/https_www.seedworld.com_p_124140.md)**
-  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124140.md) · [원문](https://www.seedworld.com/us/2026/04/02/your-data-doesnt-end-at-the-lab-it-shows-up-in-the-field/)
-  - Seed testing decisions often rely on germination percentage alone, but field performance depends on more. This rye case showed how abnormal seedlings, Fusarium pressure, and seed stress can signal hi…
-
-- **[The Final Four? Bioenergy Crops Beyond Corn Competing for the Future of Energy](../../items/seedworld/2026/04/https_www.seedworld.com_p_124127.md)**
-  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124127.md) · [원문](https://www.seedworld.com/us/2026/04/01/bioenergy-crops-beyond-corn-competing-for-the-future-of-energy/)
-  - Four bioenergy crops go head-to-head in a March Madness-style showdown, revealing how poplar, sorghum, switchgrass and mixed prairie are competing beyond corn to shape the future of sustainable energ…
-
-- **[The Overlooked Role of Seed Processors in Crop Success](../../items/seedworld/2026/04/https_www.seedworld.com_p_124126.md)**
-  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124126.md) · [원문](https://www.seedworld.com/canada/2026/04/01/the-overlooked-role-of-seed-processors-in-crop-success/)
-  - While often behind the scenes, seed processors are essential to delivering the consistency and quality growers rely on every season. I didn’t take a straight path into agriculture, but it’s […] The p…
-
-- **[The End of the Status Quo: On the Brink Episode 4](../../items/seedworld/2026/04/https_www.seedworld.com_p_124120.md)**
-  - 2026-04-02 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124120.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/01/on-the-brink-episode-4-the-end-of-the-status-quo/)
-  - Federal cuts are closing key research facilities across Canada. Doug Miller of the Canadian Seed Growers Association joins On the Brink Episode 4 to ask what comes next for Canadian plant breeding —…
-
-- **[Nuevos pimientos jalapeños, murupi y ornamentales pasan a la fase de pruebas en fincas en Brasil](../../items/seedworld/2026/04/https_www.seedworld.com_p_123718.md)**
-  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_123718.md) · [원문](https://www.seedworld.com/latam/2026/04/01/nuevos-pimientos-jalapenos-murupi-y-ornamentales-pasan-a-la-fase-de-pruebas-en-fincas-en-brasil/)
-  - Nuevos materiales de jalapeño, murupi, consumo fresco y pimientos ornamentales de Embrapa Hortalizas avanzan a pruebas en campo en Brasil. Desarrollados para atender a productores, procesadores y mer…
-
-- **[How “Either/Or” Thinking Limits Your Company’s Potential](../../items/seedworld/2026/04/https_www.seedworld.com_p_124115.md)**
-  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124115.md) · [원문](https://www.seedworld.com/us/2026/04/01/how-either-or-thinking-limits-your-companys-potential/)
-  - Leaders often face either-or decisions, from inventory and growth to efficiency and innovation. High-performing companies reject this mindset, managing paradoxes instead.
-
-- **[Let’s Talk: Biologicals Are Gaining Ground](../../items/seedworld/2026/04/https_www.seedworld.com_p_124075.md)**
-  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124075.md) · [원문](https://www.seedworld.com/europe/2026/04/01/lets-talk-biologicals-are-gaining-ground/)
-  - Seed World Europe’s Petar Madjarac, Head of Business Development, EMEA, and Editorial Director Marcel Bruins discuss why the seed sector is paying closer attention now, the industry’s growth trajecto…
-
-- **[Global Seed Sector Progress in Focus in ISF Annual Report 2025](../../items/seedworld/2026/04/https_www.seedworld.com_p_124081.md)**
-  - 2026-04-01 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124081.md) · [원문](https://www.seedworld.com/europe/2026/04/01/global-seed-sector-progress-in-focus-in-isf-annual-report-2025/)
-  - The International Seed Federation’s Annual Report 2025 highlights progress across the global seed sector, including milestones in quality seed, innovation, sustainable value chains, policy engagement…

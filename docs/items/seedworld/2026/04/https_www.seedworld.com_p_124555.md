@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/12/farming-isnt-chemistry-its-ecology
 summary: "Modern agriculture must move beyond a chemistry-only mindset and embrace soil ecology. Crop performance depends on microbial communities that drive nutrient cycling, stress tolerance, and resilience."
 attachments: []
 tags: []
-fetched_at: "2026-05-01T06:51:04+09:00"
+fetched_at: "2026-05-04T06:47:55+09:00"
 ---
 # Farming Isn’t Chemistry; It’s Ecology
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/30/the-valley-of-death-in-canadia
 summary: "Why promising research fails to reach the market, and what leaders say needs to change The post The “Valley of Death” in Canadian Ag Innovation appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-01T06:51:04+09:00"
+fetched_at: "2026-05-04T06:47:55+09:00"
 ---
 # The “Valley of Death” in Canadian Ag Innovation
 
