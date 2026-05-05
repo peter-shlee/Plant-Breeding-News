@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/28/who-speaks-for-seed-in-canada-
 summary: "With CUSMA talks approaching, CAFTA’s executive director joins Ottawa’s new advisory committee to represent agri-food exporters The post Who Speaks for Seed in Canada-U.S."
 attachments: []
 tags: []
-fetched_at: "2026-05-04T06:47:55+09:00"
+fetched_at: "2026-05-06T06:50:54+09:00"
 ---
 # Who Speaks for Seed in Canada-U.S. Trade? Michael Harvey Takes a Seat
 

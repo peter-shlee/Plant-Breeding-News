@@ -9,7 +9,7 @@ summary: "The Darwin Tree of Life Project could generate nearly £3 billion in e
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-05-04T06:47:55+09:00"
+fetched_at: "2026-05-06T06:50:55+09:00"
 ---
 # £3 Billion DNA Project: How Sequencing UK Biodiversity Could Transform Agriculture and Innovation
 

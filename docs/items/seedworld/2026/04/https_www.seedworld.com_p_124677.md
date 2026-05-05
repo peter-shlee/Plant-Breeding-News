@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/17/seed-banks-may-limit-gene-drives-f
 summary: "New research from Cornell University shows seed banks, long-lived reserves of dormant seeds in soil, could slow or limit the spread of gene drives in plants. The findings highlight a key challenge and potential safeguard for using gene"
 attachments: []
 tags: []
-fetched_at: "2026-05-04T06:47:55+09:00"
+fetched_at: "2026-05-06T06:50:55+09:00"
 ---
 # Seed Banks May Limit Gene Drives for Weed Control
 

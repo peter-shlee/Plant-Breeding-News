@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/28/euroseeds-innovaction-stage-20
 summary: "Euroseeds Congress 2026 InnovAction Stage offers startups, research initiatives, and established seed companies a platform to showcase breakthrough innovations. Madeleine Baerg and Dr."
 attachments: []
 tags: []
-fetched_at: "2026-05-04T06:47:55+09:00"
+fetched_at: "2026-05-06T06:50:54+09:00"
 ---
 # Euroseeds InnovAction Stage 2026: Deadline April 30
 

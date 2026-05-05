@@ -11,6 +11,46 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[Global Markets Tighten Their Grip on Seed Strategy](../../items/seedworld/2026/05/https_www.seedworld.com_p_125007.md)**
+  - 2026-05-06 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125007.md) · [원문](https://www.seedworld.com/us/2026/05/05/global-markets-tighten-their-grip-on-seed-strategy/)
+  - Global markets are shifting fast, and the latest University of Missouri Food and Agricultural Policy Research Institute outlook shows how tighter margins, policy-driven demand and rising volatility a…
+
+- **[Sowing the Seeds of Resilience: Crop Diversity as a Strategic Asset for the Seed Sector](../../items/seedworld/2026/05/https_www.seedworld.com_p_124998.md)**
+  - 2026-05-05 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124998.md) · [원문](https://www.seedworld.com/us/2026/05/05/sowing-the-seeds-of-resilience-crop-diversity-as-a-strategic-asset-for-the-seed-sector/)
+  - Crop diversity is vital to seed sector innovation, resilience and long-term competitiveness. As climate volatility, pests and funding pressures intensify, genebanks provide essential genetic resource…
+
+- **[Industry Coalition Calls for Swift Approval of EU New Genomic Techniques Law](../../items/seedworld/2026/05/https_www.seedworld.com_p_124995.md)**
+  - 2026-05-05 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124995.md) · [원문](https://www.seedworld.com/europe/2026/05/05/industry-coalition-calls-for-swift-approval-of-eu-new-genomic-techniques-law/)
+  - Thirty-one agri-food organisations are urging MEPs to adopt the EU Regulation on new genomic techniques without amendments. According to a Euroseeds press release, the compromise text would support i…
+
+- **[Healthy Soils, Resilient Harvests: Regeneration in Action](../../items/seedworld/2026/05/https_www.seedworld.com_p_124976.md)**
+  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124976.md) · [원문](https://www.seedworld.com/europe/2026/05/04/healthy-soils-resilient-harvests-regeneration-in-action/)
+  - MAS Seeds is advancing regenerative agriculture to help farmers build healthier soils, stronger crops and more stable harvests. Through reduced tillage, cover crops, diversified rotations and field-t…
+
+- **[New Report Highlights Trust Gap in Agricultural Innovation](../../items/seedworld/2026/05/https_www.seedworld.com_p_124971.md)**
+  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124971.md) · [원문](https://www.seedworld.com/europe/2026/05/04/new-report-highlights-trust-gap-in-agricultural-innovation/)
+  - A new report by Leaps by Bayer, Boston Consulting Group and Ipsos UK examines public trust in agricultural innovation, including new genomic techniques and cultivated meat.
+
+- **[Hops and Cannabis Share Genetic Sex Switch, Scientists Discover](../../items/seedworld/2026/05/https_www.seedworld.com_p_124841.md)**
+  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124841.md) · [원문](https://www.seedworld.com/europe/2026/05/04/hops-and-cannabis-share-genetic-sex-switch-scientists-discover/)
+  - University College Dublin researchers identified a genetic sex switch in cannabis that may also control sex in hops. The study, published in New Phytologist, found key genes on the X chromosome that…
+
+- **[Maize Under Siege Attracts More Pests](../../items/seedworld/2026/05/https_www.seedworld.com_p_124947.md)**
+  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124947.md) · [원문](https://www.seedworld.com/europe/2026/05/04/maize-under-siege-attracts-more-pests/)
+  - New research finds maize under simultaneous root and leaf pest attack releases distinct root chemicals that strongly attract wireworms. Scientists recreated the cue as a synthetic blend, effective in…
+
+- **[OECD Seed Schemes Explained | Seed Certification & Global Seed Trade](../../items/seedworld/2026/05/https_www.seedworld.com_p_124968.md)**
+  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124968.md) · [원문](https://www.seedworld.com/europe/2026/05/04/oecd-seed-schemes-explained-seed-certification-global-seed-trade/)
+  - OECD seed certification strengthens trust in global seed systems by harmonising standards for quality, identity, and purity across more than 60 countries. This video explains how OECD Seed Schemes su…
+
+- **[Denmark’s Oat Strategy Could Transform Sustainable Agriculture](../../items/seedworld/2026/05/https_www.seedworld.com_p_124819.md)**
+  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124819.md) · [원문](https://www.seedworld.com/europe/2026/05/04/denmarks-oat-strategy-could-transform-sustainable-agriculture/)
+  - Denmark’s AVENUE project is testing 200 oat varieties to develop climate-resilient, nutritious crops for sustainable organic farming. By studying yield, quality, adaptability and health traits, resea…
+
+- **[The Leadership Move That Pays Off Immediately](../../items/seedworld/2026/05/https_www.seedworld.com_p_124965.md)**
+  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124965.md) · [원문](https://www.seedworld.com/us/2026/05/04/the-leadership-move-that-pays-off-immediately/)
+  - Investing in professional development helps seed companies reduce turnover, strengthen teams, and improve operational performance. Targeted seed training, short courses, and certification programs gi…
+
 - **[The Farm Bill Moves Forward. The Pressure Isn’t Going Away](../../items/seedworld/2026/05/https_www.seedworld.com_p_124962.md)**
   - 2026-05-02 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124962.md) · [원문](https://www.seedworld.com/us/2026/05/01/the-farm-bill-moves-forward-the-pressure-isnt-going-away/)
   - Commodity groups are largely backing the House farm bill, citing economic pressure and the need for a stronger safety net, while others say key gaps remain. For the seed industry, the bigger question…
