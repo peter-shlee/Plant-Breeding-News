@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/13/new-mapping-tools-offer-deeper
 summary: "A new suite of high-resolution soil and landscape maps for Great Britain will help farmers, land managers, and researchers improve soil health, biodiversity, and climate resilience."
 attachments: []
 tags: []
-fetched_at: "2026-05-06T06:50:55+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # New Mapping Tools Offer Deeper Insights into UK Soil Health
 

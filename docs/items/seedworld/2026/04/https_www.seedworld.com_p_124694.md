@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/20/vuas-a-critical-piece-of-canad
 summary: "Whether we’re looking one year out or 20, the strength of our industry depends on the quality of the genetics we have access to. They drive yield, resilience, and ultimately […] The post VUAs: A Critical Piece of Canada’s Ag Future"
 attachments: []
 tags: []
-fetched_at: "2026-05-06T06:50:55+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # VUAs: A Critical Piece of Canada’s Ag Future
 

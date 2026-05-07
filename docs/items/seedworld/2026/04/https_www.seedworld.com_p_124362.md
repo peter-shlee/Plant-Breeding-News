@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/08/euroseeds-joins-call-to-preser
 summary: "Euroseeds and more than 20 stakeholders have welcomed MEP Christian Ehler’s draft ITRE report on Horizon Europe 2028–2034 but urge lawmakers to keep agriculture and the bioeconomy explicitly named in the programme."
 attachments: []
 tags: []
-fetched_at: "2026-05-06T06:50:55+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # Euroseeds Joins Call to Preserve Agriculture and Bioeconomy in EU Research Programme
 

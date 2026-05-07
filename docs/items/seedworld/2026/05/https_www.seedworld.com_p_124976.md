@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/04/healthy-soils-resilient-harves
 summary: "MAS Seeds is advancing regenerative agriculture to help farmers build healthier soils, stronger crops and more stable harvests. Through reduced tillage, cover crops, diversified rotations and field-tested innovations such as MAS4COVER, MAS"
 attachments: []
 tags: []
-fetched_at: "2026-05-06T06:50:54+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # Healthy Soils, Resilient Harvests: Regeneration in Action
 

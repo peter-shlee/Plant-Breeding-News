@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/24/elevated-fertilizer-costs-make
 summary: "Ongoing disruptions to global shipping routes through the Strait of Hormuz have tightened fertilizer supply and driven nutrient prices higher. What’s the impact on the industry?"
 attachments: []
 tags: []
-fetched_at: "2026-05-06T06:50:54+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # Elevated Fertilizer Costs Make Seed Testing a Strategic Imperative
 

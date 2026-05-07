@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/05/global-markets-tighten-their-grip-
 summary: "Global markets are shifting fast, and the latest University of Missouri Food and Agricultural Policy Research Institute outlook shows how tighter margins, policy-driven demand and rising volatility are putting new pressure on seed"
 attachments: []
 tags: []
-fetched_at: "2026-05-06T06:50:54+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # Global Markets Tighten Their Grip on Seed Strategy
 

@@ -9,6 +9,24 @@ source: "nics"
 
 - [홈으로](../../index.md)
 
+## 2026-05
+
+- **[식량 분야 치유농업 ‘실무 역량 강화 연시회’ 개최](../../items/nics/2026/05/944183.md)**
+  - 2026-05-06 · [읽기](../../items/nics/2026/05/944183.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944183)
+
+- **[국립식량과학원-하이트진로, 우리 쌀로 만든 최고급(프리미엄) 소주 산업화 맞손](../../items/nics/2026/05/944182.md)**
+  - 2026-05-06 · [읽기](../../items/nics/2026/05/944182.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944182)
+
+- **[논 활용 사료용 벼 생산성 향상 재배 기술 소개](../../items/nics/2026/05/944181.md)**
+  - 2026-05-06 · [읽기](../../items/nics/2026/05/944181.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944181)
+
+- **[논·밭 맞춤형 물관리로 ‘노지 콩’ 안정적 생산 돕는다](../../items/nics/2026/05/944180.md)**
+  - 2026-05-06 · [읽기](../../items/nics/2026/05/944180.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944180)
+
+- **[국립식량과학원, 봄철 농번기 일손 돕기 추진](../../items/nics/2026/05/944179.md)**
+  - 2026-05-06 · [읽기](../../items/nics/2026/05/944179.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944179)
+
+
 ## 2026-04
 
 - **[농촌진흥청, 기후·에너지 위기 극복 ‘저탄소 벼 재배 기술’ 확립](../../items/nics/2026/04/944154.md)**
@@ -25,18 +43,3 @@ source: "nics"
 
 - **[식량원-농관원, 고품질 쌀 유통 질서 확립 ‘벼 품종 판별 협력 강화’](../../items/nics/2026/04/944150.md)**
   - 2026-04-27 · [읽기](../../items/nics/2026/04/944150.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944150)
-
-- **[국립식량과학원-한국도로공사 전북본부, ‘청년농, 협업·상생의 길을 잇다’ 사업 추...](../../items/nics/2026/04/944149.md)**
-  - 2026-04-27 · [읽기](../../items/nics/2026/04/944149.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944149)
-
-- **[국산 밀 빵·과자, ‘케이(K)-푸드’ 날개 달고 도약 가능성 충분](../../items/nics/2026/04/944135.md)**
-  - 2026-04-20 · [읽기](../../items/nics/2026/04/944135.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944135)
-
-- **[이른 봄 고온·잦은 비, 보리·밀 병 피해 키워 “적기 방제로 예방”](../../items/nics/2026/04/944134.md)**
-  - 2026-04-20 · [읽기](../../items/nics/2026/04/944134.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944134)
-
-- **[국립식량과학원, 청년농업인 간담회 “식량 산업 경쟁력 높이자” 한목소리](../../items/nics/2026/04/944133.md)**
-  - 2026-04-20 · [읽기](../../items/nics/2026/04/944133.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944133)
-
-- **[간 건강 개선 효능 뛰어난 새싹보리 ‘혜누리’ 보급 확대](../../items/nics/2026/04/944132.md)**
-  - 2026-04-20 · [읽기](../../items/nics/2026/04/944132.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944132)

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/14/seed-programs-international-connec
 summary: "A small team, a global network and millions reached — Seed Programs International connects smallholder farmers to the seed sector, turning donations and partnerships into measurable food security impact."
 attachments: []
 tags: []
-fetched_at: "2026-05-06T06:50:55+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # Seed Programs International Connects Smallholder Farmers to the Seed Sector
 

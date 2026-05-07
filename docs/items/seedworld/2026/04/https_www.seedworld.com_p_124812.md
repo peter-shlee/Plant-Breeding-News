@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/28/what-to-expect-at-euroseeds-20
 summary: "Shawn Brook interviews Garlich von Essen on the future of the seed sector ahead of Euroseeds Congress 2026, exploring geopolitical shifts, innovation, regulation, sustainability, biologicals, traceability, and plant breeding."
 attachments: []
 tags: []
-fetched_at: "2026-05-06T06:50:54+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # What To Expect at Euroseeds 2026
 

@@ -9,7 +9,7 @@ summary: "Watermelon breeding faces growing pressure from climate change, diseas
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-05-06T06:50:55+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # Watermelon Breeding Under Pressure: What Growers and Breeders Are Up Against
 

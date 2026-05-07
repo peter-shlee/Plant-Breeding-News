@@ -11,6 +11,30 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[Western Canada Wheat and Barley Breeding Groups Unveil New Vision for Innovation](../../items/seedworld/2026/05/https_www.seedworld.com_p_125044.md)**
+  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125044.md) · [원문](https://www.seedworld.com/canada/2026/05/07/western-canada-wheat-and-barley-breeding-groups-unveil-new-vision-for-innovation/)
+  - Industry leaders, universities and producer organizations say Canada’s wheat and barley breeding system is at an “inflection point” The post Western Canada Wheat and Barley Breeding Groups Unveil New…
+
+- **[NAPB 2026 Puts Spotlight on Cotton Breeding and Fiber Quality Advances](../../items/seedworld/2026/05/https_www.seedworld.com_p_125041.md)**
+  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125041.md) · [원문](https://www.seedworld.com/us/2026/05/07/napb-2026-puts-spotlight-on-cotton-breeding-and-fiber-quality-advances/)
+  - From vortex spinning challenges to field tours, this year’s meeting explores how breeders are improving cotton to compete globally The post NAPB 2026 Puts Spotlight on Cotton Breeding and Fiber Quali…
+
+- **[Canadian Parliament Urges Reversal of Agricultural Research Centre Closures](../../items/seedworld/2026/05/https_www.seedworld.com_p_125038.md)**
+  - 2026-05-07 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125038.md) · [원문](https://www.seedworld.com/canada/2026/05/07/canadian-parliament-urges-reversal-of-agricultural-research-centre-closures/)
+  - A new parliamentary report warns that planned closures of federal agricultural research centres could weaken Canada’s long-term agricultural innovation capacity The post Canadian Parliament Urges Rev…
+
+- **[Agri-Food Leaders Call for Stronger EU Innovation Funding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125026.md)**
+  - 2026-05-07 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125026.md) · [원문](https://www.seedworld.com/europe/2026/05/07/agri-food-leaders-call-for-stronger-eu-innovation-funding/)
+  - Five European Technology Platforms and nine agri-food organisations are urging EU policymakers to recognise agriculture, aquaculture and food systems as strategic priorities in the European Competiti…
+
+- **[Navigating the 5 C’s for Field Success: What it Takes for Biologicals to Deliver](../../items/seedworld/2026/05/https_www.seedworld.com_p_125023.md)**
+  - 2026-05-07 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125023.md) · [원문](https://www.seedworld.com/us/2026/05/07/navigating-the-5-cs-for-field-success-what-it-takes-for-biologicals-to-deliver/)
+  - Biologicals can deliver consistent field performance when discovered through real-world microbial ecology, not lab traits alone. Jord BioScience’s ecology-driven approach selects resilient microbes t…
+
+- **[Independent Seed, National Impact | On the Brink Episode 9](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md)**
+  - 2026-05-06 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/06/independent-seed-national-impact-on-the-brink-episode-9/)
+  - A national survey of 200 independent seed businesses reveals the sector represents $1.7 billion in infrastructure, 3,000 rural jobs, and a near-total dependence on public plant breeding to survive.
+
 - **[Global Markets Tighten Their Grip on Seed Strategy](../../items/seedworld/2026/05/https_www.seedworld.com_p_125007.md)**
   - 2026-05-06 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125007.md) · [원문](https://www.seedworld.com/us/2026/05/05/global-markets-tighten-their-grip-on-seed-strategy/)
   - Global markets are shifting fast, and the latest University of Missouri Food and Agricultural Policy Research Institute outlook shows how tighter margins, policy-driven demand and rising volatility a…
@@ -357,27 +381,3 @@ source: "seedworld"
 - **[Watermelon Breeding Under Pressure: What Growers and Breeders Are Up Against](../../items/seedworld/2026/04/https_www.seedworld.com_p_124208.md)**
   - 2026-04-08 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124208.md) · [원문](https://www.seedworld.com/europe/2026/04/08/watermelon-breeding-under-pressure-what-growers-and-breeders-are-up-against/)
   - Watermelon breeding faces growing pressure from climate change, disease threats, limited crop protection, and complex polygenic traits. Narrow genetic diversity and demanding consumer standards add f…
-
-- **[Seed Certification is Adjusting to a System it No Longer Fully Controls](../../items/seedworld/2026/04/https_www.seedworld.com_p_124301.md)**
-  - 2026-04-08 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124301.md) · [원문](https://www.seedworld.com/us/2026/04/07/seed-certification-is-adjusting-to-a-system-it-no-longer-fully-controls/)
-  - Brad Stancil, who won the 2025 Association of Seed Certifying Agencies Excellence in Innovation award, connects regulatory programs with seed certification. The post Seed Certification is Adjusting t…
-
-- **[Soil Microbe Breakthrough Boosts Phosphorus Efficiency in Crops](../../items/seedworld/2026/04/https_www.seedworld.com_p_124199.md)**
-  - 2026-04-07 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124199.md) · [원문](https://www.seedworld.com/europe/2026/04/07/soil-microbe-breakthrough-boosts-phosphorus-efficiency-in-crops/)
-  - A new study finds that combining biochar with phosphate-solubilizing Bacillus bacteria improves phosphorus availability, boosts soil microbial activity, and increases greenhouse cherry tomato yields…
-
-- **[NAPB 2026 in Texas Showcases Innovation as Borlaug Scholars Program Invites New Sponsors](../../items/seedworld/2026/04/https_www.seedworld.com_p_124253.md)**
-  - 2026-04-07 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124253.md) · [원문](https://www.seedworld.com/us/2026/04/06/napb-2026-at-texas-am-showcases-innovation-and-expands-borlaug-scholars-program/)
-  - Registration is open and new sponsors are invited to support future plant breeders as part of the Borlaug Scholarship program The post NAPB 2026 in Texas Showcases Innovation as Borlaug Scholars Prog…
-
-- **[Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits](../../items/seedworld/2026/04/https_www.seedworld.com_p_124218.md)**
-  - 2026-04-06 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124218.md) · [원문](https://www.seedworld.com/canada/2026/04/06/canadian-seed-growers-association-faces-new-chapter-as-doug-miller-exits/)
-  - He leaves behind a more modern, more agile organization at a pivotal moment for Canada’s seed sector The post Canadian Seed Growers’ Association Faces New Chapter as Doug Miller Exits appeared first…
-
-- **[European Commission Launches Consultation on Plant Variety Rights System](../../items/seedworld/2026/04/https_www.seedworld.com_p_124159.md)**
-  - 2026-04-06 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124159.md) · [원문](https://www.seedworld.com/europe/2026/04/06/european-commission-launches-consultation-on-plant-variety-rights-system/)
-  - The European Commission has opened a consultation on Community Plant Variety Rights legislation and the performance of the CPVO. Stakeholders across the plant breeding, seed, farming and research sec…
-
-- **[CIMMYT Scientist Receives Africa Region Food Security Leadership Award for MLN Work](../../items/seedworld/2026/04/https_www.seedworld.com_p_124193.md)**
-  - 2026-04-06 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124193.md) · [원문](https://www.seedworld.com/europe/2026/04/06/cimmyt-scientist-receives-africa-region-food-security-leadership-award-for-mln-work/)
-  - In Nairobi, African scientists, regulators and seed leaders recognized Suresh L.M. with the Africa Region Food Security Leadership Award for combating maize lethal necrosis.

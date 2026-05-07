@@ -9,7 +9,7 @@ summary: "UPOV has launched a new PVP Certificate for private sector professiona
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-05-06T06:50:54+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # UPOV Launches Global PVP Certificate
 

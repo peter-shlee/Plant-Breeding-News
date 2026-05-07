@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "gene-editing"
   - "밀"
-fetched_at: "2026-05-06T06:50:55+09:00"
+fetched_at: "2026-05-08T06:50:11+09:00"
 ---
 # Gene-Edited Wheat Cuts Harmful Acrylamide Without Yield Loss
 
