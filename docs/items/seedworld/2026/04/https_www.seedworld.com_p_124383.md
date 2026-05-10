@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/15/nueva-plataforma-digital-analiz
 summary: "Embrapa lanzó la plataforma digital Trigo no Brasil, que integra datos y mapas sobre toda la cadena del trigo en Brasil, desde producción hasta comercio e industria. Diseñada para apoyar políticas e inversiones, la herramienta destaca el"
 attachments: []
 tags: []
-fetched_at: "2026-05-08T06:50:11+09:00"
+fetched_at: "2026-05-11T06:49:21+09:00"
 ---
 # Nueva plataforma digital analiza el comercio, la industria y la producción de trigo en Brasil
 

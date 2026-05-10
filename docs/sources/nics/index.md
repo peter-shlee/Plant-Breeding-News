@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-05
 
+- **[추석 전 햅쌀 출하 ‘조생종 벼 모내기 연시회’ 개최](../../items/nics/2026/05/944196.md)**
+  - 2026-05-08 · [읽기](../../items/nics/2026/05/944196.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944196)
+
 - **[식량 분야 치유농업 ‘실무 역량 강화 연시회’ 개최](../../items/nics/2026/05/944183.md)**
   - 2026-05-06 · [읽기](../../items/nics/2026/05/944183.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944183)
 
@@ -40,6 +43,3 @@ source: "nics"
 
 - **[농촌진흥청, ‘현장 밀착형’ 벼 안전 육묘 기술 지원 강화](../../items/nics/2026/04/944151.md)**
   - 2026-04-27 · [읽기](../../items/nics/2026/04/944151.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944151)
-
-- **[식량원-농관원, 고품질 쌀 유통 질서 확립 ‘벼 품종 판별 협력 강화’](../../items/nics/2026/04/944150.md)**
-  - 2026-04-27 · [읽기](../../items/nics/2026/04/944150.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944150)

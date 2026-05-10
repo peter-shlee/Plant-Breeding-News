@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/24/embrapas-mariangela-hungria-nam
 summary: "Embrapa scientist Mariangela Hungria was named to TIME100 2026 in the Pioneers category for advancing sustainable agriculture. A global leader in biological inputs, she helped replace chemical fertilizers with microorganisms that boost"
 attachments: []
 tags: []
-fetched_at: "2026-05-08T06:50:11+09:00"
+fetched_at: "2026-05-11T06:49:21+09:00"
 ---
 # Embrapa’s Mariangela Hungria Named to TIME100 2026 for Pioneering Sustainable Agriculture Innovations
 

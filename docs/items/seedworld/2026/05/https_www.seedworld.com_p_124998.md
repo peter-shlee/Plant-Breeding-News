@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/05/sowing-the-seeds-of-resilience-cro
 summary: "Crop diversity is vital to seed sector innovation, resilience and long-term competitiveness. As climate volatility, pests and funding pressures intensify, genebanks provide essential genetic resources for breeding stronger, more"
 attachments: []
 tags: []
-fetched_at: "2026-05-08T06:50:11+09:00"
+fetched_at: "2026-05-11T06:49:21+09:00"
 ---
 # Sowing the Seeds of Resilience: Crop Diversity as a Strategic Asset for the Seed Sector
 
