@@ -9,7 +9,7 @@ summary: "Embrapa Soja and Caramuru Alimentos have launched BRS 579, a high-yiel
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-05-11T06:49:21+09:00"
+fetched_at: "2026-05-13T06:56:21+09:00"
 ---
 # New Soybean Variety Targets Herbicide-Resistant Weeds
 

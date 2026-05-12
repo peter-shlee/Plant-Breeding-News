@@ -11,6 +11,15 @@ source: "nics"
 
 ## 2026-05
 
+- **[농촌진흥청, 국가표준식품성분 데이터베이스 10.4 공개](../../items/nics/2026/05/944199.md)**
+  - 2026-05-11 · [읽기](../../items/nics/2026/05/944199.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944199)
+
+- **[농촌진흥청, 두부 수율 높고 기계수확 쉬운 신품종 콩 ‘다드림’ 보급](../../items/nics/2026/05/944198.md)**
+  - 2026-05-11 · [읽기](../../items/nics/2026/05/944198.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944198)
+
+- **[참깨 병해충, 미리 차단해 수확까지 건강하게!](../../items/nics/2026/05/944197.md)**
+  - 2026-05-11 · [읽기](../../items/nics/2026/05/944197.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944197)
+
 - **[추석 전 햅쌀 출하 ‘조생종 벼 모내기 연시회’ 개최](../../items/nics/2026/05/944196.md)**
   - 2026-05-08 · [읽기](../../items/nics/2026/05/944196.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944196)
 
@@ -34,12 +43,3 @@ source: "nics"
 
 - **[농촌진흥청, 기후·에너지 위기 극복 ‘저탄소 벼 재배 기술’ 확립](../../items/nics/2026/04/944154.md)**
   - 2026-04-27 · [읽기](../../items/nics/2026/04/944154.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944154)
-
-- **[농촌진흥청, 식물 기반 대체식품 원료·소재 국산화 “민관 머리 맞대”](../../items/nics/2026/04/944153.md)**
-  - 2026-04-27 · [읽기](../../items/nics/2026/04/944153.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944153)
-
-- **[농촌진흥청, 국산 품종 ‘케이-씨드 오일’(K-Seed Oil) 알린다](../../items/nics/2026/04/944152.md)**
-  - 2026-04-27 · [읽기](../../items/nics/2026/04/944152.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944152)
-
-- **[농촌진흥청, ‘현장 밀착형’ 벼 안전 육묘 기술 지원 강화](../../items/nics/2026/04/944151.md)**
-  - 2026-04-27 · [읽기](../../items/nics/2026/04/944151.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944151)

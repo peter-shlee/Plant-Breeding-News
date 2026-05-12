@@ -9,7 +9,7 @@ summary: "Seed World Europe’s April 2026 edition highlights the 20 Most Promis
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-05-11T06:49:21+09:00"
+fetched_at: "2026-05-13T06:56:21+09:00"
 ---
 # 20 Most Promising Young Plant Breeders in Europe 2026
 

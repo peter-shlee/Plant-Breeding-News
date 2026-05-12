@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/23/canadas-plant-breeding-system-
 summary: "In the latest Seed World Podcast, Reinheimer explains why Canada risks falling behind globally, and what must change to protect innovation The post Canada’s Plant Breeding System at a Crossroads, Says Incoming GIFS CEO Jason Reinheimer"
 attachments: []
 tags: []
-fetched_at: "2026-05-11T06:49:21+09:00"
+fetched_at: "2026-05-13T06:56:21+09:00"
 ---
 # Canada’s Plant Breeding System at a Crossroads, Says Incoming GIFS CEO Jason Reinheimer
 

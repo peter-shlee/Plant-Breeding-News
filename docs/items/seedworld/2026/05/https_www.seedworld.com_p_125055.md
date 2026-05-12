@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/08/que-barreras-obstaculizan-el-de
 summary: "Las mujeres siguen poco representadas en puestos de alta dirección pese a sus logros educativos. Este artículo analiza cómo la confianza, la ambición y la disposición a postularse sin cumplir todos los requisitos impulsan el avance"
 attachments: []
 tags: []
-fetched_at: "2026-05-11T06:49:21+09:00"
+fetched_at: "2026-05-13T06:56:21+09:00"
 ---
 # ¿Qué barreras obstaculizan el desarrollo del liderazgo femenino?
 

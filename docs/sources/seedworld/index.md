@@ -11,6 +11,46 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[Money Plant Reveals Nature’s Hidden Algorithm](../../items/seedworld/2026/05/https_www.seedworld.com_p_125150.md)**
+  - 2026-05-13 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125150.md) · [원문](https://www.seedworld.com/us/2026/05/12/chinese-money-plant-algorithm/)
+  - New research from Cold Spring Harbor Laboratory shows the Chinese money plant algorithm helps explain how plants organize leaf veins using elegant mathematical principles.
+
+- **[Why Farm Bill Uncertainty Matters to Seed](../../items/seedworld/2026/05/https_www.seedworld.com_p_125145.md)**
+  - 2026-05-13 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125145.md) · [원문](https://www.seedworld.com/us/2026/05/12/farm-bill-uncertainty-seed-companies-janae-brady-asta/)
+  - Janae Brady of ASTA explains why Farm Bill uncertainty, conservation funding and USDA restructuring impact seed companies. The post Why Farm Bill Uncertainty Matters to Seed appeared first on Seed Wo…
+
+- **[Why Canada’s Breeding Future Hinges on Value Creation](../../items/seedworld/2026/05/https_www.seedworld.com_p_125127.md)**
+  - 2026-05-12 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125127.md) · [원문](https://www.seedworld.com/canada/2026/05/12/value-creation-is-gaining-a-foothold-watch-todays-webinar-and-find-out-why/)
+  - This on-demand webinar takes a grounded look at how value creation has evolved and how those efforts are performing in real-world settings The post Why Canada’s Breeding Future Hinges on Value Creati…
+
+- **[Colombia Promotes Legal Seed Use in Rice, Corn, Cotton and Sorghum](../../items/seedworld/2026/05/https_www.seedworld.com_p_125064.md)**
+  - 2026-05-12 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125064.md) · [원문](https://www.seedworld.com/latam/2026/05/12/colombia-promotes-legal-seed-use-in-rice-corn-cotton-and-sorghum/)
+  - Colombia’s ICA and Acosemillas are urging farmers to use authorized seed for rice, corn, cotton and sorghum crops. Officials say certified seed can improve yields by up to 40%, reduce pest risks and…
+
+- **[Communications Manager Opportunity Opens at Euroseeds in Brussels](../../items/seedworld/2026/05/https_www.seedworld.com_p_125121.md)**
+  - 2026-05-12 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125121.md) · [원문](https://www.seedworld.com/europe/2026/05/12/communications-manager-opportunity-opens-at-euroseeds-in-brussels/)
+  - Euroseeds is recruiting a Manager Communications to join its Brussels-based team and support strategic communication, digital engagement and EU advocacy for the European seed sector.
+
+- **[Rothamsted Research Spin-Out SugaROx Secures £2.5M Investment from Mosaic](../../items/seedworld/2026/05/https_www.seedworld.com_p_125106.md)**
+  - 2026-05-12 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125106.md) · [원문](https://www.seedworld.com/europe/2026/05/12/rothamsted-research-spin-out-sugarox-secures-2-5m-investment-from-mosaic/)
+  - Rothamsted Research and University of Oxford spin-out SugaROx has secured £2.5 million from The Mosaic Company to advance precision crop biostimulants. The Series A investment will support field tria…
+
+- **[Scientists Use Genome Editing to Develop Healthier Lettuce Crops](../../items/seedworld/2026/05/https_www.seedworld.com_p_125032.md)**
+  - 2026-05-11 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125032.md) · [원문](https://www.seedworld.com/europe/2026/05/11/scientists-use-genome-editing-to-develop-healthier-lettuce-crops/)
+  - Researchers used genome editing to alter flavonoid production in red-leaf lettuce, removing red pigmentation while increasing beneficial compounds such as quercetin. The modified lettuce maintained n…
+
+- **[Innovation in an Industry Of Action: The Changing World of Seed Treatment](../../items/seedworld/2026/05/https_www.seedworld.com_p_125113.md)**
+  - 2026-05-11 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125113.md) · [원문](https://www.seedworld.com/us/2026/05/11/innovation-in-an-industry-of-action-the-changing-world-of-seed-treatment/)
+  - Syngenta combines 250 years of agricultural science with AI-driven innovation to help farmers overcome evolving challenges. As a global leader in crop protection and Seedcare™, Syngenta develops brea…
+
+- **[Colombia promueve el uso de semillas legales en arroz, maíz, algodón y sorgo](../../items/seedworld/2026/05/https_www.seedworld.com_p_125061.md)**
+  - 2026-05-11 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125061.md) · [원문](https://www.seedworld.com/latam/2026/05/11/colombia-promueve-el-uso-de-semillas-legales-en-arroz-maiz-algodon-y-sorgo/)
+  - El ICA y Acosemillas instaron a los agricultores colombianos a utilizar semillas autorizadas en cultivos de arroz, maíz, algodón y sorgo. Según las entidades, la semilla certificada puede aumentar lo…
+
+- **[Loss of Pollinators Threatens Crop Yields and Human Nutrition Worldwide](../../items/seedworld/2026/05/https_www.seedworld.com_p_125058.md)**
+  - 2026-05-11 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125058.md) · [원문](https://www.seedworld.com/europe/2026/05/11/loss-of-pollinators-threatens-crop-yields-and-human-nutrition-worldwide/)
+  - New University of Bristol research published in Nature finds that pollinator decline threatens crop production, human nutrition and farm incomes. Studying smallholder farms in Nepal, researchers foun…
+
 - **[John Barlow on the Fight to Save Canada’s Ag Research Facilities](../../items/seedworld/2026/05/https_www.seedworld.com_p_125090.md)**
   - 2026-05-09 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125090.md) · [원문](https://www.seedworld.com/canada/2026/05/08/john-barlow-on-the-fight-to-save-canadas-ag-research-facilities/)
   - The vice chair of the House agriculture committee says witness testimony made it clear: research facility closures would have lasting impacts on Canadian agriculture The post John Barlow on the Fight…
