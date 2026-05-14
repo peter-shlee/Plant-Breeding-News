@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/07/navigating-the-5-cs-for-field-succ
 summary: "Biologicals can deliver consistent field performance when discovered through real-world microbial ecology, not lab traits alone. Jord BioScience’s ecology-driven approach selects resilient microbes that survive, compete, collaborate and"
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Navigating the 5 C’s for Field Success: What it Takes for Biologicals to Deliver
 

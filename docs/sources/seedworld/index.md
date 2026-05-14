@@ -11,6 +11,42 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[Why You Don’t Want to Miss the Seeds Canada Conference](../../items/seedworld/2026/05/https_www.seedworld.com_p_125197.md)**
+  - 2026-05-15 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125197.md) · [원문](https://www.seedworld.com/canada/2026/05/14/seeds-canada-conference-early-bird-registration-has-been-extended/)
+  - Saskatoon has long been at the centre of Canadian ag innovation — and this July, it becomes the gathering place for the seed sector The post Why You Don’t Want to Miss the Seeds Canada Conference app…
+
+- **[Where Gene Editing in Agriculture Meets Consumer Value](../../items/seedworld/2026/05/https_www.seedworld.com_p_125194.md)**
+  - 2026-05-15 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125194.md) · [원문](https://www.seedworld.com/us/2026/05/14/gene-editing-consumer-value/)
+  - Pairwise CEO Tom Adams says gene editing’s next opportunity may come from crops where the benefits are easy for consumers and growers to see. The post Where Gene Editing in Agriculture Meets Consumer…
+
+- **[From Lisbon to Saskatoon, Plant Breeding Faces a Defining Moment](../../items/seedworld/2026/05/https_www.seedworld.com_p_125191.md)**
+  - 2026-05-15 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125191.md) · [원문](https://www.seedworld.com/canada/2026/05/14/from-lisbon-to-lethbridge-plant-breeding-faces-a-defining-moment/)
+  - The 2026 ISF World Seed Congress and Season 2 of On the Brink point to the same reality The post From Lisbon to Saskatoon, Plant Breeding Faces a Defining Moment appeared first on Seed World .
+
+- **[Why Portugal Matters to the Global Seed Sector](../../items/seedworld/2026/05/https_www.seedworld.com_p_125186.md)**
+  - 2026-05-15 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125186.md) · [원문](https://www.seedworld.com/us/2026/05/14/isf-world-seed-congress-lisbon/)
+  - From global seed trade to next-generation leadership, the 2026 ISF World Seed Congress arrives in a city built for international connection. Lisbon sits on the edge of the Atlantic Ocean, […] The pos…
+
+- **[Embrapa Advances Homegrown Fertilizer Solution for Soybean and Wheat Markets](../../items/seedworld/2026/05/https_www.seedworld.com_p_125070.md)**
+  - 2026-05-14 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125070.md) · [원문](https://www.seedworld.com/latam/2026/05/14/embrapa-advances-homegrown-fertilizer-solution-for-soybean-and-wheat-markets/)
+  - Embrapa researchers found that struvite fertilizer made from pig farming residues can reduce reliance on imported phosphate fertilizers in soybean and wheat production.
+
+- **[Where the Conversation Goes Next | On The Brink: Season 2 – Episode 1](../../items/seedworld/2026/05/https_www.seedworld.com_p_125129.md)**
+  - 2026-05-13 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125129.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/13/where-the-conversation-goes-next-on-the-brink-episode-10/)
+  - Shawn Brook, President and CEO of Seed World Group, reflects on nine episodes of cross-country conversation and what the shift to Season 2 means for Canadian plant breeding.
+
+- **[Breakthrough Crop Research Creates Fusarium-Resistant Wheat Hybrids](../../items/seedworld/2026/05/https_www.seedworld.com_p_125035.md)**
+  - 2026-05-13 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125035.md) · [원문](https://www.seedworld.com/europe/2026/05/13/breakthrough-crop-research-creates-fusarium-resistant-wheat-hybrids/)
+  - Researchers identified a novel Fusarium Head Blight resistance locus in Elymus repens, a wild wheat relative, and successfully transferred it into cultivated wheat. The new locus, Fhb.Er-1StL, reduce…
+
+- **[Embrapa impulsa una solución de fertilizantes de producción nacional para los mercados de soja y trigo](../../items/seedworld/2026/05/https_www.seedworld.com_p_125067.md)**
+  - 2026-05-13 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125067.md) · [원문](https://www.seedworld.com/latam/2026/05/13/embrapa-impulsa-una-solucion-de-fertilizantes-de-produccion-nacional-para-los-mercados-de-soja-y-trigo/)
+  - Investigadores de Embrapa descubrieron que la estruvita producida a partir de residuos porcinos puede reducir la dependencia de fertilizantes fosfatados importados en cultivos de soja y trigo.
+
+- **[Scientists Build First Watermelon Super-Pangenome to Advance Crop Breeding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125110.md)**
+  - 2026-05-13 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125110.md) · [원문](https://www.seedworld.com/europe/2026/05/13/scientists-build-first-watermelon-super-pangenome-to-advance-crop-breeding/)
+  - Scientists have developed a comprehensive watermelon super-pangenome integrating 138 wild and cultivated genomes, revealing genetic variants linked to sweetness, flesh colour, and disease resistance.
+
 - **[Money Plant Reveals Nature’s Hidden Algorithm](../../items/seedworld/2026/05/https_www.seedworld.com_p_125150.md)**
   - 2026-05-13 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125150.md) · [원문](https://www.seedworld.com/us/2026/05/12/chinese-money-plant-algorithm/)
   - New research from Cold Spring Harbor Laboratory shows the Chinese money plant algorithm helps explain how plants organize leaf veins using elegant mathematical principles.
@@ -337,39 +373,3 @@ source: "seedworld"
 - **[Nueva plataforma digital analiza el comercio, la industria y la producción de trigo en Brasil](../../items/seedworld/2026/04/https_www.seedworld.com_p_124383.md)**
   - 2026-04-15 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124383.md) · [원문](https://www.seedworld.com/latam/2026/04/15/nueva-plataforma-digital-analiza-el-comercio-la-industria-y-la-produccion-de-trigo-en-brasil/)
   - Embrapa lanzó la plataforma digital Trigo no Brasil, que integra datos y mapas sobre toda la cadena del trigo en Brasil, desde producción hasta comercio e industria. Diseñada para apoyar políticas e…
-
-- **[Defining Seed and Food Security](../../items/seedworld/2026/04/https_www.seedworld.com_p_124423.md)**
-  - 2026-04-15 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124423.md) · [원문](https://www.seedworld.com/europe/2026/04/14/defining-seed-and-food-security/)
-  - Food security is understood differently across cultures, with China prioritizing it as a core national security issue while Western societies often take it for granted.
-
-- **[Seed Programs International Connects Smallholder Farmers to the Seed Sector](../../items/seedworld/2026/04/https_www.seedworld.com_p_124620.md)**
-  - 2026-04-14 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124620.md) · [원문](https://www.seedworld.com/us/2026/04/14/seed-programs-international-connects-smallholder-farmers-to-the-seed-sector/)
-  - A small team, a global network and millions reached — Seed Programs International connects smallholder farmers to the seed sector, turning donations and partnerships into measurable food security imp…
-
-- **[New Soybean Variety Targets Herbicide-Resistant Weeds](../../items/seedworld/2026/04/https_www.seedworld.com_p_124380.md)**
-  - 2026-04-14 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124380.md) · [원문](https://www.seedworld.com/latam/2026/04/14/new-soybean-variety-targets-herbicide-resistant-weeds/)
-  - Embrapa Soja and Caramuru Alimentos have launched BRS 579, a high-yield soybean cultivar for north-central Mato Grosso that combines strong plant health with STS herbicide tolerance.
-
-- **[Drones and AI Transform Wheat Crop Monitoring for Climate Resilience](../../items/seedworld/2026/04/https_www.seedworld.com_p_124601.md)**
-  - 2026-04-14 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124601.md) · [원문](https://www.seedworld.com/europe/2026/04/14/drones-and-ai-transform-wheat-crop-monitoring-for-climate-resilience/)
-  - Drones and artificial intelligence are transforming how scientists monitor wheat crops and identify climate-resilient varieties. By tracking crop growth with advanced imaging and sensors, researchers…
-
-- **[A Quiet Giant in Pea Breeding: Remembering AAFC Scientist D.J. Bing](../../items/seedworld/2026/04/https_www.seedworld.com_p_124589.md)**
-  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124589.md) · [원문](https://www.seedworld.com/canada/2026/04/13/a-quiet-giant-in-pea-breeding-remembering-aafc-scientist-d-j-bing/)
-  - Colleagues recall a humble, dedicated breeder whose work advanced field pea genetics while his mentorship and integrity left a deep impression The post A Quiet Giant in Pea Breeding: Remembering AAFC…
-
-- **[Nueva variedad de soja para el control de malezas resistentes a herbicidas](../../items/seedworld/2026/04/https_www.seedworld.com_p_124377.md)**
-  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124377.md) · [원문](https://www.seedworld.com/latam/2026/04/13/nueva-variedad-de-soja-para-el-control-de-malezas-resistentes-a-herbicidas/)
-  - Embrapa Soja y Caramuru Alimentos lanzaron BRS 579, una nueva variedad de soja de alto rendimiento para el centro-norte de Mato Grosso que combina sanidad vegetal y tolerancia STS a herbicidas.
-
-- **[New Mapping Tools Offer Deeper Insights into UK Soil Health](../../items/seedworld/2026/04/https_www.seedworld.com_p_124368.md)**
-  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124368.md) · [원문](https://www.seedworld.com/europe/2026/04/13/new-mapping-tools-offer-deeper-insights-into-uk-soil-health/)
-  - A new suite of high-resolution soil and landscape maps for Great Britain will help farmers, land managers, and researchers improve soil health, biodiversity, and climate resilience.
-
-- **[Euroseeds NextGen Forum 2026 Connects Students with Seed Sector Careers](../../items/seedworld/2026/04/https_www.seedworld.com_p_124418.md)**
-  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124418.md) · [원문](https://www.seedworld.com/europe/2026/04/13/euroseeds-nextgen-forum-2026-connects-students-with-seed-sector-careers/)
-  - The Euroseeds NextGen Forum 2026 in Valencia connects young researchers with seed industry leaders to address talent gaps in plant breeding. Bringing together students, PhDs and professionals, the in…
-
-- **[Farming Isn’t Chemistry; It’s Ecology](../../items/seedworld/2026/04/https_www.seedworld.com_p_124555.md)**
-  - 2026-04-13 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124555.md) · [원문](https://www.seedworld.com/us/2026/04/12/farming-isnt-chemistry-its-ecology/)
-  - Modern agriculture must move beyond a chemistry-only mindset and embrace soil ecology. Crop performance depends on microbial communities that drive nutrient cycling, stress tolerance, and resilience.

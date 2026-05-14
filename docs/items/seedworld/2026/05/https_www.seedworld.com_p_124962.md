@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/01/the-farm-bill-moves-forward-the-pr
 summary: "Commodity groups are largely backing the House farm bill, citing economic pressure and the need for a stronger safety net, while others say key gaps remain. For the seed industry, the bigger question is whether final policy will support"
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # The Farm Bill Moves Forward. The Pressure Isn’t Going Away
 

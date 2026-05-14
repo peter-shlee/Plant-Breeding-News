@@ -9,7 +9,7 @@ summary: "Thirty-one agri-food organisations are urging MEPs to adopt the EU Reg
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Industry Coalition Calls for Swift Approval of EU New Genomic Techniques Law
 

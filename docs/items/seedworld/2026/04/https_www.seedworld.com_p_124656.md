@@ -9,7 +9,7 @@ summary: "From wheat breeder Dean Spaner to pea scientist D.J. Bing, these stori
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Marc’s Take: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever
 

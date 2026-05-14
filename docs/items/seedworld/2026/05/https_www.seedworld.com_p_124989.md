@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/05/06/independent-seed-
 summary: "A national survey of 200 independent seed businesses reveals the sector represents $1.7 billion in infrastructure, 3,000 rural jobs, and a near-total dependence on public plant breeding to survive."
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Independent Seed, National Impact | On the Brink Episode 9
 

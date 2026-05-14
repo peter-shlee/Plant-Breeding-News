@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/24/lazy-crop-roots-traditional-so
 summary: "Traditional sorghum lines may hold the key to more efficient crop nutrition as agriculture shifts toward recycled fertilisers. A University of Queensland study found landraces outperformed modern sorghum when phosphorus was less soluble,"
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # “Lazy” Crop Roots: Traditional Sorghum Outperforms on Recycled Phosphorus
 

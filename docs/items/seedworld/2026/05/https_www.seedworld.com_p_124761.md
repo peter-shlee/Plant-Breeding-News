@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/01/canola-crop-based-saf-shows-up-
 summary: "A life cycle assessment of sustainable aviation fuel from second-crop canola in Brazil shows potential greenhouse gas reductions of up to 55% versus fossil Jet A-1 under optimal scenarios."
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Canola Crop-Based SAF Shows Up to 55% Emissions Reduction Potential in Brazil
 

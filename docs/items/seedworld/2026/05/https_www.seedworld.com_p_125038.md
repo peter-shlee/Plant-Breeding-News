@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/07/canadian-parliament-urges-reve
 summary: "A new parliamentary report warns that planned closures of federal agricultural research centres could weaken Canada’s long-term agricultural innovation capacity The post Canadian Parliament Urges Reversal of Agricultural Research Centre"
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Canadian Parliament Urges Reversal of Agricultural Research Centre Closures
 

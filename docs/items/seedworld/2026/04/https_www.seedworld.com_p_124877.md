@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/29/up-to-40-of-u-s-food-never-gets-ea
 summary: "U.S. food waste reaches up to 40% of the supply, with 133 billion pounds lost annually."
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Up to 40% of U.S. Food Never Gets Eaten. The Pressure Starts at Seed
 

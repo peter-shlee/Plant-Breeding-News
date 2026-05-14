@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/11/loss-of-pollinators-threatens-
 summary: "New University of Bristol research published in Nature finds that pollinator decline threatens crop production, human nutrition and farm incomes. Studying smallholder farms in Nepal, researchers found pollinators support 44% of farming"
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Loss of Pollinators Threatens Crop Yields and Human Nutrition Worldwide
 

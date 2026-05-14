@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/12/value-creation-is-gaining-a-fo
 summary: "This on-demand webinar takes a grounded look at how value creation has evolved and how those efforts are performing in real-world settings The post Why Canada’s Breeding Future Hinges on Value Creation appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-13T06:56:21+09:00"
+fetched_at: "2026-05-15T06:54:46+09:00"
 ---
 # Why Canada’s Breeding Future Hinges on Value Creation
 
