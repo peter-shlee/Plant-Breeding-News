@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/07/reversing-aafc-cuts-could-buy-
 summary: "Preserving research infrastructure alone won’t solve the deeper challenges facing Canadian agricultural innovation The post Reversing AAFC Cuts Could Buy Time — But Canada Still Needs Breeding Reform appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # Reversing AAFC Cuts Could Buy Time — But Canada Still Needs Breeding Reform
 

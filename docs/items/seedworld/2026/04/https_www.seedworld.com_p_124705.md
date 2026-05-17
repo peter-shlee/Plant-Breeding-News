@@ -9,7 +9,7 @@ summary: "Diversification is gaining traction across U.S. agriculture, but a rec
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # The System Built For Corn Isn’t Built For What’s Next
 

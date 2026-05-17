@@ -11,6 +11,12 @@ source: "nics"
 
 ## 2026-05
 
+- **[국립식량과학원, 국산 식량작물 산업화 및 현장 소통 강화](../../items/nics/2026/05/944210.md)**
+  - 2026-05-15 · [읽기](../../items/nics/2026/05/944210.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944210)
+
+- **[콩 안정 생산 ‘파종 전 핵심 준비 요령’ 소개](../../items/nics/2026/05/944209.md)**
+  - 2026-05-15 · [읽기](../../items/nics/2026/05/944209.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944209)
+
 - **[농촌진흥청, 국가표준식품성분 데이터베이스 10.4 공개](../../items/nics/2026/05/944199.md)**
   - 2026-05-11 · [읽기](../../items/nics/2026/05/944199.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944199)
 
@@ -34,12 +40,3 @@ source: "nics"
 
 - **[논·밭 맞춤형 물관리로 ‘노지 콩’ 안정적 생산 돕는다](../../items/nics/2026/05/944180.md)**
   - 2026-05-06 · [읽기](../../items/nics/2026/05/944180.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944180)
-
-- **[국립식량과학원, 봄철 농번기 일손 돕기 추진](../../items/nics/2026/05/944179.md)**
-  - 2026-05-06 · [읽기](../../items/nics/2026/05/944179.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944179)
-
-
-## 2026-04
-
-- **[농촌진흥청, 기후·에너지 위기 극복 ‘저탄소 벼 재배 기술’ 확립](../../items/nics/2026/04/944154.md)**
-  - 2026-04-27 · [읽기](../../items/nics/2026/04/944154.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944154)

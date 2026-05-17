@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/07/plant-breeders-rights-reform-s
 summary: "Supporters say stronger IP protections will fuel breeding innovation and competitiveness. Canada is moving to modernize its Plant Breeders’ Rights (PBR) framework in a bid to strengthen agricultural innovation, attract […] The post Plant"
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # Plant Breeders’ Rights Reform Signals New Era for Canadian Horticulture
 

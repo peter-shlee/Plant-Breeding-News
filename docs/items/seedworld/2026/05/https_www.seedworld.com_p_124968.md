@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/04/oecd-seed-schemes-explained-se
 summary: "OECD seed certification strengthens trust in global seed systems by harmonising standards for quality, identity, and purity across more than 60 countries. This video explains how OECD Seed Schemes support international seed trade, farmer"
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # OECD Seed Schemes Explained | Seed Certification & Global Seed Trade
 

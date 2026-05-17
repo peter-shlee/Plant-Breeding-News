@@ -11,6 +11,34 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[Las gramíneas de raíces profundas aumentan la productividad de la soja en un 15 % en Brasil](../../items/seedworld/2026/05/https_www.seedworld.com_p_125079.md)**
+  - 2026-05-17 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125079.md) · [원문](https://www.seedworld.com/latam/2026/05/17/las-gramineas-de-raices-profundas-aumentan-la-productividad-de-la-soja-en-un-15-en-brasil/)
+  - Un metaanálisis liderado por Embrapa encontró que gramíneas tropicales de raíces profundas, como brachiaria, pueden aumentar en 15% los rendimientos de soja y mejorar la salud del suelo en Brasil.
+
+- **[Chile Seed Industry Pushes for Stronger Agricultural Competitiveness and Innovation](../../items/seedworld/2026/05/https_www.seedworld.com_p_125076.md)**
+  - 2026-05-16 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125076.md) · [원문](https://www.seedworld.com/latam/2026/05/16/chile-seed-industry-pushes-for-stronger-agricultural-competitiveness-and-innovation/)
+  - ANPROS outlined the main challenges and opportunities facing Chile’s seed industry during a meeting with Agriculture Minister Jaime Campos, focusing on competitiveness, sustainability and the sector’…
+
+- **[Win €10,000 in Free Advertising at World Seed Congress](../../items/seedworld/2026/05/https_www.seedworld.com_p_125234.md)**
+  - 2026-05-16 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125234.md) · [원문](https://www.seedworld.com/europe/2026/05/15/world-seed-congress-free-advertising/)
+  - Share a quick insight for a chance to win €10,000 in free advertising at World Seed Congress. The post Win €10,000 in Free Advertising at World Seed Congress appeared first on Seed World .
+
+- **[Lorena Basso Steps Up in the Global Seed Sector](../../items/seedworld/2026/05/https_www.seedworld.com_p_125231.md)**
+  - 2026-05-16 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125231.md) · [원문](https://www.seedworld.com/us/2026/05/15/lorena-basso-global-seed-sector/)
+  - Lorena Basso prepares to lead ISF with a focus on innovation, regulatory clarity and stronger collaboration across the global seed sector. The post Lorena Basso Steps Up in the Global Seed Sector app…
+
+- **[La industria semillera chilena impulsa una mayor competitividad e innovación agrícola](../../items/seedworld/2026/05/https_www.seedworld.com_p_125073.md)**
+  - 2026-05-15 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125073.md) · [원문](https://www.seedworld.com/latam/2026/05/15/la-industria-semillera-chilena-impulsa-una-mayor-competitividad-e-innovacion-agricola/)
+  - La industria semillera chilena impulsa una mayor competitividad, innovación y modernización regulatoria tras una reunión entre ANPROS y el ministro de Agricultura, Jaime Campos.
+
+- **[Tunisia Sequences Ancient Durum Wheat Varieties to Boost Climate Resilience](../../items/seedworld/2026/05/https_www.seedworld.com_p_125118.md)**
+  - 2026-05-15 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125118.md) · [원문](https://www.seedworld.com/europe/2026/05/15/tunisia-sequences-ancient-durum-wheat-varieties-to-boost-climate-resilience/)
+  - Tunisian researchers sequenced the complete genomes of Mahmoudi and Chili durum wheat landraces, uncovering valuable traits for drought tolerance, disease resistance and climate resilience.
+
+- **[Biotech Just Hit Fast Forward. Is Europe’s Seed Sector Ready?](../../items/seedworld/2026/05/https_www.seedworld.com_p_125163.md)**
+  - 2026-05-15 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125163.md) · [원문](https://www.seedworld.com/europe/2026/05/14/biotech-just-hit-fast-forward-is-europes-seed-sector-ready/)
+  - AI, CRISPR, genomic prediction and speed breeding are transforming plant breeding at unprecedented speed. Wageningen University’s Richard Harrison says Europe’s seed sector faces a defining moment as…
+
 - **[Why You Don’t Want to Miss the Seeds Canada Conference](../../items/seedworld/2026/05/https_www.seedworld.com_p_125197.md)**
   - 2026-05-15 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125197.md) · [원문](https://www.seedworld.com/canada/2026/05/14/seeds-canada-conference-early-bird-registration-has-been-extended/)
   - Saskatoon has long been at the centre of Canadian ag innovation — and this July, it becomes the gathering place for the seed sector The post Why You Don’t Want to Miss the Seeds Canada Conference app…
@@ -337,39 +365,3 @@ source: "seedworld"
 - **[Seed Banks May Limit Gene Drives for Weed Control](../../items/seedworld/2026/04/https_www.seedworld.com_p_124677.md)**
   - 2026-04-18 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124677.md) · [원문](https://www.seedworld.com/us/2026/04/17/seed-banks-may-limit-gene-drives-for-weed-control/)
   - New research from Cornell University shows seed banks, long-lived reserves of dormant seeds in soil, could slow or limit the spread of gene drives in plants. The findings highlight a key challenge an…
-
-- **[No todos los cultivos son iguales](../../items/seedworld/2026/04/https_www.seedworld.com_p_124670.md)**
-  - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124670.md) · [원문](https://www.seedworld.com/latam/2026/04/17/no-todos-los-cultivos-son-iguales/)
-  - Científica investigadora con casi 10 años en el Instituto Nacional de Investigaciones del Tabaco de Cuba, liderando mejoramiento genético, huella genética por ADN, resistencia a enfermedades, caracte…
-
-- **[All Crops Are Not Created Equal](../../items/seedworld/2026/04/https_www.seedworld.com_p_124667.md)**
-  - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124667.md) · [원문](https://www.seedworld.com/latam/2026/04/17/all-crops-are-not-created-equal/)
-  - Research scientist with nearly 10 years at Cuba’s National Tobacco Research Institute, leading tobacco breeding, DNA fingerprinting, disease resistance, germplasm characterization, and stress-respons…
-
-- **[Marc’s Take: The Quiet Leaders Behind Seed Innovation and Why They Matter More Than Ever](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md)**
-  - 2026-04-17 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124656.md) · [원문](https://www.seedworld.com/canada/2026/04/16/marcs-take-this-week-the-quiet-leaders-behind-seed-innovation-and-why-they-matter-more-than-ever/)
-  - From wheat breeder Dean Spaner to pea scientist D.J. Bing, these stories highlight the human foundation of plant breeding, and why it's critical for innovation The post Marc’s Take: The Quiet Leaders…
-
-- **[“I’m Dean”: The Humble Leadership of Wheat Breeder Dean Spaner Leaves Lasting Mark on Prairie Agriculture](../../items/seedworld/2026/04/https_www.seedworld.com_p_124650.md)**
-  - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124650.md) · [원문](https://www.seedworld.com/canada/2026/04/16/im-dean-the-quiet-leadership-of-wheat-breeder-dean-spaner-leaves-lasting-mark-on-prairie-agriculture/)
-  - Known for his humility and sharp scientific mind, he transformed wheat breeding in Alberta while creating a lab culture that felt like family The post “I’m Dean”: The Humble Leadership of Wheat Breed…
-
-- **[New Platform Maps Brazil’s Wheat Trade, Industry and Production](../../items/seedworld/2026/04/https_www.seedworld.com_p_124386.md)**
-  - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124386.md) · [원문](https://www.seedworld.com/latam/2026/04/16/new-platform-maps-brazils-wheat-trade-industry-and-production/)
-  - Embrapa has launched the Trigo no Brasil digital platform, providing integrated data and maps on Brazil’s wheat value chain, from production to trade and processing. Designed to support policy and in…
-
-- **[20 Most Promising Young Plant Breeders in Europe 2026](../../items/seedworld/2026/04/https_www.seedworld.com_p_124565.md)**
-  - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124565.md) · [원문](https://www.seedworld.com/europe/2026/04/16/20-most-promising-young-plant-breeders-in-europe-2026/)
-  - Seed World Europe’s April 2026 edition highlights the 20 Most Promising Young Plant Breeders in Europe, showcasing innovators shaping the future of agriculture. Combining classical breeding with geno…
-
-- **[Innovation in Agriculture Depends on Plant Breeders’ Rights, Says UPOV President](../../items/seedworld/2026/04/https_www.seedworld.com_p_124638.md)**
-  - 2026-04-16 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124638.md) · [원문](https://www.seedworld.com/canada/2026/04/15/plant-breeders-rights-drive-investment-says-new-upov-president/)
-  - Balancing tradition and innovation remains the key challenge in building a sustainable breeding ecosystem, says Anthony Parker The post Innovation in Agriculture Depends on Plant Breeders’ Rights, Sa…
-
-- **[Producing More With Less: On the Brink Episode 6](../../items/seedworld/2026/04/https_www.seedworld.com_p_124626.md)**
-  - 2026-04-15 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124626.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/15/producing-more-with-less-on-the-brink-episode-6/)
-  - Dairy farmer Andrew Campbell explains why producing more with less on Canadian farms depends entirely on keeping plant breeding research in Canada. The post Producing More With Less: On the Brink Epi…
-
-- **[Nueva plataforma digital analiza el comercio, la industria y la producción de trigo en Brasil](../../items/seedworld/2026/04/https_www.seedworld.com_p_124383.md)**
-  - 2026-04-15 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124383.md) · [원문](https://www.seedworld.com/latam/2026/04/15/nueva-plataforma-digital-analiza-el-comercio-la-industria-y-la-produccion-de-trigo-en-brasil/)
-  - Embrapa lanzó la plataforma digital Trigo no Brasil, que integra datos y mapas sobre toda la cadena del trigo en Brasil, desde producción hasta comercio e industria. Diseñada para apoyar políticas e…

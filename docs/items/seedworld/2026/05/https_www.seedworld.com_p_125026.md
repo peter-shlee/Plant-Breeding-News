@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/07/agri-food-leaders-call-for-str
 summary: "Five European Technology Platforms and nine agri-food organisations are urging EU policymakers to recognise agriculture, aquaculture and food systems as strategic priorities in the European Competitiveness Fund and Horizon Europe."
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # Agri-Food Leaders Call for Stronger EU Innovation Funding
 

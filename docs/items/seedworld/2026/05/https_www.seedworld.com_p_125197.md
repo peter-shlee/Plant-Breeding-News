@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/14/seeds-canada-conference-early-
 summary: "Saskatoon has long been at the centre of Canadian ag innovation — and this July, it becomes the gathering place for the seed sector The post Why You Don’t Want to Miss the Seeds Canada Conference appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # Why You Don’t Want to Miss the Seeds Canada Conference
 

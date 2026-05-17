@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/14/isf-world-seed-congress-lisbon/"
 summary: "From global seed trade to next-generation leadership, the 2026 ISF World Seed Congress arrives in a city built for international connection. Lisbon sits on the edge of the Atlantic Ocean, […] The post Why Portugal Matters to the Global"
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # Why Portugal Matters to the Global Seed Sector
 

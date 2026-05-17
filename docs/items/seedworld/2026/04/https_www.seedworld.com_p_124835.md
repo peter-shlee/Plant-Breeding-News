@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/29/climate-smart-farming-study-sh
 summary: "A new global biochar model helps predict how biochar affects crop yields, soil carbon storage and greenhouse gas emissions across farming systems. Tested with data from 48 field sites, the study shows biochar can support climate-smart"
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # Climate-Smart Farming: Study Shows How Biochar Can Improve Yields and Soil
 

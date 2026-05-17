@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/04/the-leadership-move-that-pays-off-
 summary: "Investing in professional development helps seed companies reduce turnover, strengthen teams, and improve operational performance. Targeted seed training, short courses, and certification programs give employees practical skills in seed"
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # The Leadership Move That Pays Off Immediately
 

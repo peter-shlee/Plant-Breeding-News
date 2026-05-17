@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/05/13/where-the-convers
 summary: "Shawn Brook, President and CEO of Seed World Group, reflects on nine episodes of cross-country conversation and what the shift to Season 2 means for Canadian plant breeding."
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # Where the Conversation Goes Next | On The Brink: Season 2 – Episode 1
 

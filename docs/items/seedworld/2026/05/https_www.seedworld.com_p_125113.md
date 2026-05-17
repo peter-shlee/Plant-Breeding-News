@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/11/innovation-in-an-industry-of-actio
 summary: "Syngenta combines 250 years of agricultural science with AI-driven innovation to help farmers overcome evolving challenges. As a global leader in crop protection and Seedcare™, Syngenta develops breakthrough technologies like TYMIRIUM® and"
 attachments: []
 tags: []
-fetched_at: "2026-05-15T06:54:46+09:00"
+fetched_at: "2026-05-18T06:49:55+09:00"
 ---
 # Innovation in an Industry Of Action: The Changing World of Seed Treatment
 
