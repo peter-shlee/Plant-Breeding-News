@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-05
 
+- **[국산 혼합 잡곡, 건강 돌봄식 소재로 주목받아](../../items/nics/2026/05/944212.md)**
+  - 2026-05-18 · [읽기](../../items/nics/2026/05/944212.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944212)
+
 - **[국립식량과학원, 국산 식량작물 산업화 및 현장 소통 강화](../../items/nics/2026/05/944210.md)**
   - 2026-05-15 · [읽기](../../items/nics/2026/05/944210.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944210)
 
@@ -37,6 +40,3 @@ source: "nics"
 
 - **[논 활용 사료용 벼 생산성 향상 재배 기술 소개](../../items/nics/2026/05/944181.md)**
   - 2026-05-06 · [읽기](../../items/nics/2026/05/944181.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944181)
-
-- **[논·밭 맞춤형 물관리로 ‘노지 콩’ 안정적 생산 돕는다](../../items/nics/2026/05/944180.md)**
-  - 2026-05-06 · [읽기](../../items/nics/2026/05/944180.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944180)

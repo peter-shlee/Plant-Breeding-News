@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "밀"
   - "콩"
-fetched_at: "2026-05-18T06:49:55+09:00"
+fetched_at: "2026-05-20T06:58:34+09:00"
 ---
 # Embrapa Advances Homegrown Fertilizer Solution for Soybean and Wheat Markets
 

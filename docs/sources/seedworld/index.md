@@ -11,6 +11,30 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[NAPB 2026 Focuses on AI, Indoor Farming, and the Next Era of Plant Breeding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125253.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125253.md) · [원문](https://www.seedworld.com/us/2026/05/19/napb-2026-focuses-on-ai-indoor-farming-and-the-next-era-of-plant-breeding/)
+  - Researchers will gather in Texas to discuss how artificial intelligence and controlled environment agriculture are accelerating the development of climate-smart crops The post NAPB 2026 Focuses on AI…
+
+- **[Canada Makes Its Case to Global Seed Investors](../../items/seedworld/2026/05/https_www.seedworld.com_p_125237.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125237.md) · [원문](https://www.seedworld.com/canada/2026/05/19/canada-seed-innovation-investment/)
+  - At World Seed Congress, industry and government leaders explain why seed innovation in Canada is making the country a faster, more competitive destination. For years, Canada has offered international…
+
+- **[Why Canadian Farmers are Leading Discussions on a New Wheat Breeding Model](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md)**
+  - 2026-05-19 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md) · [원문](https://www.seedworld.com/canada/2026/05/19/why-canadian-farmers-are-leading-discussions-on-a-new-wheat-breeding-model/)
+  - Jocelyn Velestuk says Canada’s wheat breeding system is at an “inflection point” as stakeholders look to create a stronger future for farmers and crop innovation The post Why Canadian Farmers are Lea…
+
+- **[Unauthorized Plant Variety Propagation Faces Legal Crackdown After Spanish Court Rulings](../../items/seedworld/2026/05/https_www.seedworld.com_p_125238.md)**
+  - 2026-05-19 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125238.md) · [원문](https://www.seedworld.com/europe/2026/05/19/unauthorized-plant-variety-propagation-faces-legal-crackdown-after-spanish-court-rulings/)
+  - Spanish court rulings warn horticulture companies that unauthorized propagation and sale of protected plant varieties can lead to criminal liability. Cases involving tomato grafting in Almería and on…
+
+- **[Deep-Rooted Grasses Increase Soybean Productivity by 15% in Brazil](../../items/seedworld/2026/05/https_www.seedworld.com_p_125082.md)**
+  - 2026-05-18 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125082.md) · [원문](https://www.seedworld.com/latam/2026/05/18/deep-rooted-grasses-increase-soybean-productivity-by-15-in-brazil/)
+  - A new Embrapa-led meta-analysis found that deep-rooted tropical grasses such as brachiaria can increase soybean yields by 15% while improving soil health in Brazil. The study reviewed 55 research pap…
+
+- **[CIMMYT and John Innes Centre Partnership Advances Wheat Research and Disease Surveillance](../../items/seedworld/2026/05/https_www.seedworld.com_p_125167.md)**
+  - 2026-05-18 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125167.md) · [원문](https://www.seedworld.com/europe/2026/05/18/cimmyt-and-john-innes-centre-partnership-advances-wheat-research-and-disease-surveillance/)
+  - JIC and CIMMYT are advancing wheat research through molecular breeding, disease surveillance and rapid diagnostics, linking discovery science with farmer-focused delivery to develop more resilient, n…
+
 - **[Las gramíneas de raíces profundas aumentan la productividad de la soja en un 15 % en Brasil](../../items/seedworld/2026/05/https_www.seedworld.com_p_125079.md)**
   - 2026-05-17 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125079.md) · [원문](https://www.seedworld.com/latam/2026/05/17/las-gramineas-de-raices-profundas-aumentan-la-productividad-de-la-soja-en-un-15-en-brasil/)
   - Un metaanálisis liderado por Embrapa encontró que gramíneas tropicales de raíces profundas, como brachiaria, pueden aumentar en 15% los rendimientos de soja y mejorar la salud del suelo en Brasil.
@@ -159,7 +183,7 @@ source: "seedworld"
   - 2026-05-07 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125023.md) · [원문](https://www.seedworld.com/us/2026/05/07/navigating-the-5-cs-for-field-success-what-it-takes-for-biologicals-to-deliver/)
   - Biologicals can deliver consistent field performance when discovered through real-world microbial ecology, not lab traits alone. Jord BioScience’s ecology-driven approach selects resilient microbes t…
 
-- **[Independent Seed, National Impact | On the Brink Episode 9](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md)**
+- **[Independent Seed, National Impact | On the Brink Season 1: Episode 9](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md)**
   - 2026-05-06 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/06/independent-seed-national-impact-on-the-brink-episode-9/)
   - A national survey of 200 independent seed businesses reveals the sector represents $1.7 billion in infrastructure, 3,000 rural jobs, and a near-total dependence on public plant breeding to survive.
 
@@ -238,7 +262,7 @@ source: "seedworld"
   - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124835.md) · [원문](https://www.seedworld.com/europe/2026/04/29/climate-smart-farming-study-shows-how-biochar-can-improve-yields-and-soil/)
   - A new global biochar model helps predict how biochar affects crop yields, soil carbon storage and greenhouse gas emissions across farming systems. Tested with data from 48 field sites, the study show…
 
-- **[Finding Canada’s Way: Rebuilding the Variety Marketplace | On the Brink Episode 8](../../items/seedworld/2026/04/https_www.seedworld.com_p_124862.md)**
+- **[Finding Canada’s Way: Rebuilding the Variety Marketplace | On the Brink Season 1: Episode 8](../../items/seedworld/2026/04/https_www.seedworld.com_p_124862.md)**
   - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124862.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/29/finding-canadas-way-rebuilding-the-variety-marketplace-on-the-brink-episode-8/)
   - Greg Stamp has spent 20 years farming in Western Canada and his verdict on the current variety marketplace is straightforward: the system is broken. In Episode 9 of On the Brink, Stamp makes the case…
 
@@ -326,9 +350,9 @@ source: "seedworld"
   - 2026-04-23 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124747.md) · [원문](https://www.seedworld.com/canada/2026/04/22/letter-to-the-editor-consolidation-is-a-false-efficiency-in-crop-breeding/)
   - Three retired breeders say centralizing AAFC research may save costs on paper, but it narrows genetic discovery, increases farm risk and slows agricultural innovation The post LETTER TO THE EDITOR: “…
 
-- **[What’s at Stake in Every Slice: On the Brink Episode 7](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md)**
+- **[What’s at Stake in Every Slice | On the Brink Season 1: Episode 7](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md)**
   - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/22/whats-at-stake-in-every-slice-on-the-brink-episode-7/)
-  - Adam Dyck of Warburton's Canada warns Canada risks losing its plant breeding investment edge — and the international wheat contracts that depend on it. The post What’s at Stake in Every Slice: On the…
+  - Adam Dyck of Warburton's Canada warns Canada risks losing its plant breeding investment edge — and the international wheat contracts that depend on it. The post What’s at Stake in Every Slice | On th…
 
 - **[Por qué Costa Rica atrae inversión e I+D global en semillas](../../items/seedworld/2026/04/https_www.seedworld.com_p_124613.md)**
   - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124613.md) · [원문](https://www.seedworld.com/latam/2026/04/22/por-que-costa-rica-atrae-inversion-e-id-global-en-semillas/)
@@ -361,7 +385,3 @@ source: "seedworld"
 - **[Legume Generation Project Aims to Boost Legume Breeding and Protein Crop Performance in Europe](../../items/seedworld/2026/04/https_www.seedworld.com_p_124559.md)**
   - 2026-04-20 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124559.md) · [원문](https://www.seedworld.com/europe/2026/04/20/legume-generation-project-aims-to-boost-legume-breeding-and-protein-crop-performance-in-europe/)
   - Legume Generation aims to strengthen European legume breeding through breeder-led innovation, addressing yield gaps, underinvestment, and reliance on imported protein. By uniting research and breedin…
-
-- **[Seed Banks May Limit Gene Drives for Weed Control](../../items/seedworld/2026/04/https_www.seedworld.com_p_124677.md)**
-  - 2026-04-18 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124677.md) · [원문](https://www.seedworld.com/us/2026/04/17/seed-banks-may-limit-gene-drives-for-weed-control/)
-  - New research from Cornell University shows seed banks, long-lived reserves of dormant seeds in soil, could slow or limit the spread of gene drives in plants. The findings highlight a key challenge an…
