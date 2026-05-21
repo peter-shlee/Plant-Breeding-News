@@ -9,7 +9,7 @@ summary: "A new Embrapa-led meta-analysis found that deep-rooted tropical grasse
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-05-20T06:58:34+09:00"
+fetched_at: "2026-05-22T07:03:09+09:00"
 ---
 # Deep-Rooted Grasses Increase Soybean Productivity by 15% in Brazil
 

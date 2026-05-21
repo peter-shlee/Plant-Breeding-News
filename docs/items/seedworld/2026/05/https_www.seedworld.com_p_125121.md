@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/12/communications-manager-opportu
 summary: "Euroseeds is recruiting a Manager Communications to join its Brussels-based team and support strategic communication, digital engagement and EU advocacy for the European seed sector."
 attachments: []
 tags: []
-fetched_at: "2026-05-20T06:58:34+09:00"
+fetched_at: "2026-05-22T07:03:09+09:00"
 ---
 # Communications Manager Opportunity Opens at Euroseeds in Brussels
 

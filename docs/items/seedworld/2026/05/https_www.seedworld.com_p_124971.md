@@ -9,7 +9,7 @@ summary: "A new report by Leaps by Bayer, Boston Consulting Group and Ipsos UK e
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-05-20T06:58:34+09:00"
+fetched_at: "2026-05-22T07:03:10+09:00"
 ---
 # New Report Highlights Trust Gap in Agricultural Innovation
 

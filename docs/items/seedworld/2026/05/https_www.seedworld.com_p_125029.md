@@ -9,7 +9,7 @@ summary: "Representatives from eight leading Nordic research institutions gather
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-05-20T06:58:34+09:00"
+fetched_at: "2026-05-22T07:03:09+09:00"
 ---
 # NordPheno Boosts Nordic Crop Breeding
 

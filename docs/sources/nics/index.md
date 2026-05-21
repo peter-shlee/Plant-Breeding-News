@@ -11,6 +11,18 @@ source: "nics"
 
 ## 2026-05
 
+- **[농촌진흥청, 발명의 날 기념 유공 포상 4점 수상](../../items/nics/2026/05/944220.md)**
+  - 2026-05-20 · [읽기](../../items/nics/2026/05/944220.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944220)
+
+- **[콩 생육 초기 병해충, 이렇게 관리하세요!](../../items/nics/2026/05/944219.md)**
+  - 2026-05-20 · [읽기](../../items/nics/2026/05/944219.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944219)
+
+- **[우분 퇴비로 새만금간척지 '땅심' 살린다](../../items/nics/2026/05/944218.md)**
+  - 2026-05-20 · [읽기](../../items/nics/2026/05/944218.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944218)
+
+- **[옥수수 노리는 나방류 해충, 적기 방제로 피해 막아야](../../items/nics/2026/05/944217.md)**
+  - 2026-05-20 · [읽기](../../items/nics/2026/05/944217.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944217)
+
 - **[국산 혼합 잡곡, 건강 돌봄식 소재로 주목받아](../../items/nics/2026/05/944212.md)**
   - 2026-05-18 · [읽기](../../items/nics/2026/05/944212.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944212)
 
@@ -28,15 +40,3 @@ source: "nics"
 
 - **[참깨 병해충, 미리 차단해 수확까지 건강하게!](../../items/nics/2026/05/944197.md)**
   - 2026-05-11 · [읽기](../../items/nics/2026/05/944197.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944197)
-
-- **[추석 전 햅쌀 출하 ‘조생종 벼 모내기 연시회’ 개최](../../items/nics/2026/05/944196.md)**
-  - 2026-05-08 · [읽기](../../items/nics/2026/05/944196.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944196)
-
-- **[식량 분야 치유농업 ‘실무 역량 강화 연시회’ 개최](../../items/nics/2026/05/944183.md)**
-  - 2026-05-06 · [읽기](../../items/nics/2026/05/944183.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944183)
-
-- **[국립식량과학원-하이트진로, 우리 쌀로 만든 최고급(프리미엄) 소주 산업화 맞손](../../items/nics/2026/05/944182.md)**
-  - 2026-05-06 · [읽기](../../items/nics/2026/05/944182.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944182)
-
-- **[논 활용 사료용 벼 생산성 향상 재배 기술 소개](../../items/nics/2026/05/944181.md)**
-  - 2026-05-06 · [읽기](../../items/nics/2026/05/944181.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944181)

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/04/29/finding-canadas-w
 summary: "Greg Stamp has spent 20 years farming in Western Canada and his verdict on the current variety marketplace is straightforward: the system is broken. In Episode 9 of On the Brink, Stamp makes the case for variety use agreements as the"
 attachments: []
 tags: []
-fetched_at: "2026-05-20T06:58:34+09:00"
+fetched_at: "2026-05-22T07:03:10+09:00"
 ---
 # Finding Canada’s Way: Rebuilding the Variety Marketplace | On the Brink Season 1: Episode 8
 

@@ -11,6 +11,66 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[Career Change Story: From Restaurant Work to Seed Industry Client Services in Canada](../../items/seedworld/2026/05/https_www.seedworld.com_p_125430.md)**
+  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125430.md) · [원문](https://www.seedworld.com/canada/2026/05/21/career-change-story-from-restaurant-work-to-seed-industry-client-services-in-canada/)
+  - A first-person look at how hospitality experience helped shape a role in agricultural seed testing. I like to think I started at the other end of the story.
+
+- **[A New Era of Farmer-Led Innovation is Emerging in Canada](../../items/seedworld/2026/05/https_www.seedworld.com_p_125426.md)**
+  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125426.md) · [원문](https://www.seedworld.com/canada/2026/05/21/a-new-era-of-farmer-led-innovation-is-emerging-in-canada/)
+  - From wheat breeding discussions to concerns about oat research sustainability, producers are becoming central voices in shaping the future of crop innovation The post A New Era of Farmer-Led Innovati…
+
+- **[Why Canadian Farmers are Leading Discussions on a New Wheat Breeding Model](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md)**
+  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md) · [원문](https://www.seedworld.com/canada/2026/05/21/why-canadian-farmers-are-leading-discussions-on-a-new-wheat-breeding-model/)
+  - Jocelyn Velestuk says Canada’s wheat breeding system is at an “inflection point” as stakeholders look to create a stronger future for farmers and crop innovation The post Why Canadian Farmers are Lea…
+
+- **[Putting Concerns About Glyphosate into Perspective](../../items/seedworld/2026/05/https_www.seedworld.com_p_125293.md)**
+  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125293.md) · [원문](https://www.seedworld.com/europe/2026/05/21/putting-concerns-about-glyphosate-into-perspective/)
+  - Joe Schwarcz examines the long-running glyphosate controversy, arguing that trace dietary residues in food pose no meaningful health risk to consumers. Reviewing decades of studies, he distinguishes…
+
+- **[Better Varieties Need Investment to Deliver Results](../../items/seedworld/2026/05/https_www.seedworld.com_p_125332.md)**
+  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125332.md) · [원문](https://www.seedworld.com/canada/2026/05/20/better-varieties-need-investment-to-deliver-results/)
+  - There's an opportunity to evolve, and the sooner we act, the better positioned farmers will be The post Better Varieties Need Investment to Deliver Results appeared first on Seed World .
+
+- **[Why Seed Trade Is Getting More Expensive](../../items/seedworld/2026/05/https_www.seedworld.com_p_125328.md)**
+  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125328.md) · [원문](https://www.seedworld.com/us/2026/05/20/seed-trade-getting-more-expensive-sam-crowell-asta/)
+  - Sam Crowell of ASTA discusses tariffs, Section 301 investigations, customs delays and why seed trade uncertainty is raising costs for seed companies. The post Why Seed Trade Is Getting More Expensive…
+
+- **[Where the Conversation Goes Next | On The Brink: Season 2 – Episode 2](../../items/seedworld/2026/05/https_www.seedworld.com_p_125283.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125283.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/20/canadian-oat-breeding-investment-on-the-brink-season-2-episode-2/)
+  - Quentin Martin of Cribit Seeds argues that Canada's sustained investment in plant breeding is the reason crown rust hasn't devastated eastern Canada's 65,000 acres of grain oats — and that continued…
+
+- **[La ISF otorga la Membresía Honoraria Vitalicia al Director de ANPROS, Mario Schindler](../../items/seedworld/2026/05/https_www.seedworld.com_p_125319.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125319.md) · [원문](https://www.seedworld.com/latam/2026/05/20/la-isf-otorga-la-membresia-honoraria-vitalicia-al-director-de-anpros-mario-schindler/)
+  - La Federación Internacional de Semillas (ISF) otorgó al Director Ejecutivo de ANPROS, Mario Schindler, la Membresía Honoraria Vitalicia por sus destacadas contribuciones a la industria global de semi…
+
+- **[ISF Awards Lifetime Honorary Membership to ANPROS Director Mario Schindler](../../items/seedworld/2026/05/https_www.seedworld.com_p_125316.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125316.md) · [원문](https://www.seedworld.com/europe/2026/05/20/isf-awards-lifetime-honorary-membership-to-anpros-director-mario-schindler/)
+  - ISF awarded ANPROS Executive Director Mario Schindler Lifetime Honorary Membership for his outstanding contributions to the global seed industry. The rare honor, granted to only 20 people since 1996,…
+
+- **[Scientists Decode Crop Stress Signals Linked to Climate Resilience](../../items/seedworld/2026/05/https_www.seedworld.com_p_125170.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125170.md) · [원문](https://www.seedworld.com/europe/2026/05/20/scientists-decode-crop-stress-signals-linked-to-climate-resilience/)
+  - New research from ISTA shows that plants use two parallel cAMP signaling pathways to manage normal cell functions and stress responses. The discovery could help scientists better understand plant res…
+
+- **[Strategy Creates Momentum. Planning Creates Motion.](../../items/seedworld/2026/05/https_www.seedworld.com_p_125313.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125313.md) · [원문](https://www.seedworld.com/us/2026/05/20/strategy-creates-momentum-planning-creates-motion-3/)
+  - Strong strategy separates motion from momentum. In the seed industry, organizations often confuse planning with strategy, creating activity without alignment.
+
+- **[Strategy Creates Momentum. Planning Creates Motion.](../../items/seedworld/2026/05/https_www.seedworld.com_p_125310.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125310.md) · [원문](https://www.seedworld.com/europe/2026/05/20/strategy-creates-momentum-planning-creates-motion-2/)
+  - Strong strategy separates motion from momentum. In the seed industry, organizations often confuse planning with strategy, creating activity without alignment.
+
+- **[Strategy Creates Momentum. Planning Creates Motion.](../../items/seedworld/2026/05/https_www.seedworld.com_p_125307.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125307.md) · [원문](https://www.seedworld.com/canada/2026/05/20/strategy-creates-momentum-planning-creates-motion/)
+  - Strong strategy separates motion from momentum. In the seed industry, organizations often confuse planning with strategy, creating activity without alignment.
+
+- **[ISF Launches New Global Guidelines on Social Rights and Ethical Seed Production](../../items/seedworld/2026/05/https_www.seedworld.com_p_125298.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125298.md) · [원문](https://www.seedworld.com/europe/2026/05/20/isf-launches-new-global-guidelines-on-social-rights-and-ethical-seed-production/)
+  - The International Seed Federation (ISF) has launched new voluntary guidelines to help seed companies, growers, and suppliers strengthen social rights and ethical practices in seed production.
+
+- **[Lorena Basso da un paso adelante en el sector mundial de semillas](../../items/seedworld/2026/05/https_www.seedworld.com_p_125301.md)**
+  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125301.md) · [원문](https://www.seedworld.com/latam/2026/05/20/lorena-basso-da-un-paso-adelante-en-el-sector-mundial-de-semillas/)
+  - Lorena Basso se prepara para liderar la ISF con un enfoque en la innovación, la claridad regulatoria y una colaboración más sólida en todo el sector mundial de semillas.
+
 - **[NAPB 2026 Focuses on AI, Indoor Farming, and the Next Era of Plant Breeding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125253.md)**
   - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125253.md) · [원문](https://www.seedworld.com/us/2026/05/19/napb-2026-focuses-on-ai-indoor-farming-and-the-next-era-of-plant-breeding/)
   - Researchers will gather in Texas to discuss how artificial intelligence and controlled environment agriculture are accelerating the development of climate-smart crops The post NAPB 2026 Focuses on AI…
@@ -18,10 +78,6 @@ source: "seedworld"
 - **[Canada Makes Its Case to Global Seed Investors](../../items/seedworld/2026/05/https_www.seedworld.com_p_125237.md)**
   - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125237.md) · [원문](https://www.seedworld.com/canada/2026/05/19/canada-seed-innovation-investment/)
   - At World Seed Congress, industry and government leaders explain why seed innovation in Canada is making the country a faster, more competitive destination. For years, Canada has offered international…
-
-- **[Why Canadian Farmers are Leading Discussions on a New Wheat Breeding Model](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md)**
-  - 2026-05-19 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md) · [원문](https://www.seedworld.com/canada/2026/05/19/why-canadian-farmers-are-leading-discussions-on-a-new-wheat-breeding-model/)
-  - Jocelyn Velestuk says Canada’s wheat breeding system is at an “inflection point” as stakeholders look to create a stronger future for farmers and crop innovation The post Why Canadian Farmers are Lea…
 
 - **[Unauthorized Plant Variety Propagation Faces Legal Crackdown After Spanish Court Rulings](../../items/seedworld/2026/05/https_www.seedworld.com_p_125238.md)**
   - 2026-05-19 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125238.md) · [원문](https://www.seedworld.com/europe/2026/05/19/unauthorized-plant-variety-propagation-faces-legal-crackdown-after-spanish-court-rulings/)
@@ -365,23 +421,3 @@ source: "seedworld"
 - **[£3 Billion DNA Project: How Sequencing UK Biodiversity Could Transform Agriculture and Innovation](../../items/seedworld/2026/04/https_www.seedworld.com_p_124728.md)**
   - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124728.md) · [원문](https://www.seedworld.com/europe/2026/04/22/3-billion-dna-project-how-sequencing-uk-biodiversity-could-transform-agriculture-and-innovation/)
   - The Darwin Tree of Life Project could generate nearly £3 billion in economic value across the UK and Ireland by sequencing all complex life. For agriculture, gains of £800 million to £1.4 billion cou…
-
-- **[Global Institute for Food Security Names Jason Reinheimer CEO](../../items/seedworld/2026/04/https_www.seedworld.com_p_124723.md)**
-  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124723.md) · [원문](https://www.seedworld.com/canada/2026/04/21/global-institute-for-food-security-names-jason-reinheimer-ceo/)
-  - The Australian-born plant breeding expert steps into the role with a mission to turn ag innovation into real-world impact faster The post Global Institute for Food Security Names Jason Reinheimer CEO…
-
-- **[Euroseeds Welcomes Member States’ Backing of NGT Regulation Deal](../../items/seedworld/2026/04/https_www.seedworld.com_p_124709.md)**
-  - 2026-04-21 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124709.md) · [원문](https://www.seedworld.com/europe/2026/04/21/euroseeds-welcomes-member-states-backing-of-ngt-regulation-deal/)
-  - Euroseeds welcomes EU Member States’ formal adoption of the Council’s first-reading position on the new Regulation on New Genomic Techniques (NGTs). The decision confirms the trilogue compromise with…
-
-- **[The System Built For Corn Isn’t Built For What’s Next](../../items/seedworld/2026/04/https_www.seedworld.com_p_124705.md)**
-  - 2026-04-21 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124705.md) · [원문](https://www.seedworld.com/us/2026/04/20/the-system-built-for-corn-isnt-built-for-whats-next/)
-  - Diversification is gaining traction across U.S. agriculture, but a recent Corn Belt analysis shows markets and infrastructure for crops beyond corn still lag, limiting adoption and slowing demand for…
-
-- **[VUAs: A Critical Piece of Canada’s Ag Future](../../items/seedworld/2026/04/https_www.seedworld.com_p_124694.md)**
-  - 2026-04-20 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124694.md) · [원문](https://www.seedworld.com/canada/2026/04/20/vuas-a-critical-piece-of-canadas-ag-future/)
-  - Whether we’re looking one year out or 20, the strength of our industry depends on the quality of the genetics we have access to. They drive yield, resilience, and ultimately […] The post VUAs: A Crit…
-
-- **[Legume Generation Project Aims to Boost Legume Breeding and Protein Crop Performance in Europe](../../items/seedworld/2026/04/https_www.seedworld.com_p_124559.md)**
-  - 2026-04-20 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124559.md) · [원문](https://www.seedworld.com/europe/2026/04/20/legume-generation-project-aims-to-boost-legume-breeding-and-protein-crop-performance-in-europe/)
-  - Legume Generation aims to strengthen European legume breeding through breeder-led innovation, addressing yield gaps, underinvestment, and reliance on imported protein. By uniting research and breedin…
