@@ -161,6 +161,13 @@
       return `<span style="--h:${height}px"></span>`;
     }).join("");
 
+  const formatTime = (seconds) => {
+    if (!Number.isFinite(seconds) || seconds < 0) return "0:00";
+    const minutes = Math.floor(seconds / 60);
+    const remainingSeconds = Math.floor(seconds % 60);
+    return `${minutes}:${String(remainingSeconds).padStart(2, "0")}`;
+  };
+
   const buildFloatingPlayer = ({ title, subtitle, audioSrc, duration = "2:15" }) => `
     <div class="floating-player" data-player>
       <audio preload="metadata" src="${escapeAttr(audioSrc || "")}"></audio>
@@ -170,8 +177,8 @@
         <span>${escapeHtml(subtitle || "지윤 · 민종")}</span>
       </div>
       <div class="audio-stack">
-        <div class="progress"><span class="progress__bar" style="--value: 7%"></span></div>
-        <div class="time-row"><span>0:09</span><span>${escapeHtml(duration)}</span></div>
+        <div class="progress"><span class="progress__bar" style="--value: 0%"></span></div>
+        <div class="time-row"><span data-current-time>0:00</span><span data-duration>${escapeHtml(duration)}</span></div>
       </div>
       <div class="floating-actions" aria-label="오디오 동작">
         <a class="icon-button" href="${baseUrl}/podcast/feed.xml" aria-label="RSS">RSS</a>
@@ -185,6 +192,8 @@
       const audio = player.querySelector("audio");
       const button = player.querySelector(".play-button");
       const bar = player.querySelector(".progress__bar");
+      const currentTime = player.querySelector("[data-current-time]");
+      const durationLabel = player.querySelector("[data-duration]");
       if (!audio || !button) return;
 
       const setButtonState = () => {
@@ -194,7 +203,18 @@
         button.setAttribute("aria-label", isPlaying ? "에피소드 일시정지" : "에피소드 재생");
       };
 
+      const updateTimeline = () => {
+        if (currentTime) currentTime.textContent = formatTime(audio.currentTime);
+        if (Number.isFinite(audio.duration) && audio.duration > 0) {
+          if (durationLabel) durationLabel.textContent = formatTime(audio.duration);
+          bar?.style.setProperty("--value", `${Math.min(100, (audio.currentTime / audio.duration) * 100)}%`);
+        } else {
+          bar?.style.setProperty("--value", "0%");
+        }
+      };
+
       setButtonState();
+      updateTimeline();
       button.addEventListener("click", () => {
         if (audio.paused) {
           document.querySelectorAll("audio").forEach((other) => {
@@ -208,9 +228,12 @@
 
       audio.addEventListener("play", setButtonState);
       audio.addEventListener("pause", setButtonState);
-      audio.addEventListener("timeupdate", () => {
-        if (!bar || !audio.duration) return;
-        bar.style.setProperty("--value", `${Math.min(100, (audio.currentTime / audio.duration) * 100)}%`);
+      audio.addEventListener("loadedmetadata", updateTimeline);
+      audio.addEventListener("durationchange", updateTimeline);
+      audio.addEventListener("timeupdate", updateTimeline);
+      audio.addEventListener("ended", () => {
+        setButtonState();
+        updateTimeline();
       });
     });
   };
@@ -259,9 +282,7 @@
     const displayEpisodeTitle = episodeTitle.replace(/^식물 육종 뉴스 팟캐스트\s*/, "");
     const episodeSubtitle = podcast?.shortDescription || "국산 밀, 기후 회복력, 종자 산업의 변화를 오디오로 정리했습니다.";
     const episodeHref = podcast?.releasedDate ? `${baseUrl}/podcast/${podcast.releasedDate}.html` : `${baseUrl}/podcast/`;
-    const duration = podcast?.audio?.durationSeconds
-      ? `${Math.floor(podcast.audio.durationSeconds / 60)}:${String(Math.round(podcast.audio.durationSeconds % 60)).padStart(2, "0")}`
-      : "2:15";
+    const duration = podcast?.audio?.durationSeconds ? formatTime(podcast.audio.durationSeconds) : "2:15";
 
     deactivateSourceAnchors();
     source.classList.add("is-hidden");
@@ -307,8 +328,8 @@
                 <button class="play-button" type="button" aria-label="최신 에피소드 재생"></button>
                 <div class="audio-stack">
                   <div class="waveform" aria-hidden="true">${waveform()}</div>
-                  <div class="progress"><span class="progress__bar" style="--value: 7%"></span></div>
-                  <div class="time-row"><span>0:09</span><span>${escapeHtml(duration)}</span></div>
+                  <div class="progress"><span class="progress__bar" style="--value: 0%"></span></div>
+                  <div class="time-row"><span data-current-time>0:00</span><span data-duration>${escapeHtml(duration)}</span></div>
                 </div>
               </div>
               <div class="episode-links">
