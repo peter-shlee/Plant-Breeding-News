@@ -13,11 +13,11 @@ python3 -m collector run --since-days 30 --db .collector/collector.sqlite
 # (2) Build weekly digest pages (docs/weekly/YYYY-MM-DD.md + latest.md)
 python3 -m collector build-weekly --outdir docs --days 7 --db .collector/collector.sqlite
 
-# (3) Build portal + per-source archive pages + item pages
-python3 -m collector build-site --outdir docs --days 7 --limit 30 --db .collector/collector.sqlite
-
-# (4) Build static AI podcast metadata/page/feed/audio (Gemini key optional)
+# (3) Build static AI podcast metadata/page/feed/audio (Gemini key optional)
 GEMINI_API_KEY=... python3 -m collector build-podcast --outdir docs --days 7 --db .collector/collector.sqlite
+
+# (4) Build portal + per-source archive pages + item pages
+python3 -m collector build-site --outdir docs --days 7 --limit 30 --db .collector/collector.sqlite
 ```
 
 ## Output structure (docs/)
@@ -59,7 +59,7 @@ CI is stateless, so the collector also performs a **repo-state dedupe**:
 - uses `gemini-3.1-flash-tts-preview` for two-speaker TTS when `GEMINI_API_KEY` is set
 - writes `docs/podcast/latest.json`, dated episode JSON/Markdown, `feed.xml`, and audio (`.mp3` when `ffmpeg` succeeds, otherwise `.wav`)
 
-Cost guard: by default it skips generation if any recent episode already exists within 6 days, including text-only fallback episodes. Use `--force` for a manual rebuild.
+Cost guard: by default it skips generation if a recent audio episode exists within 6 days. Text-only fallback episodes also skip repeat no-key runs, but they are retried once `GEMINI_API_KEY` is available so audio can be generated. Use `--force` for a manual rebuild.
 
 ## Sources
 

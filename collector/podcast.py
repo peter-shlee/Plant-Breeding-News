@@ -66,8 +66,15 @@ def build_podcast(
     release_date = now_kst.date().isoformat()
     podcast_dir = os.path.join(outdir, PODCAST_DIRNAME)
     os.makedirs(podcast_dir, exist_ok=True)
+    api_key = os.getenv("GEMINI_API_KEY") or ""
 
-    if not force and _has_recent_episode(podcast_dir=podcast_dir, now_kst=now_kst, min_days_between=min_days_between):
+    if not force and _has_recent_episode(
+        podcast_dir=podcast_dir,
+        now_kst=now_kst,
+        min_days_between=min_days_between,
+        api_key_present=bool(api_key),
+        skip_audio=skip_audio,
+    ):
         index_path = _write_index(podcast_dir=podcast_dir, site_url=site_url)
         feed_path = _write_feed(podcast_dir=podcast_dir, site_url=site_url)
         return {
@@ -91,7 +98,6 @@ def build_podcast(
     range_start = (now_kst - timedelta(days=days)).date().isoformat()
     range_end = release_date
 
-    api_key = os.getenv("GEMINI_API_KEY") or ""
     script_status = "fallback_no_api_key"
     if api_key:
         try:
@@ -134,35 +140,28 @@ def build_podcast(
     latest_json = os.path.join(podcast_dir, "latest.json")
     dated_md = os.path.join(podcast_dir, f"{release_date}.md")
 
+    payload = _episode_payload(
+        episode,
+        candidates=candidates,
+        release_date=release_date,
+        range_start=range_start,
+        range_end=range_end,
+        script_model=script_model,
+        tts_model=tts_model,
+        audio_meta=audio_meta,
+        script_status=script_status,
+        audio_status=audio_status,
+    )
+
     preserved_existing_audio = False
-    if not audio_meta:
+    if not audio_meta and audio_status.startswith("tts_error:"):
         existing_payload = _load_existing_audio_payload(podcast_dir=podcast_dir, release_date=release_date)
         if existing_payload:
             payload = existing_payload
             preserved_existing_audio = True
-            audio_status = f"{audio_status}_preserved_existing_audio"
+            audio_status = f"{audio_status}_preserved_existing_episode"
         else:
-            payload = _episode_payload(
-                episode,
-                candidates=candidates,
-                release_date=release_date,
-                range_start=range_start,
-                range_end=range_end,
-                script_model=script_model,
-                tts_model=tts_model,
-                audio_meta=audio_meta,
-            )
-    else:
-        payload = _episode_payload(
-            episode,
-            candidates=candidates,
-            release_date=release_date,
-            range_start=range_start,
-            range_end=range_end,
-            script_model=script_model,
-            tts_model=tts_model,
-            audio_meta=audio_meta,
-        )
+            payload["generation"]["audioStatus"] = audio_status
 
     _write_json(dated_json, payload)
     _write_json(latest_json, payload)
@@ -500,12 +499,8 @@ def _call_gemini_jsonish(
         "generationConfig": {
             "temperature": 0.45,
             "maxOutputTokens": max_tokens,
-            "responseFormat": {
-                "text": {
-                    "mimeType": "application/json",
-                    "schema": schema,
-                }
-            },
+            "responseMimeType": "application/json",
+            "responseJsonSchema": schema,
         },
     }
 
@@ -779,6 +774,8 @@ def _episode_payload(
     script_model: str,
     tts_model: str,
     audio_meta: dict[str, Any],
+    script_status: str,
+    audio_status: str,
 ) -> dict[str, Any]:
     by_idx = {c.idx: c for c in candidates}
     selected = []
@@ -808,6 +805,10 @@ def _episode_payload(
         "models": {
             "script": script_model,
             "tts": tts_model,
+        },
+        "generation": {
+            "scriptStatus": script_status,
+            "audioStatus": audio_status,
         },
         "audio": audio_meta,
         "selectedItems": selected,
@@ -983,7 +984,14 @@ def _load_existing_audio_payload(*, podcast_dir: str, release_date: str) -> dict
     return {}
 
 
-def _has_recent_episode(*, podcast_dir: str, now_kst: datetime, min_days_between: int) -> bool:
+def _has_recent_episode(
+    *,
+    podcast_dir: str,
+    now_kst: datetime,
+    min_days_between: int,
+    api_key_present: bool,
+    skip_audio: bool,
+) -> bool:
     latest_path = os.path.join(podcast_dir, "latest.json")
     if min_days_between <= 0 or not os.path.exists(latest_path):
         return False
@@ -993,11 +1001,25 @@ def _has_recent_episode(*, podcast_dir: str, now_kst: datetime, min_days_between
     except Exception:
         return False
 
+    audio = latest.get("audio") or {}
+    audio_name = audio.get("url") or ""
+    has_audio = bool(audio_name and os.path.exists(os.path.join(podcast_dir, audio_name)))
+
     released = _parse_dt(latest.get("releasedDate"))
     if released is None:
         return False
     released_kst = _to_tz(released, now_kst.tzinfo)
-    return (now_kst.date() - released_kst.date()).days < min_days_between
+    if (now_kst.date() - released_kst.date()).days >= min_days_between:
+        return False
+    if has_audio:
+        return True
+    if audio_name and api_key_present and not skip_audio:
+        return False
+
+    audio_status = ((latest.get("generation") or {}).get("audioStatus") or "").strip()
+    if api_key_present and not skip_audio and audio_status in {"", "skipped", "skipped_no_api_key"}:
+        return False
+    return True
 
 
 def _fmt_duration(seconds: float) -> str:

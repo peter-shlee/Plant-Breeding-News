@@ -114,7 +114,7 @@ Outputs:
 - `docs/podcast/index.md`
 - `docs/podcast/feed.xml`
 
-The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It also skips regeneration when the latest episode is newer than 6 days unless `--force` is passed, so repeated TTS failures do not keep spending API calls.
+The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It skips regeneration when a recent audio episode exists, avoids repeat no-key runs for text-only fallbacks, and retries text-only episodes once `GEMINI_API_KEY` is available so audio can be generated.
 
 ## Firestore (optional)
 
