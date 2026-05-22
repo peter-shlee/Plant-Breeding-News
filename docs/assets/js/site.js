@@ -126,7 +126,12 @@
   };
 
   const scrollToCurrentHash = () => {
-    const id = decodeURIComponent(window.location.hash.slice(1));
+    let id = window.location.hash.slice(1);
+    try {
+      id = decodeURIComponent(id);
+    } catch {
+      // Keep malformed hashes from interrupting the transformed page boot.
+    }
     if (!id) return;
     const alignToTarget = () => {
       const target = document.getElementById(id);
@@ -869,7 +874,9 @@
       event.preventDefault();
       const query = (search.value || "").trim();
       if (document.querySelector(".news-card[data-source]")) {
-        document.getElementById("recent")?.scrollIntoView({ behavior: "smooth", block: "start" });
+        applyNewsFilters();
+        const target = document.getElementById("weekly-news") || document.getElementById("recent");
+        target?.scrollIntoView({ behavior: "smooth", block: "start" });
       } else if (query) {
         window.location.href = `${baseUrl}/?q=${encodeURIComponent(query)}`;
       }
