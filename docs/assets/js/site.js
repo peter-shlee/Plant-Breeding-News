@@ -231,6 +231,10 @@
       audio.addEventListener("loadedmetadata", updateTimeline);
       audio.addEventListener("durationchange", updateTimeline);
       audio.addEventListener("timeupdate", updateTimeline);
+      audio.addEventListener("ended", () => {
+        setButtonState();
+        updateTimeline();
+      });
     });
   };
 
@@ -278,9 +282,7 @@
     const displayEpisodeTitle = episodeTitle.replace(/^식물 육종 뉴스 팟캐스트\s*/, "");
     const episodeSubtitle = podcast?.shortDescription || "국산 밀, 기후 회복력, 종자 산업의 변화를 오디오로 정리했습니다.";
     const episodeHref = podcast?.releasedDate ? `${baseUrl}/podcast/${podcast.releasedDate}.html` : `${baseUrl}/podcast/`;
-    const duration = podcast?.audio?.durationSeconds
-      ? `${Math.floor(podcast.audio.durationSeconds / 60)}:${String(Math.round(podcast.audio.durationSeconds % 60)).padStart(2, "0")}`
-      : "2:15";
+    const duration = podcast?.audio?.durationSeconds ? formatTime(podcast.audio.durationSeconds) : "2:15";
 
     deactivateSourceAnchors();
     source.classList.add("is-hidden");
