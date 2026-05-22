@@ -19,12 +19,12 @@ from dateutil import parser
 from .sitegen import item_relpath
 
 
-DEFAULT_SCRIPT_MODEL = "gemini-2.5-flash"
+DEFAULT_SCRIPT_MODEL = "gemini-3.5-flash"
 DEFAULT_TTS_MODEL = "gemini-3.1-flash-tts-preview"
 DEFAULT_SITE_URL = "https://peter-shlee.github.io/Plant-Breeding-News"
 PODCAST_DIRNAME = "podcast"
-HOST_LEAD = "나린"
-HOST_EXPERT = "도윤"
+HOST_LEAD = "재석"
+HOST_EXPERT = "민아"
 
 
 @dataclass(frozen=True)
@@ -462,8 +462,8 @@ def _script_prompt(
     lines.append("후보의 title과 excerpt가 영어 등 외국어여도, 청취자에게 들려주는 모든 설명은 자연스러운 한국어 번역·의역으로 바꿔 말한다.")
     lines.append("")
     lines.append("[진행자]")
-    lines.append(f"- {HOST_LEAD}: 호기심 많은 과학 뉴스 진행자. 청취자 입장에서 질문하고, 외국어 기사 제목과 내용을 매끄러운 한국어로 풀어 소개한다.")
-    lines.append(f"- {HOST_EXPERT}: 차분한 식물육종 연구자. QTL, 분자표지, CRISPR, 유전체선발, 품종보호 같은 기술 맥락을 짧고 정확하게 설명한다.")
+    lines.append(f"- {HOST_LEAD}: 국민 MC 같은 친근한 메인 진행자. 청취자 눈높이에서 흐름을 잡고, 어려운 외국어 기사 제목과 내용을 한국어로 자연스럽게 풀어 소개한다.")
+    lines.append(f"- {HOST_EXPERT}: 식물 육종 전문가. QTL, 분자표지, CRISPR, 유전체선발, 품종보호 같은 기술 맥락을 쉽고 정확한 한국어로 설명한다.")
     lines.append("")
     lines.append("[규칙]")
     lines.append(f"- 기간: {range_start} ~ {range_end}")
@@ -733,8 +733,9 @@ def _tts_prompt(episode: dict[str, Any]) -> str:
     lines = [
         "TTS the following Korean podcast conversation.",
         "The dialogue must be read as Korean. Do not switch into English narration except for short technical abbreviations.",
-        f"Make {HOST_LEAD} sound curious, warm, and conversational.",
-        f"Make {HOST_EXPERT} sound knowledgeable, calm, and concise.",
+        "Use the configured prebuilt voices only; do not imitate any real person's voice or mannerisms.",
+        f"Make the {HOST_LEAD} speaker sound bright, polished, and conversational.",
+        f"Make the {HOST_EXPERT} speaker sound knowledgeable, friendly, and concise.",
         "Keep a polished weekly news podcast tone.",
         "",
     ]
