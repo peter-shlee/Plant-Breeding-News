@@ -22,6 +22,7 @@ from .sitegen import (
 )
 from .sources import SOURCES
 from .briefing import build_or_fallback_briefing
+from .podcast import build_podcast, DEFAULT_SCRIPT_MODEL, DEFAULT_SITE_URL, DEFAULT_TTS_MODEL
 
 
 def default_db_path() -> str:
@@ -372,6 +373,26 @@ def cmd_build_briefing(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_build_podcast(args: argparse.Namespace) -> int:
+    items = list(_iter_items_any(args))
+    res = build_podcast(
+        items,
+        outdir=args.outdir,
+        days=args.days,
+        max_candidates=args.max_candidates,
+        target_minutes=args.target_minutes,
+        script_model=args.script_model,
+        tts_model=args.tts_model,
+        site_url=args.site_url,
+        min_days_between=args.min_days_between,
+        force=args.force,
+        skip_audio=args.skip_audio,
+        keep_wav=args.keep_wav,
+    )
+    print("build-podcast:", json.dumps(res, ensure_ascii=False))
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="collector", description="Weekly incremental press-release collector (MVP).")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -447,6 +468,41 @@ def main(argv: list[str] | None = None) -> int:
     pb.add_argument("--max-items", type=int, default=30, help="Max recent items to pass to Gemini")
     pb.add_argument("--model", default=os.getenv("GEMINI_MODEL", "gemini-3.1-flash-lite-preview"), help="Gemini model name")
     pb.set_defaults(func=cmd_build_briefing)
+
+    pp = sub.add_parser("build-podcast", help="Build static AI podcast episode pages, JSON, feed, and audio")
+    pp.add_argument("--outdir", default=os.path.join(os.getcwd(), "docs"), help="Docs output directory")
+    pp.add_argument("--days", type=int, default=7, help="Include items within last N days")
+    pp.add_argument("--limit", type=int, default=30, help=argparse.SUPPRESS)
+    pp.add_argument("--max-candidates", type=int, default=24, help="Max candidate items to pass to Gemini")
+    pp.add_argument("--target-minutes", type=int, default=5, help="Target episode length in minutes")
+    pp.add_argument("--db", default=default_db_path(), help="SQLite path (preferred)")
+    pp.add_argument(
+        "--jsonl",
+        default=os.path.join(os.getcwd(), ".collector", "export.jsonl"),
+        help="Fallback JSONL path (used if SQLite missing)",
+    )
+    pp.add_argument("--sources", nargs="*", default=None, help="Filter by sources")
+    pp.add_argument(
+        "--script-model",
+        default=os.getenv("GEMINI_PODCAST_SCRIPT_MODEL", DEFAULT_SCRIPT_MODEL),
+        help="Gemini model for podcast script generation",
+    )
+    pp.add_argument(
+        "--tts-model",
+        default=os.getenv("GEMINI_PODCAST_TTS_MODEL", DEFAULT_TTS_MODEL),
+        help="Gemini TTS model for audio generation",
+    )
+    pp.add_argument("--site-url", default=os.getenv("SITE_URL", DEFAULT_SITE_URL), help="Absolute GitHub Pages site URL")
+    pp.add_argument(
+        "--min-days-between",
+        type=int,
+        default=6,
+        help="Skip generation if an eligible latest episode is newer than this many days",
+    )
+    pp.add_argument("--force", action="store_true", help="Generate a new episode even if a recent one exists")
+    pp.add_argument("--skip-audio", action="store_true", help="Generate script/metadata without TTS audio")
+    pp.add_argument("--keep-wav", action="store_true", help="Keep intermediate WAV when MP3 conversion succeeds")
+    pp.set_defaults(func=cmd_build_podcast)
 
     args = p.parse_args(argv)
 

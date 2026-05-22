@@ -404,6 +404,10 @@ def render_portal_index_md(
     def rel_item_link(it: dict[str, Any]) -> str:
         return item_relpath(it).replace(os.sep, "/")
 
+    podcast_index = os.path.join(outdir, "podcast", "index.md")
+    podcast_feed = os.path.join(outdir, "podcast", "feed.xml")
+    has_podcast = os.path.exists(podcast_index) or os.path.exists(podcast_feed)
+
     lines: list[str] = []
     lines.append("---")
     lines.append(f"title: {_yaml_quote('식물 육종 뉴스')}")
@@ -421,6 +425,8 @@ def render_portal_index_md(
     lines.append("## 목차\n")
     lines.append("- [이번주 하이라이트](#highlights)")
     lines.append("- [최근 소식](#recent)")
+    if has_podcast:
+        lines.append("- [AI 팟캐스트](#podcast)")
     lines.append("- [지난 주간 아카이브](#weekly-archive)")
     lines.append("- [출처별 모아보기](#sources)\n")
 
@@ -577,6 +583,16 @@ def render_portal_index_md(
             if excerpt:
                 lines.append(f"  - {excerpt}")
             lines.append("")
+        lines.append("")
+
+    if has_podcast:
+        lines.append('<a id="podcast"></a>')
+        lines.append("## AI 팟캐스트\n")
+        lines.append("최신 식물 육종 뉴스를 AI가 선별해 한국어 대화형 오디오로 정리합니다.\n")
+        if os.path.exists(podcast_index):
+            lines.append("- [팟캐스트 듣기](podcast/index.md)")
+        if os.path.exists(podcast_feed):
+            lines.append("- [RSS 피드](podcast/feed.xml)")
         lines.append("")
 
     lines.append('<a id="weekly-archive"></a>')
