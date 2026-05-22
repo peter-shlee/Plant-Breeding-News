@@ -119,6 +119,9 @@ def build_podcast(
         episode = _fallback_episode(candidates, range_start=range_start, range_end=range_end)
 
     episode = _normalize_episode(episode, candidates=candidates, range_start=range_start, range_end=range_end)
+    if script_status == "ok" and _has_untranslated_dialogue(episode):
+        episode = _fallback_episode(candidates, range_start=range_start, range_end=range_end)
+        script_status = "fallback_untranslated_dialogue"
 
     audio_meta: dict[str, Any] = {}
     audio_status = "skipped"
@@ -462,7 +465,7 @@ def _script_prompt(
     lines.append("후보의 title과 excerpt가 영어 등 외국어여도, 청취자에게 들려주는 모든 설명은 자연스러운 한국어 번역·의역으로 바꿔 말한다.")
     lines.append("")
     lines.append("[진행자]")
-    lines.append(f"- {HOST_LEAD}: 국민 MC 같은 친근한 메인 진행자. 청취자 눈높이에서 흐름을 잡고, 어려운 외국어 기사 제목과 내용을 한국어로 자연스럽게 풀어 소개한다.")
+    lines.append(f"- {HOST_LEAD}: 친근하고 매끄러운 메인 진행자. 청취자 눈높이에서 흐름을 잡고, 어려운 외국어 기사 제목과 내용을 한국어로 자연스럽게 풀어 소개한다.")
     lines.append(f"- {HOST_EXPERT}: 식물 육종 전문가. QTL, 분자표지, CRISPR, 유전체선발, 품종보호 같은 기술 맥락을 쉽고 정확한 한국어로 설명한다.")
     lines.append("")
     lines.append("[규칙]")
@@ -608,6 +611,42 @@ def _fallback_topic(c: PodcastCandidate) -> str:
         if any(kw in text for kw in keywords):
             return topic
     return "식물 육종과 종자 기술의 최신 흐름"
+
+
+_ALLOWED_UPPER_TERMS = {
+    "AI",
+    "CRISPR",
+    "DNA",
+    "GWAS",
+    "KASP",
+    "QTL",
+    "RNA",
+    "SNP",
+    "UPOV",
+}
+
+
+def _has_untranslated_dialogue(episode: dict[str, Any]) -> bool:
+    for line in episode.get("dialogue") or []:
+        if not isinstance(line, dict):
+            continue
+        text = str(line.get("text") or "")
+        if _looks_like_untranslated_text(text):
+            return True
+    return False
+
+
+def _looks_like_untranslated_text(text: str) -> bool:
+    letters = re.findall(r"[A-Za-z가-힣]", text)
+    if not letters:
+        return False
+    latin_words = re.findall(r"\b[A-Za-z][A-Za-z'\-]{2,}\b", text)
+    disallowed = [w for w in latin_words if w.upper() not in _ALLOWED_UPPER_TERMS]
+    if len(disallowed) >= 5:
+        return True
+    latin_letters = sum(1 for ch in letters if ("A" <= ch <= "Z") or ("a" <= ch <= "z"))
+    hangul_letters = sum(1 for ch in letters if "가" <= ch <= "힣")
+    return latin_letters >= 30 and latin_letters > hangul_letters
 
 
 def _normalize_episode(

@@ -5,6 +5,15 @@ on:
     # 06:30 KST (UTC+9) on Mon/Wed/Fri == 21:30 UTC on Sun/Tue/Thu
     - cron: "30 21 * * 0,2,4"
   workflow_dispatch:
+    inputs:
+      force_podcast:
+        description: "Regenerate podcast even when a recent audio episode exists"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
 
 permissions:
   contents: write
@@ -60,7 +69,11 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python -m collector build-podcast --outdir docs --days 7 --db .collector/collector.sqlite
+          FORCE_PODCAST=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force_podcast }}" = "true" ]; then
+            FORCE_PODCAST="--force"
+          fi
+          python -m collector build-podcast --outdir docs --days 7 --db .collector/collector.sqlite $FORCE_PODCAST
 
       - name: Build site (last 7 days, limit 30)
         run: |
