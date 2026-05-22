@@ -55,7 +55,7 @@ CI is stateless, so the collector also performs a **repo-state dedupe**:
 `build-podcast` turns the latest collected items into a static podcast bundle:
 
 - selects recent high-signal breeding/seed/cultivar items
-- uses Gemini to write a Korean two-host dialogue script
+- uses Gemini to write a Korean two-host dialogue script that translates or paraphrases foreign-language articles into Korean
 - uses `gemini-3.1-flash-tts-preview` for two-speaker TTS when `GEMINI_API_KEY` is set
 - writes `docs/podcast/latest.json`, dated episode JSON/Markdown, `feed.xml`, and audio (`.mp3` when `ffmpeg` succeeds, otherwise `.wav`)
 

@@ -99,7 +99,7 @@ Outputs:
 
 ## Build static AI podcast
 
-Generate a Korean two-host podcast script and static podcast artifacts:
+Generate a Korean two-host podcast script and static podcast artifacts. Foreign-language article titles and excerpts are translated or paraphrased into Korean in the spoken dialogue:
 
 ```bash
 GEMINI_API_KEY=... python3 -m collector build-podcast --outdir docs --days 7
@@ -114,7 +114,7 @@ Outputs:
 - `docs/podcast/index.md`
 - `docs/podcast/feed.xml`
 
-The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It skips regeneration when a recent audio episode exists, avoids repeat no-key runs for text-only fallbacks, and retries text-only episodes once `GEMINI_API_KEY` is available so audio can be generated.
+The command uses `gemini-2.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It skips regeneration when a recent audio episode exists, avoids repeat no-key runs for text-only fallbacks, and retries text-only episodes once `GEMINI_API_KEY` is available so audio can be generated.
 
 ## Firestore (optional)
 

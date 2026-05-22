@@ -19,10 +19,12 @@ from dateutil import parser
 from .sitegen import item_relpath
 
 
-DEFAULT_SCRIPT_MODEL = "gemini-3.5-flash"
+DEFAULT_SCRIPT_MODEL = "gemini-2.5-flash"
 DEFAULT_TTS_MODEL = "gemini-3.1-flash-tts-preview"
 DEFAULT_SITE_URL = "https://peter-shlee.github.io/Plant-Breeding-News"
 PODCAST_DIRNAME = "podcast"
+HOST_LEAD = "나린"
+HOST_EXPERT = "도윤"
 
 
 @dataclass(frozen=True)
@@ -423,8 +425,14 @@ def _generate_script_with_gemini(
                 "items": {
                     "type": "object",
                     "properties": {
-                        "speaker": {"type": "string"},
-                        "text": {"type": "string"},
+                        "speaker": {
+                            "type": "string",
+                            "description": f"반드시 {HOST_LEAD} 또는 {HOST_EXPERT} 중 하나",
+                        },
+                        "text": {
+                            "type": "string",
+                            "description": "자연스러운 한국어 대사. 영어 문장이나 영어 기사 제목을 그대로 넣지 않는다.",
+                        },
                     },
                     "required": ["speaker", "text"],
                 },
@@ -434,7 +442,7 @@ def _generate_script_with_gemini(
     }
 
     prompt = _script_prompt(candidates, range_start=range_start, range_end=range_end, target_minutes=target_minutes)
-    text = _call_gemini_jsonish(prompt, api_key=api_key, model=model, schema=schema, max_tokens=4200)
+    text = _call_gemini_jsonish(prompt, api_key=api_key, model=model, schema=schema, max_tokens=8192)
     try:
         return json.loads(_strip_json_fence(text))
     except Exception as e:
@@ -451,20 +459,24 @@ def _script_prompt(
     lines: list[str] = []
     lines.append("너는 '식물 육종 뉴스'의 AI 팟캐스트 프로듀서다.")
     lines.append("아래 제공된 기사 후보만 근거로 한국어 2인 진행 팟캐스트 대본을 작성하라.")
+    lines.append("후보의 title과 excerpt가 영어 등 외국어여도, 청취자에게 들려주는 모든 설명은 자연스러운 한국어 번역·의역으로 바꿔 말한다.")
     lines.append("")
     lines.append("[진행자]")
-    lines.append("- 지윤: 따뜻하고 명료한 진행자. 청취자에게 맥락을 열어준다.")
-    lines.append("- 민종: 식물유전학/육종 전문가. QTL, 마커, CRISPR, 유전체, 품종보호 등 기술 맥락을 정확히 설명한다.")
+    lines.append(f"- {HOST_LEAD}: 호기심 많은 과학 뉴스 진행자. 청취자 입장에서 질문하고, 외국어 기사 제목과 내용을 매끄러운 한국어로 풀어 소개한다.")
+    lines.append(f"- {HOST_EXPERT}: 차분한 식물육종 연구자. QTL, 분자표지, CRISPR, 유전체선발, 품종보호 같은 기술 맥락을 짧고 정확하게 설명한다.")
     lines.append("")
     lines.append("[규칙]")
     lines.append(f"- 기간: {range_start} ~ {range_end}")
-    lines.append("- selectedItems는 아래 후보의 idx 중 중요한 5~7개만 고른다.")
+    lines.append("- selectedItems는 아래 후보의 idx 중 중요한 4~6개만 고른다.")
     lines.append("- 제공되지 않은 기사, 통계, 링크, 인물 발언은 만들지 않는다.")
+    lines.append("- title과 excerpt를 그대로 낭독하지 말고, 핵심 의미를 한국어로 번역·요약해서 말한다.")
+    lines.append("- 영어 문장, 영어 기사 제목, 영어 본문 조각을 대사에 그대로 넣지 않는다.")
+    lines.append("- 기관명, 품종명, 유전자명, 약어(QTL, GWAS, CRISPR, SNP 등)는 원문 표기를 유지해도 된다.")
     lines.append("- 전문용어는 정확하게 쓰되, 개인 청취자가 이해할 수 있게 한 문장 안에서 풀어준다.")
-    lines.append(f"- 대본은 약 {target_minutes}분 분량으로, 8~12턴의 자연스러운 대화로 작성한다.")
-    lines.append("- 모든 대사는 한국어로 작성한다. 외국어 제목은 필요한 경우 한국어로 풀어 말한다.")
-    lines.append("- speaker 값은 반드시 '지윤' 또는 '민종'만 사용한다.")
-    lines.append("- JSON 객체만 출력한다. 코드블록 금지.")
+    lines.append(f"- 대본은 약 {target_minutes}분 분량으로, 8~10턴의 자연스러운 대화로 작성한다.")
+    lines.append("- 각 대사는 1~3문장으로 짧게 쓴다. selectedItems.reason도 80자 이내 한국어로 쓴다.")
+    lines.append(f"- speaker 값은 반드시 '{HOST_LEAD}' 또는 '{HOST_EXPERT}'만 사용한다.")
+    lines.append("- JSON 객체만 출력한다. 코드블록 금지. 문자열은 끝까지 닫아서 유효한 JSON으로 출력한다.")
     lines.append("")
     lines.append("[기사 후보]")
     for c in candidates:
@@ -528,33 +540,32 @@ def _fallback_episode(candidates: list[PodcastCandidate], *, range_start: str, r
 
     dialogue: list[dict[str, str]] = [
         {
-            "speaker": "지윤",
+            "speaker": HOST_LEAD,
             "text": f"안녕하세요. 식물 육종 뉴스입니다. 오늘은 {range_start}부터 {range_end}까지 들어온 소식 중 눈에 띄는 흐름을 짚어보겠습니다.",
         },
         {
-            "speaker": "민종",
-            "text": "이번 주는 품종 개발, 종자 산업, 유전체 기술, 현장 적용 이슈를 함께 보면 좋겠습니다.",
+            "speaker": HOST_EXPERT,
+            "text": "이번 주는 품종 개발, 종자 산업, 유전체 기술, 현장 적용 이슈를 한국어로 풀어 정리해 보겠습니다.",
         },
     ]
     for c in selected:
+        topic = _fallback_topic(c)
+        headline = _korean_safe_headline(c)
         dialogue.append(
             {
-                "speaker": "지윤",
-                "text": f"먼저 {c.source} 소식입니다. {c.title}",
+                "speaker": HOST_LEAD,
+                "text": f"다음은 {c.source}에서 다룬 {headline} 소식입니다.",
             }
         )
-        detail = c.excerpt or "본문 발췌는 없지만, 육종과 종자 산업 관점에서 확인할 만한 주제입니다."
-        if len(detail) > 180:
-            detail = detail[:179].rstrip() + "…"
         dialogue.append(
             {
-                "speaker": "민종",
-                "text": detail,
+                "speaker": HOST_EXPERT,
+                "text": f"핵심은 {topic}입니다. 원문 표현을 그대로 읽기보다는, 육종 현장에서 어떤 기술이나 제도 변화로 이어질지 살펴볼 만한 기사입니다.",
             }
         )
     dialogue.append(
         {
-            "speaker": "지윤",
+            "speaker": HOST_LEAD,
             "text": "오늘 준비한 소식은 여기까지입니다. 원문 링크와 대본은 팟캐스트 페이지에서 확인하실 수 있습니다.",
         }
     )
@@ -565,6 +576,38 @@ def _fallback_episode(candidates: list[PodcastCandidate], *, range_start: str, r
         "selectedItems": [{"idx": c.idx, "reason": "키워드 점수와 최신성을 기준으로 선택"} for c in selected],
         "dialogue": dialogue,
     }
+
+
+def _korean_safe_headline(c: PodcastCandidate) -> str:
+    title = re.sub(r"\s+", " ", c.title or "").strip()
+    if title and _hangul_ratio(title) >= 0.35:
+        return title
+    return _fallback_topic(c)
+
+
+def _hangul_ratio(text: str) -> float:
+    letters = [ch for ch in text if ch.isalpha()]
+    if not letters:
+        return 0.0
+    hangul = [ch for ch in letters if "가" <= ch <= "힣"]
+    return len(hangul) / len(letters)
+
+
+def _fallback_topic(c: PodcastCandidate) -> str:
+    text = " ".join([c.title, c.excerpt, " ".join(c.tags)]).lower()
+    topics = [
+        (("ai", "artificial intelligence", "prediction", "predictive", "genomic selection"), "AI와 유전체 예측을 활용한 신육종 기술"),
+        (("crispr", "gene editing", "genome editing", "유전자편집"), "CRISPR와 유전자편집 기반 품종 개발"),
+        (("qtl", "gwas", "snp", "marker", "마커"), "분자표지와 유전체 분석을 활용한 선발 전략"),
+        (("climate", "heat", "drought", "stress", "고온", "가뭄"), "기후 스트레스에 대응하는 내재해성 품종 개발"),
+        (("seed", "variety", "cultivar", "종자", "품종"), "종자 산업과 신품종 개발 동향"),
+        (("wheat", "rice", "soybean", "corn", "maize", "밀", "벼", "콩", "옥수수"), "주요 작물의 유전자원과 품종 개선"),
+        (("policy", "regulation", "plant variety protection", "upov", "품종보호"), "품종보호와 육종 관련 제도 변화"),
+    ]
+    for keywords, topic in topics:
+        if any(kw in text for kw in keywords):
+            return topic
+    return "식물 육종과 종자 기술의 최신 흐름"
 
 
 def _normalize_episode(
@@ -602,8 +645,8 @@ def _normalize_episode(
         if not isinstance(obj, dict):
             continue
         speaker = (obj.get("speaker") or "").strip()
-        if speaker not in {"지윤", "민종"}:
-            speaker = "지윤" if i % 2 == 0 else "민종"
+        if speaker not in {HOST_LEAD, HOST_EXPERT}:
+            speaker = HOST_LEAD if i % 2 == 0 else HOST_EXPERT
         text = re.sub(r"\s+", " ", (obj.get("text") or "").strip())
         if text:
             dialogue.append({"speaker": speaker, "text": text})
@@ -689,8 +732,9 @@ def _synthesize_episode_audio(
 def _tts_prompt(episode: dict[str, Any]) -> str:
     lines = [
         "TTS the following Korean podcast conversation.",
-        "Make 지윤 sound warm, bright, and conversational.",
-        "Make 민종 sound knowledgeable, calm, and clear.",
+        "The dialogue must be read as Korean. Do not switch into English narration except for short technical abbreviations.",
+        f"Make {HOST_LEAD} sound curious, warm, and conversational.",
+        f"Make {HOST_EXPERT} sound knowledgeable, calm, and concise.",
         "Keep a polished weekly news podcast tone.",
         "",
     ]
@@ -715,11 +759,11 @@ def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 
                 "multiSpeakerVoiceConfig": {
                     "speakerVoiceConfigs": [
                         {
-                            "speaker": "지윤",
+                            "speaker": HOST_LEAD,
                             "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": "Kore"}},
                         },
                         {
-                            "speaker": "민종",
+                            "speaker": HOST_EXPERT,
                             "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": "Zephyr"}},
                         },
                     ]
