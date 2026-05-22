@@ -57,9 +57,9 @@ CI is stateless, so the collector also performs a **repo-state dedupe**:
 - selects recent high-signal breeding/seed/cultivar items
 - uses Gemini to write a Korean two-host dialogue script
 - uses `gemini-3.1-flash-tts-preview` for two-speaker TTS when `GEMINI_API_KEY` is set
-- writes `docs/podcast/latest.json`, dated episode JSON/Markdown, `feed.xml`, and compressed audio when `ffmpeg` is available
+- writes `docs/podcast/latest.json`, dated episode JSON/Markdown, `feed.xml`, and audio (`.mp3` when `ffmpeg` succeeds, otherwise `.wav`)
 
-Cost guard: by default it skips generation if a recent audio episode already exists within 6 days. Use `--force` for a manual rebuild.
+Cost guard: by default it skips generation if any recent episode already exists within 6 days, including text-only fallback episodes. Use `--force` for a manual rebuild.
 
 ## Sources
 

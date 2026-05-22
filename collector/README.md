@@ -110,11 +110,11 @@ Outputs:
 - `docs/podcast/latest.json`
 - `docs/podcast/YYYY-MM-DD.json`
 - `docs/podcast/YYYY-MM-DD.md`
-- `docs/podcast/YYYY-MM-DD.mp3` when TTS and `ffmpeg` succeed (falls back to WAV if `ffmpeg` is unavailable)
+- `docs/podcast/YYYY-MM-DD.mp3` when TTS and `ffmpeg` succeed (falls back to WAV if `ffmpeg` is unavailable or conversion fails)
 - `docs/podcast/index.md`
 - `docs/podcast/feed.xml`
 
-The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It also skips regeneration when the latest audio episode is newer than 6 days unless `--force` is passed.
+The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It also skips regeneration when the latest episode is newer than 6 days unless `--force` is passed, so repeated TTS failures do not keep spending API calls.
 
 ## Firestore (optional)
 

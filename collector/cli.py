@@ -497,7 +497,7 @@ def main(argv: list[str] | None = None) -> int:
         "--min-days-between",
         type=int,
         default=6,
-        help="Skip generation if latest audio episode is newer than this many days",
+        help="Skip generation if latest episode is newer than this many days",
     )
     pp.add_argument("--force", action="store_true", help="Generate a new episode even if a recent one exists")
     pp.add_argument("--skip-audio", action="store_true", help="Generate script/metadata without TTS audio")

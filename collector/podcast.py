@@ -6,6 +6,7 @@ import os
 import re
 import shutil
 import subprocess
+import time
 import wave
 from dataclasses import dataclass
 from datetime import datetime, timedelta
@@ -57,7 +58,7 @@ def build_podcast(
 
     The command is intentionally safe for scheduled CI:
     - If no Gemini key is present, it writes a deterministic text-only episode.
-    - If a recent audio episode already exists, it skips generation unless forced.
+    - If a recent episode already exists, it skips generation unless forced.
     - If TTS or ffmpeg fails, it keeps metadata/script generation successful.
     """
 
@@ -66,7 +67,7 @@ def build_podcast(
     podcast_dir = os.path.join(outdir, PODCAST_DIRNAME)
     os.makedirs(podcast_dir, exist_ok=True)
 
-    if not force and _has_recent_audio_episode(podcast_dir, now_kst=now_kst, min_days_between=min_days_between):
+    if not force and _has_recent_episode(podcast_dir=podcast_dir, now_kst=now_kst, min_days_between=min_days_between):
         index_path = _write_index(podcast_dir=podcast_dir, site_url=site_url)
         feed_path = _write_feed(podcast_dir=podcast_dir, site_url=site_url)
         return {
@@ -129,20 +130,39 @@ def build_podcast(
     elif not api_key:
         audio_status = "skipped_no_api_key"
 
-    payload = _episode_payload(
-        episode,
-        candidates=candidates,
-        release_date=release_date,
-        range_start=range_start,
-        range_end=range_end,
-        script_model=script_model,
-        tts_model=tts_model,
-        audio_meta=audio_meta,
-    )
-
     dated_json = os.path.join(podcast_dir, f"{release_date}.json")
     latest_json = os.path.join(podcast_dir, "latest.json")
     dated_md = os.path.join(podcast_dir, f"{release_date}.md")
+
+    preserved_existing_audio = False
+    if not audio_meta:
+        existing_payload = _load_existing_audio_payload(podcast_dir=podcast_dir, release_date=release_date)
+        if existing_payload:
+            payload = existing_payload
+            preserved_existing_audio = True
+            audio_status = f"{audio_status}_preserved_existing_audio"
+        else:
+            payload = _episode_payload(
+                episode,
+                candidates=candidates,
+                release_date=release_date,
+                range_start=range_start,
+                range_end=range_end,
+                script_model=script_model,
+                tts_model=tts_model,
+                audio_meta=audio_meta,
+            )
+    else:
+        payload = _episode_payload(
+            episode,
+            candidates=candidates,
+            release_date=release_date,
+            range_start=range_start,
+            range_end=range_end,
+            script_model=script_model,
+            tts_model=tts_model,
+            audio_meta=audio_meta,
+        )
 
     _write_json(dated_json, payload)
     _write_json(latest_json, payload)
@@ -160,7 +180,8 @@ def build_podcast(
         "page": os.path.relpath(dated_md, outdir),
         "index": os.path.relpath(index_path, outdir),
         "feed": os.path.relpath(feed_path, outdir),
-        "audio_file": audio_meta.get("url", ""),
+        "audio_file": (payload.get("audio") or {}).get("url", ""),
+        "preserved_existing_audio": preserved_existing_audio,
     }
 
 
@@ -181,6 +202,12 @@ def _parse_dt(s: Optional[str]) -> Optional[datetime]:
             return parser.parse(s, fuzzy=True)
         except Exception:
             return None
+
+
+def _to_tz(dt: datetime, tzinfo: Any) -> datetime:
+    if dt.tzinfo is None:
+        return dt.replace(tzinfo=tzinfo)
+    return dt.astimezone(tzinfo)
 
 
 def _date_ymd(it: dict[str, Any]) -> str:
@@ -207,16 +234,13 @@ def _select_candidates(
     max_candidates: int,
     now: datetime,
 ) -> list[PodcastCandidate]:
-    cutoff = now - timedelta(days=days)
+    cutoff = (now - timedelta(days=days)).replace(hour=0, minute=0, second=0, microsecond=0)
 
     by_title: dict[str, dict[str, Any]] = {}
     for it in items:
         dt = _parse_dt(it.get("published_at")) or _parse_dt(it.get("fetched_at"))
         if dt is not None:
-            try:
-                dt_kst = dt.astimezone(now.tzinfo)
-            except Exception:
-                dt_kst = dt
+            dt_kst = _to_tz(dt, now.tzinfo)
             if dt_kst < cutoff:
                 continue
 
@@ -235,7 +259,8 @@ def _select_candidates(
 
     scored: list[tuple[float, datetime, dict[str, Any]]] = []
     for it in by_title.values():
-        dt = _parse_dt(it.get("published_at")) or _parse_dt(it.get("fetched_at")) or datetime.min.replace(tzinfo=now.tzinfo)
+        parsed_dt = _parse_dt(it.get("published_at")) or _parse_dt(it.get("fetched_at"))
+        dt = _to_tz(parsed_dt, now.tzinfo) if parsed_dt else datetime.min.replace(tzinfo=now.tzinfo)
         scored.append((_score_item(it), dt, it))
 
     scored.sort(key=lambda x: (x[0], x[1]), reverse=True)
@@ -554,12 +579,17 @@ def _normalize_episode(
     range_start: str,
     range_end: str,
 ) -> dict[str, Any]:
+    if not isinstance(episode, dict):
+        episode = {}
+
     idx_set = {c.idx for c in candidates}
     title = re.sub(r"\s+", " ", (episode.get("title") or "").strip()) or f"식물 육종 뉴스 팟캐스트 ({range_end})"
     desc = re.sub(r"\s+", " ", (episode.get("shortDescription") or "").strip()) or "최신 식물 육종 뉴스를 대화형으로 정리한 에피소드입니다."
 
     selected: list[dict[str, Any]] = []
     for obj in episode.get("selectedItems") or []:
+        if not isinstance(obj, dict):
+            continue
         try:
             idx = int(obj.get("idx"))
         except Exception:
@@ -574,6 +604,8 @@ def _normalize_episode(
 
     dialogue: list[dict[str, str]] = []
     for i, obj in enumerate(episode.get("dialogue") or []):
+        if not isinstance(obj, dict):
+            continue
         speaker = (obj.get("speaker") or "").strip()
         if speaker not in {"지윤", "민종"}:
             speaker = "지윤" if i % 2 == 0 else "민종"
@@ -617,32 +649,39 @@ def _synthesize_episode_audio(
     if ffmpeg:
         mp3_name = f"{release_date}.mp3"
         mp3_path = os.path.join(podcast_dir, mp3_name)
-        subprocess.run(
-            [
-                ffmpeg,
-                "-y",
-                "-hide_banner",
-                "-loglevel",
-                "error",
-                "-i",
-                wav_path,
-                "-codec:a",
-                "libmp3lame",
-                "-b:a",
-                "64k",
-                mp3_path,
-            ],
-            check=True,
-        )
-        if os.path.exists(mp3_path) and os.path.getsize(mp3_path) > 0:
-            audio_path = mp3_path
-            audio_name = mp3_name
-            mime = "audio/mpeg"
-            if not keep_wav:
-                try:
-                    os.remove(wav_path)
-                except OSError:
-                    pass
+        try:
+            subprocess.run(
+                [
+                    ffmpeg,
+                    "-y",
+                    "-hide_banner",
+                    "-loglevel",
+                    "error",
+                    "-i",
+                    wav_path,
+                    "-codec:a",
+                    "libmp3lame",
+                    "-b:a",
+                    "64k",
+                    mp3_path,
+                ],
+                check=True,
+            )
+            if os.path.exists(mp3_path) and os.path.getsize(mp3_path) > 0:
+                audio_path = mp3_path
+                audio_name = mp3_name
+                mime = "audio/mpeg"
+                if not keep_wav:
+                    try:
+                        os.remove(wav_path)
+                    except OSError:
+                        pass
+        except (OSError, subprocess.SubprocessError):
+            try:
+                if os.path.exists(mp3_path) and os.path.getsize(mp3_path) == 0:
+                    os.remove(mp3_path)
+            except OSError:
+                pass
 
     return {
         "url": audio_name,
@@ -665,7 +704,7 @@ def _tts_prompt(episode: dict[str, Any]) -> str:
     return "\n".join(lines).strip() + "\n"
 
 
-def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 180) -> bytes:
+def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 180, attempts: int = 3) -> bytes:
     import requests
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
@@ -693,15 +732,33 @@ def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 
             },
         },
     }
-    r = requests.post(url, headers=headers, json=payload, timeout=timeout_s)
-    if r.status_code >= 400:
-        raise RuntimeError(f"Gemini TTS HTTP {r.status_code}: {r.text[:500]}")
-    data = r.json()
-    try:
-        encoded = data["candidates"][0]["content"]["parts"][0]["inlineData"]["data"]
-    except Exception:
-        raise RuntimeError(f"Gemini TTS response missing audio: {json.dumps(data, ensure_ascii=False)[:500]}")
-    return base64.b64decode(encoded)
+    last_error = ""
+    max_attempts = max(1, attempts)
+    for attempt in range(1, max_attempts + 1):
+        try:
+            r = requests.post(url, headers=headers, json=payload, timeout=timeout_s)
+        except requests.RequestException as e:
+            last_error = str(e)
+            if attempt >= max_attempts:
+                raise RuntimeError(f"Gemini TTS request failed: {last_error}")
+            time.sleep(min(2 ** (attempt - 1), 5))
+            continue
+
+        if r.status_code >= 500 and attempt < max_attempts:
+            last_error = f"Gemini TTS HTTP {r.status_code}: {r.text[:500]}"
+            time.sleep(min(2 ** (attempt - 1), 5))
+            continue
+        if r.status_code >= 400:
+            raise RuntimeError(f"Gemini TTS HTTP {r.status_code}: {r.text[:500]}")
+
+        data = r.json()
+        try:
+            encoded = data["candidates"][0]["content"]["parts"][0]["inlineData"]["data"]
+        except Exception:
+            raise RuntimeError(f"Gemini TTS response missing audio: {json.dumps(data, ensure_ascii=False)[:500]}")
+        return base64.b64decode(encoded)
+
+    raise RuntimeError(last_error or "Gemini TTS failed")
 
 
 def _write_wav(path: str, pcm: bytes) -> None:
@@ -867,7 +924,7 @@ def _write_feed(*, podcast_dir: str, site_url: str) -> str:
     for ep in episodes[:20]:
         audio = ep.get("audio") or {}
         date_s = ep.get("releasedDate") or ""
-        item_url = f"{base_url}/{date_s}.md"
+        item_url = f"{base_url}/{date_s}.html"
         audio_url = f"{base_url}/{audio.get('url')}"
         pub_dt = _parse_dt(f"{date_s}T00:00:00+09:00") or datetime.now().astimezone()
         lines.extend(
@@ -907,7 +964,26 @@ def _load_episode_payloads(podcast_dir: str) -> list[dict[str, Any]]:
     return out
 
 
-def _has_recent_audio_episode(*, podcast_dir: str, now_kst: datetime, min_days_between: int) -> bool:
+def _load_existing_audio_payload(*, podcast_dir: str, release_date: str) -> dict[str, Any]:
+    for name in (f"{release_date}.json", "latest.json"):
+        path = os.path.join(podcast_dir, name)
+        if not os.path.exists(path):
+            continue
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                payload = json.load(f)
+        except Exception:
+            continue
+        if payload.get("releasedDate") != release_date:
+            continue
+        audio = payload.get("audio") or {}
+        audio_name = audio.get("url") or ""
+        if audio_name and os.path.exists(os.path.join(podcast_dir, audio_name)):
+            return payload
+    return {}
+
+
+def _has_recent_episode(*, podcast_dir: str, now_kst: datetime, min_days_between: int) -> bool:
     latest_path = os.path.join(podcast_dir, "latest.json")
     if min_days_between <= 0 or not os.path.exists(latest_path):
         return False
@@ -917,17 +993,10 @@ def _has_recent_audio_episode(*, podcast_dir: str, now_kst: datetime, min_days_b
     except Exception:
         return False
 
-    audio = latest.get("audio") or {}
-    audio_name = audio.get("url") or ""
-    if not audio_name or not os.path.exists(os.path.join(podcast_dir, audio_name)):
-        return False
     released = _parse_dt(latest.get("releasedDate"))
     if released is None:
         return False
-    try:
-        released_kst = released.astimezone(now_kst.tzinfo)
-    except Exception:
-        released_kst = released.replace(tzinfo=now_kst.tzinfo)
+    released_kst = _to_tz(released, now_kst.tzinfo)
     return (now_kst.date() - released_kst.date()).days < min_days_between
 
 

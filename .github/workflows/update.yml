@@ -56,6 +56,12 @@ jobs:
             echo "No previous docs/index.md to back up"
           fi
 
+      - name: Build static AI podcast
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python -m collector build-podcast --outdir docs --days 7 --db .collector/collector.sqlite
+
       - name: Build site (last 7 days, limit 30)
         run: |
           python -m collector build-site --outdir docs --days 7 --limit 30 --db .collector/collector.sqlite
@@ -65,12 +71,6 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python -m collector build-briefing --docs-dir docs --fallback-index /tmp/index_prev.md
-
-      - name: Build static AI podcast
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python -m collector build-podcast --outdir docs --days 7 --db .collector/collector.sqlite
 
       - name: Commit & push if docs changed
         run: |

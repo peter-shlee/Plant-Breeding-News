@@ -580,11 +580,17 @@ def render_portal_index_md(
             lines.append("")
         lines.append("")
 
-    lines.append('<a id="podcast"></a>')
-    lines.append("## AI 팟캐스트\n")
-    lines.append("최신 식물 육종 뉴스를 AI가 선별해 한국어 대화형 오디오로 정리합니다.\n")
-    lines.append("- [팟캐스트 듣기](podcast/index.md)")
-    lines.append("- [RSS 피드](podcast/feed.xml)\n")
+    podcast_index = os.path.join(outdir, "podcast", "index.md")
+    podcast_feed = os.path.join(outdir, "podcast", "feed.xml")
+    if os.path.exists(podcast_index) or os.path.exists(podcast_feed):
+        lines.append('<a id="podcast"></a>')
+        lines.append("## AI 팟캐스트\n")
+        lines.append("최신 식물 육종 뉴스를 AI가 선별해 한국어 대화형 오디오로 정리합니다.\n")
+        if os.path.exists(podcast_index):
+            lines.append("- [팟캐스트 듣기](podcast/index.md)")
+        if os.path.exists(podcast_feed):
+            lines.append("- [RSS 피드](podcast/feed.xml)")
+        lines.append("")
 
     lines.append('<a id="weekly-archive"></a>')
     lines.append("## 지난 주간 아카이브\n")
