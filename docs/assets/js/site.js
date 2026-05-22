@@ -30,22 +30,24 @@
   };
 
   const normalizeHref = (href) => {
-    if (!href) return "#";
-    if (/^(mailto:|tel:|#)/i.test(href)) return href;
-    if (/^https?:/i.test(href)) {
+    const rawHref = String(href || "").trim();
+    if (!rawHref) return "#";
+    if (/^(mailto:|tel:|#)/i.test(rawHref)) return rawHref;
+    if (/^https?:/i.test(rawHref)) {
       try {
-        const url = new URL(href);
+        const url = new URL(rawHref);
         url.pathname = url.pathname.replace(/\.md$/i, ".html");
         return url.href;
       } catch {
-        return href;
+        return "#";
       }
     }
-    const hashIndex = href.indexOf("#");
-    const queryIndex = href.indexOf("?");
+    if (/^[a-z][a-z0-9+.-]*:/i.test(rawHref)) return "#";
+    const hashIndex = rawHref.indexOf("#");
+    const queryIndex = rawHref.indexOf("?");
     const splitIndex = [hashIndex, queryIndex].filter((index) => index >= 0).sort((a, b) => a - b)[0];
-    const path = splitIndex >= 0 ? href.slice(0, splitIndex) : href;
-    const suffix = splitIndex >= 0 ? href.slice(splitIndex) : "";
+    const path = splitIndex >= 0 ? rawHref.slice(0, splitIndex) : rawHref;
+    const suffix = splitIndex >= 0 ? rawHref.slice(splitIndex) : "";
     return `${path.replace(/\.md$/i, ".html")}${suffix}`;
   };
 
