@@ -11,6 +11,18 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[European Commission Adopts Fertiliser Action Plan to Support Farmers and Strengthen EU Supply Security](../../items/seedworld/2026/05/https_www.seedworld.com_p_125445.md)**
+  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125445.md) · [원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/)
+  - European Commission’s Fertiliser Action Plan aims to ease rising fertiliser costs, improve supply security, support farmers, and strengthen domestic production. The initiative promotes bio-based, low…
+
+- **[The Inventory Question Every Seed Company Struggles to Answer](../../items/seedworld/2026/05/https_www.seedworld.com_p_125439.md)**
+  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125439.md) · [원문](https://www.seedworld.com/us/2026/05/22/the-inventory-question-every-seed-company-struggles-to-answer/)
+  - Seed inventory changes fast across field estimates, raw stock and bagged product. A live seed inventory system helps teams track inspections, processing losses, lab results, allocations and true avai…
+
+- **[Concepts for Your Seeds](../../items/seedworld/2026/05/https_www.seedworld.com_p_121426.md)**
+  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_121426.md) · [원문](https://www.seedworld.com/canada/2026/05/21/concepts-for-your-seeds-6/)
+  - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds, ensuring their high quality. You get specific and individual […] The…
+
 - **[Career Change Story: From Restaurant Work to Seed Industry Client Services in Canada](../../items/seedworld/2026/05/https_www.seedworld.com_p_125430.md)**
   - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125430.md) · [원문](https://www.seedworld.com/canada/2026/05/21/career-change-story-from-restaurant-work-to-seed-industry-client-services-in-canada/)
   - A first-person look at how hospitality experience helped shape a role in agricultural seed testing. I like to think I started at the other end of the story.
@@ -22,6 +34,10 @@ source: "seedworld"
 - **[Why Canadian Farmers are Leading Discussions on a New Wheat Breeding Model](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md)**
   - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md) · [원문](https://www.seedworld.com/canada/2026/05/21/why-canadian-farmers-are-leading-discussions-on-a-new-wheat-breeding-model/)
   - Jocelyn Velestuk says Canada’s wheat breeding system is at an “inflection point” as stakeholders look to create a stronger future for farmers and crop innovation The post Why Canadian Farmers are Lea…
+
+- **[Concepts For Your Seeds](../../items/seedworld/2026/05/https_www.seedworld.com_p_115731.md)**
+  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_115731.md) · [원문](https://www.seedworld.com/europe/2026/05/21/concepts-for-your-seeds-2/)
+  - For over 40 years, SATEC® has provided high-quality seed treatment solutions—from pelleting to coating—serving agriculture, vegetables, ornamentals, and forestry with German-engineered equipment.
 
 - **[Putting Concerns About Glyphosate into Perspective](../../items/seedworld/2026/05/https_www.seedworld.com_p_125293.md)**
   - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125293.md) · [원문](https://www.seedworld.com/europe/2026/05/21/putting-concerns-about-glyphosate-into-perspective/)
@@ -409,15 +425,3 @@ source: "seedworld"
 - **[What’s at Stake in Every Slice | On the Brink Season 1: Episode 7](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md)**
   - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/22/whats-at-stake-in-every-slice-on-the-brink-episode-7/)
   - Adam Dyck of Warburton's Canada warns Canada risks losing its plant breeding investment edge — and the international wheat contracts that depend on it. The post What’s at Stake in Every Slice | On th…
-
-- **[Por qué Costa Rica atrae inversión e I+D global en semillas](../../items/seedworld/2026/04/https_www.seedworld.com_p_124613.md)**
-  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124613.md) · [원문](https://www.seedworld.com/latam/2026/04/22/por-que-costa-rica-atrae-inversion-e-id-global-en-semillas/)
-  - Costa Rica es un centro líder en innovación de semillas, con estabilidad regulatoria, diversidad climática y talento especializado. Su marco científico, ventaja de contraestación e infraestructura av…
-
-- **[Why Costa Rica Is Attracting Global Seed Investment and R&D](../../items/seedworld/2026/04/https_www.seedworld.com_p_124605.md)**
-  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124605.md) · [원문](https://www.seedworld.com/europe/2026/04/22/why-costa-rica-is-attracting-global-seed-investment-and-rd/)
-  - Costa Rica is a leading hub for seed innovation, offering regulatory stability, diverse microclimates and skilled talent. Its science-based framework, counter-season advantage and advanced R&D infras…
-
-- **[£3 Billion DNA Project: How Sequencing UK Biodiversity Could Transform Agriculture and Innovation](../../items/seedworld/2026/04/https_www.seedworld.com_p_124728.md)**
-  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124728.md) · [원문](https://www.seedworld.com/europe/2026/04/22/3-billion-dna-project-how-sequencing-uk-biodiversity-could-transform-agriculture-and-innovation/)
-  - The Darwin Tree of Life Project could generate nearly £3 billion in economic value across the UK and Ireland by sequencing all complex life. For agriculture, gains of £800 million to £1.4 billion cou…

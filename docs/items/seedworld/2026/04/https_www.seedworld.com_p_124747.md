@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/04/22/letter-to-the-editor-consolida
 summary: "Three retired breeders say centralizing AAFC research may save costs on paper, but it narrows genetic discovery, increases farm risk and slows agricultural innovation The post LETTER TO THE EDITOR: “Consolidation” is a False Efficiency in"
 attachments: []
 tags: []
-fetched_at: "2026-05-22T07:03:10+09:00"
+fetched_at: "2026-05-22T22:13:54+09:00"
 ---
 # LETTER TO THE EDITOR: “Consolidation” is a False Efficiency in Crop Breeding
 

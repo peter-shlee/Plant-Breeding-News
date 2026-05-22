@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-05
 
+- **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](../../items/nics/2026/05/944230.md)**
+  - 2026-05-22 · [읽기](../../items/nics/2026/05/944230.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944230)
+
 - **[농촌진흥청, 발명의 날 기념 유공 포상 4점 수상](../../items/nics/2026/05/944220.md)**
   - 2026-05-20 · [읽기](../../items/nics/2026/05/944220.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944220)
 
@@ -37,6 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 두부 수율 높고 기계수확 쉬운 신품종 콩 ‘다드림’ 보급](../../items/nics/2026/05/944198.md)**
   - 2026-05-11 · [읽기](../../items/nics/2026/05/944198.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944198)
-
-- **[참깨 병해충, 미리 차단해 수확까지 건강하게!](../../items/nics/2026/05/944197.md)**
-  - 2026-05-11 · [읽기](../../items/nics/2026/05/944197.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944197)

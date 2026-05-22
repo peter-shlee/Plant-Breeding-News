@@ -9,7 +9,7 @@ summary: "Oklahoma State University will build a new Agronomy Discovery Center f
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-05-22T07:03:10+09:00"
+fetched_at: "2026-05-22T22:13:54+09:00"
 ---
 # $40M Investment Expands Agronomy Research Capacity at Oklahoma State
 

@@ -1,0 +1,140 @@
+{
+  "title": "식물 육종 뉴스 팟캐스트 (2026-05-22)",
+  "shortDescription": "이번 주 식물 육종·종자·품종 관련 핵심 소식을 요약했다.",
+  "releasedDate": "2026-05-22",
+  "rangeStart": "2026-05-15",
+  "rangeEnd": "2026-05-22",
+  "staticRelease": true,
+  "models": {
+    "script": "gemini-3.5-flash",
+    "tts": "gemini-3.1-flash-tts-preview"
+  },
+  "generation": {
+    "scriptStatus": "fallback_script_error:failed to parse script JSON: Unterminated string starting at: line 53 column 15 (char 1941): {\n  \"title\": \"식물 육종 뉴스 팟캐스트\",\n  \"shortDescription\": \"2026년 5월 셋째 주 식물 육종 및 종자 산업의 최신 동향을 다루는 팟캐스트입니다.\",\n  \"selectedItems\": [\n    {\n      \"idx\": 1,\n      \"reason\": \"유럽 종자 부문에서 AI와 유전체 예측, 세대 단축 육종 등 신육종 기술이 급격히 확산되는 흐름을 짚어줍니다.\"\n    },\n    {\n      \"idx\": 2,\n      \"reason\": \"튀니지 연구진이 고대 듀럼밀 재래종의 유전체를 해",
+    "audioStatus": "ok"
+  },
+  "audio": {
+    "url": "2026-05-22.mp3",
+    "mimeType": "audio/mpeg",
+    "durationSeconds": 135.76,
+    "bytes": 1086765
+  },
+  "selectedItems": [
+    {
+      "idx": 1,
+      "date": "2026-05-15",
+      "source": "seedworld",
+      "title": "Biotech Just Hit Fast Forward. Is Europe’s Seed Sector Ready?",
+      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125163.md",
+      "originalUrl": "https://www.seedworld.com/europe/2026/05/14/biotech-just-hit-fast-forward-is-europes-seed-sector-ready/",
+      "reason": "키워드 점수와 최신성을 기준으로 선택"
+    },
+    {
+      "idx": 2,
+      "date": "2026-05-15",
+      "source": "seedworld",
+      "title": "Tunisia Sequences Ancient Durum Wheat Varieties to Boost Climate Resilience",
+      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125118.md",
+      "originalUrl": "https://www.seedworld.com/europe/2026/05/15/tunisia-sequences-ancient-durum-wheat-varieties-to-boost-climate-resilience/",
+      "reason": "키워드 점수와 최신성을 기준으로 선택"
+    },
+    {
+      "idx": 3,
+      "date": "2026-05-22",
+      "source": "seedworld",
+      "title": "A New Era of Farmer-Led Innovation is Emerging in Canada",
+      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125426.md",
+      "originalUrl": "https://www.seedworld.com/canada/2026/05/21/a-new-era-of-farmer-led-innovation-is-emerging-in-canada/",
+      "reason": "키워드 점수와 최신성을 기준으로 선택"
+    },
+    {
+      "idx": 4,
+      "date": "2026-05-21",
+      "source": "seedworld",
+      "title": "Why Canadian Farmers are Leading Discussions on a New Wheat Breeding Model",
+      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125240.md",
+      "originalUrl": "https://www.seedworld.com/canada/2026/05/21/why-canadian-farmers-are-leading-discussions-on-a-new-wheat-breeding-model/",
+      "reason": "키워드 점수와 최신성을 기준으로 선택"
+    },
+    {
+      "idx": 5,
+      "date": "2026-05-20",
+      "source": "seedworld",
+      "title": "Where the Conversation Goes Next | On The Brink: Season 2 – Episode 2",
+      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125283.md",
+      "originalUrl": "https://www.seedworld.com/canada/on-the-brink/2026/05/20/canadian-oat-breeding-investment-on-the-brink-season-2-episode-2/",
+      "reason": "키워드 점수와 최신성을 기준으로 선택"
+    },
+    {
+      "idx": 6,
+      "date": "2026-05-20",
+      "source": "seedworld",
+      "title": "ISF Awards Lifetime Honorary Membership to ANPROS Director Mario Schindler",
+      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125316.md",
+      "originalUrl": "https://www.seedworld.com/europe/2026/05/20/isf-awards-lifetime-honorary-membership-to-anpros-director-mario-schindler/",
+      "reason": "키워드 점수와 최신성을 기준으로 선택"
+    }
+  ],
+  "dialogue": [
+    {
+      "speaker": "지윤",
+      "text": "안녕하세요. 식물 육종 뉴스입니다. 오늘은 2026-05-15부터 2026-05-22까지 들어온 소식 중 눈에 띄는 흐름을 짚어보겠습니다."
+    },
+    {
+      "speaker": "민종",
+      "text": "이번 주는 품종 개발, 종자 산업, 유전체 기술, 현장 적용 이슈를 함께 보면 좋겠습니다."
+    },
+    {
+      "speaker": "지윤",
+      "text": "먼저 seedworld 소식입니다. Biotech Just Hit Fast Forward. Is Europe’s Seed Sector Ready?"
+    },
+    {
+      "speaker": "민종",
+      "text": "AI, CRISPR, genomic prediction and speed breeding are transforming plant breeding at unprecedented speed. Wageningen University’s Richard Harrison says Europe’s seed sector faces…"
+    },
+    {
+      "speaker": "지윤",
+      "text": "먼저 seedworld 소식입니다. Tunisia Sequences Ancient Durum Wheat Varieties to Boost Climate Resilience"
+    },
+    {
+      "speaker": "민종",
+      "text": "Tunisian researchers sequenced the complete genomes of Mahmoudi and Chili durum wheat landraces, uncovering valuable traits for drought tolerance, disease resistance and climate r…"
+    },
+    {
+      "speaker": "지윤",
+      "text": "먼저 seedworld 소식입니다. A New Era of Farmer-Led Innovation is Emerging in Canada"
+    },
+    {
+      "speaker": "민종",
+      "text": "From wheat breeding discussions to concerns about oat research sustainability, producers are becoming central voices in shaping the future of crop innovation The post A New Era of…"
+    },
+    {
+      "speaker": "지윤",
+      "text": "먼저 seedworld 소식입니다. Why Canadian Farmers are Leading Discussions on a New Wheat Breeding Model"
+    },
+    {
+      "speaker": "민종",
+      "text": "Jocelyn Velestuk says Canada’s wheat breeding system is at an “inflection point” as stakeholders look to create a stronger future for farmers and crop innovation The post Why Cana…"
+    },
+    {
+      "speaker": "지윤",
+      "text": "먼저 seedworld 소식입니다. Where the Conversation Goes Next | On The Brink: Season 2 – Episode 2"
+    },
+    {
+      "speaker": "민종",
+      "text": "Quentin Martin of Cribit Seeds argues that Canada's sustained investment in plant breeding is the reason crown rust hasn't devastated eastern Canada's 65,000 acres of grain oats —…"
+    },
+    {
+      "speaker": "지윤",
+      "text": "먼저 seedworld 소식입니다. ISF Awards Lifetime Honorary Membership to ANPROS Director Mario Schindler"
+    },
+    {
+      "speaker": "민종",
+      "text": "ISF awarded ANPROS Executive Director Mario Schindler Lifetime Honorary Membership for his outstanding contributions to the global seed industry. The rare honor, granted to only 2…"
+    },
+    {
+      "speaker": "지윤",
+      "text": "오늘 준비한 소식은 여기까지입니다. 원문 링크와 대본은 팟캐스트 페이지에서 확인하실 수 있습니다."
+    }
+  ]
+}

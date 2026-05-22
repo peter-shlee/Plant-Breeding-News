@@ -9,7 +9,7 @@ summary: "Pairwise CEO Tom Adams says gene editing’s next opportunity may come
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-05-22T07:03:09+09:00"
+fetched_at: "2026-05-22T22:13:54+09:00"
 ---
 # Where Gene Editing in Agriculture Meets Consumer Value
 

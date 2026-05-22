@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/21/career-change-story-from-resta
 summary: "A first-person look at how hospitality experience helped shape a role in agricultural seed testing. I like to think I started at the other end of the story."
 attachments: []
 tags: []
-fetched_at: "2026-05-22T07:03:09+09:00"
+fetched_at: "2026-05-22T22:13:54+09:00"
 ---
 # Career Change Story: From Restaurant Work to Seed Industry Client Services in Canada
 

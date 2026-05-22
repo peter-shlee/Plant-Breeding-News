@@ -9,7 +9,7 @@ summary: "Adam Dyck of Warburton's Canada warns Canada risks losing its plant br
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-05-22T07:03:10+09:00"
+fetched_at: "2026-05-22T22:13:54+09:00"
 ---
 # What’s at Stake in Every Slice | On the Brink Season 1: Episode 7
 
