@@ -136,17 +136,21 @@ input {
 }
 
 .pbn-brand__mark {
-  display: grid;
-  place-items: center;
+  display: block;
+  flex: 0 0 auto;
   width: 38px;
   height: 38px;
   border-radius: 12px;
-  color: #061007;
-  background:
-    linear-gradient(90deg, var(--blue), var(--cyan) 34%, var(--green) 55%, var(--yellow) 78%, var(--orange));
-  box-shadow: 0 0 26px rgba(38, 217, 255, 0.26);
-  font-size: 11px;
-  letter-spacing: 0;
+  overflow: hidden;
+  background: #030407;
+  box-shadow: 0 0 24px rgba(38, 217, 255, 0.24), 0 0 34px rgba(215, 255, 55, 0.14);
+}
+
+.pbn-brand__mark img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .pbn-brand__text {
