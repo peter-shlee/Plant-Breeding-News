@@ -1355,6 +1355,7 @@ input {
   }
 
   .pbn-topbar::before {
+    inset: 8px 0;
     border-radius: 24px;
   }
 

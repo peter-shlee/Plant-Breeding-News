@@ -106,6 +106,8 @@
 
   const setActiveNav = () => {
     const normalizedPath = (pageUrl || window.location.pathname).replace(/\/index\.html$/, "/");
+    const normalizedBasePath = baseUrl ? `${baseUrl.replace(/\/$/, "")}/` : "/";
+    const isHomePath = normalizedPath === "/" || normalizedPath === normalizedBasePath;
     const hash = window.location.hash;
     document.querySelectorAll(".pbn-nav a").forEach((link) => {
       const href = link.getAttribute("href") || "";
@@ -114,8 +116,8 @@
       const isActive =
         (targetPath.endsWith("/podcast/") && normalizedPath.includes("/podcast/")) ||
         (targetPath.includes("/weekly/") && normalizedPath.includes("/weekly/")) ||
-        (url.hash === "#recent" && normalizedPath.endsWith("/") && hash === "#recent") ||
-        (url.hash === "#weekly-archive" && normalizedPath.endsWith("/") && hash === "#weekly-archive");
+        (url.hash === "#recent" && isHomePath && (!hash || hash === "#recent")) ||
+        (url.hash === "#weekly-archive" && isHomePath && hash === "#weekly-archive");
       link.classList.toggle("is-active", isActive);
       if (isActive) {
         link.setAttribute("aria-current", "page");
