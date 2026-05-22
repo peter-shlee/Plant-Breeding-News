@@ -1,0 +1,22 @@
+{
+  "name": "식물 육종 뉴스",
+  "short_name": "식물육종뉴스",
+  "description": "식물 육종 관련 소식을 모아 보는 주간 큐레이션",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#030407",
+  "theme_color": "#030407",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
