@@ -114,7 +114,7 @@
       const isActive =
         (targetPath.endsWith("/podcast/") && normalizedPath.includes("/podcast/")) ||
         (targetPath.includes("/weekly/") && normalizedPath.includes("/weekly/")) ||
-        (url.hash === "#recent" && normalizedPath.endsWith("/") && hash === "#recent") ||
+        (url.hash === "#recent" && normalizedPath.endsWith("/") && (!hash || hash === "#recent")) ||
         (url.hash === "#weekly-archive" && normalizedPath.endsWith("/") && hash === "#weekly-archive");
       link.classList.toggle("is-active", isActive);
       if (isActive) {
