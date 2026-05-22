@@ -689,7 +689,7 @@ input {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
-  margin-bottom: 18px;
+  margin-bottom: 10px;
 }
 
 .source-filter button {
@@ -702,6 +702,26 @@ input {
   color: #061007;
   border-color: transparent;
   background: var(--lime);
+}
+
+.filter-status {
+  margin: 0 0 16px;
+  color: var(--soft);
+  font-family: var(--font-mono);
+  font-size: 11px;
+}
+
+.filter-empty {
+  margin-bottom: 16px;
+  padding: 18px 20px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: var(--radius-sm);
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.055);
+}
+
+.filter-empty[hidden] {
+  display: none;
 }
 
 .news-grid {
