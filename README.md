@@ -15,6 +15,9 @@ python3 -m collector build-weekly --outdir docs --days 7 --db .collector/collect
 
 # (3) Build portal + per-source archive pages + item pages
 python3 -m collector build-site --outdir docs --days 7 --limit 30 --db .collector/collector.sqlite
+
+# (4) Build static AI podcast metadata/page/feed/audio (Gemini key optional)
+GEMINI_API_KEY=... python3 -m collector build-podcast --outdir docs --days 7 --db .collector/collector.sqlite
 ```
 
 ## Output structure (docs/)
@@ -24,6 +27,7 @@ python3 -m collector build-site --outdir docs --days 7 --limit 30 --db .collecto
 - `docs/weekly/latest.md` – latest weekly digest (optional convenience)
 - `docs/items/<source>/YYYY/MM/<site_id>.md` – per-item pages
 - `docs/sources/<source>/index.md` – per-source archive pages (grouped by month)
+- `docs/podcast/` – static AI podcast pages, JSON metadata, RSS feed, and audio files
 
 ## Default filtering (plant-only)
 
@@ -45,6 +49,17 @@ CI is stateless, so the collector also performs a **repo-state dedupe**:
 
 - It scans existing `docs/items/**/<site_id>.md` and treats them as already exported (`source:site_id`).
 - If an item page already exists, it will skip the detail fetch to reduce load.
+
+## Static AI podcast
+
+`build-podcast` turns the latest collected items into a static podcast bundle:
+
+- selects recent high-signal breeding/seed/cultivar items
+- uses Gemini to write a Korean two-host dialogue script
+- uses `gemini-3.1-flash-tts-preview` for two-speaker TTS when `GEMINI_API_KEY` is set
+- writes `docs/podcast/latest.json`, dated episode JSON/Markdown, `feed.xml`, and compressed audio when `ffmpeg` is available
+
+Cost guard: by default it skips generation if a recent audio episode already exists within 6 days. Use `--force` for a manual rebuild.
 
 ## Sources
 

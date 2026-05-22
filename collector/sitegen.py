@@ -421,6 +421,7 @@ def render_portal_index_md(
     lines.append("## 목차\n")
     lines.append("- [이번주 하이라이트](#highlights)")
     lines.append("- [최근 소식](#recent)")
+    lines.append("- [AI 팟캐스트](#podcast)")
     lines.append("- [지난 주간 아카이브](#weekly-archive)")
     lines.append("- [출처별 모아보기](#sources)\n")
 
@@ -578,6 +579,12 @@ def render_portal_index_md(
                 lines.append(f"  - {excerpt}")
             lines.append("")
         lines.append("")
+
+    lines.append('<a id="podcast"></a>')
+    lines.append("## AI 팟캐스트\n")
+    lines.append("최신 식물 육종 뉴스를 AI가 선별해 한국어 대화형 오디오로 정리합니다.\n")
+    lines.append("- [팟캐스트 듣기](podcast/index.md)")
+    lines.append("- [RSS 피드](podcast/feed.xml)\n")
 
     lines.append('<a id="weekly-archive"></a>')
     lines.append("## 지난 주간 아카이브\n")

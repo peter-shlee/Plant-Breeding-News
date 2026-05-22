@@ -33,6 +33,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Install ffmpeg
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update && sudo apt-get install -y ffmpeg || echo "ffmpeg install failed; podcast will fall back to WAV"
+          fi
+
       - name: Run collector (since 30 days)
         run: |
           python -m collector run --since-days 30 --db .collector/collector.sqlite
@@ -59,6 +65,12 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python -m collector build-briefing --docs-dir docs --fallback-index /tmp/index_prev.md
+
+      - name: Build static AI podcast
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python -m collector build-podcast --outdir docs --days 7 --db .collector/collector.sqlite
 
       - name: Commit & push if docs changed
         run: |

@@ -97,6 +97,25 @@ Outputs:
 - `docs/weekly/YYYY-MM-DD.md` (run date in KST)
 - `docs/index.md` (links to latest + archive)
 
+## Build static AI podcast
+
+Generate a Korean two-host podcast script and static podcast artifacts:
+
+```bash
+GEMINI_API_KEY=... python3 -m collector build-podcast --outdir docs --days 7
+```
+
+Outputs:
+
+- `docs/podcast/latest.json`
+- `docs/podcast/YYYY-MM-DD.json`
+- `docs/podcast/YYYY-MM-DD.md`
+- `docs/podcast/YYYY-MM-DD.mp3` when TTS and `ffmpeg` succeed (falls back to WAV if `ffmpeg` is unavailable)
+- `docs/podcast/index.md`
+- `docs/podcast/feed.xml`
+
+The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It also skips regeneration when the latest audio episode is newer than 6 days unless `--force` is passed.
+
 ## Firestore (optional)
 
 If you have Firebase service account credentials:
