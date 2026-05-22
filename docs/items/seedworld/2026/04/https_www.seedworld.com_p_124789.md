@@ -9,7 +9,7 @@ summary: "Danish potato grower settles Breeders Trust case after a Facebook list
 attachments: []
 tags:
   - "감자"
-fetched_at: "2026-05-22T22:13:54+09:00"
+fetched_at: "2026-05-22T22:49:50+09:00"
 ---
 # Breeders Trust Settles Case Over Illegal Seed Potato Listing In Denmark
 

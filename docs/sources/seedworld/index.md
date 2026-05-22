@@ -421,7 +421,3 @@ source: "seedworld"
 - **[LETTER TO THE EDITOR: “Consolidation” is a False Efficiency in Crop Breeding](../../items/seedworld/2026/04/https_www.seedworld.com_p_124747.md)**
   - 2026-04-23 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124747.md) · [원문](https://www.seedworld.com/canada/2026/04/22/letter-to-the-editor-consolidation-is-a-false-efficiency-in-crop-breeding/)
   - Three retired breeders say centralizing AAFC research may save costs on paper, but it narrows genetic discovery, increases farm risk and slows agricultural innovation The post LETTER TO THE EDITOR: “…
-
-- **[What’s at Stake in Every Slice | On the Brink Season 1: Episode 7](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md)**
-  - 2026-04-22 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124712.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/22/whats-at-stake-in-every-slice-on-the-brink-episode-7/)
-  - Adam Dyck of Warburton's Canada warns Canada risks losing its plant breeding investment edge — and the international wheat contracts that depend on it. The post What’s at Stake in Every Slice | On th…

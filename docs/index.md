@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-05-22 22:15 (KST)**  
+- 마지막 업데이트: **2026-05-22 22:50 (KST)**  
 - 커버리지(최근 섹션): **2026-05-15 ~ 2026-05-22** (최근 7일)
 
 ## 목차
@@ -24,32 +24,28 @@ title: "식물 육종 뉴스"
 <!-- AUTO_BRIEFING_START -->
 ## 30초 주간 브리핑 (2026-05-15~2026-05-22)
 
-> 글로벌 종자 산업의 윤리적 기준 강화와 기후 대응을 위한 혁신 기술 도입이 가속화되고 있습니다.
+> 글로벌 종자 산업의 윤리 가이드라인 발표와 기후 대응을 위한 혁신 기술 연구가 활발히 진행된 한 주였습니다.
 
 ### 1) 정책/규제
 
-- 유럽연합이 비료 비용 절감과 공급망 안정을 위해 바이오 기반 비료 생산을 확대하고 지속 가능한 농업을 지원하는 실행 계획을 채택했습니다. ([원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/))
-- 국제종자연맹(ISF)이 종자 생산 현장의 노동권, 보건, 안전 및 환경 보호를 강화하기 위한 새로운 글로벌 윤리 가이드라인을 발표했습니다. ([원문](https://www.seedworld.com/europe/2026/05/20/isf-launches-new-global-guidelines-on-social-rights-and-ethical-seed-production/))
+- 국제종자연맹(ISF)이 종자 생산 현장의 노동권, 안전, 환경 보호를 강화하기 위한 새로운 글로벌 윤리 가이드라인을 발표했습니다. ([원문](https://www.seedworld.com/europe/2026/05/20/isf-launches-new-global-guidelines-on-social-rights-and-ethical-seed-production/))
+- 유럽연합 집행위원회가 비료 비용 절감과 공급망 안정을 위해 바이오 기반 비료 활용 및 순환 경제를 촉진하는 실행 계획을 채택했습니다. ([원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/))
 
 ### 2) 연구/기술
 
-- 식물이 기후 변화에 대응하는 스트레스 신호 전달 경로가 새롭게 규명되어, 향후 기후 적응형 작물 개발에 기여할 것으로 기대됩니다. ([원문](https://www.seedworld.com/europe/2026/05/20/scientists-decode-crop-stress-signals-linked-to-climate-resilience/))
-- 농촌진흥청이 국산 밀 품종인 ‘새금강’과 ‘황금알’의 최적 혼합 비율을 설정하여 생면의 품질과 식감을 개선하는 기술을 개발했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810781&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 식물 세포의 스트레스 반응을 조절하는 cAMP 신호 전달 경로가 규명되어, 기후 변화에 대응하는 작물 개발의 새로운 토대가 마련되었습니다. ([원문](https://www.seedworld.com/europe/2026/05/20/scientists-decode-crop-stress-signals-linked-to-climate-resilience/))
+- 미국 식물육종가협회(NAPB)가 인공지능과 실내 농업 기술을 활용한 차세대 기후 스마트 작물 육종 전략을 집중 논의했습니다. ([원문](https://www.seedworld.com/us/2026/05/19/napb-2026-focuses-on-ai-indoor-farming-and-the-next-era-of-plant-breeding/))
 
 ### 3) 유통/시장/현장
 
-- 관세 및 통관 지연 등 국제 무역 환경의 불확실성이 커지면서 종자 기업의 유통 비용 부담이 가중되고 있습니다. ([원문](https://www.seedworld.com/us/2026/05/20/seed-trade-getting-more-expensive-sam-crowell-asta/))
-- 종자 기업들이 재고 관리 시스템을 도입하여 생산 손실을 줄이고, 실시간 데이터 기반의 정확한 판매 결정을 통해 고객 신뢰를 높이고 있습니다. ([원문](https://www.seedworld.com/us/2026/05/22/the-inventory-question-every-seed-company-struggles-to-answer/))
+- 관세 및 통관 지연 등 국제 무역의 불확실성이 커지면서 글로벌 종자 거래 비용이 상승하고 있어 업계의 대응이 요구됩니다. ([원문](https://www.seedworld.com/us/2026/05/20/seed-trade-getting-more-expensive-sam-crowell-asta/))
+- 종자 기업들이 재고 관리 시스템을 디지털화하여 판매 가용성을 정확히 추적하고, 과잉 판매 방지 및 고객 신뢰도를 높이는 전략이 중요해지고 있습니다. ([원문](https://www.seedworld.com/us/2026/05/22/the-inventory-question-every-seed-company-struggles-to-answer/))
 
 <!-- AUTO_BRIEFING_END -->
 
 ## 이번주 하이라이트 (육종/품종/종자)
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
-
-- **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](items/rda/2026/05/100000810781.md)**
-  - 2026-05-22 · `rda` · [읽기](items/rda/2026/05/100000810781.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810781&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 우리나라 밀가루 소비 중 면류가 차지하는 비중이 38.9%로 가장 높다. 하지만 국산 밀로 제조한 면은 수입 밀에 비해 쫄깃한 식감과 신장성이 다소 부족하다는 지적이다.
 
 - **[European Commission Adopts Fertiliser Action Plan to Support Farmers and Strengthen EU Supply Security](items/seedworld/2026/05/https_www.seedworld.com_p_125445.md)**
   - 2026-05-22 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125445.md) · [원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/)
@@ -71,9 +67,14 @@ title: "식물 육종 뉴스"
   - 2026-05-22 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125426.md) · [원문](https://www.seedworld.com/canada/2026/05/21/a-new-era-of-farmer-led-innovation-is-emerging-in-canada/)
   - From wheat breeding discussions to concerns about oat research sustainability, producers are becoming central voices in shaping the future of crop innovation The post A New Era of Farmer-Led Innovati…
 
+- **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](items/rda/2026/05/100000810781.md)**
+  - 2026-05-22 · `rda` · [읽기](items/rda/2026/05/100000810781.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810781&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+
+- **[고유가 대응 에너지 절감 기술로 시설채소 안정 생산 지원](items/rda/2026/05/100000810780.md)**
+  - 2026-05-22 · `rda` · [읽기](items/rda/2026/05/100000810780.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810780&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+
 - **[농림지 동시 발생 ‘돌발해충’, 약충 때 협업 방제로 확산 예방](items/rda/2026/05/100000810779.md)**
   - 2026-05-22 · `rda` · [읽기](items/rda/2026/05/100000810779.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810779&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 ‘돌발해충’으로 인한 농경·산림지(농림지) 피해를 줄이기 위해 산림청, 지방자치단체와 함께 이달 21일부터 6월 30일까지 공동방제 기간을 운영한다.* * (농촌진흥청) 농림지 동시 발생 돌발해충 예찰·방제 총괄 (산림청) 산림지역 돌발해충 예찰·방제 총괄 이 기간에 도, 특·광역시에서는 지역 내 돌발해충 월동난* 부화 상황과…
 
 - **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](items/nics/2026/05/944230.md)**
   - 2026-05-22 · `nics` · [읽기](items/nics/2026/05/944230.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944230)
@@ -89,10 +90,6 @@ title: "식물 육종 뉴스"
 - **[Putting Concerns About Glyphosate into Perspective](items/seedworld/2026/05/https_www.seedworld.com_p_125293.md)**
   - 2026-05-21 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125293.md) · [원문](https://www.seedworld.com/europe/2026/05/21/putting-concerns-about-glyphosate-into-perspective/)
   - Joe Schwarcz examines the long-running glyphosate controversy, arguing that trace dietary residues in food pose no meaningful health risk to consumers. Reviewing decades of studies, he distinguishes…
-
-- **[Better Varieties Need Investment to Deliver Results](items/seedworld/2026/05/https_www.seedworld.com_p_125332.md)**
-  - 2026-05-21 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125332.md) · [원문](https://www.seedworld.com/canada/2026/05/20/better-varieties-need-investment-to-deliver-results/)
-  - There's an opportunity to evolve, and the sooner we act, the better positioned farmers will be The post Better Varieties Need Investment to Deliver Results appeared first on Seed World .
 
 
 <a id="recent"></a>
@@ -122,15 +119,12 @@ title: "식물 육종 뉴스"
 
 - **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](items/rda/2026/05/100000810781.md)**
   - 2026-05-22 · `rda` · [읽기](items/rda/2026/05/100000810781.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810781&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 우리나라 밀가루 소비 중 면류가 차지하는 비중이 38.9%로 가장 높다. 하지만 국산 밀로 제조한 면은 수입 밀에 비해 쫄깃한 식감과 신장성이 다소 부족하다는 지적이다.
 
 - **[고유가 대응 에너지 절감 기술로 시설채소 안정 생산 지원](items/rda/2026/05/100000810780.md)**
   - 2026-05-22 · `rda` · [읽기](items/rda/2026/05/100000810780.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810780&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 중동전쟁 장기화에 따른 경제 불확실성이 지속되는 가운데 여름철 고온기 시설재배 농가의 경영비 부담을 줄일 수 있는 에너지 절감 기술 및 안정 생산 기술 확산에 집중하고 있다. 이에 따라 7월 말까지 경기, 충청, 전라, 경상 4개 권역 16개 시군에서 토마토, 오이, 참외, 수박 등 시설원예 작물의 생육 관리를 위한 중앙 단위…
 
 - **[농림지 동시 발생 ‘돌발해충’, 약충 때 협업 방제로 확산 예방](items/rda/2026/05/100000810779.md)**
   - 2026-05-22 · `rda` · [읽기](items/rda/2026/05/100000810779.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810779&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 ‘돌발해충’으로 인한 농경·산림지(농림지) 피해를 줄이기 위해 산림청, 지방자치단체와 함께 이달 21일부터 6월 30일까지 공동방제 기간을 운영한다.* * (농촌진흥청) 농림지 동시 발생 돌발해충 예찰·방제 총괄 (산림청) 산림지역 돌발해충 예찰·방제 총괄 이 기간에 도, 특·광역시에서는 지역 내 돌발해충 월동난* 부화 상황과…
 
 - **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](items/nics/2026/05/944230.md)**
   - 2026-05-22 · `nics` · [읽기](items/nics/2026/05/944230.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944230)

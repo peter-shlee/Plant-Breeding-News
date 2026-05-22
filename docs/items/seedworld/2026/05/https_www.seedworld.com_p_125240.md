@@ -9,7 +9,7 @@ summary: "Jocelyn Velestuk says Canada’s wheat breeding system is at an “inf
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-05-22T22:13:54+09:00"
+fetched_at: "2026-05-22T22:49:49+09:00"
 ---
 # Why Canadian Farmers are Leading Discussions on a New Wheat Breeding Model
 

@@ -30,15 +30,12 @@ range_end: "2026-05-22"
 
 - **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](../items/rda/2026/05/100000810781.md)**
   - 2026-05-22 · `rda` · [읽기](../items/rda/2026/05/100000810781.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810781&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 우리나라 밀가루 소비 중 면류가 차지하는 비중이 38.9%로 가장 높다. 하지만 국산 밀로 제조한 면은 수입 밀에 비해 쫄깃한 식감과 신장성이 다소 부족하다는 지적이다.
 
 - **[고유가 대응 에너지 절감 기술로 시설채소 안정 생산 지원](../items/rda/2026/05/100000810780.md)**
   - 2026-05-22 · `rda` · [읽기](../items/rda/2026/05/100000810780.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810780&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 중동전쟁 장기화에 따른 경제 불확실성이 지속되는 가운데 여름철 고온기 시설재배 농가의 경영비 부담을 줄일 수 있는 에너지 절감 기술 및 안정 생산 기술 확산에 집중하고 있다. 이에 따라 7월 말까지 경기, 충청, 전라, 경상 4개 권역 16개 시군에서 토마토, 오이, 참외, 수박 등 시설원예 작물의 생육 관리를 위한 중앙 단위…
 
 - **[농림지 동시 발생 ‘돌발해충’, 약충 때 협업 방제로 확산 예방](../items/rda/2026/05/100000810779.md)**
   - 2026-05-22 · `rda` · [읽기](../items/rda/2026/05/100000810779.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810779&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 ‘돌발해충’으로 인한 농경·산림지(농림지) 피해를 줄이기 위해 산림청, 지방자치단체와 함께 이달 21일부터 6월 30일까지 공동방제 기간을 운영한다.* * (농촌진흥청) 농림지 동시 발생 돌발해충 예찰·방제 총괄 (산림청) 산림지역 돌발해충 예찰·방제 총괄 이 기간에 도, 특·광역시에서는 지역 내 돌발해충 월동난* 부화 상황과…
 
 - **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](../items/nics/2026/05/944230.md)**
   - 2026-05-22 · `nics` · [읽기](../items/nics/2026/05/944230.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944230)
@@ -253,15 +250,12 @@ range_end: "2026-05-22"
 
 - **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](../items/rda/2026/05/100000810781.md)**
   - 2026-05-22 · [읽기](../items/rda/2026/05/100000810781.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810781&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 우리나라 밀가루 소비 중 면류가 차지하는 비중이 38.9%로 가장 높다. 하지만 국산 밀로 제조한 면은 수입 밀에 비해 쫄깃한 식감과 신장성이 다소 부족하다는 지적이다.
 
 - **[고유가 대응 에너지 절감 기술로 시설채소 안정 생산 지원](../items/rda/2026/05/100000810780.md)**
   - 2026-05-22 · [읽기](../items/rda/2026/05/100000810780.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810780&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 중동전쟁 장기화에 따른 경제 불확실성이 지속되는 가운데 여름철 고온기 시설재배 농가의 경영비 부담을 줄일 수 있는 에너지 절감 기술 및 안정 생산 기술 확산에 집중하고 있다. 이에 따라 7월 말까지 경기, 충청, 전라, 경상 4개 권역 16개 시군에서 토마토, 오이, 참외, 수박 등 시설원예 작물의 생육 관리를 위한 중앙 단위…
 
 - **[농림지 동시 발생 ‘돌발해충’, 약충 때 협업 방제로 확산 예방](../items/rda/2026/05/100000810779.md)**
   - 2026-05-22 · [읽기](../items/rda/2026/05/100000810779.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810779&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 ‘돌발해충’으로 인한 농경·산림지(농림지) 피해를 줄이기 위해 산림청, 지방자치단체와 함께 이달 21일부터 6월 30일까지 공동방제 기간을 운영한다.* * (농촌진흥청) 농림지 동시 발생 돌발해충 예찰·방제 총괄 (산림청) 산림지역 돌발해충 예찰·방제 총괄 이 기간에 도, 특·광역시에서는 지역 내 돌발해충 월동난* 부화 상황과…
 
 - **[국립원예특작과학원, 73년 발자취 돌아보며 미래 도약 다짐](../items/rda/2026/05/100000810485.md)**
   - 2026-05-20 · [읽기](../items/rda/2026/05/100000810485.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810485&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)

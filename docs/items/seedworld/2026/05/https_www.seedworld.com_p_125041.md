@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/07/napb-2026-puts-spotlight-on-cotton
 summary: "From vortex spinning challenges to field tours, this year’s meeting explores how breeders are improving cotton to compete globally The post NAPB 2026 Puts Spotlight on Cotton Breeding and Fiber Quality Advances appeared first on Seed World"
 attachments: []
 tags: []
-fetched_at: "2026-05-22T22:13:54+09:00"
+fetched_at: "2026-05-22T22:49:50+09:00"
 ---
 # NAPB 2026 Puts Spotlight on Cotton Breeding and Fiber Quality Advances
 

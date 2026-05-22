@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/04/denmarks-oat-strategy-could-tr
 summary: "Denmark’s AVENUE project is testing 200 oat varieties to develop climate-resilient, nutritious crops for sustainable organic farming. By studying yield, quality, adaptability and health traits, researchers aim to create 'super oats' that"
 attachments: []
 tags: []
-fetched_at: "2026-05-22T22:13:54+09:00"
+fetched_at: "2026-05-22T22:49:50+09:00"
 ---
 # Denmark’s Oat Strategy Could Transform Sustainable Agriculture
 

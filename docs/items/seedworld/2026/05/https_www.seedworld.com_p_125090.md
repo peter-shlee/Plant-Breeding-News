@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/08/john-barlow-on-the-fight-to-sa
 summary: "The vice chair of the House agriculture committee says witness testimony made it clear: research facility closures would have lasting impacts on Canadian agriculture The post John Barlow on the Fight to Save Canada’s Ag Research Facilities"
 attachments: []
 tags: []
-fetched_at: "2026-05-22T22:13:54+09:00"
+fetched_at: "2026-05-22T22:49:49+09:00"
 ---
 # John Barlow on the Fight to Save Canada’s Ag Research Facilities
 
