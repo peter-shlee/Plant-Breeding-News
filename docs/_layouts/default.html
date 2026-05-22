@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'ko' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description | strip_html | normalize_whitespace }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body class="pbn-shell" data-page-url="{{ page.url }}" data-baseurl="{{ site.baseurl }}">
+    <div class="pbn-ambient" aria-hidden="true">
+    </div>
+
+    <header class="pbn-topbar">
+      <a class="pbn-brand" href="{{ '/' | relative_url }}" aria-label="식물 육종 뉴스 홈">
+        <span class="pbn-brand__mark">PBN</span>
+        <span class="pbn-brand__text">식물 육종 뉴스</span>
+      </a>
+      <nav class="pbn-nav" aria-label="주요 메뉴">
+        <a href="{{ '/podcast/' | relative_url }}">에피소드</a>
+        <a href="{{ '/weekly/latest.html' | relative_url }}">브리핑</a>
+        <a href="{{ '/' | relative_url }}#recent">뉴스</a>
+        <a href="{{ '/' | relative_url }}#weekly-archive">아카이브</a>
+      </nav>
+      <form class="pbn-search" role="search">
+        <label class="sr-only" for="pbn-search-input">뉴스 검색</label>
+        <input id="pbn-search-input" type="search" placeholder="검색" autocomplete="off">
+      </form>
+    </header>
+
+    <main class="pbn-main" id="main-content">
+      <article class="markdown-source" id="markdown-source">
+        {{ content }}
+      </article>
+    </main>
+
+    <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+  </body>
+</html>
