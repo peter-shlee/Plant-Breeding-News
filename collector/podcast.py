@@ -45,7 +45,7 @@ def build_podcast(
     *,
     outdir: str,
     days: int = 7,
-    max_candidates: int = 24,
+    max_candidates: int = 5,
     target_minutes: int = 5,
     script_model: str = DEFAULT_SCRIPT_MODEL,
     tts_model: str = DEFAULT_TTS_MODEL,
@@ -467,7 +467,7 @@ def _script_prompt(
     lines.append("")
     lines.append("[규칙]")
     lines.append(f"- 기간: {range_start} ~ {range_end}")
-    lines.append("- selectedItems는 아래 후보의 idx 중 중요한 4~6개만 고른다.")
+    lines.append("- selectedItems는 아래 후보의 idx 중 가장 중요한 기사만 고르되, 최대 5개를 넘기지 않는다.")
     lines.append("- 제공되지 않은 기사, 통계, 링크, 인물 발언은 만들지 않는다.")
     lines.append("- title과 excerpt를 그대로 낭독하지 말고, 핵심 의미를 한국어로 번역·요약해서 말한다.")
     lines.append("- 영어 문장, 영어 기사 제목, 영어 본문 조각을 대사에 그대로 넣지 않는다.")
@@ -534,7 +534,7 @@ def _strip_json_fence(text: str) -> str:
 
 
 def _fallback_episode(candidates: list[PodcastCandidate], *, range_start: str, range_end: str) -> dict[str, Any]:
-    selected = candidates[:6]
+    selected = candidates[:5]
     title = f"식물 육종 뉴스 팟캐스트 ({range_end})"
     short = "이번 주 식물 육종·종자·품종 관련 핵심 소식을 요약했다."
 
@@ -638,7 +638,7 @@ def _normalize_episode(
         selected.append({"idx": idx, "reason": reason})
 
     if len(selected) < 3:
-        selected = [{"idx": c.idx, "reason": "키워드 점수와 최신성을 기준으로 선택"} for c in candidates[:6]]
+        selected = [{"idx": c.idx, "reason": "키워드 점수와 최신성을 기준으로 선택"} for c in candidates[:5]]
 
     dialogue: list[dict[str, str]] = []
     for i, obj in enumerate(episode.get("dialogue") or []):
@@ -658,7 +658,7 @@ def _normalize_episode(
     return {
         "title": title,
         "shortDescription": desc,
-        "selectedItems": selected[:8],
+        "selectedItems": selected[:5],
         "dialogue": dialogue[:16],
     }
 

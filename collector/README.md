@@ -116,6 +116,8 @@ Outputs:
 
 The command uses `gemini-2.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It skips regeneration when a recent audio episode exists, avoids repeat no-key runs for text-only fallbacks, and retries text-only episodes once `GEMINI_API_KEY` is available so audio can be generated.
 
+By default, the script passes only the top 5 scored article candidates to Gemini so each episode stays focused.
+
 ## Firestore (optional)
 
 If you have Firebase service account credentials:

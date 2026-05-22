@@ -473,7 +473,7 @@ def main(argv: list[str] | None = None) -> int:
     pp.add_argument("--outdir", default=os.path.join(os.getcwd(), "docs"), help="Docs output directory")
     pp.add_argument("--days", type=int, default=7, help="Include items within last N days")
     pp.add_argument("--limit", type=int, default=30, help=argparse.SUPPRESS)
-    pp.add_argument("--max-candidates", type=int, default=24, help="Max candidate items to pass to Gemini")
+    pp.add_argument("--max-candidates", type=int, default=5, help="Max candidate items to pass to Gemini")
     pp.add_argument("--target-minutes", type=int, default=5, help="Target episode length in minutes")
     pp.add_argument("--db", default=default_db_path(), help="SQLite path (preferred)")
     pp.add_argument(
