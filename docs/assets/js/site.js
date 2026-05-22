@@ -17,6 +17,29 @@
 
   const text = (node) => (node ? node.textContent.replace(/\s+/g, " ").trim() : "");
 
+  const sourceLabels = {
+    nics: "NICS",
+    nihhs: "NIHHS",
+    rda: "RDA",
+    sciencedaily: "ScienceDaily",
+    seedworld: "Seed World",
+    news: "News",
+  };
+
+  const sourceDisplayName = (sourceName) => {
+    if (sourceName === "전체") return "전체";
+    const key = String(sourceName || "news").toLowerCase();
+    return sourceLabels[key] || String(sourceName || "news").toUpperCase();
+  };
+
+  const filterButtonMarkup = (values) =>
+    values
+      .map(
+        (value, index) =>
+          `<button type="button" class="${index === 0 ? "is-active" : ""}" data-source="${escapeAttr(value)}">${escapeHtml(sourceDisplayName(value))}</button>`,
+      )
+      .join("");
+
   const findHeading = (level, needle) =>
     Array.from(source.querySelectorAll(level)).find((heading) => text(heading).includes(needle));
 
@@ -297,7 +320,7 @@
                 <span class="queue-index">${String(index + 1).padStart(2, "0")}</span>
                 <span>
                   <strong class="queue-title">${escapeHtml(item.title)}</strong>
-                  <span class="queue-meta">${escapeHtml(item.source || "news")} ${item.date ? `· ${escapeHtml(item.date)}` : ""}</span>
+                  <span class="queue-meta">${escapeHtml(sourceDisplayName(item.source))} ${item.date ? `· ${escapeHtml(item.date)}` : ""}</span>
                 </span>
               </a>
             `,
@@ -402,7 +425,7 @@
               (item) => `
                 <article class="news-card" data-source="${escapeAttr(item.source)}">
                   <div class="news-card__meta">
-                    <span class="source-badge">${escapeHtml(item.source)}</span>
+                    <span class="source-badge">${escapeHtml(sourceDisplayName(item.source))}</span>
                     <span>${escapeHtml(item.date || "latest")}</span>
                   </div>
                   <h3><a href="${escapeAttr(item.href)}">${escapeHtml(item.title)}</a></h3>
@@ -444,17 +467,17 @@
           <p>새 소식을 읽기 전에 큐에 올려두고 흐름부터 들어보세요.</p>
         </div>
         <div class="source-filter" data-source-filter>
-          ${["전체", "rda", "nics", "nihhs", "seedworld", "sciencedaily"]
-            .map((label, index) => `<button type="button" class="${index === 0 ? "is-active" : ""}" data-source="${label}">${label}</button>`)
-            .join("")}
+          ${filterButtonMarkup(["전체", "rda", "nics", "nihhs", "seedworld", "sciencedaily"])}
         </div>
+        <p class="filter-status" data-results-status aria-live="polite"></p>
+        <div class="filter-empty" data-empty-state hidden>조건에 맞는 뉴스가 없습니다. 검색어를 줄이거나 전체 출처로 다시 확인하세요.</div>
         <div class="news-grid">
           ${recent
             .map(
               (item) => `
                 <article class="news-card" data-source="${escapeAttr(item.source)}">
                   <div class="news-card__meta">
-                    <span class="source-badge">${escapeHtml(item.source)}</span>
+                    <span class="source-badge">${escapeHtml(sourceDisplayName(item.source))}</span>
                     <span>${escapeHtml(item.date || "latest")}</span>
                   </div>
                   <h3><a href="${escapeAttr(item.href)}">${escapeHtml(item.title)}</a></h3>
@@ -723,7 +746,7 @@
                   <span class="queue-index">${String(index + 1).padStart(2, "0")}</span>
                   <span>
                     <strong class="queue-title">${escapeHtml(item.title)}</strong>
-                    <span class="queue-meta">${escapeHtml(item.source || "news")} ${item.date ? `· ${escapeHtml(item.date)}` : ""}</span>
+                    <span class="queue-meta">${escapeHtml(sourceDisplayName(item.source))} ${item.date ? `· ${escapeHtml(item.date)}` : ""}</span>
                   </span>
                 </a>
               `,
@@ -808,7 +831,7 @@
             .map(
               (stat) => `
                 <button type="button" data-source-jump="${escapeAttr(stat.sourceName)}">
-                  <span>${escapeHtml(stat.sourceName)}</span>
+                  <span>${escapeHtml(sourceDisplayName(stat.sourceName))}</span>
                   <strong>${stat.count}</strong>
                 </button>
               `,
@@ -823,10 +846,10 @@
           <p>긴 주간 요약은 카드보다 행 단위 목록이 더 빠르게 스캔됩니다.</p>
         </div>
         <div class="source-filter" data-source-filter>
-          ${["전체", ...stats.map((stat) => stat.sourceName)]
-            .map((label, index) => `<button type="button" class="${index === 0 ? "is-active" : ""}" data-source="${escapeAttr(label)}">${escapeHtml(label)}</button>`)
-            .join("")}
+          ${filterButtonMarkup(["전체", ...stats.map((stat) => stat.sourceName)])}
         </div>
+        <p class="filter-status" data-results-status aria-live="polite"></p>
+        <div class="filter-empty" data-empty-state hidden>조건에 맞는 뉴스가 없습니다. 검색어를 줄이거나 전체 출처로 다시 확인하세요.</div>
         <div class="weekly-news-list">
           ${recent
             .map(
@@ -835,7 +858,7 @@
                   <span class="weekly-row-index">${String(index + 1).padStart(2, "0")}</span>
                   <div class="weekly-row-main">
                     <div class="news-card__meta">
-                      <span class="source-badge">${escapeHtml(item.source)}</span>
+                      <span class="source-badge">${escapeHtml(sourceDisplayName(item.source))}</span>
                       <span>${escapeHtml(item.date || "latest")}</span>
                     </div>
                     <h3><a href="${escapeAttr(item.href)}">${escapeHtml(item.title)}</a></h3>
@@ -862,11 +885,23 @@
     const applyNewsFilters = () => {
       const selected = filter?.querySelector(".is-active")?.dataset.source || "전체";
       const query = (search?.value || "").trim().toLowerCase();
-      document.querySelectorAll(".news-card[data-source]").forEach((card) => {
+      const cards = Array.from(document.querySelectorAll(".news-card[data-source]"));
+      let visibleCount = 0;
+      cards.forEach((card) => {
         const sourceMatches = selected === "전체" || card.dataset.source === selected;
         const queryMatches = !query || card.textContent.toLowerCase().includes(query);
         card.hidden = !sourceMatches || !queryMatches;
+        if (!card.hidden) visibleCount += 1;
       });
+
+      const status = document.querySelector("[data-results-status]");
+      const empty = document.querySelector("[data-empty-state]");
+      if (status && cards.length) {
+        const queryLabel = query ? `"${search.value.trim()}" 검색` : "전체 뉴스";
+        const sourceLabel = selected === "전체" ? "전체 출처" : sourceDisplayName(selected);
+        status.textContent = `${queryLabel} · ${sourceLabel} · ${visibleCount}건`;
+      }
+      if (empty) empty.hidden = visibleCount > 0;
     };
 
     const initialQuery = new URLSearchParams(window.location.search).get("q");
