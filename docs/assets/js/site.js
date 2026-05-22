@@ -104,6 +104,45 @@
 
   const parseSources = () => parseLinkListFromHeading("출처별 모아보기");
 
+  const setActiveNav = () => {
+    const normalizedPath = (pageUrl || window.location.pathname).replace(/\/index\.html$/, "/");
+    const hash = window.location.hash;
+    document.querySelectorAll(".pbn-nav a").forEach((link) => {
+      const href = link.getAttribute("href") || "";
+      const url = new URL(href, window.location.href);
+      const targetPath = url.pathname.replace(/\/index\.html$/, "/");
+      const isActive =
+        (targetPath.endsWith("/podcast/") && normalizedPath.includes("/podcast/")) ||
+        (targetPath.includes("/weekly/") && normalizedPath.includes("/weekly/")) ||
+        (url.hash === "#recent" && normalizedPath.endsWith("/") && hash === "#recent") ||
+        (url.hash === "#weekly-archive" && normalizedPath.endsWith("/") && hash === "#weekly-archive");
+      link.classList.toggle("is-active", isActive);
+      if (isActive) {
+        link.setAttribute("aria-current", "page");
+      } else {
+        link.removeAttribute("aria-current");
+      }
+    });
+  };
+
+  const scrollToCurrentHash = () => {
+    const id = decodeURIComponent(window.location.hash.slice(1));
+    if (!id) return;
+    const alignToTarget = () => {
+      const target = document.getElementById(id);
+      if (!target) return;
+      const top = Math.max(0, target.getBoundingClientRect().top + window.scrollY - 96);
+      window.scrollTo({ top, behavior: "auto" });
+    };
+    requestAnimationFrame(alignToTarget);
+    setTimeout(alignToTarget, 50);
+    setTimeout(alignToTarget, 250);
+    setTimeout(alignToTarget, 750);
+  };
+
+  const escapeSelectorValue = (value) =>
+    window.CSS?.escape ? CSS.escape(value) : String(value).replace(/["\\]/g, "\\$&");
+
   const deactivateSourceAnchors = () => {
     source.querySelectorAll("[id]").forEach((element) => element.removeAttribute("id"));
   };
@@ -263,6 +302,10 @@
 
   const buildHome = async () => {
     document.body.classList.add("view-home");
+    deactivateSourceAnchors();
+    if (window.location.hash) {
+      window.scrollTo(0, 0);
+    }
     const metadata = metadataFromHome();
     const podcast = await fetchPodcast();
     const highlights = parseItemsFromHeading("이번주 하이라이트");
@@ -284,7 +327,6 @@
     const episodeHref = podcast?.releasedDate ? `${baseUrl}/podcast/${podcast.releasedDate}.html` : `${baseUrl}/podcast/`;
     const duration = podcast?.audio?.durationSeconds ? formatTime(podcast.audio.durationSeconds) : "2:15";
 
-    deactivateSourceAnchors();
     source.classList.add("is-hidden");
     const app = document.createElement("section");
     app.className = "home-experience";
@@ -423,8 +465,8 @@
 
       <section class="section-block" id="weekly-archive">
         <div class="section-head">
-          <h2>지난 에피소드</h2>
-          <p>지난 주간 브리핑 전체를 에피소드 단위로 다시 확인하세요.</p>
+          <h2>지난 브리핑</h2>
+          <p>주차별 흐름을 다시 읽고 에피소드로 이어서 확인하세요.</p>
         </div>
         <div class="archive-tiles">
           ${archive
@@ -468,6 +510,7 @@
     source.after(app);
     initPlayers();
     initFilters();
+    scrollToCurrentHash();
   };
 
   const parseEpisodeTranscript = () => {
@@ -556,6 +599,256 @@
     initFilters();
   };
 
+  const parsePodcastEpisodes = () => {
+    const heading = findHeading("h2", "최신 에피소드");
+    if (!heading) return [];
+    return Array.from(siblingsUntilNextH2(heading))
+      .filter((node) => node.tagName === "H3")
+      .map((node) => {
+        const link = node.querySelector("a");
+        const description = text(node.nextElementSibling?.tagName === "P" ? node.nextElementSibling : null);
+        return {
+          title: text(link) || text(node),
+          href: normalizeHref(link?.getAttribute("href") || "#"),
+          description,
+        };
+      })
+      .filter((episode) => episode.title);
+  };
+
+  const buildPodcastIndex = async () => {
+    document.body.classList.add("view-podcast-index");
+    const podcast = await fetchPodcast();
+    const episodes = parsePodcastEpisodes();
+    const latest = episodes[0] || {
+      title: podcast?.title?.replace(/^식물 육종 뉴스 팟캐스트\s*/, "") || "이번 주 식물 육종 브리핑",
+      href: podcast?.releasedDate ? `${baseUrl}/podcast/${podcast.releasedDate}.html` : "#",
+      description: podcast?.shortDescription || "식물 육종과 종자 산업의 주요 흐름을 한국어 오디오로 정리했습니다.",
+    };
+    const audioSrc = podcast?.audio?.url ? `${baseUrl}/podcast/${podcast.audio.url}` : "";
+    const duration = podcast?.audio?.durationSeconds ? formatTime(podcast.audio.durationSeconds) : "2:15";
+    const queueItems = (podcast?.selectedItems || []).map((item) => ({
+      title: item.title,
+      href: item.itemPath ? `${baseUrl}/${item.itemPath}` : "#",
+      source: item.source,
+      date: item.date,
+    }));
+
+    deactivateSourceAnchors();
+    source.classList.add("is-hidden");
+    const app = document.createElement("section");
+    app.className = "podcast-index-experience";
+    app.innerHTML = `
+      <section class="podcast-hero">
+        <aside class="episode-rail">
+          <p class="kicker">PBN Episodes</p>
+          <h1 class="cover-title" aria-label="식물 육종 뉴스 에피소드">
+            <span class="cover-title__white">뉴스를</span>
+            <span class="cover-title__blue">듣는</span>
+            <span class="cover-title__cyan">식물</span>
+            <span class="cover-title__green">육종</span>
+          </h1>
+          <div class="episode-art" aria-hidden="true">
+            <div class="episode-art__label">
+              <strong>${escapeHtml(latest.title)}</strong>
+              <span>AI TALK AUDIO</span>
+            </div>
+          </div>
+        </aside>
+
+        <div class="podcast-stage">
+          <div class="podcast-topline">
+            <span class="glass-pill">${escapeHtml(episodes.length || 1)} episodes</span>
+            <a class="glass-pill" href="${baseUrl}/podcast/feed.xml">RSS</a>
+          </div>
+          <article class="current-episode podcast-feature" data-player>
+            <audio preload="metadata" src="${escapeAttr(audioSrc)}"></audio>
+            <p class="kicker">Latest episode</p>
+            <h1>${escapeHtml(latest.title)}</h1>
+            <p class="episode-subtitle">${escapeHtml(latest.description)}</p>
+            <div class="episode-controls">
+              <button class="play-button" type="button" aria-label="최신 에피소드 재생"></button>
+              <div class="audio-stack">
+                <div class="waveform" aria-hidden="true">${waveform()}</div>
+                <div class="progress"><span class="progress__bar" style="--value: 0%"></span></div>
+                <div class="time-row"><span data-current-time>0:00</span><span data-duration>${escapeHtml(duration)}</span></div>
+              </div>
+            </div>
+            <div class="episode-links">
+              <a class="episode-action episode-action--primary" href="${escapeAttr(latest.href)}">대본 보기</a>
+              <a class="episode-action" href="${baseUrl}/podcast/feed.xml">RSS 구독</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section-block">
+        <div class="section-head">
+          <h2>에피소드 라이브러리</h2>
+          <p>브리핑을 먼저 듣고, 필요한 항목은 원문 뉴스로 이어서 확인하세요.</p>
+        </div>
+        <div class="episode-library">
+          ${episodes
+            .map(
+              (episode, index) => `
+                <a class="episode-card" href="${escapeAttr(episode.href)}">
+                  <span>EP ${String(index + 1).padStart(2, "0")}</span>
+                  <strong>${escapeHtml(episode.title)}</strong>
+                  <p>${escapeHtml(episode.description)}</p>
+                </a>
+              `,
+            )
+            .join("")}
+        </div>
+      </section>
+
+      <section class="section-block">
+        <div class="section-head">
+          <h2>이번 에피소드 큐</h2>
+          <p>오디오에서 다루는 원본 뉴스 흐름입니다.</p>
+        </div>
+        <div class="episode-queue-grid">
+          ${queueItems
+            .slice(0, 6)
+            .map(
+              (item, index) => `
+                <a class="queue-item queue-item--card" href="${escapeAttr(normalizeHref(item.href))}">
+                  <span class="queue-index">${String(index + 1).padStart(2, "0")}</span>
+                  <span>
+                    <strong class="queue-title">${escapeHtml(item.title)}</strong>
+                    <span class="queue-meta">${escapeHtml(item.source || "news")} ${item.date ? `· ${escapeHtml(item.date)}` : ""}</span>
+                  </span>
+                </a>
+              `,
+            )
+            .join("")}
+        </div>
+      </section>
+      ${buildFloatingPlayer({
+        title: `이번 주 식물 육종 브리핑: ${latest.title}`,
+        subtitle: "지윤 · 민종",
+        audioSrc,
+        duration,
+      })}
+    `;
+    source.after(app);
+    initPlayers();
+    initFilters();
+  };
+
+  const sourceStats = (items) =>
+    Object.entries(
+      items.reduce((acc, item) => {
+        acc[item.source] = (acc[item.source] || 0) + 1;
+        return acc;
+      }, {}),
+    )
+      .sort((a, b) => b[1] - a[1])
+      .map(([sourceName, count]) => ({ sourceName, count }));
+
+  const buildWeeklyBriefing = () => {
+    document.body.classList.add("view-weekly-briefing");
+    const title = text(source.querySelector("h1")) || "주간 요약";
+    const range = title.match(/\(([^)]+)\)/)?.[1] || "최근 7일";
+    const recent = parseItemsFromHeading("Recent");
+    const stats = sourceStats(recent);
+    const featured = recent[0];
+
+    deactivateSourceAnchors();
+    source.classList.add("is-hidden");
+    const app = document.createElement("section");
+    app.className = "weekly-briefing-experience";
+    app.innerHTML = `
+      <section class="briefing-hero">
+        <div class="briefing-title-block">
+          <p class="kicker">Weekly briefing</p>
+          <h1>
+            <span>이번 주</span>
+            <span>식물 육종</span>
+            <span class="cover-title__cyan">뉴스 브리핑</span>
+          </h1>
+          <p>${escapeHtml(range)} 동안 수집된 주요 뉴스를 출처와 맥락별로 정리했습니다.</p>
+        </div>
+        <aside class="briefing-stats" aria-label="브리핑 통계">
+          <div>
+            <span>${recent.length}</span>
+            <strong>뉴스</strong>
+          </div>
+          <div>
+            <span>${stats.length}</span>
+            <strong>출처</strong>
+          </div>
+          <div>
+            <span>${escapeHtml(range.split("~").pop()?.trim() || "latest")}</span>
+            <strong>최신 업데이트</strong>
+          </div>
+        </aside>
+      </section>
+
+      <section class="briefing-focus">
+        <article class="briefing-feature">
+          <p class="kicker">Lead signal</p>
+          <h2><a href="${escapeAttr(featured?.href || "#")}">${escapeHtml(featured?.title || "이번 주 주요 신호")}</a></h2>
+          <p>${escapeHtml(featured?.excerpt || "이번 주 식물 육종과 종자 산업에서 눈에 띄는 흐름을 모았습니다.")}</p>
+          <div class="card-actions">
+            <a href="${escapeAttr(featured?.href || "#")}">읽기</a>
+            <a href="${escapeAttr(featured?.originalHref || featured?.href || "#")}">원문</a>
+          </div>
+        </article>
+        <div class="source-snapshot">
+          <p class="kicker">Source mix</p>
+          ${stats
+            .map(
+              (stat) => `
+                <button type="button" data-source-jump="${escapeAttr(stat.sourceName)}">
+                  <span>${escapeHtml(stat.sourceName)}</span>
+                  <strong>${stat.count}</strong>
+                </button>
+              `,
+            )
+            .join("")}
+        </div>
+      </section>
+
+      <section class="section-block" id="weekly-news">
+        <div class="section-head">
+          <h2>뉴스 리스트</h2>
+          <p>긴 주간 요약은 카드보다 행 단위 목록이 더 빠르게 스캔됩니다.</p>
+        </div>
+        <div class="source-filter" data-source-filter>
+          ${["전체", ...stats.map((stat) => stat.sourceName)]
+            .map((label, index) => `<button type="button" class="${index === 0 ? "is-active" : ""}" data-source="${escapeAttr(label)}">${escapeHtml(label)}</button>`)
+            .join("")}
+        </div>
+        <div class="weekly-news-list">
+          ${recent
+            .map(
+              (item, index) => `
+                <article class="news-card weekly-news-row" data-source="${escapeAttr(item.source)}">
+                  <span class="weekly-row-index">${String(index + 1).padStart(2, "0")}</span>
+                  <div class="weekly-row-main">
+                    <div class="news-card__meta">
+                      <span class="source-badge">${escapeHtml(item.source)}</span>
+                      <span>${escapeHtml(item.date || "latest")}</span>
+                    </div>
+                    <h3><a href="${escapeAttr(item.href)}">${escapeHtml(item.title)}</a></h3>
+                    <p>${escapeHtml(item.excerpt || "요약 정보가 제공되지 않은 소식입니다. 원문과 수집 데이터를 확인하세요.")}</p>
+                  </div>
+                  <div class="card-actions">
+                    <a href="${escapeAttr(item.href)}">읽기</a>
+                    <a href="${escapeAttr(item.originalHref || item.href)}">원문</a>
+                  </div>
+                </article>
+              `,
+            )
+            .join("")}
+        </div>
+      </section>
+    `;
+    source.after(app);
+    initFilters();
+  };
+
   const initFilters = () => {
     const filter = document.querySelector("[data-source-filter]");
     const search = document.getElementById("pbn-search-input");
@@ -592,6 +885,13 @@
       button.classList.add("is-active");
       applyNewsFilters();
     });
+
+    document.querySelectorAll("[data-source-jump]").forEach((button) => {
+      button.addEventListener("click", () => {
+        filter?.querySelector(`[data-source="${escapeSelectorValue(button.dataset.sourceJump)}"]`)?.click();
+        document.getElementById("weekly-news")?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    });
   };
 
   const normalizedPage = pageUrl.replace(/\/index\.html$/, "/");
@@ -599,11 +899,23 @@
     normalizedPage === "/" ||
     (text(source.querySelector("h1")) === "식물 육종 뉴스" && Boolean(source.querySelector("#highlights")));
   const isPodcastEpisode = Boolean(source.querySelector("audio")) && Boolean(findHeading("h2", "대본"));
+  const isPodcastIndex = text(source.querySelector("h1")) === "식물 육종 뉴스 팟캐스트";
+  const isWeeklyBriefing = text(source.querySelector("h1")).startsWith("주간 요약");
+
+  setActiveNav();
+  window.addEventListener("hashchange", () => {
+    setActiveNav();
+    scrollToCurrentHash();
+  });
 
   if (isHome) {
     buildHome();
   } else if (isPodcastEpisode) {
     buildPlayback();
+  } else if (isPodcastIndex) {
+    buildPodcastIndex();
+  } else if (isWeeklyBriefing) {
+    buildWeeklyBriefing();
   } else {
     source.classList.remove("is-hidden");
     initFilters();
