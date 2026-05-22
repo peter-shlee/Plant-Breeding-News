@@ -31,7 +31,16 @@
 
   const normalizeHref = (href) => {
     if (!href) return "#";
-    if (/^(https?:|mailto:|tel:|#)/i.test(href)) return href;
+    if (/^(mailto:|tel:|#)/i.test(href)) return href;
+    if (/^https?:/i.test(href)) {
+      try {
+        const url = new URL(href);
+        url.pathname = url.pathname.replace(/\.md$/i, ".html");
+        return url.href;
+      } catch {
+        return href;
+      }
+    }
     const hashIndex = href.indexOf("#");
     const queryIndex = href.indexOf("?");
     const splitIndex = [hashIndex, queryIndex].filter((index) => index >= 0).sort((a, b) => a - b)[0];
@@ -92,6 +101,10 @@
   const parseArchive = (limit = Infinity) => parseLinkListFromHeading("지난 주간 아카이브", limit);
 
   const parseSources = () => parseLinkListFromHeading("출처별 모아보기");
+
+  const deactivateSourceAnchors = () => {
+    source.querySelectorAll("[id]").forEach((element) => element.removeAttribute("id"));
+  };
 
   const parseBriefing = () => {
     const heading = findHeading("h2", "30초");
@@ -243,10 +256,12 @@
     const episodeTitle = podcast?.title || "이번 주 식물 육종 브리핑";
     const displayEpisodeTitle = episodeTitle.replace(/^식물 육종 뉴스 팟캐스트\s*/, "");
     const episodeSubtitle = podcast?.shortDescription || "국산 밀, 기후 회복력, 종자 산업의 변화를 오디오로 정리했습니다.";
+    const episodeHref = podcast?.releasedDate ? `${baseUrl}/podcast/${podcast.releasedDate}.html` : `${baseUrl}/podcast/`;
     const duration = podcast?.audio?.durationSeconds
       ? `${Math.floor(podcast.audio.durationSeconds / 60)}:${String(Math.round(podcast.audio.durationSeconds % 60)).padStart(2, "0")}`
       : "2:15";
 
+    deactivateSourceAnchors();
     source.classList.add("is-hidden");
     const app = document.createElement("section");
     app.className = "home-experience";
@@ -295,7 +310,7 @@
                 </div>
               </div>
               <div class="episode-links">
-                <a class="episode-action episode-action--primary" href="${baseUrl}/podcast/">에피소드 열기</a>
+                <a class="episode-action episode-action--primary" href="${escapeAttr(episodeHref)}">에피소드 열기</a>
                 <a class="episode-action" href="${baseUrl}/podcast/feed.xml">RSS</a>
               </div>
             </div>
@@ -456,6 +471,7 @@
     const transcript = parseEpisodeTranscript();
     const timestamps = ["0:00", "0:13", "0:46", "1:19", "1:26", "2:01", "2:34", "3:02"];
 
+    deactivateSourceAnchors();
     source.classList.add("is-hidden");
     const app = document.createElement("section");
     app.className = "playback-experience";
