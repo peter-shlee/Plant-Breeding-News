@@ -564,6 +564,7 @@ def render_portal_index_md(
             lines.append("")
         lines.append("")
 
+    lines.append('<a id="news-feed"></a>')
     lines.append('<a id="recent"></a>')
     lines.append("## 최근 소식 (최근 7일)\n")
     lines.append("최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.\n")

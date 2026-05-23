@@ -139,7 +139,8 @@
       const isActive =
         (targetPath.endsWith("/podcast/") && normalizedPath.includes("/podcast/")) ||
         (targetPath.includes("/weekly/") && normalizedPath.includes("/weekly/")) ||
-        (url.hash === "#recent" && isHomePath && (!hash || hash === "#recent")) ||
+        (url.hash === "#news-feed" && isHomePath && (!hash || hash === "#news-feed")) ||
+        (url.hash === "#briefing" && isHomePath && hash === "#briefing") ||
         (url.hash === "#weekly-archive" && isHomePath && hash === "#weekly-archive");
       link.classList.toggle("is-active", isActive);
       if (isActive) {
@@ -197,7 +198,7 @@
       }
       if (!current || node.tagName !== "UL") return;
       const first = node.querySelector("li");
-      if (first) current.body = text(first);
+      if (first) current.body = text(first).replace(/\s*\(?원문\)?\s*$/, "");
     });
     return cards.filter((card) => card.title && card.body).slice(0, 3);
   };
@@ -607,200 +608,130 @@
     const briefing = parseBriefing();
     const archive = parseArchive();
     const sources = parseSources();
-    const selectedItems = (podcast?.selectedItems || []).map((item) => ({
-      title: item.title,
-      href: item.itemPath ? normalizeHref(`${baseUrl}/${item.itemPath}`) : "#",
-      source: item.source,
-      date: item.date,
-    }));
-    const queueItems = selectedItems.length ? selectedItems : highlights;
     const audioSrc = podcast?.audio?.url ? `${baseUrl}/podcast/${podcast.audio.url}` : "";
     const episodeTitle = podcast?.title || "이번 주 식물 육종 브리핑";
     const displayEpisodeTitle = episodeTitle.replace(/^식물 육종 뉴스 팟캐스트\s*/, "");
     const episodeSubtitle = podcast?.shortDescription || "국산 밀, 기후 회복력, 종자 산업의 변화를 오디오로 정리했습니다.";
     const episodeHref = podcast?.releasedDate ? `${baseUrl}/podcast/${podcast.releasedDate}.html` : `${baseUrl}/podcast/`;
     const duration = podcast?.audio?.durationSeconds ? formatTime(podcast.audio.durationSeconds) : "2:15";
+    const uniqueItems = (items) => {
+      const seen = new Set();
+      return items.filter((item) => {
+        const key = item.href || `${item.title}-${item.date}`;
+        if (!key || seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
+    };
+    const allItems = uniqueItems([...highlights, ...recent]);
+    const leadStory = allItems[0] || highlights[0] || recent[0];
+    const feedItems = allItems.filter((item) => item.href !== leadStory?.href).slice(0, 30);
+    const feedSources = ["전체", ...Array.from(new Set(feedItems.map((item) => item.source).filter(Boolean)))];
+    const signalCards = briefing.length
+      ? briefing.slice(0, 3)
+      : [
+          { title: "핵심 변화", body: "식물 육종과 종자 산업에서 신호가 강한 소식을 먼저 보여줍니다." },
+          { title: "기술 신호", body: "유전체, 기후 회복력, 품종 개발 관련 흐름을 우선 확인합니다." },
+          { title: "시장 맥락", body: "정책과 현장 변화를 원문 기사로 바로 이어서 확인할 수 있습니다." },
+        ];
+    const newsCardMarkup = (item) => `
+      <article class="news-card news-card--clickable feed-card" data-source="${escapeAttr(item.source)}">
+        <a class="news-card__overlay" href="${escapeAttr(item.href)}" aria-label="${escapeAttr(`${item.title} 읽기`)}"></a>
+        <div class="news-card__meta">
+          <span class="source-badge">${escapeHtml(sourceDisplayName(item.source))}</span>
+          <span>${escapeHtml(item.date || "latest")}</span>
+        </div>
+        <h3>${escapeHtml(item.title)}</h3>
+        <p>${escapeHtml(item.excerpt || "요약 정보가 제공되지 않은 소식입니다. 원문과 수집 데이터를 확인하세요.")}</p>
+        <div class="card-actions">
+          <span class="read-cue" aria-hidden="true">읽기</span>
+          <a class="news-card__origin" href="${escapeAttr(item.originalHref || item.href)}">원문</a>
+        </div>
+      </article>
+    `;
+    const utilityLinks = (items, label) =>
+      items.length
+        ? items.map((item) => `<a href="${escapeAttr(item.href)}">${escapeHtml(item.title)}</a>`).join("")
+        : `<span class="utility-empty">${escapeHtml(label)}</span>`;
 
     source.classList.add("is-hidden");
     const app = document.createElement("section");
     app.className = "home-experience";
     app.innerHTML = `
-      <section class="home-hero">
-        <aside class="episode-rail">
+      <section class="home-dashboard">
+        <div class="home-brief" id="briefing">
           <p class="kicker">Plant Breeding News</p>
-          <h1 class="cover-title" aria-label="이번 주 식물 육종 브리핑">
-            <span class="cover-title__white">이번 주</span>
-            <span class="cover-title__blue">식물</span>
-            <span class="cover-title__cyan">육종</span>
-            <span class="cover-title__green">뉴스</span>
-            <span class="cover-title__yellow">브리핑</span>
-          </h1>
-          <div class="episode-art" aria-hidden="true">
-            <div class="episode-art__label">
-              <strong>${escapeHtml(displayEpisodeTitle)}</strong>
-              <span>AI TALK AUDIO</span>
-            </div>
+          <h1>식물 육종 뉴스</h1>
+          <p class="home-status">업데이트 ${escapeHtml(metadata.updated)} · 커버리지 ${escapeHtml(metadata.coverage)}</p>
+          <div class="signal-list" aria-label="30초 브리핑">
+            ${signalCards
+            .map(
+              (card, index) => `
+                <article class="signal-row">
+                  <span>${String(index + 1).padStart(2, "0")}</span>
+                  <div>
+                    <strong>${escapeHtml(card.title)}</strong>
+                    <p>${escapeHtml(card.body)}</p>
+                  </div>
+                </article>
+              `,
+            )
+            .join("")}
           </div>
-          <div class="episode-meta">
-            <p class="kicker">Episode</p>
-            <h2>${escapeHtml(displayEpisodeTitle)}</h2>
-            <p>${escapeHtml(episodeSubtitle)}</p>
-            <p class="kicker" style="margin-top:20px">${escapeHtml(metadata.updated)} · ${escapeHtml(metadata.coverage)}</p>
+        </div>
+
+        <aside class="home-lead-stack">
+          <article class="lead-story news-card news-card--clickable" data-source="${escapeAttr(leadStory?.source || "news")}">
+            <a class="news-card__overlay" href="${escapeAttr(leadStory?.href || "#")}" aria-label="${escapeAttr(`${leadStory?.title || "주요 뉴스"} 읽기`)}"></a>
+            <div class="news-card__meta">
+              <span class="source-badge">Lead</span>
+              <span>${escapeHtml(sourceDisplayName(leadStory?.source))} ${leadStory?.date ? `· ${escapeHtml(leadStory.date)}` : ""}</span>
+            </div>
+            <h2>${escapeHtml(leadStory?.title || "이번 주 주요 뉴스")}</h2>
+            <p>${escapeHtml(leadStory?.excerpt || "이번 주 식물 육종과 종자 산업에서 눈에 띄는 흐름을 먼저 확인하세요.")}</p>
+            <div class="card-actions">
+              <span class="read-cue" aria-hidden="true">읽기</span>
+              <a class="news-card__origin" href="${escapeAttr(leadStory?.originalHref || leadStory?.href || "#")}">원문</a>
+            </div>
+          </article>
+
+          <div class="podcast-strip">
+            <div class="podcast-strip__copy">
+              <p class="kicker">Podcast</p>
+              <strong>${escapeHtml(displayEpisodeTitle)}</strong>
+              <span>${escapeHtml(episodeSubtitle)}</span>
+            </div>
+            ${audioSrc ? inlinePlayerMarkup({ title: displayEpisodeTitle, audioSrc, duration, variant: "inline-player--compact" }) : ""}
+            <a class="podcast-strip__link" href="${escapeAttr(episodeHref)}">대본 보기</a>
           </div>
         </aside>
-
-        <div class="listening-panel">
-          <div class="home-topline">
-            <span class="glass-pill">업데이트 ${escapeHtml(metadata.updated)}</span>
-            <span class="glass-pill">커버리지 ${escapeHtml(metadata.coverage)}</span>
-          </div>
-          <section class="hero-player">
-            <div class="current-episode" data-player ${playerAudioAttr(audioSrc)}>
-              <p class="kicker">Latest episode</p>
-              <h1>${escapeHtml(displayEpisodeTitle)}</h1>
-              <p class="episode-subtitle">${escapeHtml(episodeSubtitle)}</p>
-              <div class="episode-controls">
-                <button class="play-button" type="button" aria-label="최신 에피소드 재생"></button>
-                <div class="audio-stack">
-                  <div class="waveform" aria-hidden="true">${waveform()}</div>
-                  <div class="progress" data-seek-bar role="slider" aria-label="재생 위치" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" tabindex="0">
-                    <span class="progress__bar" style="--value: 0%"></span>
-                  </div>
-                  <div class="time-row"><span data-current-time>0:00</span><span data-duration>${escapeHtml(duration)}</span></div>
-                </div>
-              </div>
-              <div class="episode-links">
-                <a class="episode-action episode-action--primary" href="${escapeAttr(episodeHref)}">에피소드 열기</a>
-                <a class="episode-action" href="${baseUrl}/podcast/feed.xml">RSS</a>
-              </div>
-            </div>
-            ${queueMarkup(queueItems)}
-          </section>
-        </div>
       </section>
 
-      <section class="section-block" id="highlights">
+      <section class="section-block home-section" id="news-feed">
         <div class="section-head">
-          <h2>이번주 하이라이트</h2>
-          <p>원본 자동 생성 페이지의 하이라이트 링크를 전체 유지했습니다.</p>
-        </div>
-        <div class="news-grid">
-          ${highlights
-            .map(
-              (item) => `
-                <article class="news-card" data-source="${escapeAttr(item.source)}">
-                  <div class="news-card__meta">
-                    <span class="source-badge">${escapeHtml(sourceDisplayName(item.source))}</span>
-                    <span>${escapeHtml(item.date || "latest")}</span>
-                  </div>
-                  <h3><a href="${escapeAttr(item.href)}">${escapeHtml(item.title)}</a></h3>
-                  <p>${escapeHtml(item.excerpt || "요약 정보가 제공되지 않은 소식입니다. 원문과 수집 데이터를 확인하세요.")}</p>
-                  <div class="card-actions">
-                    <a href="${escapeAttr(item.href)}">읽기</a>
-                    <a href="${escapeAttr(item.originalHref || item.href)}">원문</a>
-                  </div>
-                </article>
-              `,
-            )
-            .join("")}
-        </div>
-      </section>
-
-      <section class="section-block" id="briefing">
-        <div class="section-head">
-          <h2>30초 브리핑</h2>
-          <p>긴 뉴스 목록을 바로 듣고 싶은 요점으로 압축했습니다.</p>
-        </div>
-        <div class="brief-grid">
-          ${briefing
-            .map(
-              (card) => `
-                <article class="brief-card">
-                  <p class="kicker">Signal</p>
-                  <h3>${escapeHtml(card.title)}</h3>
-                  <p>${escapeHtml(card.body)}</p>
-                </article>
-              `,
-            )
-            .join("")}
-        </div>
-      </section>
-
-      <section class="section-block" id="recent">
-        <div class="section-head">
-          <h2>최신 뉴스</h2>
-          <p>새 소식을 읽기 전에 큐에 올려두고 흐름부터 들어보세요.</p>
+          <h2>뉴스 피드</h2>
+          <p>하이라이트와 최신 소식을 하나의 목록으로 합쳐 중복 노출을 줄였습니다.</p>
         </div>
         <div class="source-filter" data-source-filter>
-          ${filterButtonMarkup(["전체", "rda", "nics", "nihhs", "seedworld", "sciencedaily"])}
+          ${filterButtonMarkup(feedSources)}
         </div>
         <p class="filter-status" data-results-status aria-live="polite"></p>
         <div class="filter-empty" data-empty-state hidden>조건에 맞는 뉴스가 없습니다. 검색어를 줄이거나 전체 출처로 다시 확인하세요.</div>
-        <div class="news-grid">
-          ${recent
-            .map(
-              (item) => `
-                <article class="news-card" data-source="${escapeAttr(item.source)}">
-                  <div class="news-card__meta">
-                    <span class="source-badge">${escapeHtml(sourceDisplayName(item.source))}</span>
-                    <span>${escapeHtml(item.date || "latest")}</span>
-                  </div>
-                  <h3><a href="${escapeAttr(item.href)}">${escapeHtml(item.title)}</a></h3>
-                  <p>${escapeHtml(item.excerpt || "요약 정보가 제공되지 않은 소식입니다. 원문과 수집 데이터를 확인하세요.")}</p>
-                  <div class="card-actions">
-                    <a href="${escapeAttr(item.href)}">읽기</a>
-                    <a href="${escapeAttr(item.originalHref || item.href)}">원문</a>
-                  </div>
-                </article>
-              `,
-            )
-            .join("")}
+        <div class="news-feed-grid">
+          ${feedItems.map(newsCardMarkup).join("")}
         </div>
       </section>
 
-      <section class="section-block" id="weekly-archive">
-        <div class="section-head">
-          <h2>지난 브리핑</h2>
-          <p>주차별 흐름을 다시 읽고 에피소드로 이어서 확인하세요.</p>
+      <section class="section-block utility-panel" id="weekly-archive">
+        <div class="utility-row">
+          <strong>최근 브리핑</strong>
+          <div class="utility-links">${utilityLinks(archive, "아직 생성된 브리핑이 없습니다.")}</div>
         </div>
-        <div class="archive-tiles">
-          ${archive
-            .map(
-              (item, index) => `
-                <a class="episode-tile" href="${escapeAttr(item.href)}">
-                  <span>EP ${String(index + 1).padStart(2, "0")}</span>
-                  <strong>${escapeHtml(item.title)}</strong>
-                </a>
-              `,
-            )
-            .join("")}
+        <div class="utility-row" id="sources">
+          <strong>출처</strong>
+          <div class="utility-links">${utilityLinks(sources, "등록된 출처가 없습니다.")}</div>
         </div>
       </section>
-
-      <section class="section-block" id="sources">
-        <div class="section-head">
-          <h2>출처별 모아보기</h2>
-          <p>자동 수집된 기존 출처별 목록 링크를 그대로 유지했습니다.</p>
-        </div>
-        <div class="source-tiles">
-          ${sources
-            .map(
-              (item) => `
-                <a class="source-tile" href="${escapeAttr(item.href)}">
-                  <span>Source</span>
-                  <strong>${escapeHtml(item.title)}</strong>
-                </a>
-              `,
-            )
-            .join("")}
-        </div>
-      </section>
-      ${buildFloatingPlayer({
-        title: `이번 주 식물 육종 브리핑: ${displayEpisodeTitle}`,
-        subtitle: "지윤 · 민종",
-        audioSrc,
-        duration,
-      })}
     `;
     source.after(app);
     initPlayers();
@@ -1208,7 +1139,7 @@
       const query = (search.value || "").trim();
       if (document.querySelector(".news-card[data-source]")) {
         applyNewsFilters();
-        const target = document.getElementById("weekly-news") || document.getElementById("recent");
+        const target = document.getElementById("news-feed") || document.getElementById("weekly-news") || document.getElementById("recent");
         target?.scrollIntoView({ behavior: "smooth", block: "start" });
       } else if (query) {
         window.location.href = `${baseUrl}/?q=${encodeURIComponent(query)}`;
