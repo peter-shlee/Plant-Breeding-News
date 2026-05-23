@@ -227,7 +227,7 @@
   const waveform = (count = 46) =>
     Array.from({ length: count }, (_, index) => {
       const height = 12 + Math.round(Math.abs(Math.sin(index * 0.72)) * 34) + (index % 5) * 3;
-      return `<span style="--h:${height}px"></span>`;
+      return `<span style="--h:${height}px;--i:${index}"></span>`;
     }).join("");
 
   const formatTime = (seconds) => {
@@ -237,16 +237,253 @@
     return `${minutes}:${String(remainingSeconds).padStart(2, "0")}`;
   };
 
+  const PLAYER_STORAGE_KEY = "pbn-player-state-v1";
+  const TRANSCRIPT_HIGHLIGHT_TOLERANCE_SECONDS = 0.75;
+  let sharedAudio;
+  let sharedAudioSrc = "";
+  let pendingSeekTime = null;
+  let playerBindings = [];
+
+  const absoluteAudioSrc = (src) => {
+    const rawSrc = String(src || "").trim();
+    if (!rawSrc) return "";
+    try {
+      return new URL(rawSrc, window.location.href).href;
+    } catch {
+      return rawSrc;
+    }
+  };
+
+  const readStoredPlayerState = () => {
+    try {
+      return JSON.parse(window.sessionStorage.getItem(PLAYER_STORAGE_KEY) || "null");
+    } catch {
+      return null;
+    }
+  };
+
+  const writeStoredPlayerState = () => {
+    if (!sharedAudio || !sharedAudioSrc) return;
+    try {
+      window.sessionStorage.setItem(
+        PLAYER_STORAGE_KEY,
+        JSON.stringify({
+          src: sharedAudioSrc,
+          currentTime: sharedAudio.currentTime || 0,
+          paused: sharedAudio.paused,
+        }),
+      );
+    } catch {
+      // Session persistence is only a convenience; playback must keep working without it.
+    }
+  };
+
+  const getSharedAudio = () => {
+    if (sharedAudio) return sharedAudio;
+    sharedAudio = new Audio();
+    sharedAudio.preload = "metadata";
+    sharedAudio.addEventListener("play", () => {
+      updateAllPlayers();
+      writeStoredPlayerState();
+    });
+    sharedAudio.addEventListener("pause", () => {
+      updateAllPlayers();
+      writeStoredPlayerState();
+    });
+    sharedAudio.addEventListener("loadedmetadata", updateAllPlayers);
+    sharedAudio.addEventListener("durationchange", updateAllPlayers);
+    sharedAudio.addEventListener("timeupdate", () => {
+      updateAllPlayers();
+      writeStoredPlayerState();
+    });
+    sharedAudio.addEventListener("ended", () => {
+      updateAllPlayers();
+      writeStoredPlayerState();
+    });
+    return sharedAudio;
+  };
+
+  const loadSharedAudio = (src) => {
+    const audio = getSharedAudio();
+    const absoluteSrc = absoluteAudioSrc(src);
+    if (!absoluteSrc) return audio;
+    if (sharedAudioSrc !== absoluteSrc) {
+      sharedAudioSrc = absoluteSrc;
+      pendingSeekTime = null;
+      audio.src = src;
+      audio.load();
+    }
+    return audio;
+  };
+
+  const updateAllPlayers = () => {
+    if (!sharedAudio) return;
+    playerBindings.forEach((binding) => {
+      const isActive = binding.absoluteSrc && binding.absoluteSrc === sharedAudioSrc;
+      const isPlaying = isActive && !sharedAudio.paused;
+      const displayTime = pendingSeekTime ?? sharedAudio.currentTime;
+      const current = isActive ? displayTime : 0;
+      const loadedDuration = Number.isFinite(sharedAudio.duration) ? sharedAudio.duration : 0;
+      const duration = isActive && loadedDuration > 0 ? loadedDuration : binding.initialDuration;
+      const value = isActive && duration > 0
+        ? Math.min(100, (current / duration) * 100)
+        : 0;
+
+      binding.player.classList.toggle("is-active-player", Boolean(isActive));
+      binding.player.classList.toggle("is-playing", Boolean(isPlaying));
+      binding.button?.classList.toggle("is-playing", Boolean(isPlaying));
+      binding.button?.setAttribute("aria-pressed", String(isPlaying));
+      binding.button?.setAttribute("aria-label", isPlaying ? "에피소드 일시정지" : "에피소드 재생");
+      if (binding.currentTime) binding.currentTime.textContent = formatTime(current);
+      binding.durationLabel.textContent =
+        Number.isFinite(duration) && duration > 0
+          ? formatTime(duration)
+          : binding.durationLabel.dataset.initialDuration || "0:00";
+      binding.bar?.style.setProperty("--value", `${value}%`);
+      binding.progress?.setAttribute("aria-valuenow", String(Math.round(value)));
+    });
+    updateTranscriptHighlight(pendingSeekTime ?? sharedAudio.currentTime ?? 0);
+  };
+
+  const restoreSharedAudioState = () => {
+    const stored = readStoredPlayerState();
+    if (!stored?.src) return;
+    const binding = playerBindings.find((item) => item.absoluteSrc === stored.src);
+    if (!binding) return;
+    const audio = loadSharedAudio(binding.src);
+    const resumeAt = Number(stored.currentTime) || 0;
+    if (resumeAt <= 0) {
+      updateAllPlayers();
+      return;
+    }
+    const restoreTime = () => {
+      if (Number.isFinite(audio.duration) && audio.duration > 0) {
+        audio.currentTime = Math.min(resumeAt, Math.max(0, audio.duration - 0.25));
+      } else {
+        audio.currentTime = resumeAt;
+      }
+      updateAllPlayers();
+    };
+    if (audio.readyState >= 1) {
+      restoreTime();
+    } else {
+      audio.addEventListener("loadedmetadata", restoreTime, { once: true });
+    }
+  };
+
+  const updateTranscriptHighlight = (currentTime) => {
+    const rows = Array.from(document.querySelectorAll("[data-transcript-start]"));
+    if (!rows.length) return;
+    let activeRow = rows[0];
+    rows.forEach((row) => {
+      const start = Number(row.dataset.transcriptStart) || 0;
+      if (start <= currentTime + TRANSCRIPT_HIGHLIGHT_TOLERANCE_SECONDS) activeRow = row;
+      row.classList.remove("is-active");
+      row.removeAttribute("aria-current");
+    });
+    activeRow.classList.add("is-active");
+    activeRow.setAttribute("aria-current", "true");
+  };
+
+  const seekSharedAudio = (src, startSeconds, { play = false } = {}) => {
+    const audio = loadSharedAudio(src);
+    const start = Math.max(0, Number(startSeconds) || 0);
+    const applySeek = () => {
+      if (Number.isFinite(audio.duration) && audio.duration > 0) {
+        audio.currentTime = Math.min(start, Math.max(0, audio.duration - 0.25));
+      } else {
+        audio.currentTime = start;
+      }
+      pendingSeekTime = null;
+      updateAllPlayers();
+      if (play) audio.play().catch(() => updateAllPlayers());
+    };
+
+    pendingSeekTime = start;
+    if (audio.readyState >= 1) {
+      applySeek();
+    } else {
+      updateAllPlayers();
+      audio.addEventListener("loadedmetadata", applySeek, { once: true });
+      audio.load();
+    }
+  };
+
+  const seekSharedAudioRatio = (src, ratio, fallbackDuration = 0) => {
+    const audio = loadSharedAudio(src);
+    const targetRatio = Math.max(0, Math.min(1, Number(ratio) || 0));
+    const fallback = Math.max(0, Number(fallbackDuration) || 0);
+    const setPendingDisplay = () => {
+      if (fallback > 0) {
+        pendingSeekTime = targetRatio * fallback;
+        updateAllPlayers();
+      }
+    };
+    const applySeek = () => {
+      const duration = Number.isFinite(audio.duration) && audio.duration > 0 ? audio.duration : fallback;
+      if (duration <= 0) {
+        setPendingDisplay();
+        return;
+      }
+      pendingSeekTime = null;
+      audio.currentTime = Math.min(targetRatio * duration, Math.max(0, duration - 0.25));
+      updateAllPlayers();
+    };
+
+    setPendingDisplay();
+    if (audio.readyState >= 1) {
+      applySeek();
+    } else {
+      audio.addEventListener("loadedmetadata", applySeek, { once: true });
+      audio.load();
+    }
+  };
+
+  const initTranscriptNavigation = (audioSrc) => {
+    if (!audioSrc) return;
+    document.querySelectorAll("[data-transcript-start]").forEach((row) => {
+      const start = Number(row.dataset.transcriptStart) || 0;
+      row.setAttribute("role", "button");
+      row.setAttribute("tabindex", "0");
+      if (row.dataset.transcriptDescription) {
+        row.setAttribute("aria-describedby", row.dataset.transcriptDescription);
+      }
+      const activate = () => seekSharedAudio(audioSrc, start, { play: true });
+      row.addEventListener("click", activate);
+      row.addEventListener("keydown", (event) => {
+        if (!["Enter", " "].includes(event.key)) return;
+        event.preventDefault();
+        activate();
+      });
+    });
+  };
+
+  const playerAudioAttr = (audioSrc) => `data-audio-src="${escapeAttr(audioSrc || "")}"`;
+
+  const inlinePlayerMarkup = ({ title, audioSrc, duration = "0:00", variant = "" }) => `
+    <div class="inline-player ${escapeAttr(variant)}" data-player ${playerAudioAttr(audioSrc)}>
+      <button class="play-button" type="button" aria-label="에피소드 재생"></button>
+      <div class="audio-stack">
+        <strong>${escapeHtml(title || "이번 주 식물 육종 브리핑")}</strong>
+        <div class="progress" data-seek-bar role="slider" aria-label="재생 위치" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" tabindex="0">
+          <span class="progress__bar" style="--value: 0%"></span>
+        </div>
+        <div class="time-row"><span data-current-time>0:00</span><span data-duration>${escapeHtml(duration)}</span></div>
+      </div>
+    </div>
+  `;
+
   const buildFloatingPlayer = ({ title, subtitle, audioSrc, duration = "2:15" }) => `
-    <div class="floating-player" data-player>
-      <audio preload="metadata" src="${escapeAttr(audioSrc || "")}"></audio>
+    <div class="floating-player" data-player ${playerAudioAttr(audioSrc)}>
       <button class="play-button" type="button" aria-label="에피소드 재생"></button>
       <div class="floating-title">
         <strong>${escapeHtml(title)}</strong>
         <span>${escapeHtml(subtitle || "지윤 · 민종")}</span>
       </div>
       <div class="audio-stack">
-        <div class="progress"><span class="progress__bar" style="--value: 0%"></span></div>
+        <div class="progress" data-seek-bar role="slider" aria-label="재생 위치" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" tabindex="0">
+          <span class="progress__bar" style="--value: 0%"></span>
+        </div>
         <div class="time-row"><span data-current-time>0:00</span><span data-duration>${escapeHtml(duration)}</span></div>
       </div>
       <div class="floating-actions" aria-label="오디오 동작">
@@ -257,54 +494,81 @@
   `;
 
   const initPlayers = () => {
-    document.querySelectorAll("[data-player]").forEach((player) => {
-      const audio = player.querySelector("audio");
-      const button = player.querySelector(".play-button");
-      const bar = player.querySelector(".progress__bar");
-      const currentTime = player.querySelector("[data-current-time]");
-      const durationLabel = player.querySelector("[data-duration]");
-      if (!audio || !button) return;
-
-      const setButtonState = () => {
-        const isPlaying = !audio.paused;
-        button.classList.toggle("is-playing", isPlaying);
-        button.setAttribute("aria-pressed", String(isPlaying));
-        button.setAttribute("aria-label", isPlaying ? "에피소드 일시정지" : "에피소드 재생");
-      };
-
-      const updateTimeline = () => {
-        if (currentTime) currentTime.textContent = formatTime(audio.currentTime);
-        if (Number.isFinite(audio.duration) && audio.duration > 0) {
-          if (durationLabel) durationLabel.textContent = formatTime(audio.duration);
-          bar?.style.setProperty("--value", `${Math.min(100, (audio.currentTime / audio.duration) * 100)}%`);
-        } else {
-          bar?.style.setProperty("--value", "0%");
+    const audio = getSharedAudio();
+    playerBindings = Array.from(document.querySelectorAll("[data-player]"))
+      .map((player) => {
+        const nativeAudio = player.querySelector("audio");
+        const src = player.dataset.audioSrc || nativeAudio?.getAttribute("src") || "";
+        if (nativeAudio) {
+          nativeAudio.pause();
+          nativeAudio.removeAttribute("src");
+          nativeAudio.load();
+          nativeAudio.hidden = true;
         }
-      };
+        const button = player.querySelector(".play-button");
+        const progress = player.querySelector("[data-seek-bar], .progress");
+        const durationLabel = player.querySelector("[data-duration]");
+        const initialDurationText = durationLabel?.textContent || "0:00";
+        const initialDuration = initialDurationText
+          .split(":")
+          .map((part) => Number(part))
+          .reduce((total, value) => (Number.isFinite(value) ? total * 60 + value : total), 0);
+        return {
+          player,
+          src,
+          absoluteSrc: absoluteAudioSrc(src),
+          button,
+          progress,
+          bar: player.querySelector(".progress__bar"),
+          currentTime: player.querySelector("[data-current-time]"),
+          durationLabel,
+          initialDuration,
+        };
+      })
+      .filter((binding) => binding.src && binding.button && binding.durationLabel);
 
-      setButtonState();
-      updateTimeline();
-      button.addEventListener("click", () => {
-        if (audio.paused) {
-          document.querySelectorAll("audio").forEach((other) => {
-            if (other !== audio) other.pause();
-          });
-          audio.play().catch(() => {});
-        } else {
+    playerBindings.forEach((binding) => {
+      binding.durationLabel.dataset.initialDuration = binding.durationLabel.textContent || "0:00";
+      const bar = binding.player.querySelector(".progress__bar");
+      if (bar && !binding.bar) binding.bar = bar;
+      binding.button.addEventListener("click", () => {
+        const isSameSource = binding.absoluteSrc === sharedAudioSrc;
+        if (isSameSource && !audio.paused) {
           audio.pause();
+          return;
         }
+        loadSharedAudio(binding.src);
+        updateAllPlayers();
+        audio.play().catch(() => updateAllPlayers());
       });
 
-      audio.addEventListener("play", setButtonState);
-      audio.addEventListener("pause", setButtonState);
-      audio.addEventListener("loadedmetadata", updateTimeline);
-      audio.addEventListener("durationchange", updateTimeline);
-      audio.addEventListener("timeupdate", updateTimeline);
-      audio.addEventListener("ended", () => {
-        setButtonState();
-        updateTimeline();
+      const seek = (event) => {
+        loadSharedAudio(binding.src);
+        const rect = binding.progress.getBoundingClientRect();
+        const pointerX = event.clientX ?? event.touches?.[0]?.clientX ?? rect.left;
+        const ratio = Math.max(0, Math.min(1, (pointerX - rect.left) / rect.width));
+        seekSharedAudioRatio(binding.src, ratio, binding.initialDuration);
+      };
+      binding.progress?.addEventListener("click", seek);
+      binding.progress?.addEventListener("keydown", (event) => {
+        if (!["ArrowLeft", "ArrowRight", "Home", "End"].includes(event.key)) return;
+        event.preventDefault();
+        loadSharedAudio(binding.src);
+        const duration = Number.isFinite(audio.duration) && audio.duration > 0 ? audio.duration : binding.initialDuration;
+        if (duration <= 0) {
+          updateAllPlayers();
+          return;
+        }
+        const current = binding.absoluteSrc === sharedAudioSrc ? pendingSeekTime ?? audio.currentTime : 0;
+        if (event.key === "Home") seekSharedAudio(binding.src, 0);
+        if (event.key === "End") seekSharedAudio(binding.src, duration);
+        if (event.key === "ArrowLeft") seekSharedAudio(binding.src, Math.max(0, current - 10));
+        if (event.key === "ArrowRight") seekSharedAudio(binding.src, Math.min(duration, current + 10));
       });
     });
+    restoreSharedAudioState();
+    updateAllPlayers();
+    window.addEventListener("pagehide", writeStoredPlayerState);
   };
 
   const queueMarkup = (items) => `
@@ -391,8 +655,7 @@
             <span class="glass-pill">커버리지 ${escapeHtml(metadata.coverage)}</span>
           </div>
           <section class="hero-player">
-            <div class="current-episode" data-player>
-              <audio preload="metadata" src="${escapeAttr(audioSrc)}"></audio>
+            <div class="current-episode" data-player ${playerAudioAttr(audioSrc)}>
               <p class="kicker">Latest episode</p>
               <h1>${escapeHtml(displayEpisodeTitle)}</h1>
               <p class="episode-subtitle">${escapeHtml(episodeSubtitle)}</p>
@@ -400,7 +663,9 @@
                 <button class="play-button" type="button" aria-label="최신 에피소드 재생"></button>
                 <div class="audio-stack">
                   <div class="waveform" aria-hidden="true">${waveform()}</div>
-                  <div class="progress"><span class="progress__bar" style="--value: 0%"></span></div>
+                  <div class="progress" data-seek-bar role="slider" aria-label="재생 위치" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" tabindex="0">
+                    <span class="progress__bar" style="--value: 0%"></span>
+                  </div>
                   <div class="time-row"><span data-current-time>0:00</span><span data-duration>${escapeHtml(duration)}</span></div>
                 </div>
               </div>
@@ -557,6 +822,29 @@
     return rows;
   };
 
+  const parseEpisodeDurationSeconds = () => {
+    const durationLine = Array.from(source.querySelectorAll("li")).map(text).find((line) => line.includes("길이"));
+    if (!durationLine) return 0;
+    const korean = durationLine.match(/(\d+)\s*분\s*(\d+)\s*초/);
+    if (korean) return Number(korean[1]) * 60 + Number(korean[2]);
+    const timestamp = durationLine.match(/(\d+):(\d{2})/);
+    if (timestamp) return Number(timestamp[1]) * 60 + Number(timestamp[2]);
+    return 0;
+  };
+
+  const estimateTranscriptStarts = (transcript, durationSeconds) => {
+    if (!transcript.length) return [];
+    const weights = transcript.map((row) => Math.max(8, (row.line || "").length * 0.18 + 2));
+    const totalWeight = weights.reduce((sum, value) => sum + value, 0) || 1;
+    const estimatedDuration = durationSeconds || weights.reduce((sum, value) => sum + value, 0);
+    let cursor = 0;
+    return weights.map((weight) => {
+      const start = cursor;
+      cursor += (weight / totalWeight) * estimatedDuration;
+      return Math.min(start, Math.max(0, estimatedDuration - 0.25));
+    });
+  };
+
   const buildPlayback = () => {
     document.body.classList.add("view-playback");
     const h1 = source.querySelector("h1");
@@ -565,7 +853,9 @@
     const audio = source.querySelector("audio");
     const audioSrc = audio?.getAttribute("src") || "";
     const transcript = parseEpisodeTranscript();
-    const timestamps = ["0:00", "0:13", "0:46", "1:19", "1:26", "2:01", "2:34", "3:02"];
+    const durationSeconds = parseEpisodeDurationSeconds();
+    const transcriptStarts = estimateTranscriptStarts(transcript, durationSeconds);
+    const timestamps = transcriptStarts.map((start) => formatTime(start));
 
     deactivateSourceAnchors();
     source.classList.add("is-hidden");
@@ -590,9 +880,12 @@
           <p class="kicker">Episode</p>
           <h2>${escapeHtml(title)}</h2>
           <p>${escapeHtml(summary || "식물 육종과 종자 산업의 주요 흐름을 한국어 오디오로 정리했습니다.")}</p>
-          <div class="native-audio-shell">
-            <audio controls preload="metadata" src="${escapeAttr(audioSrc)}"></audio>
-          </div>
+          ${inlinePlayerMarkup({
+            title,
+            audioSrc,
+            duration: durationSeconds ? formatTime(durationSeconds) : "0:00",
+            variant: "inline-player--rail",
+          })}
         </div>
       </aside>
       <section class="transcript-panel">
@@ -605,7 +898,8 @@
           ${transcript
             .map(
               (row, index) => `
-                <article class="transcript-row ${index === 0 ? "is-active" : ""}">
+                <span class="sr-only" id="transcript-action-${index}">${timestamps[index] || "0:00"}부터 재생하려면 클릭하거나 Enter 또는 Space를 누르세요.</span>
+                <article class="transcript-row ${index === 0 ? "is-active" : ""}" data-transcript-start="${transcriptStarts[index] || 0}" data-transcript-index="${index}" data-transcript-description="transcript-action-${index}">
                   <span class="transcript-time">${timestamps[index] || ""}</span>
                   <div class="transcript-body">
                     <span class="speaker">${escapeHtml(row.speaker)}</span>
@@ -621,11 +915,12 @@
         title: `이번 주 식물 육종 브리핑: ${title}`,
         subtitle: "지윤 · 민종",
         audioSrc,
-        duration: "2:15",
+        duration: durationSeconds ? formatTime(durationSeconds) : "0:00",
       })}
     `;
     source.after(app);
     initPlayers();
+    initTranscriptNavigation(audioSrc);
     initFilters();
   };
 
@@ -691,8 +986,7 @@
             <span class="glass-pill">${escapeHtml(episodes.length || 1)} episodes</span>
             <a class="glass-pill" href="${baseUrl}/podcast/feed.xml">RSS</a>
           </div>
-          <article class="current-episode podcast-feature" data-player>
-            <audio preload="metadata" src="${escapeAttr(audioSrc)}"></audio>
+          <article class="current-episode podcast-feature" data-player ${playerAudioAttr(audioSrc)}>
             <p class="kicker">Latest episode</p>
             <h1>${escapeHtml(latest.title)}</h1>
             <p class="episode-subtitle">${escapeHtml(latest.description)}</p>
@@ -700,7 +994,9 @@
               <button class="play-button" type="button" aria-label="최신 에피소드 재생"></button>
               <div class="audio-stack">
                 <div class="waveform" aria-hidden="true">${waveform()}</div>
-                <div class="progress"><span class="progress__bar" style="--value: 0%"></span></div>
+                <div class="progress" data-seek-bar role="slider" aria-label="재생 위치" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" tabindex="0">
+                  <span class="progress__bar" style="--value: 0%"></span>
+                </div>
                 <div class="time-row"><span data-current-time>0:00</span><span data-duration>${escapeHtml(duration)}</span></div>
               </div>
             </div>
