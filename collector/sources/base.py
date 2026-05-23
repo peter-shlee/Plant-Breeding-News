@@ -11,6 +11,7 @@ from ..schema import PressItem
 class BaseSource(ABC):
     source: str
     org: str
+    list_content_is_summary: bool = False
 
     def __init__(self, http: HttpClient):
         self.http = http

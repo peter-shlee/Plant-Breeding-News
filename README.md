@@ -49,13 +49,15 @@ CI is stateless, so the collector also performs a **repo-state dedupe**:
 
 - It scans existing `docs/items/**/<site_id>.md` and treats them as already exported (`source:site_id`).
 - If an item page already exists, it will skip the detail fetch to reduce load.
+- Podcast generation may still hydrate the final selected RSS candidates from their article pages so the episode is not limited to RSS summaries.
 
 ## Static AI podcast
 
 `build-podcast` turns the latest collected items into a static podcast bundle:
 
 - selects up to 5 recent high-signal breeding/seed/cultivar items
-- uses Gemini to write a Korean two-host dialogue script that translates or paraphrases foreign-language articles into Korean
+- uses Gemini to write a Korean two-host dialogue script from article bodies, translating or paraphrasing foreign-language articles into Korean
+- targets an 8-minute episode by default with enough turns to discuss each selected article
 - uses `gemini-3.1-flash-tts-preview` for two-speaker TTS when `GEMINI_API_KEY` is set
 - writes `docs/podcast/latest.json`, dated episode JSON/Markdown, `feed.xml`, and audio (`.mp3` when `ffmpeg` succeeds, otherwise `.wav`)
 
@@ -73,7 +75,7 @@ Default sources (run in CI):
 
 ## Notes
 
-- RSS sources are stored as **summary-only** by default (RSS `description` → `content_text`).
+- RSS sources use the RSS `description` as a list-stage fallback. New RSS items fetch detail pages where available, and podcast generation hydrates selected RSS candidates again when only a short summary is available.
 - `build-site` loads items once (prefers SQLite; can fall back to JSONL via `--jsonl`) and reuses that data for:
   - exporting per-item Markdown pages (all items)
   - generating `docs/index.md`

@@ -8,7 +8,7 @@ import shutil
 import subprocess
 import time
 import wave
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import datetime, timedelta
 from email.utils import format_datetime
 from typing import Any, Iterable, Optional
@@ -25,6 +25,9 @@ DEFAULT_SITE_URL = "https://peter-shlee.github.io/Plant-Breeding-News"
 PODCAST_DIRNAME = "podcast"
 HOST_LEAD = "재석"
 HOST_EXPERT = "민아"
+MAX_PROMPT_ARTICLE_CHARS = 24000
+MAX_ARTICLE_BODY_CHARS = 6000
+MIN_DETAIL_ARTICLE_CHARS = 1200
 
 
 @dataclass(frozen=True)
@@ -35,7 +38,7 @@ class PodcastCandidate:
     title: str
     item_path: str
     original_url: str
-    excerpt: str
+    article_body: str
     tags: tuple[str, ...]
     score: float
 
@@ -46,7 +49,7 @@ def build_podcast(
     outdir: str,
     days: int = 7,
     max_candidates: int = 5,
-    target_minutes: int = 5,
+    target_minutes: int = 8,
     script_model: str = DEFAULT_SCRIPT_MODEL,
     tts_model: str = DEFAULT_TTS_MODEL,
     site_url: str = DEFAULT_SITE_URL,
@@ -87,6 +90,7 @@ def build_podcast(
         }
 
     candidates = _select_candidates(items, days=days, max_candidates=max_candidates, now=now_kst)
+    candidates = _hydrate_summary_candidates(candidates)
     if not candidates:
         index_path = _write_index(podcast_dir=podcast_dir, site_url=site_url)
         feed_path = _write_feed(podcast_dir=podcast_dir, site_url=site_url)
@@ -222,12 +226,11 @@ def _norm_title(s: str) -> str:
     return re.sub(r"\s+", " ", (s or "").strip().lower())
 
 
-def _excerpt(it: dict[str, Any], *, max_chars: int = 700) -> str:
-    summary = (it.get("summary") or "").strip()
-    text = summary or (it.get("content_text") or "").strip()
+def _article_body(it: dict[str, Any]) -> str:
+    text = (it.get("content_text") or "").strip()
+    if not text:
+        text = (it.get("summary") or "").strip()
     text = re.sub(r"\s+", " ", text).strip()
-    if len(text) > max_chars:
-        text = text[: max_chars - 1].rstrip() + "…"
     return text
 
 
@@ -257,8 +260,8 @@ def _select_candidates(
         if prev is None:
             by_title[key] = it
             continue
-        # Prefer richer excerpts, then source pages with original content.
-        if len(_excerpt(it)) > len(_excerpt(prev)):
+        # Prefer richer article bodies when duplicate feed/detail entries exist.
+        if len(_article_body(it)) > len(_article_body(prev)):
             by_title[key] = it
 
     scored: list[tuple[float, datetime, dict[str, Any]]] = []
@@ -279,12 +282,59 @@ def _select_candidates(
                 title=(it.get("title") or "").strip(),
                 item_path=item_relpath(it).replace(os.sep, "/"),
                 original_url=(it.get("url") or "").strip(),
-                excerpt=_excerpt(it),
+                article_body=_article_body(it),
                 tags=tuple(it.get("tags") or []),
                 score=round(score, 2),
             )
         )
     return candidates
+
+
+def _hydrate_summary_candidates(candidates: list[PodcastCandidate]) -> list[PodcastCandidate]:
+    """Fetch fuller article bodies only for selected summary-backed RSS candidates."""
+    if not candidates:
+        return candidates
+    try:
+        from .http import HttpClient
+        from .sources import SOURCES
+    except Exception:
+        return candidates
+
+    http = HttpClient()
+    hydrated: list[PodcastCandidate] = []
+    for c in candidates:
+        source_cls = SOURCES.get(c.source)
+        if not source_cls or not bool(getattr(source_cls, "list_content_is_summary", False)):
+            hydrated.append(c)
+            continue
+        if len(c.article_body) >= MIN_DETAIL_ARTICLE_CHARS:
+            hydrated.append(c)
+            continue
+        try:
+            detail_text, _attachments, _tags, _raw_html = source_cls(http).fetch_detail(str(c.idx), c.original_url)
+        except Exception:
+            hydrated.append(c)
+            continue
+        detail_body = _normalize_article_body(detail_text)
+        if _is_better_article_body(detail_body, c.article_body):
+            hydrated.append(replace(c, article_body=detail_body))
+        else:
+            hydrated.append(c)
+    return hydrated
+
+
+def _normalize_article_body(text: str) -> str:
+    return re.sub(r"\s+", " ", (text or "").strip())
+
+
+def _is_better_article_body(candidate: str, fallback: str) -> bool:
+    if len(candidate) < MIN_DETAIL_ARTICLE_CHARS:
+        return False
+    if len(candidate) < max(len(fallback) * 2, MIN_DETAIL_ARTICLE_CHARS):
+        return False
+    lowered = candidate[:240].lower()
+    noisy_starts = ("skip to content", "subscribe", "sign in", "advertisement")
+    return not any(marker in lowered for marker in noisy_starts)
 
 
 _CORE_KWS = [
@@ -462,7 +512,7 @@ def _script_prompt(
     lines: list[str] = []
     lines.append("너는 '식물 육종 뉴스'의 AI 팟캐스트 프로듀서다.")
     lines.append("아래 제공된 기사 후보만 근거로 한국어 2인 진행 팟캐스트 대본을 작성하라.")
-    lines.append("후보의 title과 excerpt가 영어 등 외국어여도, 청취자에게 들려주는 모든 설명은 자연스러운 한국어 번역·의역으로 바꿔 말한다.")
+    lines.append("후보의 title과 article_body가 영어 등 외국어여도, 청취자에게 들려주는 모든 설명은 자연스러운 한국어 번역·의역으로 바꿔 말한다.")
     lines.append("")
     lines.append("[진행자]")
     lines.append(f"- {HOST_LEAD}: 친근하고 매끄러운 메인 진행자. 청취자 눈높이에서 흐름을 잡고, 어려운 외국어 기사 제목과 내용을 한국어로 자연스럽게 풀어 소개한다.")
@@ -472,25 +522,45 @@ def _script_prompt(
     lines.append(f"- 기간: {range_start} ~ {range_end}")
     lines.append("- selectedItems는 아래 후보의 idx 중 가장 중요한 기사만 고르되, 최대 5개를 넘기지 않는다.")
     lines.append("- 제공되지 않은 기사, 통계, 링크, 인물 발언은 만들지 않는다.")
-    lines.append("- title과 excerpt를 그대로 낭독하지 말고, 핵심 의미를 한국어로 번역·요약해서 말한다.")
+    lines.append("- title과 article_body를 그대로 낭독하지 말고, 핵심 의미를 한국어로 번역·요약해서 말한다.")
+    lines.append("- 각 기사에서 배경, 핵심 주장, 연구·산업적 의미, 현장 영향까지 뽑아 대화에 반영한다.")
     lines.append("- 영어 문장, 영어 기사 제목, 영어 본문 조각을 대사에 그대로 넣지 않는다.")
     lines.append("- 기관명, 품종명, 유전자명, 약어(QTL, GWAS, CRISPR, SNP 등)는 원문 표기를 유지해도 된다.")
     lines.append("- 전문용어는 정확하게 쓰되, 개인 청취자가 이해할 수 있게 한 문장 안에서 풀어준다.")
-    lines.append(f"- 대본은 약 {target_minutes}분 분량으로, 8~10턴의 자연스러운 대화로 작성한다.")
-    lines.append("- 각 대사는 1~3문장으로 짧게 쓴다. selectedItems.reason도 80자 이내 한국어로 쓴다.")
+    lines.append(f"- 대본은 약 {target_minutes}분 분량으로, 14~18턴의 자연스러운 대화로 작성한다.")
+    lines.append("- 선택한 각 기사마다 최소 2턴 이상 다루고, 단순 소개가 아니라 왜 중요한지와 현장/산업적 함의를 설명한다.")
+    lines.append("- 각 대사는 2~4문장으로 쓴다. 너무 짧은 한 문장 답변으로 끝내지 않는다.")
+    lines.append("- 전체 대사 분량은 충분히 길게 작성하되, 반복 멘트나 빈 인사는 늘리지 않는다. selectedItems.reason은 80자 이내 한국어로 쓴다.")
     lines.append(f"- speaker 값은 반드시 '{HOST_LEAD}' 또는 '{HOST_EXPERT}'만 사용한다.")
     lines.append("- JSON 객체만 출력한다. 코드블록 금지. 문자열은 끝까지 닫아서 유효한 JSON으로 출력한다.")
     lines.append("")
     lines.append("[기사 후보]")
+    body_budget = _article_body_prompt_budget(len(candidates))
     for c in candidates:
         tags = ", ".join(c.tags) if c.tags else "-"
         lines.append(f"idx={c.idx} | date={c.date} | source={c.source} | score={c.score:g}")
         lines.append(f"title: {c.title}")
         lines.append(f"url: {c.original_url}")
         lines.append(f"tags: {tags}")
-        lines.append(f"excerpt: {c.excerpt or '(본문 발췌 없음)'}")
+        lines.append(f"article_body: {_trim_article_body_for_prompt(c.article_body, body_budget) or '(본문 없음)'}")
         lines.append("")
     return "\n".join(lines).strip() + "\n"
+
+
+def _article_body_prompt_budget(candidate_count: int) -> int:
+    count = max(1, candidate_count)
+    return min(MAX_ARTICLE_BODY_CHARS, max(MIN_DETAIL_ARTICLE_CHARS, MAX_PROMPT_ARTICLE_CHARS // count))
+
+
+def _trim_article_body_for_prompt(text: str, max_chars: int) -> str:
+    body = _normalize_article_body(text)
+    if len(body) <= max_chars:
+        return body
+    cutoff = max_chars - 1
+    boundary = max(body.rfind(". ", 0, cutoff), body.rfind("? ", 0, cutoff), body.rfind("! ", 0, cutoff), body.rfind("。", 0, cutoff), body.rfind("다. ", 0, cutoff))
+    if boundary < max_chars * 0.65:
+        boundary = cutoff
+    return body[:boundary].rstrip() + "…"
 
 
 def _call_gemini_jsonish(
@@ -597,7 +667,7 @@ def _hangul_ratio(text: str) -> float:
 
 
 def _fallback_topic(c: PodcastCandidate) -> str:
-    text = " ".join([c.title, c.excerpt, " ".join(c.tags)]).lower()
+    text = " ".join([c.title, c.article_body, " ".join(c.tags)]).lower()
     topics = [
         (("ai", "artificial intelligence", "prediction", "predictive", "genomic selection"), "AI와 유전체 예측을 활용한 신육종 기술"),
         (("crispr", "gene editing", "genome editing", "유전자편집"), "CRISPR와 유전자편집 기반 품종 개발"),

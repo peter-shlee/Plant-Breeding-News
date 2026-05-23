@@ -66,6 +66,7 @@ def cmd_run(args: argparse.Namespace) -> int:
                 continue
 
             # Repo-state dedupe (CI): if item page already exists in docs/, skip detail fetch.
+            # Podcast generation hydrates selected RSS candidates separately.
             repo_key = f"{src_name}:{site_id}"
             repo_known = repo_key in exported
             if repo_known:
@@ -77,13 +78,29 @@ def cmd_run(args: argparse.Namespace) -> int:
             tags = li.get("tags") or []
             raw_html = None
 
-            # If the list stage already provides content_text, we can skip detail fetch.
-            need_detail = (not content_text.strip())
+            if src_name == "sciencedaily" and content_text.strip():
+                pre_rel_decision = decide_breeding_relevance(
+                    title=li.get("title") or "",
+                    content_text=content_text,
+                    tags=tags,
+                    min_score=2.0,
+                )
+                if not pre_rel_decision.keep:
+                    total_skipped_filter += 1
+                    if args.verbose:
+                        print(
+                            f"[{src_name}] - (filter:{pre_rel_decision.reason}) {site_id} {li.get('published_at')} {li.get('title')}"
+                        )
+                    continue
 
-            if not repo_known and need_detail:
+            # RSS feeds often expose only a short description at list stage.
+            need_detail = (not content_text.strip()) or bool(getattr(src, "list_content_is_summary", False))
+            should_fetch_detail = need_detail and not repo_known
+
+            if should_fetch_detail:
                 try:
                     ct, at, tg, rh = src.fetch_detail(site_id, li["url"])
-                    content_text = ct or ""
+                    content_text = ct or content_text
                     # merge attachment lists
                     attachments = attachments + (at or [])
                     tags = list(dict.fromkeys((tags or []) + (tg or [])))
@@ -241,9 +258,6 @@ def _load_exported_site_ids_from_repo(repo_root: str) -> set[str]:
 
     Designed for stateless CI where SQLite is empty but the repo already contains
     exported item pages.
-
-    We intentionally parse from path (docs/items/<source>/YYYY/MM/<site_id>.md)
-    to avoid needing to parse frontmatter.
     """
 
     docs_items = os.path.join(repo_root, "docs", "items")
@@ -265,7 +279,26 @@ def _load_exported_site_ids_from_repo(repo_root: str) -> set[str]:
             site_id = os.path.splitext(parts[-1])[0]
             if src and site_id:
                 out.add(f"{src}:{site_id}")
+            frontmatter_site_id = _read_frontmatter_site_id(path)
+            if src and frontmatter_site_id:
+                out.add(f"{src}:{frontmatter_site_id}")
     return out
+
+
+def _read_frontmatter_site_id(path: str) -> str:
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            if f.readline().strip() != "---":
+                return ""
+            for line in f:
+                stripped = line.strip()
+                if stripped == "---":
+                    break
+                if stripped.startswith("site_id:"):
+                    return stripped.split(":", 1)[1].strip().strip('"').strip("'")
+    except OSError:
+        return ""
+    return ""
 
 
 def _iter_items_any(args: argparse.Namespace):
@@ -474,7 +507,7 @@ def main(argv: list[str] | None = None) -> int:
     pp.add_argument("--days", type=int, default=7, help="Include items within last N days")
     pp.add_argument("--limit", type=int, default=30, help=argparse.SUPPRESS)
     pp.add_argument("--max-candidates", type=int, default=5, help="Max candidate items to pass to Gemini")
-    pp.add_argument("--target-minutes", type=int, default=5, help="Target episode length in minutes")
+    pp.add_argument("--target-minutes", type=int, default=8, help="Target episode length in minutes")
     pp.add_argument("--db", default=default_db_path(), help="SQLite path (preferred)")
     pp.add_argument(
         "--jsonl",
