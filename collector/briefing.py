@@ -9,6 +9,7 @@ from typing import Any, Optional
 
 BRIEFING_START = "<!-- AUTO_BRIEFING_START -->"
 BRIEFING_END = "<!-- AUTO_BRIEFING_END -->"
+BRIEFING_ANCHOR = '<a id="briefing"></a>'
 
 
 @dataclass
@@ -33,8 +34,19 @@ def _write_text(path: str, text: str) -> None:
 
 
 def _extract_existing_briefing(md: str) -> str:
-    m = re.search(re.escape(BRIEFING_START) + r".*?" + re.escape(BRIEFING_END), md, flags=re.S)
+    m = re.search(
+        r"(?:" + re.escape(BRIEFING_ANCHOR) + r"\s*)?" + re.escape(BRIEFING_START) + r".*?" + re.escape(BRIEFING_END),
+        md,
+        flags=re.S,
+    )
     return m.group(0).strip() if m else ""
+
+
+def _ensure_briefing_anchor(briefing_block: str) -> str:
+    block = briefing_block.strip()
+    if not block or block.startswith(BRIEFING_ANCHOR):
+        return block
+    return BRIEFING_ANCHOR + "\n" + block
 
 
 def _strip_frontmatter(md: str) -> str:
@@ -478,6 +490,7 @@ def _render_briefing_md(result: dict[str, Any], *, items_by_idx: dict[int, Recen
     range_str = (result.get("range") or "").strip() or "주간"
 
     lines: list[str] = []
+    lines.append(BRIEFING_ANCHOR)
     lines.append(BRIEFING_START)
     lines.append(f"## 30초 주간 브리핑 ({range_str})\n")
 
@@ -497,16 +510,19 @@ def insert_briefing_into_index(index_md: str, briefing_block: str) -> str:
     if not briefing_block.strip():
         return index_md
 
+    briefing_block = _ensure_briefing_anchor(briefing_block)
+
     # Remove existing block if any.
     index_md2 = re.sub(
-        re.escape(BRIEFING_START) + r".*?" + re.escape(BRIEFING_END) + r"\n?",
+        r"(?:" + re.escape(BRIEFING_ANCHOR) + r"\s*)?" + re.escape(BRIEFING_START) + r".*?" + re.escape(BRIEFING_END) + r"\n?",
         "",
         index_md,
         flags=re.S,
     )
 
-    # Insert before '이번주 하이라이트'
-    anchor = "## 이번주 하이라이트 (육종/품종/종자)"
+    # Insert before the highlights anchor so generated in-page links still
+    # land on the highlights section after the briefing is injected.
+    anchor = '<a id="highlights"></a>\n## 이번주 하이라이트 (육종/품종/종자)'
     if anchor not in index_md2:
         # fallback: insert after metadata bullet list (after coverage line)
         return index_md2.rstrip() + "\n\n" + briefing_block.strip() + "\n"

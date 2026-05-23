@@ -19,8 +19,7 @@ title: "식물 육종 뉴스"
 - [지난 주간 아카이브](#weekly-archive)
 - [출처별 모아보기](#sources)
 
-<a id="highlights"></a>
-
+<a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
 ## 30초 주간 브리핑 (2026-05-16~2026-05-23)
 
@@ -43,6 +42,7 @@ title: "식물 육종 뉴스"
 
 <!-- AUTO_BRIEFING_END -->
 
+<a id="highlights"></a>
 ## 이번주 하이라이트 (육종/품종/종자)
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
@@ -92,6 +92,7 @@ title: "식물 육종 뉴스"
   - Joe Schwarcz examines the long-running glyphosate controversy, arguing that trace dietary residues in food pose no meaningful health risk to consumers. Reviewing decades of studies, he distinguishes…
 
 
+<a id="news-feed"></a>
 <a id="recent"></a>
 ## 최근 소식 (최근 7일)
 
