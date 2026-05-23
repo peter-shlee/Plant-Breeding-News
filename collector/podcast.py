@@ -25,6 +25,8 @@ DEFAULT_SITE_URL = "https://peter-shlee.github.io/Plant-Breeding-News"
 PODCAST_DIRNAME = "podcast"
 HOST_LEAD = "재석"
 HOST_EXPERT = "민아"
+HOST_LEAD_TTS_VOICE = "Puck"
+HOST_EXPERT_TTS_VOICE = "Zephyr"
 MAX_PROMPT_ARTICLE_CHARS = 24000
 MAX_ARTICLE_BODY_CHARS = 6000
 MIN_DETAIL_ARTICLE_CHARS = 1200
@@ -843,7 +845,7 @@ def _tts_prompt(episode: dict[str, Any]) -> str:
         "TTS the following Korean podcast conversation.",
         "The dialogue must be read as Korean. Do not switch into English narration except for short technical abbreviations.",
         "Use the configured prebuilt voices only; do not imitate any real person's voice or mannerisms.",
-        f"Make the {HOST_LEAD} speaker sound bright, polished, and conversational.",
+        f"Make the {HOST_LEAD} speaker sound like an upbeat, lower-pitched male Korean podcast host.",
         f"Make the {HOST_EXPERT} speaker sound knowledgeable, friendly, and concise.",
         "Keep a polished weekly news podcast tone.",
         "",
@@ -870,11 +872,11 @@ def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 
                     "speakerVoiceConfigs": [
                         {
                             "speaker": HOST_LEAD,
-                            "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": "Kore"}},
+                            "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": HOST_LEAD_TTS_VOICE}},
                         },
                         {
                             "speaker": HOST_EXPERT,
-                            "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": "Zephyr"}},
+                            "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": HOST_EXPERT_TTS_VOICE}},
                         },
                     ]
                 }
