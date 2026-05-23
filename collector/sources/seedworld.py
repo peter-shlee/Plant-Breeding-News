@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from typing import Iterable, Optional
 
+from bs4 import BeautifulSoup
 from dateutil import parser
 
 from ..rss import html_to_text, parse_feed
@@ -11,10 +12,11 @@ from .base import BaseSource
 
 
 class SeedWorldSource(BaseSource):
-    """Seed World RSS feed (summary-only unless expanded later)."""
+    """Seed World RSS feed with detail-page body expansion."""
 
     source = "seedworld"
     org = "Seed World"
+    list_content_is_summary = True
 
     FEED_URL = "https://www.seedworld.com/feed/"
 
@@ -47,11 +49,45 @@ class SeedWorldSource(BaseSource):
                 "title": title,
                 "published_at": published_at,
                 "url": url,
-                # Use RSS description as content_text (summary-only).
+                # List-stage fallback; fetch_detail expands this to the article body.
                 "content_text": content_text,
                 "fetched_at": iso_now_kst(),
             }
 
     def fetch_detail(self, site_id: str, url: str) -> tuple[str, list[dict], list[str], Optional[str]]:
-        # Summary-only by default; list stage already contains cleaned description.
-        return "", [], [], None
+        r = self.http.get(url)
+        r.raise_for_status()
+        html = r.text
+        soup = BeautifulSoup(html, "lxml")
+        content = _extract_article_text(soup)
+        return content, [], [], html
+
+
+def _extract_article_text(soup: BeautifulSoup) -> str:
+    for el in soup.select("script, style, noscript, iframe, form, nav, header, footer, aside"):
+        el.decompose()
+
+    selectors = [
+        ".elementor-widget-theme-post-content",
+        "article .entry-content",
+        "article .post-content",
+        "article .td-post-content",
+        "article .content",
+        "article",
+        "main",
+    ]
+    for selector in selectors:
+        node = soup.select_one(selector)
+        text = _node_text(node) if node else ""
+        if len(text) >= 300:
+            return text
+    return ""
+
+
+def _node_text(node) -> str:
+    if node is None:
+        return ""
+    for el in node.select(".sharedaddy, .share, .post-tags, .newsletter, .advertisement, .ad, .related-posts"):
+        el.decompose()
+    text = node.get_text(" ", strip=True)
+    return clean_text(text)

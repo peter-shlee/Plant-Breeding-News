@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from typing import Iterable, Optional
 
+from bs4 import BeautifulSoup
 from dateutil import parser
 
 from ..rss import html_to_text, parse_feed
@@ -20,6 +21,7 @@ class ScienceDailyAgFoodSource(BaseSource):
 
     source = "sciencedaily"
     org = "ScienceDaily"
+    list_content_is_summary = True
 
     FEED_URL = "https://www.sciencedaily.com/rss/plants_animals/agriculture_and_food.xml"
 
@@ -56,4 +58,35 @@ class ScienceDailyAgFoodSource(BaseSource):
             }
 
     def fetch_detail(self, site_id: str, url: str) -> tuple[str, list[dict], list[str], Optional[str]]:
-        return "", [], [], None
+        r = self.http.get(url)
+        r.raise_for_status()
+        html = r.text
+        soup = BeautifulSoup(html, "lxml")
+        content = _extract_article_text(soup)
+        return content, [], [], html
+
+
+def _extract_article_text(soup: BeautifulSoup) -> str:
+    for el in soup.select("script, style, noscript, iframe, form, nav, header, footer, aside"):
+        el.decompose()
+
+    selectors = [
+        "#story_text",
+        "#text",
+        "article",
+        "main",
+    ]
+    for selector in selectors:
+        node = soup.select_one(selector)
+        text = _node_text(node) if node else ""
+        if len(text) >= 300:
+            return text
+    return ""
+
+
+def _node_text(node) -> str:
+    if node is None:
+        return ""
+    for el in node.select(".advertisement, .related, .story_source, .social, .newsletter"):
+        el.decompose()
+    return clean_text(node.get_text(" ", strip=True))

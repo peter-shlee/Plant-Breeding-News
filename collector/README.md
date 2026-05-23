@@ -99,7 +99,7 @@ Outputs:
 
 ## Build static AI podcast
 
-Generate a Korean two-host podcast script and static podcast artifacts. Foreign-language article titles and excerpts are translated or paraphrased into Korean in the spoken dialogue:
+Generate a Korean two-host podcast script and static podcast artifacts. Podcast prompts use article bodies from `content_text`, and foreign-language article titles and bodies are translated or paraphrased into Korean in the spoken dialogue:
 
 ```bash
 GEMINI_API_KEY=... python3 -m collector build-podcast --outdir docs --days 7
@@ -114,9 +114,9 @@ Outputs:
 - `docs/podcast/index.md`
 - `docs/podcast/feed.xml`
 
-The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It skips regeneration when a recent audio episode exists, avoids repeat no-key runs for text-only fallbacks, and retries text-only episodes once `GEMINI_API_KEY` is available so audio can be generated.
+The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It targets an 8-minute episode unless `--target-minutes` is overridden. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It skips regeneration when a recent audio episode exists, avoids repeat no-key runs for text-only fallbacks, and retries text-only episodes once `GEMINI_API_KEY` is available so audio can be generated.
 
-By default, the script passes only the top 5 scored article candidates to Gemini so each episode stays focused.
+By default, the script passes only the top 5 scored article candidates to Gemini so each episode stays focused. For RSS sources, collection fetches the article detail page for new items where available, and podcast generation hydrates selected candidates again when only a short summary is available. Article bodies are capped before being sent to Gemini to keep prompt size predictable.
 
 ## Firestore (optional)
 
@@ -155,7 +155,7 @@ Run every Monday at 09:10 KST:
 
 ## Notes / Known limitations (MVP)
 
-- **RSS sources (Seed World / ScienceDaily)**: stored as *summary-only* by default (we use RSS `description` as `content_text`). Full article fetch is not implemented.
+- **RSS sources (Seed World / ScienceDaily)**: list entries keep RSS `description` as a fallback. New items fetch detail pages where available; repo-known items skip collection-time detail fetch, but selected podcast candidates can still be hydrated at podcast generation time.
 - **ScienceDaily relevance filter**: a light breeding/seed keyword score filter is applied to reduce noise.
 - **NIHHS pagination**: list pagination is not fully implemented; MVP only scrapes the first page.
 - **NICS detail page**: the site appears to require additional internal parameters for a view endpoint; MVP stores list metadata and attachment download links but may not retrieve full HTML article content.
