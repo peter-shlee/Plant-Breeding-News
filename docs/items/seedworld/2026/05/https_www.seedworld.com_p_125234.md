@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/15/world-seed-congress-free-adver
 summary: "Share a quick insight for a chance to win €10,000 in free advertising at World Seed Congress. The post Win €10,000 in Free Advertising at World Seed Congress appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-22T22:49:49+09:00"
+fetched_at: "2026-05-23T09:37:46+09:00"
 ---
 # Win €10,000 in Free Advertising at World Seed Congress
 

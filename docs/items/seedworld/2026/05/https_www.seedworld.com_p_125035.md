@@ -9,7 +9,7 @@ summary: "Researchers identified a novel Fusarium Head Blight resistance locus i
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-05-22T22:49:49+09:00"
+fetched_at: "2026-05-23T09:37:46+09:00"
 ---
 # Breakthrough Crop Research Creates Fusarium-Resistant Wheat Hybrids
 

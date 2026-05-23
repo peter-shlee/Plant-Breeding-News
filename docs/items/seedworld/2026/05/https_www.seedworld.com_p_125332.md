@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/20/better-varieties-need-investme
 summary: "There's an opportunity to evolve, and the sooner we act, the better positioned farmers will be The post Better Varieties Need Investment to Deliver Results appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-22T22:49:49+09:00"
+fetched_at: "2026-05-23T09:37:46+09:00"
 ---
 # Better Varieties Need Investment to Deliver Results
 

@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-05-22 22:50 (KST)**  
-- 커버리지(최근 섹션): **2026-05-15 ~ 2026-05-22** (최근 7일)
+- 마지막 업데이트: **2026-05-23 09:39 (KST)**  
+- 커버리지(최근 섹션): **2026-05-16 ~ 2026-05-23** (최근 7일)
 
 ## 목차
 
@@ -22,24 +22,24 @@ title: "식물 육종 뉴스"
 <a id="highlights"></a>
 
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-05-15~2026-05-22)
+## 30초 주간 브리핑 (2026-05-16~2026-05-23)
 
-> 글로벌 종자 산업의 윤리 가이드라인 발표와 기후 대응을 위한 혁신 기술 연구가 활발히 진행된 한 주였습니다.
+> 글로벌 종자 산업의 규제 가이드라인 수립과 기후 대응을 위한 혁신 기술 도입이 가속화되고 있습니다.
 
 ### 1) 정책/규제
 
-- 국제종자연맹(ISF)이 종자 생산 현장의 노동권, 안전, 환경 보호를 강화하기 위한 새로운 글로벌 윤리 가이드라인을 발표했습니다. ([원문](https://www.seedworld.com/europe/2026/05/20/isf-launches-new-global-guidelines-on-social-rights-and-ethical-seed-production/))
-- 유럽연합 집행위원회가 비료 비용 절감과 공급망 안정을 위해 바이오 기반 비료 활용 및 순환 경제를 촉진하는 실행 계획을 채택했습니다. ([원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/))
+- 유럽연합 집행위원회가 비료 비용 절감과 공급망 안정을 위해 순환형 비료 생산 및 혁신을 지원하는 비료 행동 계획을 채택했습니다. ([원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/))
+- 국제종자연맹(ISF)이 노동권, 보건, 안전 등 종자 생산 과정의 윤리적 기준을 강화하기 위한 새로운 글로벌 가이드라인을 발표했습니다. ([원문](https://www.seedworld.com/europe/2026/05/20/isf-launches-new-global-guidelines-on-social-rights-and-ethical-seed-production/))
 
 ### 2) 연구/기술
 
-- 식물 세포의 스트레스 반응을 조절하는 cAMP 신호 전달 경로가 규명되어, 기후 변화에 대응하는 작물 개발의 새로운 토대가 마련되었습니다. ([원문](https://www.seedworld.com/europe/2026/05/20/scientists-decode-crop-stress-signals-linked-to-climate-resilience/))
-- 미국 식물육종가협회(NAPB)가 인공지능과 실내 농업 기술을 활용한 차세대 기후 스마트 작물 육종 전략을 집중 논의했습니다. ([원문](https://www.seedworld.com/us/2026/05/19/napb-2026-focuses-on-ai-indoor-farming-and-the-next-era-of-plant-breeding/))
+- 식물이 기후 변화에 대응하는 스트레스 신호 전달 경로가 새롭게 규명되어 향후 기후 적응형 작물 개발에 기여할 전망입니다. ([원문](https://www.seedworld.com/europe/2026/05/20/scientists-decode-crop-stress-signals-linked-to-climate-resilience/))
+- 미국식물육종가협회(NAPB)가 인공지능과 실내 농업 기술을 활용한 차세대 작물 육종의 미래를 집중 조명합니다. ([원문](https://www.seedworld.com/us/2026/05/19/napb-2026-focuses-on-ai-indoor-farming-and-the-next-era-of-plant-breeding/))
 
 ### 3) 유통/시장/현장
 
-- 관세 및 통관 지연 등 국제 무역의 불확실성이 커지면서 글로벌 종자 거래 비용이 상승하고 있어 업계의 대응이 요구됩니다. ([원문](https://www.seedworld.com/us/2026/05/20/seed-trade-getting-more-expensive-sam-crowell-asta/))
-- 종자 기업들이 재고 관리 시스템을 디지털화하여 판매 가용성을 정확히 추적하고, 과잉 판매 방지 및 고객 신뢰도를 높이는 전략이 중요해지고 있습니다. ([원문](https://www.seedworld.com/us/2026/05/22/the-inventory-question-every-seed-company-struggles-to-answer/))
+- 관세 정책 및 통관 지연 등 국제 무역의 불확실성이 커지면서 종자 기업들의 유통 비용 부담이 가중되고 있습니다. ([원문](https://www.seedworld.com/us/2026/05/20/seed-trade-getting-more-expensive-sam-crowell-asta/))
+- 농촌진흥청이 민관 협력을 통해 국산 농자재의 남미 시장 진출을 본격적으로 추진합니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810484&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -222,6 +222,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-05-23](weekly/2026-05-23.md)
 - [2026-05-22](weekly/2026-05-22.md)
 - [2026-05-20](weekly/2026-05-20.md)
 - [2026-05-18](weekly/2026-05-18.md)

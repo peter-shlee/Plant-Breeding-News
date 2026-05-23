@@ -417,7 +417,3 @@ source: "seedworld"
 - **[Solar Panels Boost Crop Efficiency: Tomato Systems Use Half the Water](../../items/seedworld/2026/04/https_www.seedworld.com_p_124731.md)**
   - 2026-04-23 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124731.md) · [원문](https://www.seedworld.com/europe/2026/04/23/solar-panels-boost-crop-efficiency-tomato-systems-use-half-the-water/)
   - Agrovoltaic tomato systems could help agriculture save water while producing renewable energy on the same land. Research in Spain found that combining solar panels with deficit irrigation cut water u…
-
-- **[LETTER TO THE EDITOR: “Consolidation” is a False Efficiency in Crop Breeding](../../items/seedworld/2026/04/https_www.seedworld.com_p_124747.md)**
-  - 2026-04-23 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124747.md) · [원문](https://www.seedworld.com/canada/2026/04/22/letter-to-the-editor-consolidation-is-a-false-efficiency-in-crop-breeding/)
-  - Three retired breeders say centralizing AAFC research may save costs on paper, but it narrows genetic discovery, increases farm risk and slows agricultural innovation The post LETTER TO THE EDITOR: “…

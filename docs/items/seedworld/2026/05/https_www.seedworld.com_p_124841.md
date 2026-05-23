@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/04/hops-and-cannabis-share-geneti
 summary: "University College Dublin researchers identified a genetic sex switch in cannabis that may also control sex in hops. The study, published in New Phytologist, found key genes on the X chromosome that influence male, female and monoecious"
 attachments: []
 tags: []
-fetched_at: "2026-05-22T22:49:50+09:00"
+fetched_at: "2026-05-23T09:37:46+09:00"
 ---
 # Hops and Cannabis Share Genetic Sex Switch, Scientists Discover
 

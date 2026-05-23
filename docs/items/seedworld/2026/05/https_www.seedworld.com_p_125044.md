@@ -9,7 +9,7 @@ summary: "Industry leaders, universities and producer organizations say Canadaâ€
 attachments: []
 tags:
   - "ë°€"
-fetched_at: "2026-05-22T22:49:50+09:00"
+fetched_at: "2026-05-23T09:37:46+09:00"
 ---
 # Western Canada Wheat and Barley Breeding Groups Unveil New Vision for Innovation
 

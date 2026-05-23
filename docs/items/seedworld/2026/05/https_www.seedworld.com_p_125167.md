@@ -9,7 +9,7 @@ summary: "JIC and CIMMYT are advancing wheat research through molecular breeding
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-05-22T22:49:49+09:00"
+fetched_at: "2026-05-23T09:37:46+09:00"
 ---
 # CIMMYT and John Innes Centre Partnership Advances Wheat Research and Disease Surveillance
 

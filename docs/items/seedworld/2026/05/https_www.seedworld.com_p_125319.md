@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/20/la-isf-otorga-la-membresia-hono
 summary: "La Federación Internacional de Semillas (ISF) otorgó al Director Ejecutivo de ANPROS, Mario Schindler, la Membresía Honoraria Vitalicia por sus destacadas contribuciones a la industria global de semillas."
 attachments: []
 tags: []
-fetched_at: "2026-05-22T22:49:49+09:00"
+fetched_at: "2026-05-23T09:37:46+09:00"
 ---
 # La ISF otorga la Membresía Honoraria Vitalicia al Director de ANPROS, Mario Schindler
 
