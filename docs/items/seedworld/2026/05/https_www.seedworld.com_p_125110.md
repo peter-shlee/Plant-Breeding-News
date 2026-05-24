@@ -9,7 +9,7 @@ summary: "Scientists have developed a comprehensive watermelon super-pangenome i
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-05-23T09:37:46+09:00"
+fetched_at: "2026-05-25T06:50:53+09:00"
 ---
 # Scientists Build First Watermelon Super-Pangenome to Advance Crop Breeding
 

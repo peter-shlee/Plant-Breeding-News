@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/16/chile-seed-industry-pushes-for-
 summary: "ANPROS outlined the main challenges and opportunities facing Chile’s seed industry during a meeting with Agriculture Minister Jaime Campos, focusing on competitiveness, sustainability and the sector’s international role."
 attachments: []
 tags: []
-fetched_at: "2026-05-23T09:37:46+09:00"
+fetched_at: "2026-05-25T06:50:53+09:00"
 ---
 # Chile Seed Industry Pushes for Stronger Agricultural Competitiveness and Innovation
 

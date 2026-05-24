@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/13/embrapa-impulsa-una-solucion-de
 summary: "Investigadores de Embrapa descubrieron que la estruvita producida a partir de residuos porcinos puede reducir la dependencia de fertilizantes fosfatados importados en cultivos de soja y trigo."
 attachments: []
 tags: []
-fetched_at: "2026-05-23T09:37:46+09:00"
+fetched_at: "2026-05-25T06:50:53+09:00"
 ---
 # Embrapa impulsa una solución de fertilizantes de producción nacional para los mercados de soja y trigo
 
