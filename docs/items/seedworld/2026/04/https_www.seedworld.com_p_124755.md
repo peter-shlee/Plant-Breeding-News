@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/04/27/seed-programs-international-con
 summary: "Seed Programs International conecta empresas semilleras, financiadores y socios locales para ayudar a pequeños agricultores a producir alimentos y fortalecer la seguridad alimentaria."
 attachments: []
 tags: []
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:13+09:00"
 ---
 # Seed Programs International conecta a los pequeños agricultores con el sector de las semillas
 

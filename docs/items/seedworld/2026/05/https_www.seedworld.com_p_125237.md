@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/19/canada-seed-innovation-investm
 summary: "At World Seed Congress, industry and government leaders explain why seed innovation in Canada is making the country a faster, more competitive destination. For years, Canada has offered international seed […] The post Canada Makes Its Case"
 attachments: []
 tags: []
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:12+09:00"
 ---
 # Canada Makes Its Case to Global Seed Investors
 

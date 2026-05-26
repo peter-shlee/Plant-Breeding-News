@@ -9,7 +9,7 @@ summary: "New research finds maize under simultaneous root and leaf pest attack 
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:12+09:00"
 ---
 # Maize Under Siege Attracts More Pests
 

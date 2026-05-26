@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/22/the-inventory-question-every-seed-
 summary: "Seed inventory changes fast across field estimates, raw stock and bagged product. A live seed inventory system helps teams track inspections, processing losses, lab results, allocations and true availability to sell."
 attachments: []
 tags: []
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:12+09:00"
 ---
 # The Inventory Question Every Seed Company Struggles to Answer
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/20/strategy-creates-momentum-planning
 summary: "Strong strategy separates motion from momentum. In the seed industry, organizations often confuse planning with strategy, creating activity without alignment."
 attachments: []
 tags: []
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:12+09:00"
 ---
 # Strategy Creates Momentum. Planning Creates Motion.
 

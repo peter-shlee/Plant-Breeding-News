@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/20/isf-awards-lifetime-honorary-m
 summary: "ISF awarded ANPROS Executive Director Mario Schindler Lifetime Honorary Membership for his outstanding contributions to the global seed industry. The rare honor, granted to only 20 people since 1996, recognizes Schindler’s leadership in"
 attachments: []
 tags: []
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:12+09:00"
 ---
 # ISF Awards Lifetime Honorary Membership to ANPROS Director Mario Schindler
 

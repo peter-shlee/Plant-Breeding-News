@@ -11,7 +11,7 @@ tags:
   - "genomics"
   - "gene-editing"
   - "밀"
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:13+09:00"
 ---
 # CRISPR Study Unlocks Precision Chromosome Editing in Wheat
 

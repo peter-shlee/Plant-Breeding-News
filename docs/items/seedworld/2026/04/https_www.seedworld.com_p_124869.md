@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/04/28/what-fuels-a-plant-before-sunlight
 summary: "Scientists identified how the PEX11 protein regulates peroxisome growth in young plants, helping seedlings use stored energy before photosynthesis begins and offering insight relevant to bioengineering and human cell research."
 attachments: []
 tags: []
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:12+09:00"
 ---
 # What Fuels a Plant Before Sunlight Takes Over?
 

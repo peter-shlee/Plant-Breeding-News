@@ -11,6 +11,50 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[The Million-Dollar Question Facing Canadian Plant Breeding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125553.md)**
+  - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125553.md) · [원문](https://www.seedworld.com/canada/2026/05/26/the-million-dollar-question-facing-canadian-plant-breeding/)
+  - New crop varieties require years of research, testing and commercialization. Seeds Canada argues stronger breeder protections are needed to ensure innovators see a return on investment and continue b…
+
+- **[They Went on Vacation and Bought a Seed Company?! | The Fusion Seed Story](../../items/seedworld/2026/05/https_www.seedworld.com_p_125552.md)**
+  - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125552.md) · [원문](https://www.seedworld.com/us/2026/05/26/fusion-seeds-story-how-chad-and-sherry-goldsmith-bought-a-seed-company/)
+  - Chad and Sherry Goldsmith reveal how a life-changing decision made from a Hawaii hotel room helped launch Fusion Seeds into a trusted name in Kentucky bluegrass. Some seed stories just make you stop…
+
+- **[New Discovery Reveals How Crops Detect Stress and Disease](../../items/seedworld/2026/05/https_www.seedworld.com_p_125451.md)**
+  - 2026-05-26 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125451.md) · [원문](https://www.seedworld.com/europe/2026/05/26/new-discovery-reveals-how-crops-detect-stress-and-disease/)
+  - Researchers in Japan have identified a new way plants detect hydrogen peroxide, a key molecule involved in stress response and immunity. The discovery could help scientists develop crops that are bet…
+
+- **[WSC26: The Race for Faster Seed Innovation is Driving Companies to Chile](../../items/seedworld/2026/05/https_www.seedworld.com_p_125501.md)**
+  - 2026-05-26 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125501.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc-2026-the-race-for-faster-seed-innovation-is-driving-companies-to-chile/)
+  - In today’s seed sector, speed is a critical competitive advantage. Chile is increasingly positioning itself as a key facilitator in that race.
+
+- **[Remembering Seedsmen Who Served](../../items/seedworld/2026/05/https_www.seedworld.com_p_125493.md)**
+  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125493.md) · [원문](https://www.seedworld.com/us/2026/05/25/seedsmen-who-served-memorial-day/)
+  - While Memorial Day traditionally honors Americans who died in military service, the holiday also offers a moment to reflect on the longstanding connection between military service, rural America and…
+
+- **[Michael Keller Honored with Global Unity Award in Lisbon](../../items/seedworld/2026/05/https_www.seedworld.com_p_125483.md)**
+  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125483.md) · [원문](https://www.seedworld.com/us/2026/05/25/michael-keller-honored-with-global-unity-award-in-lisbon/)
+  - A big congratulations to Michael Keller, Secretary General of the International Seed Federation (ISF), on receiving Seed World Group’s 2025 Global Unity Award at this year’s World Seed Congress in Li…
+
+- **[Michael Keller Honoured with Global Unity Award in Lisbon](../../items/seedworld/2026/05/https_www.seedworld.com_p_125475.md)**
+  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125475.md) · [원문](https://www.seedworld.com/europe/2026/05/25/michael-keller-honoured-with-global-unity-award-in-lisbon/)
+  - A big congratulations to Michael Keller, Secretary General of the International Seed Federation (ISF), on receiving Seed World Group’s 2025 Global Unity Award at this year’s World Seed Congress in Li…
+
+- **[WSC26: Seed’s Future Depends on Food System Thinking](../../items/seedworld/2026/05/https_www.seedworld.com_p_125470.md)**
+  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125470.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc26-seeds-future-depends-on-food-system-thinking/)
+  - The seed sector can no longer afford to think only about seeds. At World Seed Congress 2026 in Lisbon, one of the strongest themes emerging from conversations across the global industry was the growi…
+
+- **[WSC26: ISF Secretary General on the Future of the Global Seed Sector](../../items/seedworld/2026/05/https_www.seedworld.com_p_125466.md)**
+  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125466.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc26-isf-secretary-general-on-the-future-of-the-global-seed-sector/)
+  - World Seed Congress 2026 brought together more than 1,800 delegates from 80 countries in Lisbon: a powerful reminder that global collaboration remains at the heart of the seed sector.
+
+- **[Seed World Announces Winner of €10,000 Advertising Prize](../../items/seedworld/2026/05/https_www.seedworld.com_p_125480.md)**
+  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125480.md) · [원문](https://www.seedworld.com/europe/2026/05/25/seed-world-announces-winner-of-e10000-advertising-prize/)
+  - At this year’s World Seed Congress in Lisbon, Seed World invited the global seed community to answer one big question for a chance to win €10,000 in advertising: what’s one thing the seed sector isn’…
+
+- **[Rothamsted Launches UK’s First Field Trial Under New PBO Rules](../../items/seedworld/2026/05/https_www.seedworld.com_p_125448.md)**
+  - 2026-05-24 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125448.md) · [원문](https://www.seedworld.com/europe/2026/05/24/rothamsted-launches-uks-first-field-trial-under-new-pbo-rules/)
+  - Rothamsted Research has planted the UK’s first crop to receive a Precision Bred Organism (PBO) Release Notice, a key milestone for field-based gene editing under the country’s new regulatory framewor…
+
 - **[European Commission Adopts Fertiliser Action Plan to Support Farmers and Strengthen EU Supply Security](../../items/seedworld/2026/05/https_www.seedworld.com_p_125445.md)**
   - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125445.md) · [원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/)
   - European Commission’s Fertiliser Action Plan aims to ease rising fertiliser costs, improve supply security, support farmers, and strengthen domestic production. The initiative promotes bio-based, low…

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/19/napb-2026-focuses-on-ai-indoor-far
 summary: "Researchers will gather in Texas to discuss how artificial intelligence and controlled environment agriculture are accelerating the development of climate-smart crops The post NAPB 2026 Focuses on AI, Indoor Farming, and the Next Era of"
 attachments: []
 tags: []
-fetched_at: "2026-05-25T06:50:53+09:00"
+fetched_at: "2026-05-27T07:05:12+09:00"
 ---
 # NAPB 2026 Focuses on AI, Indoor Farming, and the Next Era of Plant Breeding
 
