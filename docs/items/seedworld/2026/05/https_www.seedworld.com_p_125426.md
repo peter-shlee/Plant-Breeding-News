@@ -9,7 +9,7 @@ summary: "From wheat breeding discussions to concerns about oat research sustain
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-05-27T07:05:12+09:00"
+fetched_at: "2026-05-29T07:11:29+09:00"
 ---
 # A New Era of Farmer-Led Innovation is Emerging in Canada
 

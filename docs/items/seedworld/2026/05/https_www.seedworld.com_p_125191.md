@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/14/from-lisbon-to-lethbridge-plan
 summary: "The 2026 ISF World Seed Congress and Season 2 of On the Brink point to the same reality The post From Lisbon to Saskatoon, Plant Breeding Faces a Defining Moment appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-27T07:05:12+09:00"
+fetched_at: "2026-05-29T07:11:29+09:00"
 ---
 # From Lisbon to Saskatoon, Plant Breeding Faces a Defining Moment
 

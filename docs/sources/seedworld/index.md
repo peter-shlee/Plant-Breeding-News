@@ -11,17 +11,53 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[How Uncertainty Around Nitrogen Rates Could Cost Corn Farmers Millions](../../items/seedworld/2026/05/https_www.seedworld.com_p_125591.md)**
+  - 2026-05-29 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125591.md) · [원문](https://www.seedworld.com/us/2026/05/28/nitrogen-fertilizer-uncertainty-corn-farmers/)
+  - Purdue University suggests nitrogen fertilizer recommendation uncertainty may economically and environmentally cost corn farmers a lot. Published in Nature Communications , the research argues that b…
+
+- **[European Commission Proposes Fertiliser Action Plan for Farmers](../../items/seedworld/2026/05/https_www.seedworld.com_p_125509.md)**
+  - 2026-05-28 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125509.md) · [원문](https://www.seedworld.com/europe/2026/05/28/eu-fertiliser-action-plan-farmers/)
+  - Farmers across Europe are facing growing pressure from supply disruptions and volatile fertiliser prices. In response, the European Commission has proposed an initiative to support farmers dealing wi…
+
+- **[Euroseeds 2026 Preview: Policy, Innovation & Global Stakes](../../items/seedworld/2026/05/https_www.seedworld.com_p_125587.md)**
+  - 2026-05-28 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125587.md) · [원문](https://www.seedworld.com/europe/2026/05/27/euroseeds-congress-2026-valencia/)
+  - With major seed sector events competing for attention in 2026, what makes Euroseeds Congress in Valencia stand out? We sat down with Erica Maujeri, Manager of Communications at Euroseeds, to get an i…
+
+- **[Can Canada Talk Food Security While Cutting Agricultural Research?](../../items/seedworld/2026/05/https_www.seedworld.com_p_125576.md)**
+  - 2026-05-28 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125576.md) · [원문](https://www.seedworld.com/canada/2026/05/27/can-canada-talk-food-security-while-cutting-agricultural-research/)
+  - Conservative agriculture critic John Barlow stood with farm groups, researchers, seed sector representatives, municipal leaders, and producer organizations on Wednesday to send a clear message to Ott…
+
+- **[Why Plant Breeding Persistence Matters in Seeds](../../items/seedworld/2026/05/https_www.seedworld.com_p_125506.md)**
+  - 2026-05-28 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125506.md) · [원문](https://www.seedworld.com/europe/2026/05/27/why-plant-breeding-persistence-matters-in-seeds/)
+  - From developing new varieties to building stronger companies, real progress often begins long before results are visible. Most people enjoy the story of a breakthrough.
+
+- **[The Benefits of Upgrading Seed Processing Screening Equipment](../../items/seedworld/2026/05/https_www.seedworld.com_p_125570.md)**
+  - 2026-05-28 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125570.md) · [원문](https://www.seedworld.com/canada/2026/05/27/the-benefits-of-upgrading-seed-processing-screening-equipment/)
+  - You can tell a lot about a processing plant by watching the operators. If they’re constantly adjusting equipment and reacting to problems, something isn’t working the way it should.
+
+- **[USDA Extends Deregulation to New Pioneer Corn Variety Following APHIS Review](../../items/seedworld/2026/05/https_www.seedworld.com_p_125566.md)**
+  - 2026-05-28 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125566.md) · [원문](https://www.seedworld.com/us/2026/05/27/usda-deregulation-pioneer-dp51291-corn/)
+  - The U.S. Department of Agriculture (USDA) Animal and Plant Inspection Service (APHIS) determined Pioneer DP51291 corn is unlikely to pose a plant pest risk after reviewing public comments and prior t…
+
+- **[PBR: Canada’s Hidden Innovation Engine | On The Brink: Season 2 – Episode 3](../../items/seedworld/2026/05/https_www.seedworld.com_p_125531.md)**
+  - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125531.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/27/why-new-cereal-varieties-disappearing-canada-on-the-brink-s2-e3/)
+  - Anthony Parker’s job is to watch who is investing in Canada’s future crops. Lately, the answer has been fewer and fewer organizations.
+
+- **[AI Model Predicts Tomato Virus Severity With 100% Accuracy](../../items/seedworld/2026/05/https_www.seedworld.com_p_125454.md)**
+  - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125454.md) · [원문](https://www.seedworld.com/europe/2026/05/27/ai-model-predicts-tomato-virus-severity-with-100-accuracy/)
+  - A research team at Sungkyunkwan University has developed DeepTYLCV, an artificial intelligence model designed to predict the virulence of tomato yellow leaf curl virus, one of the most damaging viral…
+
 - **[The Million-Dollar Question Facing Canadian Plant Breeding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125553.md)**
   - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125553.md) · [원문](https://www.seedworld.com/canada/2026/05/26/the-million-dollar-question-facing-canadian-plant-breeding/)
-  - New crop varieties require years of research, testing and commercialization. Seeds Canada argues stronger breeder protections are needed to ensure innovators see a return on investment and continue b…
+  - Seeds Canada argues stronger breeder protections are needed to ensure innovators see a return on investment and continue bringing new genetics to market The post The Million-Dollar Question Facing Ca…
 
 - **[They Went on Vacation and Bought a Seed Company?! | The Fusion Seed Story](../../items/seedworld/2026/05/https_www.seedworld.com_p_125552.md)**
   - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125552.md) · [원문](https://www.seedworld.com/us/2026/05/26/fusion-seeds-story-how-chad-and-sherry-goldsmith-bought-a-seed-company/)
-  - Chad and Sherry Goldsmith reveal how a life-changing decision made from a Hawaii hotel room helped launch Fusion Seeds into a trusted name in Kentucky bluegrass. Some seed stories just make you stop…
+  - While on vacation in Hawaii, Chad and Sherry Goldsmith made a life-changing decision to buy a seed company. That leap became Fusion Seeds.
 
 - **[New Discovery Reveals How Crops Detect Stress and Disease](../../items/seedworld/2026/05/https_www.seedworld.com_p_125451.md)**
   - 2026-05-26 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125451.md) · [원문](https://www.seedworld.com/europe/2026/05/26/new-discovery-reveals-how-crops-detect-stress-and-disease/)
-  - Researchers in Japan have identified a new way plants detect hydrogen peroxide, a key molecule involved in stress response and immunity. The discovery could help scientists develop crops that are bet…
+  - Researchers in Japan have discovered a copper-dependent hydrogen peroxide sensing system in plants, reshaping understanding of crop stress signaling and immunity. Published in Nature Communications,…
 
 - **[WSC26: The Race for Faster Seed Innovation is Driving Companies to Chile](../../items/seedworld/2026/05/https_www.seedworld.com_p_125501.md)**
   - 2026-05-26 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125501.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc-2026-the-race-for-faster-seed-innovation-is-driving-companies-to-chile/)
@@ -29,31 +65,31 @@ source: "seedworld"
 
 - **[Remembering Seedsmen Who Served](../../items/seedworld/2026/05/https_www.seedworld.com_p_125493.md)**
   - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125493.md) · [원문](https://www.seedworld.com/us/2026/05/25/seedsmen-who-served-memorial-day/)
-  - While Memorial Day traditionally honors Americans who died in military service, the holiday also offers a moment to reflect on the longstanding connection between military service, rural America and…
+  - From the Civil War to World War II, these seedsmen helped shape American agriculture seed after military service. The post Remembering Seedsmen Who Served appeared first on Seed World .
 
 - **[Michael Keller Honored with Global Unity Award in Lisbon](../../items/seedworld/2026/05/https_www.seedworld.com_p_125483.md)**
   - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125483.md) · [원문](https://www.seedworld.com/us/2026/05/25/michael-keller-honored-with-global-unity-award-in-lisbon/)
-  - A big congratulations to Michael Keller, Secretary General of the International Seed Federation (ISF), on receiving Seed World Group’s 2025 Global Unity Award at this year’s World Seed Congress in Li…
+  - Michael Keller, Secretary General of the International Seed Federation, received Seed World Group’s 2025 Global Unity Award at World Seed Congress in Lisbon. The award recognizes Keller’s leadership,…
 
 - **[Michael Keller Honoured with Global Unity Award in Lisbon](../../items/seedworld/2026/05/https_www.seedworld.com_p_125475.md)**
   - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125475.md) · [원문](https://www.seedworld.com/europe/2026/05/25/michael-keller-honoured-with-global-unity-award-in-lisbon/)
-  - A big congratulations to Michael Keller, Secretary General of the International Seed Federation (ISF), on receiving Seed World Group’s 2025 Global Unity Award at this year’s World Seed Congress in Li…
+  - Michael Keller, Secretary General of the International Seed Federation, received Seed World Group’s 2025 Global Unity Award at World Seed Congress in Lisbon. The award recognizes Keller’s leadership,…
 
 - **[WSC26: Seed’s Future Depends on Food System Thinking](../../items/seedworld/2026/05/https_www.seedworld.com_p_125470.md)**
   - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125470.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc26-seeds-future-depends-on-food-system-thinking/)
-  - The seed sector can no longer afford to think only about seeds. At World Seed Congress 2026 in Lisbon, one of the strongest themes emerging from conversations across the global industry was the growi…
+  - World Seed Congress 2026 in Lisbon highlighted the seed sector’s growing role in global food systems. ISF Value Chain Coordination Group Chair Eduard Fito discusses sustainability, regulation, innova…
 
 - **[WSC26: ISF Secretary General on the Future of the Global Seed Sector](../../items/seedworld/2026/05/https_www.seedworld.com_p_125466.md)**
   - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125466.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc26-isf-secretary-general-on-the-future-of-the-global-seed-sector/)
-  - World Seed Congress 2026 brought together more than 1,800 delegates from 80 countries in Lisbon: a powerful reminder that global collaboration remains at the heart of the seed sector.
+  - World Seed Congress 2026 in Lisbon united more than 1,800 delegates from 80 countries to address the future of agriculture. In an exclusive interview, ISF Secretary General Michael Keller discusses g…
 
 - **[Seed World Announces Winner of €10,000 Advertising Prize](../../items/seedworld/2026/05/https_www.seedworld.com_p_125480.md)**
   - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125480.md) · [원문](https://www.seedworld.com/europe/2026/05/25/seed-world-announces-winner-of-e10000-advertising-prize/)
-  - At this year’s World Seed Congress in Lisbon, Seed World invited the global seed community to answer one big question for a chance to win €10,000 in advertising: what’s one thing the seed sector isn’…
+  - At this year’s World Seed Congress in Lisbon, Seed World invited the global seed community to answer one big question for a chance to win €10,000 in advertising: what’s one […] The post Seed World An…
 
 - **[Rothamsted Launches UK’s First Field Trial Under New PBO Rules](../../items/seedworld/2026/05/https_www.seedworld.com_p_125448.md)**
   - 2026-05-24 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125448.md) · [원문](https://www.seedworld.com/europe/2026/05/24/rothamsted-launches-uks-first-field-trial-under-new-pbo-rules/)
-  - Rothamsted Research has planted the UK’s first crop to receive a Precision Bred Organism (PBO) Release Notice, a key milestone for field-based gene editing under the country’s new regulatory framewor…
+  - Rothamsted Research has planted the UK’s first crop under a Precision Bred Organism Release Notice, marking a milestone for gene-edited field trials. The CRISPR-Cas9 Camelina sativa trial will test i…
 
 - **[European Commission Adopts Fertiliser Action Plan to Support Farmers and Strengthen EU Supply Security](../../items/seedworld/2026/05/https_www.seedworld.com_p_125445.md)**
   - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125445.md) · [원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/)
@@ -385,39 +421,3 @@ source: "seedworld"
 - **[Up to 40% of U.S. Food Never Gets Eaten. The Pressure Starts at Seed](../../items/seedworld/2026/04/https_www.seedworld.com_p_124877.md)**
   - 2026-04-29 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124877.md) · [원문](https://www.seedworld.com/us/2026/04/29/up-to-40-of-u-s-food-never-gets-eaten-the-pressure-starts-at-seed/)
   - U.S. food waste reaches up to 40% of the supply, with 133 billion pounds lost annually.
-
-- **[Who Speaks for Seed in Canada-U.S. Trade? Michael Harvey Takes a Seat](../../items/seedworld/2026/04/https_www.seedworld.com_p_124863.md)**
-  - 2026-04-29 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124863.md) · [원문](https://www.seedworld.com/canada/2026/04/28/who-speaks-for-seed-in-canada-u-s-trade-michael-harvey-takes-a-seat/)
-  - With CUSMA talks approaching, CAFTA’s executive director joins Ottawa’s new advisory committee to represent agri-food exporters The post Who Speaks for Seed in Canada-U.S.
-
-- **[What Fuels a Plant Before Sunlight Takes Over?](../../items/seedworld/2026/04/https_www.seedworld.com_p_124869.md)**
-  - 2026-04-29 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124869.md) · [원문](https://www.seedworld.com/us/2026/04/28/what-fuels-a-plant-before-sunlight-takes-over/)
-  - Scientists identified how the PEX11 protein regulates peroxisome growth in young plants, helping seedlings use stored energy before photosynthesis begins and offering insight relevant to bioengineeri…
-
-- **[Scientists Use CRISPR to Strengthen Grapevines in African First](../../items/seedworld/2026/04/https_www.seedworld.com_p_124838.md)**
-  - 2026-04-28 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124838.md) · [원문](https://www.seedworld.com/europe/2026/04/28/scientists-use-crispr-to-strengthen-grapevines-in-african-first/)
-  - African researchers used CRISPR to successfully edit grapevine DNA for the first time in a woody crop on the continent. By switching off the VvDMR6.1 gene, the study reduced susceptibility to downy m…
-
-- **[CRISPR Study Unlocks Precision Chromosome Editing in Wheat](../../items/seedworld/2026/04/https_www.seedworld.com_p_124831.md)**
-  - 2026-04-28 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124831.md) · [원문](https://www.seedworld.com/europe/2026/04/28/crispr-study-unlocks-precision-chromosome-editing-in-wheat/)
-  - IPK researchers used CRISPR/Cas to reduce or remove chromosomes in wheat and other large-genome plants by targeting satellite DNA. Published in Plant Communications, the breakthrough shows how precis…
-
-- **[Euroseeds InnovAction Stage 2026: Deadline April 30](../../items/seedworld/2026/04/https_www.seedworld.com_p_124815.md)**
-  - 2026-04-28 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124815.md) · [원문](https://www.seedworld.com/europe/2026/04/28/euroseeds-innovaction-stage-2026-deadline-april-30/)
-  - Euroseeds Congress 2026 InnovAction Stage offers startups, research initiatives, and established seed companies a platform to showcase breakthrough innovations. Madeleine Baerg and Dr.
-
-- **[What To Expect at Euroseeds 2026](../../items/seedworld/2026/04/https_www.seedworld.com_p_124812.md)**
-  - 2026-04-28 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124812.md) · [원문](https://www.seedworld.com/europe/2026/04/28/what-to-expect-at-euroseeds-2026/)
-  - Shawn Brook interviews Garlich von Essen on the future of the seed sector ahead of Euroseeds Congress 2026, exploring geopolitical shifts, innovation, regulation, sustainability, biologicals, traceab…
-
-- **[$40M Investment Expands Agronomy Research Capacity at Oklahoma State](../../items/seedworld/2026/04/https_www.seedworld.com_p_124804.md)**
-  - 2026-04-27 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124804.md) · [원문](https://www.seedworld.com/us/2026/04/27/40m-investment-expands-agronomy-research-capacity-at-oklahoma-state/)
-  - Oklahoma State University will build a new Agronomy Discovery Center following a $40 million state investment, expanding crop research capacity and supporting wheat breeding, soil science and broader…
-
-- **[Seed Programs International conecta a los pequeños agricultores con el sector de las semillas](../../items/seedworld/2026/04/https_www.seedworld.com_p_124755.md)**
-  - 2026-04-27 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124755.md) · [원문](https://www.seedworld.com/latam/2026/04/27/seed-programs-international-conecta-a-los-pequenos-agricultores-con-el-sector-de-las-semillas/)
-  - Seed Programs International conecta empresas semilleras, financiadores y socios locales para ayudar a pequeños agricultores a producir alimentos y fortalecer la seguridad alimentaria.
-
-- **[Yearbook Advice vs. Seed Business Reality: “Never Change” Is an Awful Strategy](../../items/seedworld/2026/04/https_www.seedworld.com_p_124800.md)**
-  - 2026-04-27 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124800.md) · [원문](https://www.seedworld.com/us/2026/04/26/yearbook-advice-vs-seed-business-reality-never-change-is-an-awful-strategy/)
-  - Seed companies can’t rely on “never change” thinking. To stay competitive, leaders must protect customer trust while evolving sales channels, pricing models, digital tools, agronomic insight, and pro…
