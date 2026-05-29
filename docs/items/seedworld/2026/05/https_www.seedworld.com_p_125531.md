@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/05/27/why-new-cereal-va
 summary: "Anthony Parker, Canada's Commissioner of Plant Breeders' Rights, explains why PBR filings in cereals have declined for three years running — and what a made-in-Canada solution to the funding gap needs to include."
 attachments: []
 tags: []
-fetched_at: "2026-05-29T12:47:28+09:00"
+fetched_at: "2026-05-29T12:53:39+09:00"
 ---
 # PBR: Canada’s Hidden Innovation Engine | On The Brink: Season 2 – Episode 3
 

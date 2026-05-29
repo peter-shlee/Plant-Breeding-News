@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/20/seed-trade-getting-more-expensive-
 summary: "Sam Crowell of ASTA discusses tariffs, Section 301 investigations, customs delays and why seed trade uncertainty is raising costs for seed companies. The post Why Seed Trade Is Getting More Expensive appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-29T12:47:28+09:00"
+fetched_at: "2026-05-29T12:53:39+09:00"
 ---
 # Why Seed Trade Is Getting More Expensive
 

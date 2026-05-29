@@ -9,7 +9,7 @@ summary: "USDA APHIS has extended deregulation to Pioneer’s DP51291 corn varie
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-05-29T12:47:28+09:00"
+fetched_at: "2026-05-29T12:53:39+09:00"
 ---
 # USDA Extends Deregulation to New Pioneer Corn Variety Following APHIS Review
 

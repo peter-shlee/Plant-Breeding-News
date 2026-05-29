@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/25/seed-world-announces-winner-of
 summary: "At this year’s World Seed Congress in Lisbon, Seed World invited the global seed community to answer one big question for a chance to win €10,000 in advertising: what’s one […] The post Seed World Announces Winner of €10,000 Advertising"
 attachments: []
 tags: []
-fetched_at: "2026-05-29T12:47:28+09:00"
+fetched_at: "2026-05-29T12:53:39+09:00"
 ---
 # Seed World Announces Winner of €10,000 Advertising Prize
 

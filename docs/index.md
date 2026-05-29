@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-05-29 12:50 (KST)**  
+- 마지막 업데이트: **2026-05-29 12:55 (KST)**  
 - 커버리지(최근 섹션): **2026-05-22 ~ 2026-05-29** (최근 7일)
 
 ## 목차
@@ -23,22 +23,22 @@ title: "식물 육종 뉴스"
 <!-- AUTO_BRIEFING_START -->
 ## 30초 주간 브리핑 (2026-05-22~2026-05-29)
 
-> 글로벌 종자 산업의 혁신 가속화와 식량 안보를 위한 정책 및 기술적 대응이 활발합니다.
+> 글로벌 종자 산업의 규제 혁신과 디지털 육종 기술의 비약적 발전이 주목받은 한 주였습니다.
 
 ### 1) 정책/규제
 
-- 미국 농무부(USDA)가 식물 해충 위험 평가 및 공공 의견 수렴을 거쳐 파이오니어사의 신규 옥수수 품종(DP51291)에 대한 규제를 해제했습니다. ([원문](https://www.seedworld.com/us/2026/05/27/usda-deregulation-pioneer-dp51291-corn/))
-- 유럽연합 집행위원회가 농가 지원과 유럽 내 비료 생산 증대, 식량 안보 강화를 골자로 하는 비료 실행 계획을 제안했습니다. ([원문](https://www.seedworld.com/europe/2026/05/28/eu-fertiliser-action-plan-farmers/))
+- 미국 농무부(USDA)가 식물 해충 위험 평가 및 공공 의견 수렴을 거쳐 파이오니어사의 신규 옥수수 품종(DP51291)에 대한 규제를 완화했습니다. ([원문](https://www.seedworld.com/us/2026/05/27/usda-deregulation-pioneer-dp51291-corn/))
+- 영국 로담스테드 연구소가 새로운 정밀 육종(PBO) 규정에 따라 유전자 교정 카멜리나 품종의 첫 야외 시험 재배를 시작했습니다. ([원문](https://www.seedworld.com/europe/2026/05/24/rothamsted-launches-uks-first-field-trial-under-new-pbo-rules/))
 
 ### 2) 연구/기술
 
-- 성균관대 연구진이 개발한 AI 모델이 토마토 황화잎말림 바이러스의 병원성을 100% 정확도로 예측하여 조기 방제 및 저항성 육종을 지원합니다. ([원문](https://www.seedworld.com/europe/2026/05/27/ai-model-predicts-tomato-virus-severity-with-100-accuracy/))
-- 영국 로담스테드 연구소가 새로운 정밀 육종 규정에 따라 유전자 편집 카멜리나 품종의 첫 야외 재배 시험을 시작했습니다. ([원문](https://www.seedworld.com/europe/2026/05/24/rothamsted-launches-uks-first-field-trial-under-new-pbo-rules/))
+- 성균관대 연구진이 개발한 AI 모델이 토마토 황화잎말림 바이러스의 병원성을 100% 정확도로 예측하여 조기 방제와 저항성 육종을 지원합니다. ([원문](https://www.seedworld.com/europe/2026/05/27/ai-model-predicts-tomato-virus-severity-with-100-accuracy/))
+- 일본 연구진이 식물의 구리 의존적 과산화수소 감지 시스템을 발견하여, 기후 적응성과 병 저항성이 강화된 작물 개발의 새로운 단서를 찾았습니다. ([원문](https://www.seedworld.com/europe/2026/05/26/new-discovery-reveals-how-crops-detect-stress-and-disease/))
 
 ### 3) 유통/시장/현장
 
-- 농촌진흥청의 아프리카 K-라이스벨트 사업이 3년 만에 벼 종자 누적 생산량 1만 톤을 돌파하며 식량 자립을 지원하고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810803&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 세계종자회의(WSC26)에서 종자 혁신의 속도가 핵심 경쟁력으로 부상함에 따라, 칠레가 글로벌 종자 기업들의 주요 연구 거점으로 주목받고 있습니다. ([원문](https://www.seedworld.com/europe/2026/05/25/wsc-2026-the-race-for-faster-seed-innovation-is-driving-companies-to-chile/))
+- 농촌진흥청의 아프리카 K-라이스벨트 사업이 3년 만에 벼 종자 누적 생산량 1만 톤을 돌파하며 식량 안보 강화에 기여하고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810803&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 세계종자회의(WSC26)에서 종자 혁신 속도를 높이기 위한 글로벌 기업들의 칠레 진출 가속화 전략이 주요 의제로 다뤄졌습니다. ([원문](https://www.seedworld.com/europe/2026/05/25/wsc-2026-the-race-for-faster-seed-innovation-is-driving-companies-to-chile/))
 
 <!-- AUTO_BRIEFING_END -->
 
