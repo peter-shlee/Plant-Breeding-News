@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/27/euroseeds-congress-2026-valenc
 summary: "Euroseeds Congress 2026 in Valencia will spotlight EU policy, innovation, global seed regions and the future of the industry. The post Euroseeds 2026 Preview: Policy, Innovation & Global Stakes appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-05-29T11:57:15+09:00"
+fetched_at: "2026-05-29T12:47:28+09:00"
 ---
 # Euroseeds 2026 Preview: Policy, Innovation & Global Stakes
 

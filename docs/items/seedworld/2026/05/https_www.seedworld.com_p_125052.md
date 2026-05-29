@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/08/what-it-takes-for-women-to-lead
 summary: "Women remain underrepresented in senior leadership despite strong educational achievement. This article explores how confidence, ambition and willingness to apply before meeting every qualification can shape career advancement."
 attachments: []
 tags: []
-fetched_at: "2026-05-29T11:57:15+09:00"
+fetched_at: "2026-05-29T12:47:28+09:00"
 ---
 # What It Takes For Women To Lead
 

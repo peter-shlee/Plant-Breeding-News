@@ -1,6 +1,6 @@
 {
-  "title": "식물 육종 뉴스 팟캐스트 (2026-05-29)",
-  "shortDescription": "이번 주 식물 육종·종자·품종 관련 핵심 소식을 요약했다.",
+  "title": "식물 육종 기술과 산업의 미래를 혁신하는 AI와 제도적 변화",
+  "shortDescription": "토마토 바이러스를 100% 예측하는 AI 모델부터 캐나다의 육종 투자 보호 제도, 그리고 미국의 효율적인 GM 작물 규제 완화까지 최신 육종 뉴스를 전해드립니다.",
   "releasedDate": "2026-05-29",
   "rangeStart": "2026-05-22",
   "rangeEnd": "2026-05-29",
@@ -10,14 +10,14 @@
     "tts": "gemini-3.1-flash-tts-preview"
   },
   "generation": {
-    "scriptStatus": "fallback_script_error:Gemini HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n",
+    "scriptStatus": "ok",
     "audioStatus": "ok"
   },
   "audio": {
     "url": "2026-05-29.mp3",
     "mimeType": "audio/mpeg",
-    "durationSeconds": 104.81,
-    "bytes": 839277,
+    "durationSeconds": 225.61,
+    "bytes": 1805613,
     "synthesisMode": "multi_speaker",
     "ttsModel": "gemini-2.5-flash-preview-tts",
     "primaryTtsModel": "gemini-3.1-flash-tts-preview",
@@ -31,25 +31,7 @@
       "title": "AI Model Predicts Tomato Virus Severity With 100% Accuracy",
       "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125454.md",
       "originalUrl": "https://www.seedworld.com/europe/2026/05/27/ai-model-predicts-tomato-virus-severity-with-100-accuracy/",
-      "reason": "키워드 점수와 최신성을 기준으로 선택"
-    },
-    {
-      "idx": 2,
-      "date": "2026-05-22",
-      "source": "seedworld",
-      "title": "A New Era of Farmer-Led Innovation is Emerging in Canada",
-      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125426.md",
-      "originalUrl": "https://www.seedworld.com/canada/2026/05/21/a-new-era-of-farmer-led-innovation-is-emerging-in-canada/",
-      "reason": "키워드 점수와 최신성을 기준으로 선택"
-    },
-    {
-      "idx": 3,
-      "date": "2026-05-28",
-      "source": "seedworld",
-      "title": "Why Plant Breeding Persistence Matters in Seeds",
-      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125506.md",
-      "originalUrl": "https://www.seedworld.com/europe/2026/05/27/why-plant-breeding-persistence-matters-in-seeds/",
-      "reason": "키워드 점수와 최신성을 기준으로 선택"
+      "reason": "성균관대 연구팀이 개발한 토마토 바이러스 예측 AI 모델 DeepTYLCV 뉴스"
     },
     {
       "idx": 4,
@@ -58,7 +40,16 @@
       "title": "The Million-Dollar Question Facing Canadian Plant Breeding",
       "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125553.md",
       "originalUrl": "https://www.seedworld.com/canada/2026/05/26/the-million-dollar-question-facing-canadian-plant-breeding/",
-      "reason": "키워드 점수와 최신성을 기준으로 선택"
+      "reason": "캐나다 종자 업계의 품종 보호 및 투자 회수 방안에 대한 분석"
+    },
+    {
+      "idx": 2,
+      "date": "2026-05-22",
+      "source": "seedworld",
+      "title": "A New Era of Farmer-Led Innovation is Emerging in Canada",
+      "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125426.md",
+      "originalUrl": "https://www.seedworld.com/canada/2026/05/21/a-new-era-of-farmer-led-innovation-is-emerging-in-canada/",
+      "reason": "캐나다 농민들이 주도하는 농업 혁신 및 육종 시스템 변화"
     },
     {
       "idx": 5,
@@ -67,61 +58,73 @@
       "title": "USDA Extends Deregulation to New Pioneer Corn Variety Following APHIS Review",
       "itemPath": "items/seedworld/2026/05/https_www.seedworld.com_p_125566.md",
       "originalUrl": "https://www.seedworld.com/us/2026/05/27/usda-deregulation-pioneer-dp51291-corn/",
-      "reason": "키워드 점수와 최신성을 기준으로 선택"
+      "reason": "미국 USDA의 유사성 평가를 통한 Pioneer 신규 GM 옥수수 규제 완화"
     }
   ],
   "dialogue": [
     {
       "speaker": "재석",
-      "text": "안녕하세요. 식물 육종 뉴스입니다. 오늘은 2026-05-22부터 2026-05-29까지 들어온 소식 중 눈에 띄는 흐름을 짚어보겠습니다."
+      "text": "안녕하세요, 식물 육종 뉴스 팟캐스트의 재석입니다. 오늘은 인공지능을 활용한 질병 예측부터 글로벌 육종 산업의 투자와 규제 혁신까지 아주 흥미로운 소식들을 준비했습니다. 오늘도 식물 육종 전문가이신 민아 박사님과 함께합니다. 박사님, 안녕하세요?"
     },
     {
       "speaker": "민아",
-      "text": "이번 주는 품종 개발, 종자 산업, 유전체 기술, 현장 적용 이슈를 한국어로 풀어 정리해 보겠습니다."
+      "text": "안녕하세요, 민아입니다. 오늘 소개해 드릴 첫 번째 소식은 국내 연구진이 주도하여 개발한 혁신적인 AI 모델에 대한 이야기입니다. 토마토에 치명적인 바이러스의 병원성을 무려 100%의 정확도로 예측하는 기술이 개발되었다고 합니다."
     },
     {
       "speaker": "재석",
-      "text": "다음은 seedworld에서 다룬 AI와 유전체 예측을 활용한 신육종 기술 소식입니다."
+      "text": "100% 정확도라니 정말 놀랍네요. 토마토 황화잎말림바이러스, 즉 TYLCV를 예측하는 'DeepTYLCV'라는 모델이라고 들었습니다. 구체적으로 어떤 원리로 작동하는 건가요?"
     },
     {
       "speaker": "민아",
-      "text": "핵심은 AI와 유전체 예측을 활용한 신육종 기술입니다. 원문 표현을 그대로 읽기보다는, 육종 현장에서 어떤 기술이나 제도 변화로 이어질지 살펴볼 만한 기사입니다."
+      "text": "성균관대학교 연구팀이 개발한 이 모델은 바이러스의 유전체 서열 정보를 기반으로 작동합니다. 기존의 이미지 기반 진단과 달리, 밭에서 실제 증상이 나타나기 전에 경미한 변이와 심각한 변이를 구별해 낼 수 있습니다. 덕분에 기후나 환경 조건에 구애받지 않고 선제적인 방역이 가능해집니다."
     },
     {
       "speaker": "재석",
-      "text": "다음은 seedworld에서 다룬 AI와 유전체 예측을 활용한 신육종 기술 소식입니다."
+      "text": "이전에도 비슷한 모델이 있었지만, 이번 모델은 전 세계 다양한 변이 바이러스에 모두 적용할 수 있도록 발전했다고 하더군요. 단백질 언어 모델과 트랜스포머 인코더 같은 첨단 기술이 융합되었다면서요?"
     },
     {
       "speaker": "민아",
-      "text": "핵심은 AI와 유전체 예측을 활용한 신육종 기술입니다. 원문 표현을 그대로 읽기보다는, 육종 현장에서 어떤 기술이나 제도 변화로 이어질지 살펴볼 만한 기사입니다."
+      "text": "맞습니다. 기존 모델은 한국형 변이에 집중되어 있었지만, 이번 DeepTYLCV는 글로벌 데이터를 학습하여 범용성을 크게 높였습니다. 실제 15종의 글로벌 및 국내 바이러스를 대상으로 한 맹검 테스트에서 예측값과 실제 감염 결과가 100% 일치하는 쾌거를 이루었습니다."
     },
     {
       "speaker": "재석",
-      "text": "다음은 seedworld에서 다룬 AI와 유전체 예측을 활용한 신육종 기술 소식입니다."
+      "text": "우리 연구진의 기술력이 정말 자랑스럽습니다. 다음 소식은 캐나다로 가보겠습니다. 신품종을 개발하는 데 엄청난 비용과 시간이 드는 만큼, 육종가의 권리를 보호하고 투자를 회수할 수 있는 제도가 중요해지고 있다죠?"
     },
     {
       "speaker": "민아",
-      "text": "핵심은 AI와 유전체 예측을 활용한 신육종 기술입니다. 원문 표현을 그대로 읽기보다는, 육종 현장에서 어떤 기술이나 제도 변화로 이어질지 살펴볼 만한 기사입니다."
+      "text": "네, 신품종 하나를 개발해서 농가에 보급하기까지 보통 10년 이상이 걸리고, 비용도 최소 500만 달러에서 최대 5,000만 달러까지 소요됩니다. 캐나다 종자 협회는 이러한 막대한 투자가 지속되려면 특허나 식물신품종보호권 같은 지식재산권 보호 장치가 더욱 강화되어야 한다고 강조하고 있습니다."
     },
     {
       "speaker": "재석",
-      "text": "다음은 seedworld에서 다룬 AI와 유전체 예측을 활용한 신육종 기술 소식입니다."
+      "text": "농민이 수확한 종자를 다시 심을 수 있는 '농민의 특권'과 육종가의 권리 사이에서 균형을 잡는 것이 쉽지 않아 보입니다. 캐나다에서는 이를 해결하기 위해 '품종 사용 계약'이라는 제도를 운영하고 있다면서요?"
     },
     {
       "speaker": "민아",
-      "text": "핵심은 AI와 유전체 예측을 활용한 신육종 기술입니다. 원문 표현을 그대로 읽기보다는, 육종 현장에서 어떤 기술이나 제도 변화로 이어질지 살펴볼 만한 기사입니다."
+      "text": "그렇습니다. 2020년부터 도입된 품종 사용 계약, 즉 VUA 프로그램은 농민이 자가 채종한 종자를 사용할 때 재배 면적에 따라 육종가에게 정당한 로열티를 지불하도록 하는 자발적 계약 시스템입니다. 이를 통해 농민의 선택권을 보장하면서도 육종가가 지속적으로 연구에 투자할 수 있는 환경을 조성하고 있습니다."
     },
     {
       "speaker": "재석",
-      "text": "다음은 seedworld에서 다룬 AI와 유전체 예측을 활용한 신육종 기술 소식입니다."
+      "text": "이와 연결해서, 캐나다 농민들이 더 이상 정부나 대기업의 해결책만 기다리지 않고 직접 육종 혁신을 주도하기 시작했다는 소식도 있네요. 특히 밀과 귀리 분야에서 변화가 두드러진다고요?"
     },
     {
       "speaker": "민아",
-      "text": "핵심은 AI와 유전체 예측을 활용한 신육종 기술입니다. 원문 표현을 그대로 읽기보다는, 육종 현장에서 어떤 기술이나 제도 변화로 이어질지 살펴볼 만한 기사입니다."
+      "text": "네, 캐나다 밀 연구 연합 등 농민 단체들이 중심이 되어 지속 가능한 새로운 육종 모델을 논의하고 있습니다. 귀리의 경우 수십 년간 선제적으로 투자한 덕분에 치명적인 녹병 피해를 막을 수 있었는데, 농민들은 이러한 장기적인 투자의 중요성을 누구보다 잘 이해하고 있습니다."
     },
     {
       "speaker": "재석",
-      "text": "오늘 준비한 소식은 여기까지입니다. 원문 링크와 대본은 팟캐스트 페이지에서 확인하실 수 있습니다."
+      "text": "민간 기업인 바이엘이나 바스프도 캐나다에 대규모 육종 센터를 짓는 등 투자를 아끼지 않고 있습니다. 공공과 민간, 그리고 농민이 함께 협력하는 시스템이 미래 농업의 핵심이 될 것 같습니다."
+    },
+    {
+      "speaker": "민아",
+      "text": "정확한 지적입니다. 정부나 기업 어느 한쪽의 힘만으로는 미래 30년을 대비할 수 없습니다. 농민이 직접 투자와 의사결정에 참여하는 실용적인 파트너십이 구축되어야 글로벌 경쟁력을 유지할 수 있습니다."
+    },
+    {
+      "speaker": "재석",
+      "text": "마지막으로 미국에서 들려온 규제 완화 소식도 짚어보겠습니다. 미국 농무부가 신규 GM 옥수수 품종의 규제를 완화했다는 소식인데, 심사 과정이 이전보다 훨씬 빨라졌다고 들었습니다."
+    },
+    {
+      "speaker": "민아",
+      "text": "그렇습니다. 미국 농무부 동식물검역소는 파이오니어 사가 개발한 해충 저항성 및 제초제 내성 옥수수 품종에 대해 규제 완화 지위를 승인했습니다. 완전히 새로운 심사를 거치지 않고, 이미 안전성이 검증된 기존 품종과의 유사성을 평가하는 '규제 완화 연장 경로'를 활용했습니다."
     }
   ]
 }

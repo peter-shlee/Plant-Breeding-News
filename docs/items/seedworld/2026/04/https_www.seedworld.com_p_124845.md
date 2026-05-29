@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/04/29/from-one-breeders-vision-to-a-
 summary: "With 170 years of independence, KWS combines scientific expertise, long-term thinking and farmer partnerships to advance modern plant breeding. From sugar beet origins to a global portfolio spanning 20+ crops, the company invests heavily"
 attachments: []
 tags: []
-fetched_at: "2026-05-29T11:57:15+09:00"
+fetched_at: "2026-05-29T12:47:28+09:00"
 ---
 # From One Breeder’s Vision to a Global Legacy
 

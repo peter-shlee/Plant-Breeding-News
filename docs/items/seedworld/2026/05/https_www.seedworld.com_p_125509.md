@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/28/eu-fertiliser-action-plan-farm
 summary: "The European Commission has proposed a fertiliser action plan to support farmers, boost domestic production and improve Europe’s food security. The post European Commission Proposes Fertiliser Action Plan for Farmers appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-05-29T11:57:15+09:00"
+fetched_at: "2026-05-29T12:47:28+09:00"
 ---
 # European Commission Proposes Fertiliser Action Plan for Farmers
 
