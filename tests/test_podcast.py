@@ -41,6 +41,40 @@ class PodcastAudioTests(unittest.TestCase):
         self.assertEqual(voice_tts.call_count, 2)
         self.assertGreater(meta["bytes"], len(line_pcm) * 2)
 
+    def test_synthesize_audio_falls_back_to_secondary_tts_model(self) -> None:
+        episode = {
+            "dialogue": [
+                {"speaker": podcast.HOST_LEAD, "text": "안녕하세요. 식물 육종 뉴스입니다."},
+            ]
+        }
+        line_pcm = b"\x02\x00" * 2400
+        primary = podcast.DEFAULT_TTS_MODEL
+        secondary = podcast.DEFAULT_TTS_FALLBACK_MODELS[0]
+
+        def fake_voice_tts(text: str, *, api_key: str, model: str, voice_name: str) -> bytes:
+            if model == primary:
+                raise RuntimeError("Gemini TTS HTTP 500")
+            return line_pcm
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            with (
+                patch("collector.podcast._call_gemini_tts", side_effect=RuntimeError("Gemini TTS HTTP 500")),
+                patch("collector.podcast._call_gemini_tts_voice", side_effect=fake_voice_tts),
+                patch("collector.podcast.shutil.which", return_value=None),
+            ):
+                meta = podcast._synthesize_episode_audio(
+                    episode,
+                    podcast_dir=tmpdir,
+                    release_date="2026-05-29",
+                    api_key="test-key",
+                    model=primary,
+                    keep_wav=False,
+                )
+
+        self.assertEqual(meta["ttsModel"], secondary)
+        self.assertEqual(meta["primaryTtsModel"], primary)
+        self.assertIn("Gemini TTS HTTP 500", meta["modelFallbackReason"])
+
     def test_recent_text_only_episode_retries_when_api_key_is_available(self) -> None:
         payload = {
             "releasedDate": "2026-05-29",

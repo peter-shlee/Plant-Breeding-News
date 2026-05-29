@@ -21,6 +21,7 @@ from .sitegen import item_relpath
 
 DEFAULT_SCRIPT_MODEL = "gemini-3.5-flash"
 DEFAULT_TTS_MODEL = "gemini-3.1-flash-tts-preview"
+DEFAULT_TTS_FALLBACK_MODELS = ("gemini-2.5-flash-preview-tts",)
 DEFAULT_SITE_URL = "https://peter-shlee.github.io/Plant-Breeding-News"
 PODCAST_DIRNAME = "podcast"
 HOST_LEAD = "재석"
@@ -783,14 +784,26 @@ def _synthesize_episode_audio(
     model: str,
     keep_wav: bool,
 ) -> dict[str, Any]:
-    synthesis_mode = "multi_speaker"
+    errors: list[str] = []
+    pcm = b""
+    synthesis_mode = ""
     fallback_reason = ""
-    try:
-        pcm = _call_gemini_tts(_tts_prompt(episode), api_key=api_key, model=model)
-    except Exception as e:
-        fallback_reason = str(e)
-        pcm = _synthesize_episode_audio_by_line(episode, api_key=api_key, model=model)
-        synthesis_mode = "single_speaker_fallback"
+    used_model = model
+
+    for candidate_model in _tts_model_candidates(model):
+        try:
+            pcm, synthesis_mode, fallback_reason = _synthesize_episode_pcm(
+                episode,
+                api_key=api_key,
+                model=candidate_model,
+            )
+            used_model = candidate_model
+            break
+        except Exception as e:
+            errors.append(f"{candidate_model}: {e}")
+
+    if not pcm:
+        raise RuntimeError("; ".join(errors) or "TTS produced no audio")
 
     wav_name = f"{release_date}.wav"
     wav_path = os.path.join(podcast_dir, wav_name)
@@ -845,10 +858,41 @@ def _synthesize_episode_audio(
         "durationSeconds": duration_s,
         "bytes": os.path.getsize(audio_path),
         "synthesisMode": synthesis_mode,
+        "ttsModel": used_model,
     }
+    if used_model != model:
+        meta["primaryTtsModel"] = model
+        if errors:
+            meta["modelFallbackReason"] = "; ".join(errors)[:500]
     if fallback_reason:
         meta["fallbackReason"] = fallback_reason[:300]
     return meta
+
+
+def _tts_model_candidates(primary_model: str) -> list[str]:
+    candidates = [primary_model]
+    for fallback in DEFAULT_TTS_FALLBACK_MODELS:
+        if fallback not in candidates:
+            candidates.append(fallback)
+    return candidates
+
+
+def _synthesize_episode_pcm(episode: dict[str, Any], *, api_key: str, model: str) -> tuple[bytes, str, str]:
+    try:
+        return _call_gemini_tts(_tts_prompt(episode), api_key=api_key, model=model), "multi_speaker", ""
+    except Exception as e:
+        multi_speaker_error = str(e)
+
+    try:
+        return (
+            _synthesize_episode_audio_by_line(episode, api_key=api_key, model=model),
+            "single_speaker_fallback",
+            multi_speaker_error,
+        )
+    except Exception as e:
+        raise RuntimeError(
+            f"multi-speaker TTS failed: {multi_speaker_error}; single-line TTS fallback failed: {e}"
+        ) from e
 
 
 def _synthesize_episode_audio_by_line(episode: dict[str, Any], *, api_key: str, model: str) -> bytes:
@@ -900,7 +944,7 @@ def _tts_prompt(episode: dict[str, Any]) -> str:
     return "\n".join(lines).strip() + "\n"
 
 
-def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 180, attempts: int = 3) -> bytes:
+def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 180, attempts: int = 1) -> bytes:
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -930,8 +974,8 @@ def _call_gemini_tts_voice(
     api_key: str,
     model: str,
     voice_name: str,
-    timeout_s: int = 90,
-    attempts: int = 3,
+    timeout_s: int = 60,
+    attempts: int = 2,
 ) -> bytes:
     payload = {
         "contents": [{"parts": [{"text": text}]}],
