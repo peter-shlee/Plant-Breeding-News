@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/icons/icon-192.png' | relative_url }}">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/icons/apple-touch-icon.png' | relative_url }}">
     <link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}?v={{ site.time | date: '%s' }}">
   </head>
   <body class="pbn-shell" data-page-url="{{ page.url }}" data-baseurl="{{ site.baseurl }}">
     <div class="pbn-ambient" aria-hidden="true">
@@ -42,6 +42,6 @@
       </article>
     </main>
 
-    <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/site.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
   </body>
 </html>

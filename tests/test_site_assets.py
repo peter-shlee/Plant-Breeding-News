@@ -6,6 +6,14 @@ ROOT = os.path.dirname(os.path.dirname(__file__))
 
 
 class SiteAssetTests(unittest.TestCase):
+    def test_layout_cache_busts_frontend_assets(self) -> None:
+        with open(os.path.join(ROOT, "docs", "_layouts", "default.html"), encoding="utf-8") as f:
+            layout = f.read()
+
+        self.assertIn("/assets/css/site.css", layout)
+        self.assertIn("/assets/js/site.js", layout)
+        self.assertIn("?v={{ site.time", layout)
+
     def test_podcast_library_reads_latest_and_previous_episode_sections(self) -> None:
         with open(os.path.join(ROOT, "docs", "assets", "js", "site.js"), encoding="utf-8") as f:
             script = f.read()
