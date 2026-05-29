@@ -783,7 +783,14 @@ def _synthesize_episode_audio(
     model: str,
     keep_wav: bool,
 ) -> dict[str, Any]:
-    pcm = _call_gemini_tts(_tts_prompt(episode), api_key=api_key, model=model)
+    synthesis_mode = "multi_speaker"
+    fallback_reason = ""
+    try:
+        pcm = _call_gemini_tts(_tts_prompt(episode), api_key=api_key, model=model)
+    except Exception as e:
+        fallback_reason = str(e)
+        pcm = _synthesize_episode_audio_by_line(episode, api_key=api_key, model=model)
+        synthesis_mode = "single_speaker_fallback"
 
     wav_name = f"{release_date}.wav"
     wav_path = os.path.join(podcast_dir, wav_name)
@@ -832,12 +839,50 @@ def _synthesize_episode_audio(
             except OSError:
                 pass
 
-    return {
+    meta = {
         "url": audio_name,
         "mimeType": mime,
         "durationSeconds": duration_s,
         "bytes": os.path.getsize(audio_path),
+        "synthesisMode": synthesis_mode,
     }
+    if fallback_reason:
+        meta["fallbackReason"] = fallback_reason[:300]
+    return meta
+
+
+def _synthesize_episode_audio_by_line(episode: dict[str, Any], *, api_key: str, model: str) -> bytes:
+    chunks: list[bytes] = []
+    pause = _pcm_silence(0.35)
+    voice_by_speaker = {
+        HOST_LEAD: HOST_LEAD_TTS_VOICE,
+        HOST_EXPERT: HOST_EXPERT_TTS_VOICE,
+    }
+
+    for idx, line in enumerate(episode.get("dialogue") or [], start=1):
+        if not isinstance(line, dict):
+            continue
+        text = re.sub(r"\s+", " ", str(line.get("text") or "").strip())
+        if not text:
+            continue
+        speaker = str(line.get("speaker") or "")
+        voice_name = voice_by_speaker.get(speaker, HOST_EXPERT_TTS_VOICE)
+        try:
+            pcm = _call_gemini_tts_voice(text, api_key=api_key, model=model, voice_name=voice_name)
+        except Exception as e:
+            raise RuntimeError(f"single-line TTS failed at turn {idx}: {e}") from e
+        if chunks:
+            chunks.append(pause)
+        chunks.append(pcm)
+
+    if not chunks:
+        raise RuntimeError("single-line TTS fallback produced no audio")
+    return b"".join(chunks)
+
+
+def _pcm_silence(seconds: float) -> bytes:
+    frame_count = max(0, int(round(seconds * 24000)))
+    return b"\x00\x00" * frame_count
 
 
 def _tts_prompt(episode: dict[str, Any]) -> str:
@@ -856,13 +901,6 @@ def _tts_prompt(episode: dict[str, Any]) -> str:
 
 
 def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 180, attempts: int = 3) -> bytes:
-    import requests
-
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-    headers = {
-        "x-goog-api-key": api_key,
-        "Content-Type": "application/json",
-    }
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -882,6 +920,47 @@ def _call_gemini_tts(prompt: str, *, api_key: str, model: str, timeout_s: int = 
                 }
             },
         },
+    }
+    return _post_gemini_tts_payload(payload, api_key=api_key, model=model, timeout_s=timeout_s, attempts=attempts)
+
+
+def _call_gemini_tts_voice(
+    text: str,
+    *,
+    api_key: str,
+    model: str,
+    voice_name: str,
+    timeout_s: int = 90,
+    attempts: int = 3,
+) -> bytes:
+    payload = {
+        "contents": [{"parts": [{"text": text}]}],
+        "generationConfig": {
+            "responseModalities": ["AUDIO"],
+            "speechConfig": {
+                "voiceConfig": {
+                    "prebuiltVoiceConfig": {"voiceName": voice_name},
+                }
+            },
+        },
+    }
+    return _post_gemini_tts_payload(payload, api_key=api_key, model=model, timeout_s=timeout_s, attempts=attempts)
+
+
+def _post_gemini_tts_payload(
+    payload: dict[str, Any],
+    *,
+    api_key: str,
+    model: str,
+    timeout_s: int,
+    attempts: int,
+) -> bytes:
+    import requests
+
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+    headers = {
+        "x-goog-api-key": api_key,
+        "Content-Type": "application/json",
     }
     last_error = ""
     max_attempts = max(1, attempts)
@@ -1023,6 +1102,7 @@ def _write_episode_md(path: str, payload: dict[str, Any]) -> None:
 
 def _write_index(*, podcast_dir: str, site_url: str) -> str:
     episodes = _load_episode_payloads(podcast_dir)
+    playable_episodes = [ep for ep in episodes if _episode_audio_exists(podcast_dir, ep)]
     path = os.path.join(podcast_dir, "index.md")
     lines: list[str] = []
     lines.append("---")
@@ -1036,12 +1116,13 @@ def _write_index(*, podcast_dir: str, site_url: str) -> str:
     if not episodes:
         lines.append("(아직 생성된 에피소드가 없습니다.)\n")
     else:
-        latest = episodes[0]
+        latest = playable_episodes[0] if playable_episodes else episodes[0]
         lines.append("## 최신 에피소드\n")
         lines.append(_episode_card_md(latest))
-        if len(episodes) > 1:
+        previous = [ep for ep in episodes if ep.get("releasedDate") != latest.get("releasedDate")]
+        if previous:
             lines.append("## 지난 에피소드\n")
-            for ep in episodes[1:]:
+            for ep in previous:
                 lines.append(_episode_card_md(ep))
 
     with open(path, "w", encoding="utf-8") as f:
@@ -1063,7 +1144,7 @@ def _episode_card_md(payload: dict[str, Any]) -> str:
 
 
 def _write_feed(*, podcast_dir: str, site_url: str) -> str:
-    episodes = [ep for ep in _load_episode_payloads(podcast_dir) if (ep.get("audio") or {}).get("url")]
+    episodes = [ep for ep in _load_episode_payloads(podcast_dir) if _episode_audio_exists(podcast_dir, ep)]
     base_url = site_url.rstrip("/") + "/" + PODCAST_DIRNAME
     now = format_datetime(datetime.now().astimezone())
 
@@ -1121,6 +1202,12 @@ def _load_episode_payloads(podcast_dir: str) -> list[dict[str, Any]]:
     return out
 
 
+def _episode_audio_exists(podcast_dir: str, payload: dict[str, Any]) -> bool:
+    audio = payload.get("audio") or {}
+    audio_name = audio.get("url") or ""
+    return bool(audio_name and os.path.exists(os.path.join(podcast_dir, audio_name)))
+
+
 def _load_existing_audio_payload(*, podcast_dir: str, release_date: str) -> dict[str, Any]:
     for name in (f"{release_date}.json", "latest.json"):
         path = os.path.join(podcast_dir, name)
@@ -1133,9 +1220,7 @@ def _load_existing_audio_payload(*, podcast_dir: str, release_date: str) -> dict
             continue
         if payload.get("releasedDate") != release_date:
             continue
-        audio = payload.get("audio") or {}
-        audio_name = audio.get("url") or ""
-        if audio_name and os.path.exists(os.path.join(podcast_dir, audio_name)):
+        if _episode_audio_exists(podcast_dir, payload):
             return payload
     return {}
 
@@ -1157,23 +1242,16 @@ def _has_recent_episode(
     except Exception:
         return False
 
-    audio = latest.get("audio") or {}
-    audio_name = audio.get("url") or ""
-    has_audio = bool(audio_name and os.path.exists(os.path.join(podcast_dir, audio_name)))
-
     released = _parse_dt(latest.get("releasedDate"))
     if released is None:
         return False
     released_kst = _to_tz(released, now_kst.tzinfo)
     if (now_kst.date() - released_kst.date()).days >= min_days_between:
         return False
+    has_audio = _episode_audio_exists(podcast_dir, latest)
     if has_audio:
         return True
-    if audio_name and api_key_present and not skip_audio:
-        return False
-
-    audio_status = ((latest.get("generation") or {}).get("audioStatus") or "").strip()
-    if api_key_present and not skip_audio and audio_status in {"", "skipped", "skipped_no_api_key"}:
+    if api_key_present and not skip_audio:
         return False
     return True
 
