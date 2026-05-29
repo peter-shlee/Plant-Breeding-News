@@ -558,6 +558,7 @@ def _script_prompt(
     lines.append("- 선택한 각 기사마다 최소 2턴 이상 다루고, 단순 소개가 아니라 왜 중요한지와 현장/산업적 함의를 설명한다.")
     lines.append("- 각 대사는 2~4문장으로 쓴다. 너무 짧은 한 문장 답변으로 끝내지 않는다.")
     lines.append("- 전체 대사 분량은 충분히 길게 작성하되, 반복 멘트나 빈 인사는 늘리지 않는다. selectedItems.reason은 80자 이내 한국어로 쓴다.")
+    lines.append("- 마지막 1~2턴은 반드시 핵심 요약과 다음 에피소드 예고 또는 감사 인사로 자연스럽게 마무리한다.")
     lines.append(f"- speaker 값은 반드시 '{HOST_LEAD}' 또는 '{HOST_EXPERT}'만 사용한다.")
     lines.append("- JSON 객체만 출력한다. 코드블록 금지. 문자열은 끝까지 닫아서 유효한 JSON으로 출력한다.")
     lines.append("")
@@ -750,7 +751,7 @@ def _normalize_episode(
         "title": title,
         "shortDescription": desc,
         "selectedItems": selected[:5],
-        "dialogue": dialogue[:16],
+        "dialogue": dialogue[:20],
     }
 
 
@@ -775,6 +776,9 @@ def _episode_quality_issues(episode: dict[str, Any]) -> list[str]:
     repeated_texts = {text for text in texts if text and texts.count(text) >= 2}
     if repeated_texts:
         issues.append("dialogue repeats the same line")
+    closing_markers = ("오늘 준비한", "마치겠습니다", "다음", "감사", "정리해보면", "여기까지")
+    if texts and not any(marker in text for text in texts[-3:] for marker in closing_markers):
+        issues.append("dialogue is missing a closing turn")
     if _has_untranslated_dialogue(episode):
         issues.append("dialogue appears to include untranslated source text")
     return issues

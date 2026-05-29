@@ -180,7 +180,11 @@ class PodcastAudioTests(unittest.TestCase):
             "dialogue": [
                 {
                     "speaker": podcast.HOST_LEAD if i % 2 == 0 else podcast.HOST_EXPERT,
-                    "text": f"{line_text}이 대목은 {i + 1}번째 관점에서 연구 의미와 농가 적용 가능성을 설명합니다.",
+                    "text": (
+                        "오늘 준비한 토마토 육종 브리핑은 여기까지입니다. 다음 에피소드에서도 현장에 필요한 육종 뉴스를 전하겠습니다."
+                        if i == 9
+                        else f"{line_text}이 대목은 {i + 1}번째 관점에서 연구 의미와 농가 적용 가능성을 설명합니다."
+                    ),
                 }
                 for i in range(10)
             ],
@@ -224,6 +228,28 @@ class PodcastAudioTests(unittest.TestCase):
         issues = podcast._episode_quality_issues(episode)
 
         self.assertIn("dialogue contains excessive repetition", issues)
+
+    def test_script_without_closing_fails_quality_gate(self) -> None:
+        line_text = (
+            "토마토 병 저항성 품종 개발은 유전체 정보와 분자표지 선발을 함께 활용해 현장 피해를 줄이는 흐름을 보여줍니다. "
+            "연구 단계의 예측 결과가 실제 품종 선발과 검역으로 연결될 때 농가의 위험 관리도 쉬워집니다."
+        )
+        episode = {
+            "title": "마무리 없는 대본",
+            "shortDescription": "마무리 없는 대본",
+            "selectedItems": [{"idx": 1, "reason": "중요 기사"}],
+            "dialogue": [
+                {
+                    "speaker": podcast.HOST_LEAD if i % 2 == 0 else podcast.HOST_EXPERT,
+                    "text": f"{line_text} {i + 1}번째 관점입니다.",
+                }
+                for i in range(10)
+            ],
+        }
+
+        issues = podcast._episode_quality_issues(episode)
+
+        self.assertIn("dialogue is missing a closing turn", issues)
 
     def test_script_api_retries_transient_503(self) -> None:
         class FakeResponse:
