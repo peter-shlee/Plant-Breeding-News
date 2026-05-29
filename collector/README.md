@@ -114,7 +114,7 @@ Outputs:
 - `docs/podcast/index.md`
 - `docs/podcast/feed.xml`
 
-The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default. It targets an 8-minute episode unless `--target-minutes` is overridden. It is safe for CI: if `GEMINI_API_KEY` is missing or a Gemini call fails, it writes a deterministic text-only fallback instead of failing the whole docs build. It skips regeneration when a recent audio episode exists, avoids repeat no-key runs for text-only fallbacks, and retries text-only episodes once `GEMINI_API_KEY` is available so audio can be generated.
+The command uses `gemini-3.5-flash` for script generation and `gemini-3.1-flash-tts-preview` for audio by default, with a TTS model fallback when the primary preview TTS model is unavailable. It targets an 8-minute episode unless `--target-minutes` is overridden. It is safe for CI: if `GEMINI_API_KEY` is missing, Gemini script generation fails, the generated script fails quality checks, or audio generation fails, it does not publish a fallback episode. Existing publishable episodes remain listed, and invalid same-day fallback artifacts are removed.
 
 By default, the script passes only the top 5 scored article candidates to Gemini so each episode stays focused. For RSS sources, collection fetches the article detail page for new items where available, and podcast generation hydrates selected candidates again when only a short summary is available. Article bodies are capped before being sent to Gemini to keep prompt size predictable.
 

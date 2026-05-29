@@ -31,6 +31,7 @@ HOST_EXPERT_TTS_VOICE = "Zephyr"
 MAX_PROMPT_ARTICLE_CHARS = 24000
 MAX_ARTICLE_BODY_CHARS = 6000
 MIN_DETAIL_ARTICLE_CHARS = 1200
+RETRYABLE_GEMINI_STATUS_CODES = {429, 500, 503, 504}
 
 
 @dataclass(frozen=True)
@@ -107,32 +108,50 @@ def build_podcast(
     range_start = (now_kst - timedelta(days=days)).date().isoformat()
     range_end = release_date
 
-    script_status = "fallback_no_api_key"
-    if api_key:
-        try:
-            episode = _generate_script_with_gemini(
-                candidates,
-                range_start=range_start,
-                range_end=range_end,
-                target_minutes=target_minutes,
-                api_key=api_key,
-                model=script_model,
-            )
-            script_status = "ok"
-        except Exception as e:
-            episode = _fallback_episode(candidates, range_start=range_start, range_end=range_end)
-            script_status = f"fallback_script_error:{e}"
-    else:
-        episode = _fallback_episode(candidates, range_start=range_start, range_end=range_end)
+    if not api_key:
+        return _abort_episode_generation(
+            podcast_dir=podcast_dir,
+            outdir=outdir,
+            site_url=site_url,
+            release_date=release_date,
+            status="skipped_no_api_key",
+            error="GEMINI_API_KEY is not set",
+        )
+
+    try:
+        episode = _generate_script_with_gemini(
+            candidates,
+            range_start=range_start,
+            range_end=range_end,
+            target_minutes=target_minutes,
+            api_key=api_key,
+            model=script_model,
+        )
+    except Exception as e:
+        return _abort_episode_generation(
+            podcast_dir=podcast_dir,
+            outdir=outdir,
+            site_url=site_url,
+            release_date=release_date,
+            status="script_generation_failed",
+            error=str(e),
+        )
 
     episode = _normalize_episode(episode, candidates=candidates, range_start=range_start, range_end=range_end)
-    if script_status == "ok" and _has_untranslated_dialogue(episode):
-        episode = _fallback_episode(candidates, range_start=range_start, range_end=range_end)
-        script_status = "fallback_untranslated_dialogue"
+    quality_issues = _episode_quality_issues(episode)
+    if quality_issues:
+        return _abort_episode_generation(
+            podcast_dir=podcast_dir,
+            outdir=outdir,
+            site_url=site_url,
+            release_date=release_date,
+            status="script_quality_failed",
+            error="; ".join(quality_issues),
+        )
 
     audio_meta: dict[str, Any] = {}
-    audio_status = "skipped"
-    if not skip_audio and api_key:
+    audio_status = "ok"
+    if not skip_audio:
         try:
             audio_meta = _synthesize_episode_audio(
                 episode,
@@ -142,11 +161,26 @@ def build_podcast(
                 model=tts_model,
                 keep_wav=keep_wav,
             )
-            audio_status = "ok" if audio_meta else "empty_audio"
         except Exception as e:
-            audio_status = f"tts_error:{e}"
-    elif not api_key:
-        audio_status = "skipped_no_api_key"
+            return _abort_episode_generation(
+                podcast_dir=podcast_dir,
+                outdir=outdir,
+                site_url=site_url,
+                release_date=release_date,
+                status="audio_generation_failed",
+                error=str(e),
+            )
+        if not audio_meta:
+            return _abort_episode_generation(
+                podcast_dir=podcast_dir,
+                outdir=outdir,
+                site_url=site_url,
+                release_date=release_date,
+                status="audio_generation_failed",
+                error="TTS returned empty audio metadata",
+            )
+    else:
+        audio_status = "skipped_by_flag"
 
     dated_json = os.path.join(podcast_dir, f"{release_date}.json")
     latest_json = os.path.join(podcast_dir, "latest.json")
@@ -161,19 +195,9 @@ def build_podcast(
         script_model=script_model,
         tts_model=tts_model,
         audio_meta=audio_meta,
-        script_status=script_status,
+        script_status="ok",
         audio_status=audio_status,
     )
-
-    preserved_existing_audio = False
-    if not audio_meta and audio_status.startswith("tts_error:"):
-        existing_payload = _load_existing_audio_payload(podcast_dir=podcast_dir, release_date=release_date)
-        if existing_payload:
-            payload = existing_payload
-            preserved_existing_audio = True
-            audio_status = f"{audio_status}_preserved_existing_episode"
-        else:
-            payload["generation"]["audioStatus"] = audio_status
 
     _write_json(dated_json, payload)
     _write_json(latest_json, payload)
@@ -183,7 +207,7 @@ def build_podcast(
 
     return {
         "status": "ok",
-        "script": script_status,
+        "script": "ok",
         "audio": audio_status,
         "items": len(candidates),
         "episode": os.path.relpath(dated_json, outdir),
@@ -192,7 +216,7 @@ def build_podcast(
         "index": os.path.relpath(index_path, outdir),
         "feed": os.path.relpath(feed_path, outdir),
         "audio_file": (payload.get("audio") or {}).get("url", ""),
-        "preserved_existing_audio": preserved_existing_audio,
+        "preserved_existing_audio": False,
     }
 
 
@@ -574,6 +598,7 @@ def _call_gemini_jsonish(
     schema: dict[str, Any],
     max_tokens: int,
     timeout_s: int = 90,
+    attempts: int = 4,
 ) -> str:
     import requests
 
@@ -592,14 +617,49 @@ def _call_gemini_jsonish(
         },
     }
 
-    r = requests.post(url, headers=headers, json=payload, timeout=timeout_s)
-    if r.status_code >= 400:
-        raise RuntimeError(f"Gemini HTTP {r.status_code}: {r.text[:500]}")
-    data = r.json()
+    last_error = ""
+    max_attempts = max(1, attempts)
+    for attempt in range(1, max_attempts + 1):
+        try:
+            r = requests.post(url, headers=headers, json=payload, timeout=timeout_s)
+        except requests.RequestException as e:
+            last_error = f"Gemini request failed: {e}"
+            if attempt >= max_attempts:
+                raise RuntimeError(last_error)
+            _sleep_before_retry(attempt, retry_after_s=None)
+            continue
+
+        if r.status_code in RETRYABLE_GEMINI_STATUS_CODES and attempt < max_attempts:
+            last_error = f"Gemini HTTP {r.status_code}: {r.text[:500]}"
+            _sleep_before_retry(attempt, retry_after_s=_retry_after_s(r.headers.get("Retry-After")))
+            continue
+        if r.status_code >= 400:
+            raise RuntimeError(f"Gemini HTTP {r.status_code}: {r.text[:500]}")
+
+        data = r.json()
+        try:
+            return data["candidates"][0]["content"]["parts"][0]["text"]
+        except Exception:
+            raise RuntimeError(f"Gemini response missing text: {json.dumps(data, ensure_ascii=False)[:500]}")
+
+    raise RuntimeError(last_error or "Gemini request failed")
+
+
+def _retry_after_s(value: Optional[str]) -> Optional[float]:
+    if not value:
+        return None
     try:
-        return data["candidates"][0]["content"]["parts"][0]["text"]
-    except Exception:
-        raise RuntimeError(f"Gemini response missing text: {json.dumps(data, ensure_ascii=False)[:500]}")
+        return max(0.0, float(value))
+    except ValueError:
+        return None
+
+
+def _sleep_before_retry(attempt: int, *, retry_after_s: Optional[float]) -> None:
+    if retry_after_s is not None:
+        delay = min(retry_after_s, 60.0)
+    else:
+        delay = min(10.0 * (2 ** max(0, attempt - 1)), 60.0)
+    time.sleep(delay)
 
 
 def _strip_json_fence(text: str) -> str:
@@ -607,83 +667,6 @@ def _strip_json_fence(text: str) -> str:
     t = re.sub(r"^```(?:json)?\s*", "", t)
     t = re.sub(r"\s*```$", "", t)
     return t.strip()
-
-
-def _fallback_episode(candidates: list[PodcastCandidate], *, range_start: str, range_end: str) -> dict[str, Any]:
-    selected = candidates[:5]
-    title = f"식물 육종 뉴스 팟캐스트 ({range_end})"
-    short = "이번 주 식물 육종·종자·품종 관련 핵심 소식을 요약했다."
-
-    dialogue: list[dict[str, str]] = [
-        {
-            "speaker": HOST_LEAD,
-            "text": f"안녕하세요. 식물 육종 뉴스입니다. 오늘은 {range_start}부터 {range_end}까지 들어온 소식 중 눈에 띄는 흐름을 짚어보겠습니다.",
-        },
-        {
-            "speaker": HOST_EXPERT,
-            "text": "이번 주는 품종 개발, 종자 산업, 유전체 기술, 현장 적용 이슈를 한국어로 풀어 정리해 보겠습니다.",
-        },
-    ]
-    for c in selected:
-        topic = _fallback_topic(c)
-        headline = _korean_safe_headline(c)
-        dialogue.append(
-            {
-                "speaker": HOST_LEAD,
-                "text": f"다음은 {c.source}에서 다룬 {headline} 소식입니다.",
-            }
-        )
-        dialogue.append(
-            {
-                "speaker": HOST_EXPERT,
-                "text": f"핵심은 {topic}입니다. 원문 표현을 그대로 읽기보다는, 육종 현장에서 어떤 기술이나 제도 변화로 이어질지 살펴볼 만한 기사입니다.",
-            }
-        )
-    dialogue.append(
-        {
-            "speaker": HOST_LEAD,
-            "text": "오늘 준비한 소식은 여기까지입니다. 원문 링크와 대본은 팟캐스트 페이지에서 확인하실 수 있습니다.",
-        }
-    )
-
-    return {
-        "title": title,
-        "shortDescription": short,
-        "selectedItems": [{"idx": c.idx, "reason": "키워드 점수와 최신성을 기준으로 선택"} for c in selected],
-        "dialogue": dialogue,
-    }
-
-
-def _korean_safe_headline(c: PodcastCandidate) -> str:
-    title = re.sub(r"\s+", " ", c.title or "").strip()
-    if title and _hangul_ratio(title) >= 0.35:
-        return title
-    return _fallback_topic(c)
-
-
-def _hangul_ratio(text: str) -> float:
-    letters = [ch for ch in text if ch.isalpha()]
-    if not letters:
-        return 0.0
-    hangul = [ch for ch in letters if "가" <= ch <= "힣"]
-    return len(hangul) / len(letters)
-
-
-def _fallback_topic(c: PodcastCandidate) -> str:
-    text = " ".join([c.title, c.article_body, " ".join(c.tags)]).lower()
-    topics = [
-        (("ai", "artificial intelligence", "prediction", "predictive", "genomic selection"), "AI와 유전체 예측을 활용한 신육종 기술"),
-        (("crispr", "gene editing", "genome editing", "유전자편집"), "CRISPR와 유전자편집 기반 품종 개발"),
-        (("qtl", "gwas", "snp", "marker", "마커"), "분자표지와 유전체 분석을 활용한 선발 전략"),
-        (("climate", "heat", "drought", "stress", "고온", "가뭄"), "기후 스트레스에 대응하는 내재해성 품종 개발"),
-        (("seed", "variety", "cultivar", "종자", "품종"), "종자 산업과 신품종 개발 동향"),
-        (("wheat", "rice", "soybean", "corn", "maize", "밀", "벼", "콩", "옥수수"), "주요 작물의 유전자원과 품종 개선"),
-        (("policy", "regulation", "plant variety protection", "upov", "품종보호"), "품종보호와 육종 관련 제도 변화"),
-    ]
-    for keywords, topic in topics:
-        if any(kw in text for kw in keywords):
-            return topic
-    return "식물 육종과 종자 기술의 최신 흐름"
 
 
 _ALLOWED_UPPER_TERMS = {
@@ -763,16 +746,38 @@ def _normalize_episode(
         if text:
             dialogue.append({"speaker": speaker, "text": text})
 
-    if len(dialogue) < 4:
-        fallback = _fallback_episode(candidates, range_start=range_start, range_end=range_end)
-        dialogue = fallback["dialogue"]
-
     return {
         "title": title,
         "shortDescription": desc,
         "selectedItems": selected[:5],
         "dialogue": dialogue[:16],
     }
+
+
+def _episode_quality_issues(episode: dict[str, Any]) -> list[str]:
+    issues: list[str] = []
+    selected = episode.get("selectedItems") or []
+    dialogue = episode.get("dialogue") or []
+    texts = [str(line.get("text") or "").strip() for line in dialogue if isinstance(line, dict)]
+    speakers = [str(line.get("speaker") or "").strip() for line in dialogue if isinstance(line, dict)]
+
+    if len(selected) < 1:
+        issues.append("no selected articles")
+    if len(dialogue) < 10:
+        issues.append(f"dialogue too short: {len(dialogue)} turns")
+    if sum(len(text) for text in texts) < 1200:
+        issues.append("dialogue has too little substance")
+    if {HOST_LEAD, HOST_EXPERT} - set(speakers):
+        issues.append("dialogue does not include both hosts")
+    unique_text_count = len(set(texts))
+    if texts and unique_text_count / len(texts) < 0.8:
+        issues.append("dialogue contains excessive repetition")
+    repeated_texts = {text for text in texts if text and texts.count(text) >= 2}
+    if repeated_texts:
+        issues.append("dialogue repeats the same line")
+    if _has_untranslated_dialogue(episode):
+        issues.append("dialogue appears to include untranslated source text")
+    return issues
 
 
 def _synthesize_episode_audio(
@@ -1145,8 +1150,7 @@ def _write_episode_md(path: str, payload: dict[str, Any]) -> None:
 
 
 def _write_index(*, podcast_dir: str, site_url: str) -> str:
-    episodes = _load_episode_payloads(podcast_dir)
-    playable_episodes = [ep for ep in episodes if _episode_audio_exists(podcast_dir, ep)]
+    episodes = [ep for ep in _load_episode_payloads(podcast_dir) if _episode_is_publishable(podcast_dir, ep)]
     path = os.path.join(podcast_dir, "index.md")
     lines: list[str] = []
     lines.append("---")
@@ -1160,7 +1164,7 @@ def _write_index(*, podcast_dir: str, site_url: str) -> str:
     if not episodes:
         lines.append("(아직 생성된 에피소드가 없습니다.)\n")
     else:
-        latest = playable_episodes[0] if playable_episodes else episodes[0]
+        latest = episodes[0]
         lines.append("## 최신 에피소드\n")
         lines.append(_episode_card_md(latest))
         previous = [ep for ep in episodes if ep.get("releasedDate") != latest.get("releasedDate")]
@@ -1188,7 +1192,7 @@ def _episode_card_md(payload: dict[str, Any]) -> str:
 
 
 def _write_feed(*, podcast_dir: str, site_url: str) -> str:
-    episodes = [ep for ep in _load_episode_payloads(podcast_dir) if _episode_audio_exists(podcast_dir, ep)]
+    episodes = [ep for ep in _load_episode_payloads(podcast_dir) if _episode_is_publishable(podcast_dir, ep)]
     base_url = site_url.rstrip("/") + "/" + PODCAST_DIRNAME
     now = format_datetime(datetime.now().astimezone())
 
@@ -1252,6 +1256,73 @@ def _episode_audio_exists(podcast_dir: str, payload: dict[str, Any]) -> bool:
     return bool(audio_name and os.path.exists(os.path.join(podcast_dir, audio_name)))
 
 
+def _episode_is_publishable(podcast_dir: str, payload: dict[str, Any]) -> bool:
+    generation = payload.get("generation") or {}
+    return generation.get("scriptStatus") == "ok" and _episode_audio_exists(podcast_dir, payload)
+
+
+def _write_latest_from_publishable_episode(podcast_dir: str) -> str:
+    latest_path = os.path.join(podcast_dir, "latest.json")
+    episodes = [ep for ep in _load_episode_payloads(podcast_dir) if _episode_is_publishable(podcast_dir, ep)]
+    if not episodes:
+        try:
+            os.remove(latest_path)
+        except FileNotFoundError:
+            pass
+        return ""
+    _write_json(latest_path, episodes[0])
+    return latest_path
+
+
+def _remove_unpublishable_episode_artifacts(*, podcast_dir: str, release_date: str) -> None:
+    json_path = os.path.join(podcast_dir, f"{release_date}.json")
+    payload: dict[str, Any] = {}
+    if os.path.exists(json_path):
+        try:
+            with open(json_path, "r", encoding="utf-8") as f:
+                payload = json.load(f)
+        except Exception:
+            payload = {}
+    if payload and _episode_is_publishable(podcast_dir, payload):
+        return
+
+    audio_name = ((payload.get("audio") or {}).get("url") or "").strip()
+    for name in (f"{release_date}.json", f"{release_date}.md", f"{release_date}.wav", f"{release_date}.mp3"):
+        path = os.path.join(podcast_dir, name)
+        try:
+            os.remove(path)
+        except FileNotFoundError:
+            pass
+    if audio_name and audio_name not in {f"{release_date}.wav", f"{release_date}.mp3"}:
+        try:
+            os.remove(os.path.join(podcast_dir, audio_name))
+        except FileNotFoundError:
+            pass
+
+
+def _abort_episode_generation(
+    *,
+    podcast_dir: str,
+    outdir: str,
+    site_url: str,
+    release_date: str,
+    status: str,
+    error: str,
+) -> dict[str, Any]:
+    _remove_unpublishable_episode_artifacts(podcast_dir=podcast_dir, release_date=release_date)
+    latest_path = _write_latest_from_publishable_episode(podcast_dir)
+    index_path = _write_index(podcast_dir=podcast_dir, site_url=site_url)
+    feed_path = _write_feed(podcast_dir=podcast_dir, site_url=site_url)
+    return {
+        "status": status,
+        "error": error,
+        "podcast_dir": os.path.relpath(podcast_dir, outdir),
+        "latest": os.path.relpath(latest_path, outdir) if latest_path else "",
+        "index": os.path.relpath(index_path, outdir),
+        "feed": os.path.relpath(feed_path, outdir),
+    }
+
+
 def _load_existing_audio_payload(*, podcast_dir: str, release_date: str) -> dict[str, Any]:
     for name in (f"{release_date}.json", "latest.json"):
         path = os.path.join(podcast_dir, name)
@@ -1264,7 +1335,7 @@ def _load_existing_audio_payload(*, podcast_dir: str, release_date: str) -> dict
             continue
         if payload.get("releasedDate") != release_date:
             continue
-        if _episode_audio_exists(podcast_dir, payload):
+        if _episode_is_publishable(podcast_dir, payload):
             return payload
     return {}
 
@@ -1292,12 +1363,7 @@ def _has_recent_episode(
     released_kst = _to_tz(released, now_kst.tzinfo)
     if (now_kst.date() - released_kst.date()).days >= min_days_between:
         return False
-    has_audio = _episode_audio_exists(podcast_dir, latest)
-    if has_audio:
-        return True
-    if api_key_present and not skip_audio:
-        return False
-    return True
+    return _episode_is_publishable(podcast_dir, latest)
 
 
 def _fmt_duration(seconds: float) -> str:
