@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/26/the-million-dollar-question-fa
 summary: "Seeds Canada argues stronger breeder protections are needed to ensure innovators see a return on investment and continue bringing new genetics to market The post The Million-Dollar Question Facing Canadian Plant Breeding appeared first on"
 attachments: []
 tags: []
-fetched_at: "2026-05-29T11:48:27+09:00"
+fetched_at: "2026-05-29T11:57:15+09:00"
 ---
 # The Million-Dollar Question Facing Canadian Plant Breeding
 

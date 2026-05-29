@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/12/rothamsted-research-spin-out-s
 summary: "Rothamsted Research and University of Oxford spin-out SugaROx has secured £2.5 million from The Mosaic Company to advance precision crop biostimulants. The Series A investment will support field trials, regulatory work, commercial scale-up,"
 attachments: []
 tags: []
-fetched_at: "2026-05-29T11:48:27+09:00"
+fetched_at: "2026-05-29T11:57:15+09:00"
 ---
 # Rothamsted Research Spin-Out SugaROx Secures £2.5M Investment from Mosaic
 

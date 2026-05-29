@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/12/chinese-money-plant-algorithm/"
 summary: "New research from Cold Spring Harbor Laboratory shows the Chinese money plant algorithm helps explain how plants organize leaf veins using elegant mathematical principles."
 attachments: []
 tags: []
-fetched_at: "2026-05-29T11:48:27+09:00"
+fetched_at: "2026-05-29T11:57:15+09:00"
 ---
 # Money Plant Reveals Nature’s Hidden Algorithm
 

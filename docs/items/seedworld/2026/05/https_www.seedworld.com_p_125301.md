@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/20/lorena-basso-da-un-paso-adelant
 summary: "Lorena Basso se prepara para liderar la ISF con un enfoque en la innovación, la claridad regulatoria y una colaboración más sólida en todo el sector mundial de semillas."
 attachments: []
 tags: []
-fetched_at: "2026-05-29T11:48:27+09:00"
+fetched_at: "2026-05-29T11:57:15+09:00"
 ---
 # Lorena Basso da un paso adelante en el sector mundial de semillas
 
