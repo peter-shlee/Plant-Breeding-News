@@ -479,7 +479,7 @@
       <button class="play-button" type="button" aria-label="에피소드 재생"></button>
       <div class="floating-title">
         <strong>${escapeHtml(title)}</strong>
-        <span>${escapeHtml(subtitle || "지윤 · 민종")}</span>
+        <span>${escapeHtml(subtitle || "재석 · 민아")}</span>
       </div>
       <div class="audio-stack">
         <div class="progress" data-seek-bar role="slider" aria-label="재생 위치" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" tabindex="0">
@@ -844,7 +844,7 @@
       </section>
       ${buildFloatingPlayer({
         title: `이번 주 식물 육종 브리핑: ${title}`,
-        subtitle: "지윤 · 민종",
+        subtitle: "재석 · 민아",
         audioSrc,
         duration: durationSeconds ? formatTime(durationSeconds) : "0:00",
       })}
@@ -855,8 +855,8 @@
     initFilters();
   };
 
-  const parsePodcastEpisodes = () => {
-    const heading = findHeading("h2", "최신 에피소드");
+  const parsePodcastEpisodeSection = (headingLabel) => {
+    const heading = findHeading("h2", headingLabel);
     if (!heading) return [];
     return Array.from(siblingsUntilNextH2(heading))
       .filter((node) => node.tagName === "H3")
@@ -870,6 +870,20 @@
         };
       })
       .filter((episode) => episode.title);
+  };
+
+  const parsePodcastEpisodes = () => {
+    const episodes = [
+      ...parsePodcastEpisodeSection("최신 에피소드"),
+      ...parsePodcastEpisodeSection("지난 에피소드"),
+    ];
+    const seen = new Set();
+    return episodes.filter((episode) => {
+      const key = episode.href || episode.title;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
   };
 
   const buildPodcastIndex = async () => {
@@ -983,7 +997,7 @@
       </section>
       ${buildFloatingPlayer({
         title: `이번 주 식물 육종 브리핑: ${latest.title}`,
-        subtitle: "지윤 · 민종",
+        subtitle: "재석 · 민아",
         audioSrc,
         duration,
       })}

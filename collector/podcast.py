@@ -66,9 +66,9 @@ def build_podcast(
     """Build a static podcast episode under docs/podcast.
 
     The command is intentionally safe for scheduled CI:
-    - If no Gemini key is present, it writes a deterministic text-only episode.
-    - If a recent episode already exists, it skips generation unless forced.
-    - If TTS or ffmpeg fails, it keeps metadata/script generation successful.
+    - If no Gemini key is present, it leaves the previous publishable episode in place.
+    - If a recent publishable episode already exists, it skips generation unless forced.
+    - If script or audio generation fails, it does not publish a fallback episode.
     """
 
     now_kst = _kst_now(now)
