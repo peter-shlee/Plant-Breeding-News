@@ -5,15 +5,14 @@ org: "Seed World"
 site_id: "https://www.seedworld.com/?p=125587"
 published_at: "2026-05-28T13:02:59+09:00"
 url: "https://www.seedworld.com/europe/2026/05/27/euroseeds-congress-2026-valencia/"
-summary: "With major seed sector events competing for attention in 2026, what makes Euroseeds Congress in Valencia stand out? We sat down with Erica Maujeri, Manager of Communications at Euroseeds, to get an inside look at what’s shaping up behind"
+summary: "Euroseeds Congress 2026 in Valencia will spotlight EU policy, innovation, global seed regions and the future of the industry. The post Euroseeds 2026 Preview: Policy, Innovation & Global Stakes appeared first on Seed World ."
 attachments: []
-tags:
-  - "genomics"
-fetched_at: "2026-05-29T07:11:22+09:00"
+tags: []
+fetched_at: "2026-05-29T11:48:27+09:00"
 ---
 # Euroseeds 2026 Preview: Policy, Innovation & Global Stakes
 
-With major seed sector events competing for attention in 2026, what makes Euroseeds Congress in Valencia stand out? We sat down with Erica Maujeri, Manager of Communications at Euroseeds, to get an inside look at what’s shaping up behind the scenes, and why this year’s Congress could be a pivotal moment for the global seed industry. From fast-moving EU policy decisions on new genomic techniques and plant reproductive material, to the real-world implications for bringing new varieties to market, to the growing global presence of key seed-producing regions, there’s more at stake than ever. Plus, we talk about what’s driving record interest in the Innovation Stage, and how the NextGen Forum is helping shape the future of the industry. If you’re in the seed sector, this is a preview of Euroseeds 2026 you won’t want to miss.
+Euroseeds Congress 2026 in Valencia will spotlight EU policy, innovation, global seed regions and the future of the industry. The post Euroseeds 2026 Preview: Policy, Innovation & Global Stakes appeared first on Seed World .
 
 ## Original
 

@@ -8,7 +8,7 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-05-29 07:15 (KST)**  
+- 마지막 업데이트: **2026-05-29 11:53 (KST)**  
 - 커버리지(최근 섹션): **2026-05-22 ~ 2026-05-29** (최근 7일)
 
 ## 목차
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 
 <a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-05-18~2026-05-25)
+## 30초 주간 브리핑 (2026-05-22~2026-05-29)
 
-> 식물 육종 및 농업 기술 분야의 최신 연구 성과와 글로벌 정책 동향을 브리핑합니다.
+> 글로벌 종자 산업의 혁신 가속화와 식량 안보를 위한 정책 및 기술적 대응이 활발합니다.
 
 ### 1) 정책/규제
 
-- 농촌진흥청은 세종시에서 발생한 과수화상병에 대응해 전국 과수 농가에 정기적인 자가 예찰과 신속한 신고를 당부했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810806&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 유럽연합 집행위원회는 비료 비용 절감과 공급망 안정화를 위해 바이오 기반 저탄소 비료 활용을 골자로 한 '비료 실행 계획'을 채택했습니다. ([원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/))
+- 미국 농무부(USDA)가 식물 해충 위험 평가 및 공공 의견 수렴을 거쳐 파이오니어사의 신규 옥수수 품종(DP51291)에 대한 규제를 완화했습니다. ([원문](https://www.seedworld.com/us/2026/05/27/usda-deregulation-pioneer-dp51291-corn/))
+- 유럽연합 집행위원회는 농가 지원, 국내 생산 증대 및 식량 안보 강화를 골자로 하는 비료 실행 계획을 제안했습니다. ([원문](https://www.seedworld.com/europe/2026/05/28/eu-fertiliser-action-plan-farmers/))
 
 ### 2) 연구/기술
 
-- 농촌진흥청은 기후변화에 따른 가뭄과 고온 스트레스에 대응할 수 있는 합성생물학 기반의 앱시스산 수용체 설계 기술을 확보했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810804&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 국립원예특작과학원은 도심형 스마트팜의 활용 범위를 생산 중심에서 교육·체험·치유 분야로 확장하기 위한 신모델 개발 업무협약을 체결했습니다. ([원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000810798&mc=MN0000000136))
+- 성균관대학교가 개발한 AI 모델 'DeepTYLCV'가 유전체 데이터를 활용해 토마토 황화잎말림 바이러스의 병원성을 100% 정확도로 예측하는 데 성공했습니다. ([원문](https://www.seedworld.com/europe/2026/05/27/ai-model-predicts-tomato-virus-severity-with-100-accuracy/))
+- 영국 로담스테드 연구소가 새로운 정밀 육종(PBO) 규정에 따라 유전자 가위(CRISPR-Cas9) 기술을 적용한 카멜리나 야외 시험 재배를 시작했습니다. ([원문](https://www.seedworld.com/europe/2026/05/24/rothamsted-launches-uks-first-field-trial-under-new-pbo-rules/))
 
 ### 3) 유통/시장/현장
 
-- 아프리카 K-라이스벨트 사업을 통해 2025년 7개국에서 6,365톤의 벼 종자를 생산하며 사업 3년 만에 누적 1만 톤을 돌파했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810803&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 미국종자무역협회(ASTA)는 관세 부과와 통관 지연 등 무역 불확실성이 커짐에 따라 종자 교역 비용이 상승하고 있다고 분석했습니다. ([원문](https://www.seedworld.com/us/2026/05/20/seed-trade-getting-more-expensive-sam-crowell-asta/))
+- 농촌진흥청의 아프리카 K-라이스벨트 사업이 3년 만에 벼 종자 누적 생산량 1만 톤을 돌파하며 식량 자급률 향상에 기여하고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000810803&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 세계종자회의(WSC26)에서 종자 혁신 속도가 핵심 경쟁력으로 부각됨에 따라, 칠레가 글로벌 종자 기업들의 주요 생산 및 연구 거점으로 주목받고 있습니다. ([원문](https://www.seedworld.com/europe/2026/05/25/wsc-2026-the-race-for-faster-seed-innovation-is-driving-companies-to-chile/))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -47,17 +47,9 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[Euroseeds 2026 Preview: Policy, Innovation & Global Stakes](items/seedworld/2026/05/https_www.seedworld.com_p_125587.md)**
-  - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125587.md) · [원문](https://www.seedworld.com/europe/2026/05/27/euroseeds-congress-2026-valencia/)
-  - With major seed sector events competing for attention in 2026, what makes Euroseeds Congress in Valencia stand out? We sat down with Erica Maujeri, Manager of Communications at Euroseeds, to get an i…
-
-- **[PBR: Canada’s Hidden Innovation Engine | On The Brink: Season 2 – Episode 3](items/seedworld/2026/05/https_www.seedworld.com_p_125531.md)**
-  - 2026-05-27 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125531.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/27/why-new-cereal-varieties-disappearing-canada-on-the-brink-s2-e3/)
-  - Anthony Parker’s job is to watch who is investing in Canada’s future crops. Lately, the answer has been fewer and fewer organizations.
-
 - **[AI Model Predicts Tomato Virus Severity With 100% Accuracy](items/seedworld/2026/05/https_www.seedworld.com_p_125454.md)**
   - 2026-05-27 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125454.md) · [원문](https://www.seedworld.com/europe/2026/05/27/ai-model-predicts-tomato-virus-severity-with-100-accuracy/)
-  - A research team at Sungkyunkwan University has developed DeepTYLCV, an artificial intelligence model designed to predict the virulence of tomato yellow leaf curl virus, one of the most damaging viral…
+  - DeepTYLCV, developed at Sungkyunkwan University, uses artificial intelligence and viral genome sequence data to predict tomato yellow leaf curl virus virulence. Published in Plant Communications, the…
 
 - **[Rothamsted Launches UK’s First Field Trial Under New PBO Rules](items/seedworld/2026/05/https_www.seedworld.com_p_125448.md)**
   - 2026-05-24 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125448.md) · [원문](https://www.seedworld.com/europe/2026/05/24/rothamsted-launches-uks-first-field-trial-under-new-pbo-rules/)
@@ -68,27 +60,35 @@ title: "식물 육종 뉴스"
 
 - **[How Uncertainty Around Nitrogen Rates Could Cost Corn Farmers Millions](items/seedworld/2026/05/https_www.seedworld.com_p_125591.md)**
   - 2026-05-29 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125591.md) · [원문](https://www.seedworld.com/us/2026/05/28/nitrogen-fertilizer-uncertainty-corn-farmers/)
-  - Purdue University suggests nitrogen fertilizer recommendation uncertainty may economically and environmentally cost corn farmers a lot. Published in Nature Communications , the research argues that b…
+  - Purdue researchers say accounting for nitrogen fertilizer uncertainty could improve corn profitability while reducing environmental impacts and input costs. The post How Uncertainty Around Nitrogen R…
 
 - **[European Commission Proposes Fertiliser Action Plan for Farmers](items/seedworld/2026/05/https_www.seedworld.com_p_125509.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125509.md) · [원문](https://www.seedworld.com/europe/2026/05/28/eu-fertiliser-action-plan-farmers/)
-  - Farmers across Europe are facing growing pressure from supply disruptions and volatile fertiliser prices. In response, the European Commission has proposed an initiative to support farmers dealing wi…
+  - The European Commission has proposed a fertiliser action plan to support farmers, boost domestic production and improve Europe’s food security. The post European Commission Proposes Fertiliser Action…
+
+- **[Euroseeds 2026 Preview: Policy, Innovation & Global Stakes](items/seedworld/2026/05/https_www.seedworld.com_p_125587.md)**
+  - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125587.md) · [원문](https://www.seedworld.com/europe/2026/05/27/euroseeds-congress-2026-valencia/)
+  - Euroseeds Congress 2026 in Valencia will spotlight EU policy, innovation, global seed regions and the future of the industry. The post Euroseeds 2026 Preview: Policy, Innovation & Global Stakes appea…
 
 - **[Can Canada Talk Food Security While Cutting Agricultural Research?](items/seedworld/2026/05/https_www.seedworld.com_p_125576.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125576.md) · [원문](https://www.seedworld.com/canada/2026/05/27/can-canada-talk-food-security-while-cutting-agricultural-research/)
-  - Conservative agriculture critic John Barlow stood with farm groups, researchers, seed sector representatives, municipal leaders, and producer organizations on Wednesday to send a clear message to Ott…
+  - At a time when Ottawa continues to talk about economic resilience and nation-building, dismantling agricultural research infrastructure may send the opposite signal The post Can Canada Talk Food Secu…
 
 - **[Why Plant Breeding Persistence Matters in Seeds](items/seedworld/2026/05/https_www.seedworld.com_p_125506.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125506.md) · [원문](https://www.seedworld.com/europe/2026/05/27/why-plant-breeding-persistence-matters-in-seeds/)
-  - From developing new varieties to building stronger companies, real progress often begins long before results are visible. Most people enjoy the story of a breakthrough.
+  - Plant breeding requires patience, discipline and long-term learning to develop better varieties and stronger seed sector leadership. The post Why Plant Breeding Persistence Matters in Seeds appeared…
 
 - **[The Benefits of Upgrading Seed Processing Screening Equipment](items/seedworld/2026/05/https_www.seedworld.com_p_125570.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125570.md) · [원문](https://www.seedworld.com/canada/2026/05/27/the-benefits-of-upgrading-seed-processing-screening-equipment/)
-  - You can tell a lot about a processing plant by watching the operators. If they’re constantly adjusting equipment and reacting to problems, something isn’t working the way it should.
+  - You can tell a lot about a processing plant by watching the operators. If they’re constantly adjusting equipment, something isn’t working the way it should The post The Benefits of Upgrading Seed Pro…
 
 - **[USDA Extends Deregulation to New Pioneer Corn Variety Following APHIS Review](items/seedworld/2026/05/https_www.seedworld.com_p_125566.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125566.md) · [원문](https://www.seedworld.com/us/2026/05/27/usda-deregulation-pioneer-dp51291-corn/)
-  - The U.S. Department of Agriculture (USDA) Animal and Plant Inspection Service (APHIS) determined Pioneer DP51291 corn is unlikely to pose a plant pest risk after reviewing public comments and prior t…
+  - USDA APHIS has extended deregulation to Pioneer’s DP51291 corn variety following a plant pest risk review and completed public comment process. The post USDA Extends Deregulation to New Pioneer Corn…
+
+- **[PBR: Canada’s Hidden Innovation Engine | On The Brink: Season 2 – Episode 3](items/seedworld/2026/05/https_www.seedworld.com_p_125531.md)**
+  - 2026-05-27 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125531.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/27/why-new-cereal-varieties-disappearing-canada-on-the-brink-s2-e3/)
+  - Anthony Parker, Canada's Commissioner of Plant Breeders' Rights, explains why PBR filings in cereals have declined for three years running — and what a made-in-Canada solution to the funding gap need…
 
 - **[The Million-Dollar Question Facing Canadian Plant Breeding](items/seedworld/2026/05/https_www.seedworld.com_p_125553.md)**
   - 2026-05-27 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125553.md) · [원문](https://www.seedworld.com/canada/2026/05/26/the-million-dollar-question-facing-canadian-plant-breeding/)
@@ -103,39 +103,39 @@ title: "식물 육종 뉴스"
 
 - **[How Uncertainty Around Nitrogen Rates Could Cost Corn Farmers Millions](items/seedworld/2026/05/https_www.seedworld.com_p_125591.md)**
   - 2026-05-29 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125591.md) · [원문](https://www.seedworld.com/us/2026/05/28/nitrogen-fertilizer-uncertainty-corn-farmers/)
-  - Purdue University suggests nitrogen fertilizer recommendation uncertainty may economically and environmentally cost corn farmers a lot. Published in Nature Communications , the research argues that b…
+  - Purdue researchers say accounting for nitrogen fertilizer uncertainty could improve corn profitability while reducing environmental impacts and input costs. The post How Uncertainty Around Nitrogen R…
 
 - **[European Commission Proposes Fertiliser Action Plan for Farmers](items/seedworld/2026/05/https_www.seedworld.com_p_125509.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125509.md) · [원문](https://www.seedworld.com/europe/2026/05/28/eu-fertiliser-action-plan-farmers/)
-  - Farmers across Europe are facing growing pressure from supply disruptions and volatile fertiliser prices. In response, the European Commission has proposed an initiative to support farmers dealing wi…
+  - The European Commission has proposed a fertiliser action plan to support farmers, boost domestic production and improve Europe’s food security. The post European Commission Proposes Fertiliser Action…
 
 - **[Euroseeds 2026 Preview: Policy, Innovation & Global Stakes](items/seedworld/2026/05/https_www.seedworld.com_p_125587.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125587.md) · [원문](https://www.seedworld.com/europe/2026/05/27/euroseeds-congress-2026-valencia/)
-  - With major seed sector events competing for attention in 2026, what makes Euroseeds Congress in Valencia stand out? We sat down with Erica Maujeri, Manager of Communications at Euroseeds, to get an i…
+  - Euroseeds Congress 2026 in Valencia will spotlight EU policy, innovation, global seed regions and the future of the industry. The post Euroseeds 2026 Preview: Policy, Innovation & Global Stakes appea…
 
 - **[Can Canada Talk Food Security While Cutting Agricultural Research?](items/seedworld/2026/05/https_www.seedworld.com_p_125576.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125576.md) · [원문](https://www.seedworld.com/canada/2026/05/27/can-canada-talk-food-security-while-cutting-agricultural-research/)
-  - Conservative agriculture critic John Barlow stood with farm groups, researchers, seed sector representatives, municipal leaders, and producer organizations on Wednesday to send a clear message to Ott…
+  - At a time when Ottawa continues to talk about economic resilience and nation-building, dismantling agricultural research infrastructure may send the opposite signal The post Can Canada Talk Food Secu…
 
 - **[Why Plant Breeding Persistence Matters in Seeds](items/seedworld/2026/05/https_www.seedworld.com_p_125506.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125506.md) · [원문](https://www.seedworld.com/europe/2026/05/27/why-plant-breeding-persistence-matters-in-seeds/)
-  - From developing new varieties to building stronger companies, real progress often begins long before results are visible. Most people enjoy the story of a breakthrough.
+  - Plant breeding requires patience, discipline and long-term learning to develop better varieties and stronger seed sector leadership. The post Why Plant Breeding Persistence Matters in Seeds appeared…
 
 - **[The Benefits of Upgrading Seed Processing Screening Equipment](items/seedworld/2026/05/https_www.seedworld.com_p_125570.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125570.md) · [원문](https://www.seedworld.com/canada/2026/05/27/the-benefits-of-upgrading-seed-processing-screening-equipment/)
-  - You can tell a lot about a processing plant by watching the operators. If they’re constantly adjusting equipment and reacting to problems, something isn’t working the way it should.
+  - You can tell a lot about a processing plant by watching the operators. If they’re constantly adjusting equipment, something isn’t working the way it should The post The Benefits of Upgrading Seed Pro…
 
 - **[USDA Extends Deregulation to New Pioneer Corn Variety Following APHIS Review](items/seedworld/2026/05/https_www.seedworld.com_p_125566.md)**
   - 2026-05-28 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125566.md) · [원문](https://www.seedworld.com/us/2026/05/27/usda-deregulation-pioneer-dp51291-corn/)
-  - The U.S. Department of Agriculture (USDA) Animal and Plant Inspection Service (APHIS) determined Pioneer DP51291 corn is unlikely to pose a plant pest risk after reviewing public comments and prior t…
+  - USDA APHIS has extended deregulation to Pioneer’s DP51291 corn variety following a plant pest risk review and completed public comment process. The post USDA Extends Deregulation to New Pioneer Corn…
 
 - **[PBR: Canada’s Hidden Innovation Engine | On The Brink: Season 2 – Episode 3](items/seedworld/2026/05/https_www.seedworld.com_p_125531.md)**
   - 2026-05-27 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125531.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/27/why-new-cereal-varieties-disappearing-canada-on-the-brink-s2-e3/)
-  - Anthony Parker’s job is to watch who is investing in Canada’s future crops. Lately, the answer has been fewer and fewer organizations.
+  - Anthony Parker, Canada's Commissioner of Plant Breeders' Rights, explains why PBR filings in cereals have declined for three years running — and what a made-in-Canada solution to the funding gap need…
 
 - **[AI Model Predicts Tomato Virus Severity With 100% Accuracy](items/seedworld/2026/05/https_www.seedworld.com_p_125454.md)**
   - 2026-05-27 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125454.md) · [원문](https://www.seedworld.com/europe/2026/05/27/ai-model-predicts-tomato-virus-severity-with-100-accuracy/)
-  - A research team at Sungkyunkwan University has developed DeepTYLCV, an artificial intelligence model designed to predict the virulence of tomato yellow leaf curl virus, one of the most damaging viral…
+  - DeepTYLCV, developed at Sungkyunkwan University, uses artificial intelligence and viral genome sequence data to predict tomato yellow leaf curl virus virulence. Published in Plant Communications, the…
 
 - **[The Million-Dollar Question Facing Canadian Plant Breeding](items/seedworld/2026/05/https_www.seedworld.com_p_125553.md)**
   - 2026-05-27 · `seedworld` · [읽기](items/seedworld/2026/05/https_www.seedworld.com_p_125553.md) · [원문](https://www.seedworld.com/canada/2026/05/26/the-million-dollar-question-facing-canadian-plant-breeding/)

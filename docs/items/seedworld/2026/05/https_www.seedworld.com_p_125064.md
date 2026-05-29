@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "벼"
   - "옥수수"
-fetched_at: "2026-05-29T07:11:29+09:00"
+fetched_at: "2026-05-29T11:48:27+09:00"
 ---
 # Colombia Promotes Legal Seed Use in Rice, Corn, Cotton and Sorghum
 

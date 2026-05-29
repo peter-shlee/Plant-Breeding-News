@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/15/la-industria-semillera-chilena-
 summary: "La industria semillera chilena impulsa una mayor competitividad, innovación y modernización regulatoria tras una reunión entre ANPROS y el ministro de Agricultura, Jaime Campos."
 attachments: []
 tags: []
-fetched_at: "2026-05-29T07:11:29+09:00"
+fetched_at: "2026-05-29T11:48:27+09:00"
 ---
 # La industria semillera chilena impulsa una mayor competitividad e innovación agrícola
 
