@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/25/wsc26-isf-secretary-general-on
 summary: "World Seed Congress 2026 in Lisbon united more than 1,800 delegates from 80 countries to address the future of agriculture. In an exclusive interview, ISF Secretary General Michael Keller discusses global seed sector collaboration, food"
 attachments: []
 tags: []
-fetched_at: "2026-05-29T12:53:39+09:00"
+fetched_at: "2026-06-01T06:51:48+09:00"
 ---
 # WSC26: ISF Secretary General on the Future of the Global Seed Sector
 

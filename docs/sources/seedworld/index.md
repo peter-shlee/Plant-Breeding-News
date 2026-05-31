@@ -11,6 +11,18 @@ source: "seedworld"
 
 ## 2026-05
 
+- **[ISTA 2026: Seed Testing’s Biggest Annual Event is Heading to Calgary](../../items/seedworld/2026/05/https_www.seedworld.com_p_125603.md)**
+  - 2026-05-30 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125603.md) · [원문](https://www.seedworld.com/canada/2026/05/29/ista-2026-seed-testings-biggest-annual-event-is-heading-to-calgary/)
+  - From June 22–25, ISTA 2026 will bring together seed testing professionals, technical experts, regulators, and industry leaders from around the world to discuss the issues shaping global seed movement…
+
+- **[We’re Not Taking Food Off The Plate](../../items/seedworld/2026/05/https_www.seedworld.com_p_125595.md)**
+  - 2026-05-30 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125595.md) · [원문](https://www.seedworld.com/us/2026/05/29/sustainable-aviation-fuel-food-vs-fuel/)
+  - Whenever sustainable aviation fuel enters the public conversation, one question tends to rise above others: Why are we using food for fuel? Steve Csonka, executive director of the Commercial Aviation…
+
+- **[3D-Printed Technology Sheds Light on Fungal Highways in Wheat Crops](../../items/seedworld/2026/05/https_www.seedworld.com_p_125457.md)**
+  - 2026-05-29 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125457.md) · [원문](https://www.seedworld.com/europe/2026/05/29/3d-printed-technology-sheds-light-on-fungal-highways-in-wheat-crops/)
+  - Researchers have developed low-cost 3D-printed devices that make it easier to study how bacteria move along fungal filaments, known as “fungal highways.” Created by Rothamsted Research with collabora…
+
 - **[How Uncertainty Around Nitrogen Rates Could Cost Corn Farmers Millions](../../items/seedworld/2026/05/https_www.seedworld.com_p_125591.md)**
   - 2026-05-29 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125591.md) · [원문](https://www.seedworld.com/us/2026/05/28/nitrogen-fertilizer-uncertainty-corn-farmers/)
   - Purdue researchers say accounting for nitrogen fertilizer uncertainty could improve corn profitability while reducing environmental impacts and input costs. The post How Uncertainty Around Nitrogen R…
@@ -378,46 +390,3 @@ source: "seedworld"
 - **[The Leadership Move That Pays Off Immediately](../../items/seedworld/2026/05/https_www.seedworld.com_p_124965.md)**
   - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124965.md) · [원문](https://www.seedworld.com/us/2026/05/04/the-leadership-move-that-pays-off-immediately/)
   - Investing in professional development helps seed companies reduce turnover, strengthen teams, and improve operational performance. Targeted seed training, short courses, and certification programs gi…
-
-- **[The Farm Bill Moves Forward. The Pressure Isn’t Going Away](../../items/seedworld/2026/05/https_www.seedworld.com_p_124962.md)**
-  - 2026-05-02 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124962.md) · [원문](https://www.seedworld.com/us/2026/05/01/the-farm-bill-moves-forward-the-pressure-isnt-going-away/)
-  - Commodity groups are largely backing the House farm bill, citing economic pressure and the need for a stronger safety net, while others say key gaps remain. For the seed industry, the bigger question…
-
-- **[Canola Crop-Based SAF Shows Up to 55% Emissions Reduction Potential in Brazil](../../items/seedworld/2026/05/https_www.seedworld.com_p_124761.md)**
-  - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124761.md) · [원문](https://www.seedworld.com/latam/2026/05/01/canola-crop-based-saf-shows-up-to-55-emissions-reduction-potential-in-brazil/)
-  - A life cycle assessment of sustainable aviation fuel from second-crop canola in Brazil shows potential greenhouse gas reductions of up to 55% versus fossil Jet A-1 under optimal scenarios.
-
-- **[UPOV Launches Global PVP Certificate](../../items/seedworld/2026/05/https_www.seedworld.com_p_124944.md)**
-  - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124944.md) · [원문](https://www.seedworld.com/europe/2026/05/01/upov-launches-global-pvp-certificate/)
-  - UPOV has launched a new PVP Certificate for private sector professionals in plant variety protection. The internationally recognized program validates expertise in the UPOV system, supports career ad…
-
-- **[Marc’s Take: Canada’s Ag Innovation Problem Isn’t Ideas — It’s Getting Them to Market](../../items/seedworld/2026/05/https_www.seedworld.com_p_124956.md)**
-  - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124956.md) · [원문](https://www.seedworld.com/canada/2026/04/30/marcs-take-canadas-ag-innovation-problem-isnt-ideas-its-getting-them-to-market/)
-  - From the “valley of death” in funding to a fractured variety marketplace and unclear trade representation, Canada’s seed sector faces a systemic challenge The post Marc’s Take: Canada’s Ag Innovation…
-
-- **[The “Valley of Death” in Canadian Ag Innovation](../../items/seedworld/2026/05/https_www.seedworld.com_p_124951.md)**
-  - 2026-05-01 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124951.md) · [원문](https://www.seedworld.com/canada/2026/04/30/the-valley-of-death-in-canadian-ag-innovation/)
-  - Why promising research fails to reach the market, and what leaders say needs to change The post The “Valley of Death” in Canadian Ag Innovation appeared first on Seed World .
-
-
-## 2026-04
-
-- **[SAF de canola de segunda cosecha puede reducir emisiones hasta 55 % en Brasil](../../items/seedworld/2026/04/https_www.seedworld.com_p_124758.md)**
-  - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124758.md) · [원문](https://www.seedworld.com/latam/2026/04/30/saf-de-canola-de-segunda-cosecha-puede-reducir-emisiones-hasta-55-en-brasil/)
-  - Un análisis de ciclo de vida del SAF de canola de segunda cosecha en Brasil indica reducciones de hasta 55% frente al Jet A-1 fósil en escenarios óptimos. El estudio señala límites por regulaciones y…
-
-- **[From One Breeder’s Vision to a Global Legacy](../../items/seedworld/2026/04/https_www.seedworld.com_p_124845.md)**
-  - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124845.md) · [원문](https://www.seedworld.com/europe/2026/04/29/from-one-breeders-vision-to-a-global-legacy/)
-  - With 170 years of independence, KWS combines scientific expertise, long-term thinking and farmer partnerships to advance modern plant breeding. From sugar beet origins to a global portfolio spanning…
-
-- **[Climate-Smart Farming: Study Shows How Biochar Can Improve Yields and Soil](../../items/seedworld/2026/04/https_www.seedworld.com_p_124835.md)**
-  - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124835.md) · [원문](https://www.seedworld.com/europe/2026/04/29/climate-smart-farming-study-shows-how-biochar-can-improve-yields-and-soil/)
-  - A new global biochar model helps predict how biochar affects crop yields, soil carbon storage and greenhouse gas emissions across farming systems. Tested with data from 48 field sites, the study show…
-
-- **[Finding Canada’s Way: Rebuilding the Variety Marketplace | On the Brink Season 1: Episode 8](../../items/seedworld/2026/04/https_www.seedworld.com_p_124862.md)**
-  - 2026-04-30 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124862.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/04/29/finding-canadas-way-rebuilding-the-variety-marketplace-on-the-brink-episode-8/)
-  - Greg Stamp has spent 20 years farming in Western Canada and his verdict on the current variety marketplace is straightforward: the system is broken. In Episode 9 of On the Brink, Stamp makes the case…
-
-- **[Up to 40% of U.S. Food Never Gets Eaten. The Pressure Starts at Seed](../../items/seedworld/2026/04/https_www.seedworld.com_p_124877.md)**
-  - 2026-04-29 · [읽기](../../items/seedworld/2026/04/https_www.seedworld.com_p_124877.md) · [원문](https://www.seedworld.com/us/2026/04/29/up-to-40-of-u-s-food-never-gets-eaten-the-pressure-starts-at-seed/)
-  - U.S. food waste reaches up to 40% of the supply, with 133 billion pounds lost annually.

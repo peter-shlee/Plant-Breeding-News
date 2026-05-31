@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/25/wsc26-seeds-future-depends-on-
 summary: "World Seed Congress 2026 in Lisbon highlighted the seed sector’s growing role in global food systems. ISF Value Chain Coordination Group Chair Eduard Fito discusses sustainability, regulation, innovation, public trust, food security, and"
 attachments: []
 tags: []
-fetched_at: "2026-05-29T12:53:39+09:00"
+fetched_at: "2026-06-01T06:51:48+09:00"
 ---
 # WSC26: Seed’s Future Depends on Food System Thinking
 

@@ -1,0 +1,21 @@
+---
+id: "63d7e27535b8d4af465e47f8995232b29f86661c5c47b5e1fde32b62d96685ce"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=125595"
+published_at: "2026-05-30T00:36:15+09:00"
+url: "https://www.seedworld.com/us/2026/05/29/sustainable-aviation-fuel-food-vs-fuel/"
+summary: "Whenever sustainable aviation fuel enters the public conversation, one question tends to rise above others: Why are we using food for fuel? Steve Csonka, executive director of the Commercial Aviation Alternative Fuels Initiative ( CAAFI )."
+attachments: []
+tags:
+  - "밀"
+  - "옥수수"
+fetched_at: "2026-06-01T06:51:47+09:00"
+---
+# We’re Not Taking Food Off The Plate
+
+Whenever sustainable aviation fuel enters the public conversation, one question tends to rise above others: Why are we using food for fuel? Steve Csonka, executive director of the Commercial Aviation Alternative Fuels Initiative ( CAAFI ). It is an understandable concern. Agriculture feeds the world, and any proposal that appears to divert crops from that mission deserves scrutiny. But the reality of sustainable aviation fuel is far more nuanced than the headline suggests. Commercial aviation faces a unique challenge. Aircraft require a highly specialized fuel that does far more than simply burn in an engine. Jet fuel also serves as a coolant, lubricant and hydraulic fluid, and it must perform reliably from desert heat to temperatures well below zero at 40,000 feet. Unlike cars or trucks, aircraft cannot switch easily to batteries or hydrogen in the near term, particularly for long-haul flights. That is why sustainable aviation fuel has emerged as one of the most practical pathways for reducing aviation’s carbon footprint . Why Aviation Needs a Different Fuel Solution The good news is that sustainable aviation fuel is not tied to a single crop, a single region or even a single type of feedstock. Yes, some current pathways use vegetable oils and other lipid-based materials. But the future of sustainable aviation fuel extends well beyond edible crops. Agricultural residues such as corn stover and wheat straw, forestry byproducts, municipal solid waste, dairy residues, used cooking oils and purpose-grown energy crops such as switchgrass and miscanthus are all part of the broader opportunity. In other words, this is increasingly a story about making better use of materials that are already available rather than taking food off the table. That distinction matters. For agriculture, sustainable aviation fuel represents an opportunity to create additional value from residues and byproducts that have historically generated little return. For rural communities, it offers the potential for new processing facilities, jobs and investment. The Seed Industry’s Role in Sustainable Aviation Fuel For researchers and seed companies, it opens the door to innovations in biomass quality, crop genetics and feedstock optimization. This is where the seed industry can play a particularly important role. The characteristics breeders focus on every day — yield stability, oil composition, residue quality and regional adaptation — directly influence the economics of fuel production. Better feedstocks lead to more efficient conversion and lower costs. Of course, important questions remain. Sustainable aviation fuel must become more affordable. Supply chains must mature. Public concerns about land use and food security must continue to be addressed transparently and thoughtfully. Those conversations are essential. Beyond the Food Versus Fuel Debate But framing sustainable aviation fuel solely as “food for fuel” misses the bigger picture. What is taking shape is a new market built on innovation, diversification and the ability to transform underutilized biological resources into high-value products. Aviation will continue to need liquid fuels for decades to come. The question is not whether we will pursue more sustainable alternatives. The question is whether agriculture will help lead the way. For a deeper look at the science, economics and policy shaping this emerging market, watch for Seed World U.S.’s feature story on sustainable aviation fuel in the September issue.
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/us/2026/05/29/sustainable-aviation-fuel-food-vs-fuel/)

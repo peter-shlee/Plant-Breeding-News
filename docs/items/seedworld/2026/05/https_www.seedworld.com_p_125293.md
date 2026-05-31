@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/21/putting-concerns-about-glyphos
 summary: "Joe Schwarcz examines the long-running glyphosate controversy, arguing that trace dietary residues in food pose no meaningful health risk to consumers. Reviewing decades of studies, he distinguishes hazard from real-world risk and notes"
 attachments: []
 tags: []
-fetched_at: "2026-05-29T12:53:39+09:00"
+fetched_at: "2026-06-01T06:51:48+09:00"
 ---
 # Putting Concerns About Glyphosate into Perspective
 

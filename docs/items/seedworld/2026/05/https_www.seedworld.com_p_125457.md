@@ -1,0 +1,20 @@
+---
+id: "09e61750638c13c3998aa96f9e9b43292eb7a120a6a9bc2e039c3cded6d61640"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=125457"
+published_at: "2026-05-29T16:23:15+09:00"
+url: "https://www.seedworld.com/europe/2026/05/29/3d-printed-technology-sheds-light-on-fungal-highways-in-wheat-crops/"
+summary: "Researchers have developed low-cost 3D-printed devices that make it easier to study how bacteria move along fungal filaments, known as “fungal highways.” Created by Rothamsted Research with collaborators from the University of Neuchâtel,"
+attachments: []
+tags:
+  - "밀"
+fetched_at: "2026-06-01T06:51:48+09:00"
+---
+# 3D-Printed Technology Sheds Light on Fungal Highways in Wheat Crops
+
+Researchers have developed low-cost 3D-printed devices that make it easier to study how bacteria move along fungal filaments, known as “fungal highways.” Created by Rothamsted Research with collaborators from the University of Neuchâtel, the University of Minnesota, Los Alamos National Laboratory and Michigan State University, the devices allow scientists to observe this process at scale. Fungal networks of thread-like hyphae and mycelium can act as bridges across dry or fragmented environments, helping bacteria reach places they could not otherwise access. Until now, these interactions have been difficult to study in large numbers. Published in microLife , the study introduces a simple, scalable platform for testing many bacterial–fungal pairings under different environmental conditions. The approach could improve understanding of how microbial communities develop and function in soil and on plants, according to a press release. “We now have scalable methods to systematically study when, how and why bacteria move along fungal networks,” said Martin Darino, post-doctoral researcher at Rothamsted Research and co‑author of the study. “This helps us understand microbial behaviour in real environments, including fungal infection of plants rather than only under artificial laboratory conditions.” From Soil to Crops Using the new devices, the researchers showed that bacterial movement along fungal highways depends strongly on: Nutrient availability Fungal species Bacterial traits How the organisms encounter each other Under nutrient‑poor conditions, fungi became more exploratory, increasing the likelihood of bacterial transport. Importantly, the team also moved beyond laboratory systems, showing that fungal-mediated bacterial transport can occur on wheat plants. Fusarium graminearum is a major cause of Fusarium Head Blight in wheat in the UK and worldwide. The fungus can contaminate grain with harmful mycotoxins, making it unsuitable for human or animal consumption. The authors found that F. graminearum hyphae could transport bacteria into neighbouring wheat tissues. This suggests a closer interaction than simple co-migration, potentially extending to metabolic cooperation. “This opens the door to a more predictive understanding of microbial communities,” said co-author Pilar Junier from the University of Neuchâtel. “Once we understand the rules governing microbial movement, we can begin to manage or exploit these intricate relationships.” “Microbial interactions play major roles in shaping ecosystems, but they are often difficult to study. By disentangling how microbes interact, we can better understand how microbial communities function,” said co-author Auréline Bouchard from the University of Neuchâtel. “Our 3D-printed device provides a simple and accessible way to study these interactions.” The researchers say the next step will be to combine the devices with real-time imaging and molecular tools to track microbial movement in greater detail. In the long term, the findings could help support the development of sustainable crop protection strategies and microbiome-based agricultural solutions that are resilient to changing environmental conditions.
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/europe/2026/05/29/3d-printed-technology-sheds-light-on-fungal-highways-in-wheat-crops/)
