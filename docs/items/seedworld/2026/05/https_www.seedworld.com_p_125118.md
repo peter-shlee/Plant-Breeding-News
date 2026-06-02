@@ -11,7 +11,7 @@ tags:
   - "genomics"
   - "phenotyping"
   - "밀"
-fetched_at: "2026-06-01T06:51:48+09:00"
+fetched_at: "2026-06-03T07:20:11+09:00"
 ---
 # Tunisia Sequences Ancient Durum Wheat Varieties to Boost Climate Resilience
 

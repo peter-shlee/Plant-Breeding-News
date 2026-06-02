@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "gene-editing"
-fetched_at: "2026-06-01T06:51:48+09:00"
+fetched_at: "2026-06-03T07:20:11+09:00"
 ---
 # Biotech Just Hit Fast Forward. Is Europe’s Seed Sector Ready?
 

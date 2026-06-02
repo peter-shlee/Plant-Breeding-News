@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/25/wsc-2026-the-race-for-faster-s
 summary: "In today’s seed sector, speed is a critical competitive advantage. Chile is increasingly positioning itself as a key facilitator in that race."
 attachments: []
 tags: []
-fetched_at: "2026-06-01T06:51:48+09:00"
+fetched_at: "2026-06-03T07:20:11+09:00"
 ---
 # WSC26: The Race for Faster Seed Innovation is Driving Companies to Chile
 

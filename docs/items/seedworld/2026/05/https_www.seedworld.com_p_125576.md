@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/27/can-canada-talk-food-security-
 summary: "At a time when Ottawa continues to talk about economic resilience and nation-building, dismantling agricultural research infrastructure may send the opposite signal The post Can Canada Talk Food Security While Cutting Agricultural Research?"
 attachments: []
 tags: []
-fetched_at: "2026-06-01T06:51:48+09:00"
+fetched_at: "2026-06-03T07:20:11+09:00"
 ---
 # Can Canada Talk Food Security While Cutting Agricultural Research?
 

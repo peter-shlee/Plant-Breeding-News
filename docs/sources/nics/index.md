@@ -9,6 +9,24 @@ source: "nics"
 
 - [홈으로](../../index.md)
 
+## 2026-06
+
+- **[‘복합 선도유지 기술’로 케이(K)-고구마 태국 선박 수출 시대 열어](../../items/nics/2026/06/944242.md)**
+  - 2026-06-01 · [읽기](../../items/nics/2026/06/944242.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944242)
+
+- **[농촌진흥청, 기후 변화 대응 ‘국산 밀 신규 우수 계통’ 현장 평가회 개최](../../items/nics/2026/06/944241.md)**
+  - 2026-06-01 · [읽기](../../items/nics/2026/06/944241.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944241)
+
+- **[농촌진흥청, 양조용 벼 계약재배 '민·관·농' 협력 모델 구축](../../items/nics/2026/06/944240.md)**
+  - 2026-06-01 · [읽기](../../items/nics/2026/06/944240.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944240)
+
+- **[농촌진흥청, 국산 기능성 농식품 산업 활성화 방안 모색](../../items/nics/2026/06/944239.md)**
+  - 2026-06-01 · [읽기](../../items/nics/2026/06/944239.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944239)
+
+- **[고랭지 배추밭 병해충, “선제적 방제로 피해 최소화”](../../items/nics/2026/06/944238.md)**
+  - 2026-06-01 · [읽기](../../items/nics/2026/06/944238.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944238)
+
+
 ## 2026-05
 
 - **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](../../items/nics/2026/05/944230.md)**
@@ -25,18 +43,3 @@ source: "nics"
 
 - **[옥수수 노리는 나방류 해충, 적기 방제로 피해 막아야](../../items/nics/2026/05/944217.md)**
   - 2026-05-20 · [읽기](../../items/nics/2026/05/944217.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944217)
-
-- **[국산 혼합 잡곡, 건강 돌봄식 소재로 주목받아](../../items/nics/2026/05/944212.md)**
-  - 2026-05-18 · [읽기](../../items/nics/2026/05/944212.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944212)
-
-- **[국립식량과학원, 국산 식량작물 산업화 및 현장 소통 강화](../../items/nics/2026/05/944210.md)**
-  - 2026-05-15 · [읽기](../../items/nics/2026/05/944210.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944210)
-
-- **[콩 안정 생산 ‘파종 전 핵심 준비 요령’ 소개](../../items/nics/2026/05/944209.md)**
-  - 2026-05-15 · [읽기](../../items/nics/2026/05/944209.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944209)
-
-- **[농촌진흥청, 국가표준식품성분 데이터베이스 10.4 공개](../../items/nics/2026/05/944199.md)**
-  - 2026-05-11 · [읽기](../../items/nics/2026/05/944199.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944199)
-
-- **[농촌진흥청, 두부 수율 높고 기계수확 쉬운 신품종 콩 ‘다드림’ 보급](../../items/nics/2026/05/944198.md)**
-  - 2026-05-11 · [읽기](../../items/nics/2026/05/944198.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944198)

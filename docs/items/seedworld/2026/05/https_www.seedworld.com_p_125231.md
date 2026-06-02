@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/15/lorena-basso-global-seed-sector/"
 summary: "Lorena Basso prepares to lead ISF with a focus on innovation, regulatory clarity and stronger collaboration across the global seed sector. The post Lorena Basso Steps Up in the Global Seed Sector appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-01T06:51:48+09:00"
+fetched_at: "2026-06-03T07:20:11+09:00"
 ---
 # Lorena Basso Steps Up in the Global Seed Sector
 

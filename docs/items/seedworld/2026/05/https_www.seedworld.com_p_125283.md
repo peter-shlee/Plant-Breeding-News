@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/05/20/canadian-oat-bree
 summary: "Quentin Martin of Cribit Seeds argues that Canada's sustained investment in plant breeding is the reason crown rust hasn't devastated eastern Canada's 65,000 acres of grain oats — and that continued investment is the foundation of genuine"
 attachments: []
 tags: []
-fetched_at: "2026-06-01T06:51:48+09:00"
+fetched_at: "2026-06-03T07:20:11+09:00"
 ---
 # Where the Conversation Goes Next | On The Brink: Season 2 – Episode 2
 

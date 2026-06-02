@@ -9,6 +9,29 @@ source: "seedworld"
 
 - [홈으로](../../index.md)
 
+## 2026-06
+
+- **[European Agri-Food Coalition Backs NGT Compromise](../../items/seedworld/2026/06/https_www.seedworld.com_p_125642.md)**
+  - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125642.md) · [원문](https://www.seedworld.com/europe/2026/06/02/european-agri-food-coalition-ngt-compromise/)
+  - A Push for Practical NGT Rules A coalition of 34 European agri-food value chain organisations is calling on Members of the European Parliament to support the adoption of the trilogue compromise text…
+
+- **[Honoring Tim Gutormson for a Lifetime of Impact: Why Seed Quality Still Matters](../../items/seedworld/2026/06/https_www.seedworld.com_p_125639.md)**
+  - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125639.md) · [원문](https://www.seedworld.com/us/2026/06/02/tim-gutormson-seed-quality-leadership/)
+  - After nearly 50 years in seed quality testing, Tim Gutormson explains why quality still breaks down, and why the industry may be pushing it harder than ever . Editor’s note: This story is the first i…
+
+- **[GridScore NEXT Speeds Up Plant Breeding Research](../../items/seedworld/2026/06/https_www.seedworld.com_p_125515.md)**
+  - 2026-06-02 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125515.md) · [원문](https://www.seedworld.com/europe/2026/06/02/gridscore-next-plant-breeding-research/)
+  - An international team of researchers, led by The James Hutton Institute, has unveiled a powerful new digital solution to one of the oldest challenges in crop research: the ‘pen and paper’ error The J…
+
+- **[Executive Leadership Strategy: How to Attract, Develop and Retain High-Performance Leaders](../../items/seedworld/2026/06/https_www.seedworld.com_p_125613.md)**
+  - 2026-06-02 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125613.md) · [원문](https://www.seedworld.com/us/2026/06/01/executive-leadership-strategy-high-performance-leaders/)
+  - In today’s competitive environment, companies often focus on innovation, product differentiation and technology. However, executive leadership is one factor that consistently determines long-term suc…
+
+- **[Ukraine’s New GM Traceability Law Takes Shape](../../items/seedworld/2026/06/https_www.seedworld.com_p_125512.md)**
+  - 2026-06-01 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125512.md) · [원문](https://www.seedworld.com/europe/2026/06/01/ukraine-gm-traceability-law/)
+  - Ukraine is bringing its legislation into line with EU standards by consolidating relevant directives into a single law. The Law “On State Regulation of Genetic Engineering Activities and State Contro…
+
+
 ## 2026-05
 
 - **[ISTA 2026: Seed Testing’s Biggest Annual Event is Heading to Calgary](../../items/seedworld/2026/05/https_www.seedworld.com_p_125603.md)**
@@ -17,11 +40,11 @@ source: "seedworld"
 
 - **[We’re Not Taking Food Off The Plate](../../items/seedworld/2026/05/https_www.seedworld.com_p_125595.md)**
   - 2026-05-30 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125595.md) · [원문](https://www.seedworld.com/us/2026/05/29/sustainable-aviation-fuel-food-vs-fuel/)
-  - Whenever sustainable aviation fuel enters the public conversation, one question tends to rise above others: Why are we using food for fuel? Steve Csonka, executive director of the Commercial Aviation…
+  - Sustainable aviation fuel is often criticized as "food for fuel," but emerging feedstocks, agricultural residues and crop innovation tell a more complex story. The post We’re Not Taking Food Off The…
 
 - **[3D-Printed Technology Sheds Light on Fungal Highways in Wheat Crops](../../items/seedworld/2026/05/https_www.seedworld.com_p_125457.md)**
   - 2026-05-29 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125457.md) · [원문](https://www.seedworld.com/europe/2026/05/29/3d-printed-technology-sheds-light-on-fungal-highways-in-wheat-crops/)
-  - Researchers have developed low-cost 3D-printed devices that make it easier to study how bacteria move along fungal filaments, known as “fungal highways.” Created by Rothamsted Research with collabora…
+  - Researchers developed low-cost 3D-printed devices to study bacterial movement along fungal “highways” in soil and plants. Created by Rothamsted Research and collaborators, the scalable platform revea…
 
 - **[How Uncertainty Around Nitrogen Rates Could Cost Corn Farmers Millions](../../items/seedworld/2026/05/https_www.seedworld.com_p_125591.md)**
   - 2026-05-29 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125591.md) · [원문](https://www.seedworld.com/us/2026/05/28/nitrogen-fertilizer-uncertainty-corn-farmers/)
