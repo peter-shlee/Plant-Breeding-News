@@ -11,6 +11,18 @@ source: "nics"
 
 ## 2026-06
 
+- **[장마철 경사지 밭 토양유실, 맥주용 보리로 줄인다](../../items/nics/2026/06/944251.md)**
+  - 2026-06-04 · [읽기](../../items/nics/2026/06/944251.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944251)
+
+- **[농촌진흥청, 강원도 맞춤형 밀·콩 이모작…지역 상생 협력 체계 강화](../../items/nics/2026/06/944250.md)**
+  - 2026-06-04 · [읽기](../../items/nics/2026/06/944250.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944250)
+
+- **[올여름, 비 잦고 일교차 커 ‘벼 병 방제’ 집중해야](../../items/nics/2026/06/944249.md)**
+  - 2026-06-04 · [읽기](../../items/nics/2026/06/944249.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944249)
+
+- **[농촌진흥청, ‘벼멸구 유입 예측부터 약제 처방까지’ 선제 대응](../../items/nics/2026/06/944248.md)**
+  - 2026-06-04 · [읽기](../../items/nics/2026/06/944248.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944248)
+
 - **[‘복합 선도유지 기술’로 케이(K)-고구마 태국 선박 수출 시대 열어](../../items/nics/2026/06/944242.md)**
   - 2026-06-01 · [읽기](../../items/nics/2026/06/944242.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944242)
 
@@ -31,15 +43,3 @@ source: "nics"
 
 - **[생면 품질 높이는 국산 밀 최적 혼합 기술 개발](../../items/nics/2026/05/944230.md)**
   - 2026-05-22 · [읽기](../../items/nics/2026/05/944230.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944230)
-
-- **[농촌진흥청, 발명의 날 기념 유공 포상 4점 수상](../../items/nics/2026/05/944220.md)**
-  - 2026-05-20 · [읽기](../../items/nics/2026/05/944220.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944220)
-
-- **[콩 생육 초기 병해충, 이렇게 관리하세요!](../../items/nics/2026/05/944219.md)**
-  - 2026-05-20 · [읽기](../../items/nics/2026/05/944219.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944219)
-
-- **[우분 퇴비로 새만금간척지 '땅심' 살린다](../../items/nics/2026/05/944218.md)**
-  - 2026-05-20 · [읽기](../../items/nics/2026/05/944218.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944218)
-
-- **[옥수수 노리는 나방류 해충, 적기 방제로 피해 막아야](../../items/nics/2026/05/944217.md)**
-  - 2026-05-20 · [읽기](../../items/nics/2026/05/944217.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944217)

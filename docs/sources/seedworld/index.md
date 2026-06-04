@@ -11,25 +11,61 @@ source: "seedworld"
 
 ## 2026-06
 
+- **[Australia’s Seed Market Rewards Those Who Play the Long Game](../../items/seedworld/2026/06/https_www.seedworld.com_p_125687.md)**
+  - 2026-06-05 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125687.md) · [원문](https://www.seedworld.com/europe/2026/06/04/australia-seed-market-barriers-opportunity/)
+  - Australia is one of the most difficult seed markets in the world to access, both for imports and exports. Australian Seed Federati o n CEO Katherine Delbridge says that’s exactly the point.
+
+- **[Speed Wins in Seed: Honoring Mike Peterson for a Lifetime of Impact](../../items/seedworld/2026/06/https_www.seedworld.com_p_125678.md)**
+  - 2026-06-05 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125678.md) · [원문](https://www.seedworld.com/uncategorized/2026/06/04/mike-peterson-independent-seed-companies/)
+  - In a market driven by genetics and timing, Mike Peterson explains why hesitation is the biggest risk independent seed companies face. Editor’s note: This story is part of a special Seed World U.S.
+
+- **[New Seed Development Map Could Improve Crop Yield](../../items/seedworld/2026/06/https_www.seedworld.com_p_125520.md)**
+  - 2026-06-04 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125520.md) · [원문](https://www.seedworld.com/europe/2026/06/04/seed-development-map-crop-yield/)
+  - A new gene expression atlas could help researchers better understand how seeds develop, store nutrients and respond to environmental stress. Seeds such as wheat, rice and corn sit at the centre of th…
+
+- **[Why Some Fields Win — And Others Don’t (Even When Everything Looks the Same)](../../items/seedworld/2026/06/https_www.seedworld.com_p_125664.md)**
+  - 2026-06-04 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125664.md) · [원문](https://www.seedworld.com/us/2026/06/04/why-some-fields-win-and-others-dont-even-when-everything-looks-the-same/)
+  - Two fields can look identical and perform differently. Farmers know this reality well.
+
+- **[New Pipeline Targets Fungicide Discovery in Wheat](../../items/seedworld/2026/06/https_www.seedworld.com_p_125517.md)**
+  - 2026-06-04 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125517.md) · [원문](https://www.seedworld.com/europe/2026/06/04/fungicide-discovery-wheat-disease-control/)
+  - Researchers aim to speed up the search for new antifungal compounds as wheat pathogens show reduced sensitivity to existing fungicides. A new study from Rothamsted Research has set out a pipeline to…
+
+- **[What do Seed Companies Really Want from AI?](../../items/seedworld/2026/06/https_www.seedworld.com_p_125660.md)**
+  - 2026-06-04 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125660.md) · [원문](https://www.seedworld.com/us/2026/06/03/what-do-seed-companies-really-want-from-ai/)
+  - Love it or hate it, AI is here. Like many businesses, we’re trying to understand where it can create genuine value, and where it risks becoming a distraction.
+
+- **[Made For This Land | On The Brink: Season 2 – Episode 4](../../items/seedworld/2026/06/https_www.seedworld.com_p_125632.md)**
+  - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125632.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/06/03/canadian-plant-breeding-investment-on-the-brink-s2-e4/)
+  - After another cold, wet and generally odd season across much of the Prairies, Jake Ayre, who farms near Minto, Manitoba, keeps returning to the same logic: a crop that spreads his risk across the cal…
+
+- **[How Soil Fungi Could Help Crops Need Less Fertilizer](../../items/seedworld/2026/06/https_www.seedworld.com_p_125524.md)**
+  - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125524.md) · [원문](https://www.seedworld.com/europe/2026/06/03/how-soil-fungi-could-help-crops-need-less-fertilizer/)
+  - Researchers at Whitehead Institute have created a detailed map of seed development that could help scientists better understand crop resilience, nutrient storage and future yield potential.
+
+- **[What Honeybees Can Teach Us About Leadership, Adaptability, and Working Together](../../items/seedworld/2026/06/https_www.seedworld.com_p_125649.md)**
+  - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125649.md) · [원문](https://www.seedworld.com/canada/2026/06/03/what-honeybees-can-teach-us-about-leadership-adaptability-and-working-together/)
+  - Prairie Sweetheart Honey founder Rebecca Krowelski says honeybee colonies have mastered skills many organizations still struggle with, from collaborative decision-making and adaptability to putting p…
+
 - **[European Agri-Food Coalition Backs NGT Compromise](../../items/seedworld/2026/06/https_www.seedworld.com_p_125642.md)**
   - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125642.md) · [원문](https://www.seedworld.com/europe/2026/06/02/european-agri-food-coalition-ngt-compromise/)
-  - A Push for Practical NGT Rules A coalition of 34 European agri-food value chain organisations is calling on Members of the European Parliament to support the adoption of the trilogue compromise text…
+  - A Push for Practical NGT Rules A coalition of 34 European agri-food value chain organisations is calling on Members of the European Parliament to support the adoption of the trilogue […] The post Eur…
 
 - **[Honoring Tim Gutormson for a Lifetime of Impact: Why Seed Quality Still Matters](../../items/seedworld/2026/06/https_www.seedworld.com_p_125639.md)**
   - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125639.md) · [원문](https://www.seedworld.com/us/2026/06/02/tim-gutormson-seed-quality-leadership/)
-  - After nearly 50 years in seed quality testing, Tim Gutormson explains why quality still breaks down, and why the industry may be pushing it harder than ever . Editor’s note: This story is the first i…
+  - After nearly five decades in seed testing, Tim Gutormson has seen the seed industry evolve dramatically. From advances in seed quality testing to the ongoing need for education and gentle seed handli…
 
 - **[GridScore NEXT Speeds Up Plant Breeding Research](../../items/seedworld/2026/06/https_www.seedworld.com_p_125515.md)**
   - 2026-06-02 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125515.md) · [원문](https://www.seedworld.com/europe/2026/06/02/gridscore-next-plant-breeding-research/)
-  - An international team of researchers, led by The James Hutton Institute, has unveiled a powerful new digital solution to one of the oldest challenges in crop research: the ‘pen and paper’ error The J…
+  - GridScore NEXT helps crop researchers collect cleaner field data, reduce phenotyping errors and accelerate plant breeding. The post GridScore NEXT Speeds Up Plant Breeding Research appeared first on…
 
 - **[Executive Leadership Strategy: How to Attract, Develop and Retain High-Performance Leaders](../../items/seedworld/2026/06/https_www.seedworld.com_p_125613.md)**
   - 2026-06-02 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125613.md) · [원문](https://www.seedworld.com/us/2026/06/01/executive-leadership-strategy-high-performance-leaders/)
-  - In today’s competitive environment, companies often focus on innovation, product differentiation and technology. However, executive leadership is one factor that consistently determines long-term suc…
+  - Leadership remains one of the biggest drivers of business success. Learn how organizations can attract, develop and retain high-performance leaders through strategic hiring, succession planning and l…
 
 - **[Ukraine’s New GM Traceability Law Takes Shape](../../items/seedworld/2026/06/https_www.seedworld.com_p_125512.md)**
   - 2026-06-01 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125512.md) · [원문](https://www.seedworld.com/europe/2026/06/01/ukraine-gm-traceability-law/)
-  - Ukraine is bringing its legislation into line with EU standards by consolidating relevant directives into a single law. The Law “On State Regulation of Genetic Engineering Activities and State Contro…
+  - Ukraine’s GM traceability law will align seed, crop and product rules with EU standards ahead of its August 2026 rollout. The post Ukraine’s New GM Traceability Law Takes Shape appeared first on Seed…
 
 
 ## 2026-05
@@ -373,43 +409,3 @@ source: "seedworld"
 - **[Independent Seed, National Impact | On the Brink Season 1: Episode 9](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md)**
   - 2026-05-06 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/06/independent-seed-national-impact-on-the-brink-episode-9/)
   - A national survey of 200 independent seed businesses reveals the sector represents $1.7 billion in infrastructure, 3,000 rural jobs, and a near-total dependence on public plant breeding to survive.
-
-- **[Global Markets Tighten Their Grip on Seed Strategy](../../items/seedworld/2026/05/https_www.seedworld.com_p_125007.md)**
-  - 2026-05-06 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125007.md) · [원문](https://www.seedworld.com/us/2026/05/05/global-markets-tighten-their-grip-on-seed-strategy/)
-  - Global market volatility is reshaping seed strategy, from trade to input costs. What seed companies need to watch in 2026 and beyond.
-
-- **[Sowing the Seeds of Resilience: Crop Diversity as a Strategic Asset for the Seed Sector](../../items/seedworld/2026/05/https_www.seedworld.com_p_124998.md)**
-  - 2026-05-05 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124998.md) · [원문](https://www.seedworld.com/us/2026/05/05/sowing-the-seeds-of-resilience-crop-diversity-as-a-strategic-asset-for-the-seed-sector/)
-  - Crop diversity is vital to seed sector innovation, resilience and long-term competitiveness. As climate volatility, pests and funding pressures intensify, genebanks provide essential genetic resource…
-
-- **[Industry Coalition Calls for Swift Approval of EU New Genomic Techniques Law](../../items/seedworld/2026/05/https_www.seedworld.com_p_124995.md)**
-  - 2026-05-05 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124995.md) · [원문](https://www.seedworld.com/europe/2026/05/05/industry-coalition-calls-for-swift-approval-of-eu-new-genomic-techniques-law/)
-  - Thirty-one agri-food organisations are urging MEPs to adopt the EU Regulation on new genomic techniques without amendments. According to a Euroseeds press release, the compromise text would support i…
-
-- **[Healthy Soils, Resilient Harvests: Regeneration in Action](../../items/seedworld/2026/05/https_www.seedworld.com_p_124976.md)**
-  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124976.md) · [원문](https://www.seedworld.com/europe/2026/05/04/healthy-soils-resilient-harvests-regeneration-in-action/)
-  - MAS Seeds is advancing regenerative agriculture to help farmers build healthier soils, stronger crops and more stable harvests. Through reduced tillage, cover crops, diversified rotations and field-t…
-
-- **[New Report Highlights Trust Gap in Agricultural Innovation](../../items/seedworld/2026/05/https_www.seedworld.com_p_124971.md)**
-  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124971.md) · [원문](https://www.seedworld.com/europe/2026/05/04/new-report-highlights-trust-gap-in-agricultural-innovation/)
-  - A new report by Leaps by Bayer, Boston Consulting Group and Ipsos UK examines public trust in agricultural innovation, including new genomic techniques and cultivated meat.
-
-- **[Hops and Cannabis Share Genetic Sex Switch, Scientists Discover](../../items/seedworld/2026/05/https_www.seedworld.com_p_124841.md)**
-  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124841.md) · [원문](https://www.seedworld.com/europe/2026/05/04/hops-and-cannabis-share-genetic-sex-switch-scientists-discover/)
-  - University College Dublin researchers identified a genetic sex switch in cannabis that may also control sex in hops. The study, published in New Phytologist, found key genes on the X chromosome that…
-
-- **[Maize Under Siege Attracts More Pests](../../items/seedworld/2026/05/https_www.seedworld.com_p_124947.md)**
-  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124947.md) · [원문](https://www.seedworld.com/europe/2026/05/04/maize-under-siege-attracts-more-pests/)
-  - New research finds maize under simultaneous root and leaf pest attack releases distinct root chemicals that strongly attract wireworms. Scientists recreated the cue as a synthetic blend, effective in…
-
-- **[OECD Seed Schemes Explained | Seed Certification & Global Seed Trade](../../items/seedworld/2026/05/https_www.seedworld.com_p_124968.md)**
-  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124968.md) · [원문](https://www.seedworld.com/europe/2026/05/04/oecd-seed-schemes-explained-seed-certification-global-seed-trade/)
-  - OECD seed certification strengthens trust in global seed systems by harmonising standards for quality, identity, and purity across more than 60 countries. This video explains how OECD Seed Schemes su…
-
-- **[Denmark’s Oat Strategy Could Transform Sustainable Agriculture](../../items/seedworld/2026/05/https_www.seedworld.com_p_124819.md)**
-  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124819.md) · [원문](https://www.seedworld.com/europe/2026/05/04/denmarks-oat-strategy-could-transform-sustainable-agriculture/)
-  - Denmark’s AVENUE project is testing 200 oat varieties to develop climate-resilient, nutritious crops for sustainable organic farming. By studying yield, quality, adaptability and health traits, resea…
-
-- **[The Leadership Move That Pays Off Immediately](../../items/seedworld/2026/05/https_www.seedworld.com_p_124965.md)**
-  - 2026-05-04 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124965.md) · [원문](https://www.seedworld.com/us/2026/05/04/the-leadership-move-that-pays-off-immediately/)
-  - Investing in professional development helps seed companies reduce turnover, strengthen teams, and improve operational performance. Targeted seed training, short courses, and certification programs gi…

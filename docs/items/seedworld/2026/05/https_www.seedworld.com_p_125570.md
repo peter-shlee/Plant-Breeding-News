@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/27/the-benefits-of-upgrading-seed
 summary: "You can tell a lot about a processing plant by watching the operators. If they’re constantly adjusting equipment, something isn’t working the way it should The post The Benefits of Upgrading Seed Processing Screening Equipment appeared"
 attachments: []
 tags: []
-fetched_at: "2026-06-03T07:20:11+09:00"
+fetched_at: "2026-06-05T07:04:58+09:00"
 ---
 # The Benefits of Upgrading Seed Processing Screening Equipment
 

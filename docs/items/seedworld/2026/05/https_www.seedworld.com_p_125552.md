@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/26/fusion-seeds-story-how-chad-and-sh
 summary: "While on vacation in Hawaii, Chad and Sherry Goldsmith made a life-changing decision to buy a seed company. That leap became Fusion Seeds."
 attachments: []
 tags: []
-fetched_at: "2026-06-03T07:20:11+09:00"
+fetched_at: "2026-06-05T07:04:58+09:00"
 ---
 # They Went on Vacation and Bought a Seed Company?! | The Fusion Seed Story
 

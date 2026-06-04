@@ -9,7 +9,7 @@ summary: "Purdue researchers say accounting for nitrogen fertilizer uncertainty 
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-06-03T07:20:11+09:00"
+fetched_at: "2026-06-05T07:04:58+09:00"
 ---
 # How Uncertainty Around Nitrogen Rates Could Cost Corn Farmers Millions
 

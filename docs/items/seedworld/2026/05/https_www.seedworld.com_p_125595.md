@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/29/sustainable-aviation-fuel-food-vs-
 summary: "Sustainable aviation fuel is often criticized as \"food for fuel,\" but emerging feedstocks, agricultural residues and crop innovation tell a more complex story. The post We’re Not Taking Food Off The Plate appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-03T07:20:11+09:00"
+fetched_at: "2026-06-05T07:04:58+09:00"
 ---
 # We’re Not Taking Food Off The Plate
 

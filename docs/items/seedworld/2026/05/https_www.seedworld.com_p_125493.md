@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/05/25/seedsmen-who-served-memorial-day/"
 summary: "From the Civil War to World War II, these seedsmen helped shape American agriculture seed after military service. The post Remembering Seedsmen Who Served appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-03T07:20:11+09:00"
+fetched_at: "2026-06-05T07:04:58+09:00"
 ---
 # Remembering Seedsmen Who Served
 
