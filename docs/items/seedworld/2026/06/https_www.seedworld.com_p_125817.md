@@ -1,0 +1,20 @@
+---
+id: "72e5cd789a4ca7c8b07eaeea729c2c142a8a78bbc786cc452c879045c810cbf8"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=125817"
+published_at: "2026-06-08T04:59:29+09:00"
+url: "https://www.seedworld.com/canada/2026/06/07/how-cdc-meadow-became-one-of-canadas-most-successful-yellow-pea-varieties/"
+summary: "A single-star evaluation helped save a breeding line that would go on to transform yellow pea production across Western Canada. Some crop varieties achieve instant success."
+attachments: []
+tags:
+  - "genomics"
+fetched_at: "2026-06-08T09:27:28+09:00"
+---
+# How CDC Meadow Became One of Canada’s Most Successful Yellow Pea Varieties
+
+A single-star evaluation helped save a breeding line that would go on to transform yellow pea production across Western Canada. Some crop varieties achieve instant success. Others succeed because someone gave them one more chance. That was the case for CDC Meadow , the yellow pea variety developed at the University of Saskatchewan’s Crop Development Centre (CDC) and named 2026 Seed of the Year . Released in 2006, CDC Meadow went on to become one of the most widely grown yellow pea varieties in Canadian history, helping drive the growth of Canada’s pulse industry for nearly two decades. According to breeder Dr. Tom Warkentin , the variety’s commercial uptake was remarkably fast. After seed multiplication, CDC Meadow became the most widely grown yellow pea variety in Western Canada by 2011. While it initially gained traction in Saskatchewan, Alberta eventually became its strongest market thanks in part to its slightly earlier maturity. The story of CDC Meadow began long before its release. The original cross was made in 1996 by Dr. Bert Vandenberg, years before Warkentin joined the CDC. From there, the breeding line moved through years of testing and selection, supported by researchers, technical staff, Saskatchewan Pulse Growers, and seed growers across the Prairies. But the variety nearly didn’t make it. Two years before entering cooperative trials, the breeding line — known then as 6538 — had a solid but unspectacular season. Warkentin’s evaluation gave it one star instead of two, enough to keep it moving forward. Had it received no stars, it likely would have been discarded. The following year, it rose to the top of the trial results. “It’s sort of okay, but not outstanding in that one particular year,” Warkentin recalled. “The next year it was right at the top of the pack.” Today, CDC Meadow is recognized not only for its commercial success but also for what it represents about plant breeding. While modern breeders now use tools such as DNA markers, near-infrared spectroscopy, and genomic selection, Warkentin says the fundamentals remain the same: making crosses, evaluating thousands of plots, and selecting the best material in the field. Looking ahead, one of the biggest priorities for pea breeding is improving resistance to root rot diseases, particularly Aphanomyces root rot. Warkentin says several promising lines are currently advancing through trials and could help improve resistance while maintaining the yield and quality growers expect. For young breeders hoping to develop the next breakthrough variety, his advice is straightforward: get out of the office and into the field. “Don’t miss a season. Don’t miss a crossing cycle. Just keep at it.” CDC Meadow’s recognition as the 2026 Seed of the Year is a fitting tribute to a variety that helped shape Canadian pea production. And perhaps the most remarkable part of its story is that it all hinged on a single decision—a breeding line that earned one star instead of none. Sometimes innovation only needs one more chance. https://media.blubrry.com/strategysession/content.blubrry.com/strategysession/How_CDC_Meadow_Became_One_of_Canada_s_Most_Successful_Yellow_Pea_Varieties.mp3 Podcast: Play in new window | Download
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/canada/2026/06/07/how-cdc-meadow-became-one-of-canadas-most-successful-yellow-pea-varieties/)

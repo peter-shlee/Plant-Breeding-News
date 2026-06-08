@@ -11,6 +11,14 @@ source: "seedworld"
 
 ## 2026-06
 
+- **[How CDC Meadow Became One of Canada’s Most Successful Yellow Pea Varieties](../../items/seedworld/2026/06/https_www.seedworld.com_p_125817.md)**
+  - 2026-06-08 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125817.md) · [원문](https://www.seedworld.com/canada/2026/06/07/how-cdc-meadow-became-one-of-canadas-most-successful-yellow-pea-varieties/)
+  - A single-star evaluation helped save a breeding line that would go on to transform yellow pea production across Western Canada. Some crop varieties achieve instant success.
+
+- **[The Cultural Divide Between LATAM and the West](../../items/seedworld/2026/06/https_www.seedworld.com_p_125811.md)**
+  - 2026-06-07 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125811.md) · [원문](https://www.seedworld.com/latam/2026/06/06/the-cultural-divide-between-latam-and-the-west/)
+  - I gave a talk at the University of Florida last summer where I was reminded of how different the perspective can be for someone brought up in a first world country compared to those of us who were ra…
+
 - **[Australia’s Seed Market Rewards Those Who Play the Long Game](../../items/seedworld/2026/06/https_www.seedworld.com_p_125687.md)**
   - 2026-06-05 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125687.md) · [원문](https://www.seedworld.com/europe/2026/06/04/australia-seed-market-barriers-opportunity/)
   - Australia is one of the most difficult seed markets in the world to access, both for imports and exports. Australian Seed Federati o n CEO Katherine Delbridge says that’s exactly the point.
@@ -49,23 +57,23 @@ source: "seedworld"
 
 - **[European Agri-Food Coalition Backs NGT Compromise](../../items/seedworld/2026/06/https_www.seedworld.com_p_125642.md)**
   - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125642.md) · [원문](https://www.seedworld.com/europe/2026/06/02/european-agri-food-coalition-ngt-compromise/)
-  - A Push for Practical NGT Rules A coalition of 34 European agri-food value chain organisations is calling on Members of the European Parliament to support the adoption of the trilogue […] The post Eur…
+  - A Push for Practical NGT Rules A coalition of 34 European agri-food value chain organisations is calling on Members of the European Parliament to support the adoption of the trilogue compromise text…
 
 - **[Honoring Tim Gutormson for a Lifetime of Impact: Why Seed Quality Still Matters](../../items/seedworld/2026/06/https_www.seedworld.com_p_125639.md)**
   - 2026-06-03 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125639.md) · [원문](https://www.seedworld.com/us/2026/06/02/tim-gutormson-seed-quality-leadership/)
-  - After nearly five decades in seed testing, Tim Gutormson has seen the seed industry evolve dramatically. From advances in seed quality testing to the ongoing need for education and gentle seed handli…
+  - After nearly 50 years in seed quality testing, Tim Gutormson explains why quality still breaks down, and why the industry may be pushing it harder than ever . Editor’s note: This story is the first i…
 
 - **[GridScore NEXT Speeds Up Plant Breeding Research](../../items/seedworld/2026/06/https_www.seedworld.com_p_125515.md)**
   - 2026-06-02 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125515.md) · [원문](https://www.seedworld.com/europe/2026/06/02/gridscore-next-plant-breeding-research/)
-  - GridScore NEXT helps crop researchers collect cleaner field data, reduce phenotyping errors and accelerate plant breeding. The post GridScore NEXT Speeds Up Plant Breeding Research appeared first on…
+  - An international team of researchers, led by The James Hutton Institute, has unveiled a powerful new digital solution to one of the oldest challenges in crop research: the ‘pen and paper’ error The J…
 
 - **[Executive Leadership Strategy: How to Attract, Develop and Retain High-Performance Leaders](../../items/seedworld/2026/06/https_www.seedworld.com_p_125613.md)**
   - 2026-06-02 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125613.md) · [원문](https://www.seedworld.com/us/2026/06/01/executive-leadership-strategy-high-performance-leaders/)
-  - Leadership remains one of the biggest drivers of business success. Learn how organizations can attract, develop and retain high-performance leaders through strategic hiring, succession planning and l…
+  - In today’s competitive environment, companies often focus on innovation, product differentiation and technology. However, executive leadership is one factor that consistently determines long-term suc…
 
 - **[Ukraine’s New GM Traceability Law Takes Shape](../../items/seedworld/2026/06/https_www.seedworld.com_p_125512.md)**
   - 2026-06-01 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125512.md) · [원문](https://www.seedworld.com/europe/2026/06/01/ukraine-gm-traceability-law/)
-  - Ukraine’s GM traceability law will align seed, crop and product rules with EU standards ahead of its August 2026 rollout. The post Ukraine’s New GM Traceability Law Takes Shape appeared first on Seed…
+  - Ukraine is bringing its legislation into line with EU standards by consolidating relevant directives into a single law. The Law “On State Regulation of Genetic Engineering Activities and State Contro…
 
 
 ## 2026-05
@@ -76,11 +84,11 @@ source: "seedworld"
 
 - **[We’re Not Taking Food Off The Plate](../../items/seedworld/2026/05/https_www.seedworld.com_p_125595.md)**
   - 2026-05-30 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125595.md) · [원문](https://www.seedworld.com/us/2026/05/29/sustainable-aviation-fuel-food-vs-fuel/)
-  - Sustainable aviation fuel is often criticized as "food for fuel," but emerging feedstocks, agricultural residues and crop innovation tell a more complex story. The post We’re Not Taking Food Off The…
+  - Whenever sustainable aviation fuel enters the public conversation, one question tends to rise above others: Why are we using food for fuel? Steve Csonka, executive director of the Commercial Aviation…
 
 - **[3D-Printed Technology Sheds Light on Fungal Highways in Wheat Crops](../../items/seedworld/2026/05/https_www.seedworld.com_p_125457.md)**
   - 2026-05-29 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125457.md) · [원문](https://www.seedworld.com/europe/2026/05/29/3d-printed-technology-sheds-light-on-fungal-highways-in-wheat-crops/)
-  - Researchers developed low-cost 3D-printed devices to study bacterial movement along fungal “highways” in soil and plants. Created by Rothamsted Research and collaborators, the scalable platform revea…
+  - Researchers have developed low-cost 3D-printed devices that make it easier to study how bacteria move along fungal filaments, known as “fungal highways.” Created by Rothamsted Research with collabora…
 
 - **[How Uncertainty Around Nitrogen Rates Could Cost Corn Farmers Millions](../../items/seedworld/2026/05/https_www.seedworld.com_p_125591.md)**
   - 2026-05-29 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125591.md) · [원문](https://www.seedworld.com/us/2026/05/28/nitrogen-fertilizer-uncertainty-corn-farmers/)
@@ -361,51 +369,3 @@ source: "seedworld"
 - **[Loss of Pollinators Threatens Crop Yields and Human Nutrition Worldwide](../../items/seedworld/2026/05/https_www.seedworld.com_p_125058.md)**
   - 2026-05-11 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125058.md) · [원문](https://www.seedworld.com/europe/2026/05/11/loss-of-pollinators-threatens-crop-yields-and-human-nutrition-worldwide/)
   - New University of Bristol research published in Nature finds that pollinator decline threatens crop production, human nutrition and farm incomes. Studying smallholder farms in Nepal, researchers foun…
-
-- **[John Barlow on the Fight to Save Canada’s Ag Research Facilities](../../items/seedworld/2026/05/https_www.seedworld.com_p_125090.md)**
-  - 2026-05-09 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125090.md) · [원문](https://www.seedworld.com/canada/2026/05/08/john-barlow-on-the-fight-to-save-canadas-ag-research-facilities/)
-  - The vice chair of the House agriculture committee says witness testimony made it clear: research facility closures would have lasting impacts on Canadian agriculture The post John Barlow on the Fight…
-
-- **[¿Qué barreras obstaculizan el desarrollo del liderazgo femenino?](../../items/seedworld/2026/05/https_www.seedworld.com_p_125055.md)**
-  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125055.md) · [원문](https://www.seedworld.com/latam/2026/05/08/que-barreras-obstaculizan-el-desarrollo-del-liderazgo-femenino/)
-  - Las mujeres siguen poco representadas en puestos de alta dirección pese a sus logros educativos. Este artículo analiza cómo la confianza, la ambición y la disposición a postularse sin cumplir todos l…
-
-- **[What It Takes For Women To Lead](../../items/seedworld/2026/05/https_www.seedworld.com_p_125052.md)**
-  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125052.md) · [원문](https://www.seedworld.com/latam/2026/05/08/what-it-takes-for-women-to-lead/)
-  - Women remain underrepresented in senior leadership despite strong educational achievement. This article explores how confidence, ambition and willingness to apply before meeting every qualification c…
-
-- **[NordPheno Boosts Nordic Crop Breeding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125029.md)**
-  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125029.md) · [원문](https://www.seedworld.com/europe/2026/05/07/nordpheno-boosts-nordic-crop-breeding/)
-  - Representatives from eight leading Nordic research institutions gathered at the University of Helsinki in late March to officially launch NordPheno, the Nordic Research Infrastructure Hub for Digital…
-
-- **[Reversing AAFC Cuts Could Buy Time — But Canada Still Needs Breeding Reform](../../items/seedworld/2026/05/https_www.seedworld.com_p_125046.md)**
-  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125046.md) · [원문](https://www.seedworld.com/canada/2026/05/07/reversing-aafc-cuts-could-buy-time-but-canada-still-needs-breeding-reform/)
-  - Preserving research infrastructure alone won’t solve the deeper challenges facing Canadian agricultural innovation The post Reversing AAFC Cuts Could Buy Time — But Canada Still Needs Breeding Reform…
-
-- **[Plant Breeders’ Rights Reform Signals New Era for Canadian Horticulture](../../items/seedworld/2026/05/https_www.seedworld.com_p_125049.md)**
-  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125049.md) · [원문](https://www.seedworld.com/canada/2026/05/07/plant-breeders-rights-reform-signals-new-era-for-canadian-horticulture/)
-  - Supporters say stronger IP protections will fuel breeding innovation and competitiveness. Canada is moving to modernize its Plant Breeders’ Rights (PBR) framework in a bid to strengthen agricultural…
-
-- **[Western Canada Wheat and Barley Breeding Groups Unveil New Vision for Innovation](../../items/seedworld/2026/05/https_www.seedworld.com_p_125044.md)**
-  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125044.md) · [원문](https://www.seedworld.com/canada/2026/05/07/western-canada-wheat-and-barley-breeding-groups-unveil-new-vision-for-innovation/)
-  - Industry leaders, universities and producer organizations say Canada’s wheat and barley breeding system is at an “inflection point” The post Western Canada Wheat and Barley Breeding Groups Unveil New…
-
-- **[NAPB 2026 Puts Spotlight on Cotton Breeding and Fiber Quality Advances](../../items/seedworld/2026/05/https_www.seedworld.com_p_125041.md)**
-  - 2026-05-08 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125041.md) · [원문](https://www.seedworld.com/us/2026/05/07/napb-2026-puts-spotlight-on-cotton-breeding-and-fiber-quality-advances/)
-  - From vortex spinning challenges to field tours, this year’s meeting explores how breeders are improving cotton to compete globally The post NAPB 2026 Puts Spotlight on Cotton Breeding and Fiber Quali…
-
-- **[Canadian Parliament Urges Reversal of Agricultural Research Centre Closures](../../items/seedworld/2026/05/https_www.seedworld.com_p_125038.md)**
-  - 2026-05-07 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125038.md) · [원문](https://www.seedworld.com/canada/2026/05/07/canadian-parliament-urges-reversal-of-agricultural-research-centre-closures/)
-  - A new parliamentary report warns that planned closures of federal agricultural research centres could weaken Canada’s long-term agricultural innovation capacity The post Canadian Parliament Urges Rev…
-
-- **[Agri-Food Leaders Call for Stronger EU Innovation Funding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125026.md)**
-  - 2026-05-07 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125026.md) · [원문](https://www.seedworld.com/europe/2026/05/07/agri-food-leaders-call-for-stronger-eu-innovation-funding/)
-  - Five European Technology Platforms and nine agri-food organisations are urging EU policymakers to recognise agriculture, aquaculture and food systems as strategic priorities in the European Competiti…
-
-- **[Navigating the 5 C’s for Field Success: What it Takes for Biologicals to Deliver](../../items/seedworld/2026/05/https_www.seedworld.com_p_125023.md)**
-  - 2026-05-07 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125023.md) · [원문](https://www.seedworld.com/us/2026/05/07/navigating-the-5-cs-for-field-success-what-it-takes-for-biologicals-to-deliver/)
-  - Biologicals can deliver consistent field performance when discovered through real-world microbial ecology, not lab traits alone. Jord BioScience’s ecology-driven approach selects resilient microbes t…
-
-- **[Independent Seed, National Impact | On the Brink Season 1: Episode 9](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md)**
-  - 2026-05-06 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_124989.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/06/independent-seed-national-impact-on-the-brink-episode-9/)
-  - A national survey of 200 independent seed businesses reveals the sector represents $1.7 billion in infrastructure, 3,000 rural jobs, and a near-total dependence on public plant breeding to survive.
