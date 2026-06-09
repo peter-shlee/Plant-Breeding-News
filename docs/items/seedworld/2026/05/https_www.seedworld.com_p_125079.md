@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/05/17/las-gramineas-de-raices-profund
 summary: "Un metaanálisis liderado por Embrapa encontró que gramíneas tropicales de raíces profundas, como brachiaria, pueden aumentar en 15% los rendimientos de soja y mejorar la salud del suelo en Brasil."
 attachments: []
 tags: []
-fetched_at: "2026-06-05T07:04:58+09:00"
+fetched_at: "2026-06-10T07:05:16+09:00"
 ---
 # Las gramíneas de raíces profundas aumentan la productividad de la soja en un 15 % en Brasil
 

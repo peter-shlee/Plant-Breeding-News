@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "토마토"
-fetched_at: "2026-06-05T07:04:58+09:00"
+fetched_at: "2026-06-10T07:05:16+09:00"
 ---
 # AI Model Predicts Tomato Virus Severity With 100% Accuracy
 
