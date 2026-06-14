@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/05/29/ista-2026-seed-testings-bigges
 summary: "From June 22–25, ISTA 2026 will bring together seed testing professionals, technical experts, regulators, and industry leaders from around the world to discuss the issues shaping global seed movement, market […] The post ISTA 2026: Seed"
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # ISTA 2026: Seed Testing’s Biggest Annual Event is Heading to Calgary
 

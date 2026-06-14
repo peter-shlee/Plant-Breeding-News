@@ -9,7 +9,7 @@ summary: "Spanish court rulings warn horticulture companies that unauthorized pr
 attachments: []
 tags:
   - "토마토"
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # Unauthorized Plant Variety Propagation Faces Legal Crackdown After Spanish Court Rulings
 

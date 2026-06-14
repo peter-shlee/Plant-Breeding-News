@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/26/new-discovery-reveals-how-crop
 summary: "Researchers in Japan have discovered a copper-dependent hydrogen peroxide sensing system in plants, reshaping understanding of crop stress signaling and immunity. Published in Nature Communications, the study shows CARD1/HPCA1 detects H₂O₂"
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # New Discovery Reveals How Crops Detect Stress and Disease
 

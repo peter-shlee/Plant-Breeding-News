@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/20/isf-launches-new-global-guidel
 summary: "The International Seed Federation (ISF) has launched new voluntary guidelines to help seed companies, growers, and suppliers strengthen social rights and ethical practices in seed production."
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # ISF Launches New Global Guidelines on Social Rights and Ethical Seed Production
 

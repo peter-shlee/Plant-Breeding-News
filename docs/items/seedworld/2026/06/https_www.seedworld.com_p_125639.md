@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/02/tim-gutormson-seed-quality-leaders
 summary: "After nearly five decades in seed testing, Tim Gutormson has seen the seed industry evolve dramatically. From advances in seed quality testing to the ongoing need for education and gentle seed handling, the SoDak Labs CEO reflects on the"
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # Honoring Tim Gutormson for a Lifetime of Impact: Why Seed Quality Still Matters
 

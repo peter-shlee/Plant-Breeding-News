@@ -9,7 +9,7 @@ summary: "Rothamsted Research has planted the UK’s first crop under a Precisio
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # Rothamsted Launches UK’s First Field Trial Under New PBO Rules
 

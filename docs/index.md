@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-06-10 07:05 (KST)**  
-- 커버리지(최근 섹션): **2026-06-03 ~ 2026-06-10** (최근 7일)
+- 마지막 업데이트: **2026-06-15 07:00 (KST)**  
+- 커버리지(최근 섹션): **2026-06-08 ~ 2026-06-15** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 
 <a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-06-03~2026-06-10)
+## 30초 주간 브리핑 (2026-06-08~2026-06-15)
 
-> 종자 산업의 혁신과 지속가능한 농업 기술의 현장 적용이 가속화되고 있습니다.
+> 육종 혁신을 위한 기술 고도화와 글로벌 농업 협력 체계 강화가 주목받은 한 주였습니다.
 
 ### 1) 정책/규제
 
-- 국제종자연맹(ISF)이 종자 산업 내 노동 권리와 윤리적 관행을 강화하기 위한 새로운 지침을 발표했습니다. ([원문](https://www.seedworld.com/europe/2026/06/08/labor-rights-seed-sector-accountability/))
-- 농촌진흥청이 유자잎을 식품 원료로 등재하여 차, 음료, 제과 등 다양한 분야에서의 활용 길을 열었습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000810996&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 유럽종자협회(Euroseeds)는 삼림벌채 방지 규정(EUDR) 대상에 파종용 대두 종자가 포함되는 것에 대해 반대하며 제외를 요청했습니다. ([원문](https://www.seedworld.com/europe/2026/06/10/soybean-seeds-eudr-scope/))
+- 유럽 농식품 분야 주요 단체들은 식량 안보와 전략적 자립을 위해 농업·식품 시스템을 EU 경쟁력 기금의 핵심 전략 분야로 지정할 것을 촉구했습니다. ([원문](https://www.seedworld.com/europe/2026/06/10/agri-food-sector-eu-competitiveness-fund/))
 
 ### 2) 연구/기술
 
-- 유기농 관리 토양이 가뭄 저항성을 돕는 유익한 토양 박테리아를 증식시킨다는 연구 결과가 발표되었습니다. ([원문](https://www.seedworld.com/europe/2026/06/09/organic-farming-could-help-crops-resist-drought/))
-- Pairwise는 유전자 편집 기술의 접근성을 높여 다양한 작물에 맞춤형 혁신 솔루션을 제공하는 모델을 제시했습니다. ([원문](https://www.seedworld.com/us/2026/06/09/pairwise-gene-editing-crop-innovation/))
+- AI, 데이터 분석, 유전자 편집 등 신기술 도입으로 작물 육종 과정의 효율성과 속도가 비약적으로 향상되고 있습니다. ([원문](https://www.seedworld.com/us/2026/06/11/plant-breeding-innovation/))
+- 영국 연구진은 토양 유형보다 작물 종 자체가 뿌리 연관 미생물의 유익한 기능을 결정한다는 사실을 밝혀냈습니다. ([원문](https://www.seedworld.com/europe/2026/06/10/crop-microbiome-plants-select-microbes/))
 
 ### 3) 유통/시장/현장
 
-- 농촌진흥청이 마늘 수확 기계화 기술의 현장 적용을 확대하며 농업인 체감 기술 보급에 속도를 내고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811045&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 농촌진흥청이 민관 협력을 통해 국내 토양에서 발굴한 미생물 기반 농업 바이오 소재의 현장 검증과 제품화를 추진합니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811042&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 농촌진흥청은 태평양공동체(SPC)와 업무협약을 체결하여 태평양 지역의 농업 협력과 식량 안보 강화를 추진합니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811088&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 농촌진흥청은 마늘 재배의 노동력 부족 문제를 해결하기 위해 파종부터 수확까지 전 과정 기계화 기술 개발 성과를 공유했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811087&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -47,51 +47,52 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[CDC Meadow Nearly Got Thrown Out. Instead, It Became Canada’s 2026 Seed of the Year](items/seedworld/2026/06/https_www.seedworld.com_p_125822.md)**
-  - 2026-06-08 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125822.md) · [원문](https://www.seedworld.com/canada/2026/06/08/cdc-meadow-nearly-got-thrown-out-instead-it-became-canadas-2026-seed-of-the-year/)
-  - A single breeding decision kept CDC Meadow alive long enough to become one of Canada’s most successful yellow pea varieties and a cornerstone of Prairie pulse production.
-
-- **[The Future of Seed Innovation Starts Before the Seed Exists](items/seedworld/2026/06/https_www.seedworld.com_p_125876.md)**
-  - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125876.md) · [원문](https://www.seedworld.com/us/2026/06/09/baker-center-seed-industry-innovation/)
-  - Every successful seed product begins long before it reaches a conditioning line, testing lab, or farmer’s planter. It starts with a breeder asking one critical question: What will growers need next?
-
-- **[Why Seed Matters More Than Ever](items/seedworld/2026/06/https_www.seedworld.com_p_125867.md)**
-  - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125867.md) · [원문](https://www.seedworld.com/us/2026/06/09/why-seed-matters-more-than-ever/)
-  - One sentence in the June cover story captures the essence of this issue and the entire seed industry. “There’s not much that doesn’t start around the seed.” Aimee Nielson, Seed World U.S.
+- **[The Race to Accelerate Plant Breeding Innovation](items/seedworld/2026/06/https_www.seedworld.com_p_125933.md)**
+  - 2026-06-12 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125933.md) · [원문](https://www.seedworld.com/us/2026/06/11/plant-breeding-innovation/)
+  - New tools, predictive models and systems thinking are helping breeders move plant breeding innovation faster while preparing crops for a more complex future. Plant breeders have always chased the sam…
 
 - **[Organic Farming Could Help Crops Resist Drought](items/seedworld/2026/06/https_www.seedworld.com_p_125527.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125527.md) · [원문](https://www.seedworld.com/europe/2026/06/09/organic-farming-could-help-crops-resist-drought/)
-  - Long-term organic management may enrich beneficial soil bacteria that help plants cope with drought stress and changing climate conditions. A study led by researchers from the Department of Microbiol…
+  - Organic farming may help crops resist drought by enriching beneficial soil bacteria linked to plant resilience. The post Organic Farming Could Help Crops Resist Drought appeared first on Seed World .
 
 - **[Democratizing Gene Editing: Pairwise’s Blueprint for the Future of Agriculture](items/seedworld/2026/06/https_www.seedworld.com_p_125872.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125872.md) · [원문](https://www.seedworld.com/us/2026/06/09/pairwise-gene-editing-crop-innovation/)
-  - Agriculture doesn’t suffer from a shortage of problems to solve. According to Pairwise CEO Tom Adams, it also shouldn’t rely on a handful of companies to solve them.
+  - Pairwise gene editing could expand access to advanced breeding tools and accelerate crop improvement across agriculture. The post Democratizing Gene Editing: Pairwise’s Blueprint for the Future of Ag…
 
-- **[Data Abundance Is Reshaping Plant Breeding](items/seedworld/2026/06/https_www.seedworld.com_p_125830.md)**
-  - 2026-06-08 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125830.md) · [원문](https://www.seedworld.com/us/2026/06/08/data-abundance-plant-breeding/)
-  - For decades, plant breeders faced a simple challenge: collecting enough data. Today, many breeding programs face the opposite problem.
+- **[‘마늘’ 파종부터 수확까지 기계가 척척](items/rda/2026/06/100000811087.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811087.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811087&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 마늘 종자 준비부터 파종-수확-저장까지 전 과정 기계화와 재배 기술 개발을 추진하고, 현장 의견을 반영해 작업 성능과 활용성을 높이는 고도화에 힘써왔다. 이와 관련해 농촌진흥청 김상경 차장은 6월 10일 경남 창녕에서 열린 ‘마늘 재배 전과정 기계화 기술 개발 성과 공유회’에 참석, 연시 현장을 참관하고 관계자 의견을 청취했다.
 
-- **[농촌진흥청, 국산 품종·특화단지 육성해 국산 밀 경쟁력 높인다!](items/rda/2026/06/100000810993.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000810993.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000810993&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[European Project Targets Crop Pest Threats with New Decision-Making Platform](items/seedworld/2026/06/https_www.seedworld.com_p_125896.md)**
+  - 2026-06-11 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125896.md) · [원문](https://www.seedworld.com/europe/2026/06/11/phytoprism-plant-pest-project/)
+  - The University of Warwick is leading a European consortium to develop the first platform capable of coordinating Europe’s response to major agricultural and forest pest invasions.
 
-- **[케냐 ‘벼 종자 생산 종합 시설’ 준공, 아프리카 식량난 해결 교두보 마련](items/rda/2026/06/100000810953.md)**
-  - 2026-06-04 · `rda` · [읽기](items/rda/2026/06/100000810953.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000810953&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Why The Best Solutions Aren’t Built for Everywhere](items/seedworld/2026/06/https_www.seedworld.com_p_125904.md)**
+  - 2026-06-11 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125904.md) · [원문](https://www.seedworld.com/canada/2026/06/10/why-the-best-solutions-arent-built-for-everywhere/)
+  - A conversation about local plant breeding, the unlikely rise of CDC Meadow, and the wisdom of honeybees all point to the same lesson: adaptation beats standardization. One of the assumptions we somet…
 
-- **[The French Corn Seed Industry: A Model of Excellence Based on Innovation](items/seedworld/2026/06/https_www.seedworld.com_p_125879.md)**
-  - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125879.md) · [원문](https://www.seedworld.com/europe/2026/06/09/french-corn-seed-industry-innovation/)
-  - For more than 75 years, the French corn seed industry has established itself as a global leader by combining agronomic excellence, scientific innovation, and collective organization.
+- **[The Next Breeding Breakthrough Could Come From a Variety Nobody Uses Anymore](items/seedworld/2026/06/https_www.seedworld.com_p_125908.md)**
+  - 2026-06-11 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125908.md) · [원문](https://www.seedworld.com/europe/2026/06/10/crop-genetic-diversity-gene-banks-plant-breeding/)
+  - What if future breeding depends as much on genetic diversity as it does on breeding programs? In this Seed World Insight interview, Stefan Schmitz, Executive Director of the Crop Trust, discusses why…
 
-- **[Back to the Future and the Power of Seed](items/seedworld/2026/06/https_www.seedworld.com_p_125861.md)**
-  - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125861.md) · [원문](https://www.seedworld.com/us/2026/06/08/back-to-the-future-power-of-seed/)
-  - ASTA Chair Bryan Gerard draws on family legacy, entrepreneurial energy and a conviction that the power of seed sits at the center of food security, innovation and agriculture’s future.
+- **[옥수수 생육 중기 6월, 주요 병 미리 살펴 방제하세요](items/rda/2026/06/100000811084.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811084.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811084&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 여름철 무더위와 습한 날씨가 지속되면 작물에 병이 생기기 쉬운 환경이 조성된다. 특히 최근 기온 변화가 심해지고 국지성 집중호우가 빈번히 발생하면서 농작물 피해가 늘고 있다.
 
-- **[Heritage Driving What Comes Next For Hybrid Rye](items/seedworld/2026/06/https_www.seedworld.com_p_125847.md)**
-  - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125847.md) · [원문](https://www.seedworld.com/us/2026/06/08/kws-hybrid-rye-north-america/)
-  - How KWS applies generations of breeding discipline to today’s challenges and opportunities in North American agriculture. Plant breeding unfolds over seasons, decades and, in some cases, generations.
+- **[“벌무리 생산성 향상” 분봉(分蜂)시기, 우수 여왕벌·수벌 양성 필수](items/rda/2026/06/100000811083.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811083.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811083&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 꿀벌 분봉*이 활발해지는 6월을 맞아 안정적인 벌무리(봉군) 유지와 생산성 향상을 위한 ‘우수 여왕벌 생산 기술 기반 인공분봉 기술’을 소개했다. * 분봉: 한 벌무리가 2개 이상의 벌무리로 나눠지는 과정 꿀벌은 봄철 꿀이 많이 나는 시기(유밀기) 개체 수가 급격히 증가해 6월 이후에는 벌통 내부 밀도가 높아진다.
 
-- **[농촌진흥청, 마늘 수확 ‘농업인 체감 기술’ 보급에 속도 내](items/rda/2026/06/100000811045.md)**
-  - 2026-06-09 · `rda` · [읽기](items/rda/2026/06/100000811045.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811045&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 이승돈 농촌진흥청장은 6월 8일 경북 영천의 마늘 수확 현장을 방문해 농촌진흥청이 개발한 마늘 수확 기계화 기술 시범사업 추진 과정을 점검하고, 현장 적용 효과를 공유했다. 이날 현장에서는 영천시농업기술센터가 영천시 마늘 산업 현황을 보고한 데 이어 농촌진흥청이 마늘 무멀칭 재배 기술, 마늘 수확 기계화 기술 등을 소개했다.
+- **[옥수수 생육 중기 6월, 주요 병 미리 살펴 방제하세요](items/nics/2026/06/944269.md)**
+  - 2026-06-11 · `nics` · [읽기](items/nics/2026/06/944269.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944269)
+
+- **[Breed Local, Grow Better | On The Brink: Season 2 – Episode 5](items/seedworld/2026/06/https_www.seedworld.com_p_125883.md)**
+  - 2026-06-10 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125883.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/06/10/local-plant-breeding-on-the-brink/)
+  - Plant breeding capacity in Canada is changing. Investment is concentrating into fewer programs and fewer locations — a shift supporters frame as an opportunity for collaboration, efficiency, and focu…
+
+- **[Crop Microbiome Study Shows Plants Select Microbes](items/seedworld/2026/06/https_www.seedworld.com_p_125899.md)**
+  - 2026-06-10 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125899.md) · [원문](https://www.seedworld.com/europe/2026/06/10/crop-microbiome-plants-select-microbes/)
+  - Research suggests crop species play a stronger role than soil type in determining the beneficial functions of root-associated bacteria. A new study shows that crop species, rather than soil type, pri…
 
 
 <a id="news-feed"></a>
@@ -100,113 +101,121 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
+- **[The Race to Accelerate Plant Breeding Innovation](items/seedworld/2026/06/https_www.seedworld.com_p_125933.md)**
+  - 2026-06-12 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125933.md) · [원문](https://www.seedworld.com/us/2026/06/11/plant-breeding-innovation/)
+  - New tools, predictive models and systems thinking are helping breeders move plant breeding innovation faster while preparing crops for a more complex future. Plant breeders have always chased the sam…
+
+- **[European Project Targets Crop Pest Threats with New Decision-Making Platform](items/seedworld/2026/06/https_www.seedworld.com_p_125896.md)**
+  - 2026-06-11 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125896.md) · [원문](https://www.seedworld.com/europe/2026/06/11/phytoprism-plant-pest-project/)
+  - The University of Warwick is leading a European consortium to develop the first platform capable of coordinating Europe’s response to major agricultural and forest pest invasions.
+
+- **[Why The Best Solutions Aren’t Built for Everywhere](items/seedworld/2026/06/https_www.seedworld.com_p_125904.md)**
+  - 2026-06-11 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125904.md) · [원문](https://www.seedworld.com/canada/2026/06/10/why-the-best-solutions-arent-built-for-everywhere/)
+  - A conversation about local plant breeding, the unlikely rise of CDC Meadow, and the wisdom of honeybees all point to the same lesson: adaptation beats standardization. One of the assumptions we somet…
+
+- **[The Next Breeding Breakthrough Could Come From a Variety Nobody Uses Anymore](items/seedworld/2026/06/https_www.seedworld.com_p_125908.md)**
+  - 2026-06-11 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125908.md) · [원문](https://www.seedworld.com/europe/2026/06/10/crop-genetic-diversity-gene-banks-plant-breeding/)
+  - What if future breeding depends as much on genetic diversity as it does on breeding programs? In this Seed World Insight interview, Stefan Schmitz, Executive Director of the Crop Trust, discusses why…
+
+- **[농촌진흥청, 어린이와 함께하는 ‘전통 손 모내기 체험 행사’ 열어](items/rda/2026/06/100000811089.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811089.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811089&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 6월 9일 국립식량과학원 중북부작물연구센터(경기도 수원시) 내 벼 시험 논에서 시작한 ‘어린이 손 모내기 체험 행사’를 11일까지 이어간다고 밝혔다. 이번 프로그램은 어린이들이 우리 농산물의 생산 과정을 바르게 이해하고 전통 농경문화를 직접 경험할 수 있도록 농촌진흥청에서 2015년부터 추진해 온 농업 현장 학습이다.
+
+- **[농촌진흥청-태평양공동체(SPC), 농업 협력 구축 양해각서(MOU) 체결](items/rda/2026/06/100000811088.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811088.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811088&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 6월 10일 본청에서 태평양공동체(SPC*)와 태평양 지역 농업 협력 강화를 알리는 양해각서(MOU)를 체결했다. * SPC : Secretariat of the Pacific Community (태평양공동체) 이날 이승돈 농촌진흥청장은 태평양공동체 대표 자격으로 참석한 캐런 마푸수아 토지자원부장 등 양측 관계자들이 배석한 가운…
+
+- **[‘마늘’ 파종부터 수확까지 기계가 척척](items/rda/2026/06/100000811087.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811087.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811087&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 마늘 종자 준비부터 파종-수확-저장까지 전 과정 기계화와 재배 기술 개발을 추진하고, 현장 의견을 반영해 작업 성능과 활용성을 높이는 고도화에 힘써왔다. 이와 관련해 농촌진흥청 김상경 차장은 6월 10일 경남 창녕에서 열린 ‘마늘 재배 전과정 기계화 기술 개발 성과 공유회’에 참석, 연시 현장을 참관하고 관계자 의견을 청취했다.
+
+- **[농촌진흥청, 전국 농업기술원장과 현안 점검 회의 진행](items/rda/2026/06/100000811086.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811086.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811086&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 6월 10일 본청 영농종합상황실에서에서 김상경 차장 주재로 전국 9개 도 농업기술원장, 전국 시군농업기술센터 대표(부산광역시) 소장 등이 참석한 가운데 영상 업무협의회를 개최했다. 이날 김 차장은 최근 과수화상병 신규 지역 발생과 관련해 현행 관리·예방 체계를 재점검한 후 예찰 강화와 농가 방역 수칙 준수 등 과수화상병 확산 방…
+
+- **[옥수수 생육 중기 6월, 주요 병 미리 살펴 방제하세요](items/rda/2026/06/100000811084.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811084.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811084&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 여름철 무더위와 습한 날씨가 지속되면 작물에 병이 생기기 쉬운 환경이 조성된다. 특히 최근 기온 변화가 심해지고 국지성 집중호우가 빈번히 발생하면서 농작물 피해가 늘고 있다.
+
+- **[“벌무리 생산성 향상” 분봉(分蜂)시기, 우수 여왕벌·수벌 양성 필수](items/rda/2026/06/100000811083.md)**
+  - 2026-06-11 · `rda` · [읽기](items/rda/2026/06/100000811083.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811083&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 꿀벌 분봉*이 활발해지는 6월을 맞아 안정적인 벌무리(봉군) 유지와 생산성 향상을 위한 ‘우수 여왕벌 생산 기술 기반 인공분봉 기술’을 소개했다. * 분봉: 한 벌무리가 2개 이상의 벌무리로 나눠지는 과정 꿀벌은 봄철 꿀이 많이 나는 시기(유밀기) 개체 수가 급격히 증가해 6월 이후에는 벌통 내부 밀도가 높아진다.
+
+- **[농촌진흥청, 어린이와 함께하는 ‘전통 손 모내기 체험 행사’ 열어](items/nics/2026/06/944270.md)**
+  - 2026-06-11 · `nics` · [읽기](items/nics/2026/06/944270.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944270)
+
+- **[옥수수 생육 중기 6월, 주요 병 미리 살펴 방제하세요](items/nics/2026/06/944269.md)**
+  - 2026-06-11 · `nics` · [읽기](items/nics/2026/06/944269.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944269)
+
+- **[Breed Local, Grow Better | On The Brink: Season 2 – Episode 5](items/seedworld/2026/06/https_www.seedworld.com_p_125883.md)**
+  - 2026-06-10 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125883.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/06/10/local-plant-breeding-on-the-brink/)
+  - Plant breeding capacity in Canada is changing. Investment is concentrating into fewer programs and fewer locations — a shift supporters frame as an opportunity for collaboration, efficiency, and focu…
+
+- **[Crop Microbiome Study Shows Plants Select Microbes](items/seedworld/2026/06/https_www.seedworld.com_p_125899.md)**
+  - 2026-06-10 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125899.md) · [원문](https://www.seedworld.com/europe/2026/06/10/crop-microbiome-plants-select-microbes/)
+  - Research suggests crop species play a stronger role than soil type in determining the beneficial functions of root-associated bacteria. A new study shows that crop species, rather than soil type, pri…
+
+- **[Euroseeds Raises EUDR Concerns for Soybean Seeds](items/seedworld/2026/06/https_www.seedworld.com_p_125893.md)**
+  - 2026-06-10 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125893.md) · [원문](https://www.seedworld.com/europe/2026/06/10/soybean-seeds-eudr-scope/)
+  - The European Commission has published a simplification review and technical amendments to the EU Deforestation Regulation (EUDR), including proposed changes to Annex I.
+
+- **[Agri-Food Sector Seeks Strategic Role in EU Fund](items/seedworld/2026/06/https_www.seedworld.com_p_125890.md)**
+  - 2026-06-10 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125890.md) · [원문](https://www.seedworld.com/europe/2026/06/10/agri-food-sector-eu-competitiveness-fund/)
+  - Five European Technology Platforms, together with nine organisations from across the agri-food sector, have issued a joint statement urging EU policymakers to recognise agriculture, aquaculture, and…
+
+- **[국립식량과학원-샘표식품, 국산 식량작물·발효미생물 활용 고급 장류 개발 맞손](items/rda/2026/06/100000811069.md)**
+  - 2026-06-10 · `rda` · [읽기](items/rda/2026/06/100000811069.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811069&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립식량과학원은 샘표식품(주)(대표이사 박진선)과 6월 9일 샘표식품 서울 본사에서 ‘국산 식량작물 및 발효미생물 자원을 활용한 프리미엄 제품 개발 및 산업화’를 위한 업무협약을 체결했다. 이번 협약은 우리 농산물의 부가가치를 높이고 국산 원료를 기반으로 장류 산업의 고급화와 경쟁력을 강화하자는 취지에서 마련됐다.
+
+- **[폭염·집중호우 대비, 여름철 과수원 관리 중요](items/rda/2026/06/100000811066.md)**
+  - 2026-06-10 · `rda` · [읽기](items/rda/2026/06/100000811066.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811066&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 최근 폭염과 이상기상 증가로 사과, 배, 포도, 감귤 등 주요 과수에서 햇볕 데임(일소), 열매 터짐(열과), 과육 갈변 등의 피해가 늘고 있다며 철저한 과수원 관리를 당부했다. 2026년 여름철(6~8월) 기후전망*을 보면, 올여름 기온은 평년보다 높고 강수량은 대체로 많을 것으로 전망됐다.
+
+- **[“하나로 통한다!” 수출농산물 농약안전사용 지침 ‘정보무늬’ 고도화](items/rda/2026/06/100000811065.md)**
+  - 2026-06-10 · `rda` · [읽기](items/rda/2026/06/100000811065.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811065&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 최근 ‘케이(K)-푸드’ 인지도가 높아지며 우리 신선 농산물의 수출량도 매년 증가하고 있지만, 국가별 농약잔류기준이 달라 수출 현장에서 어려움을 겪고 있다. 특히 기준을 위반하면 전량 폐기, 반송 등 막대한 경제적 손실이 발생해 생산단계부터 체계적인 안전관리가 필요하다.
+
+- **[농산부산물부터 맞춤 식품까지, 첨단 식품 기술(푸드테크) 미래를 본다](items/rda/2026/06/100000811064.md)**
+  - 2026-06-10 · `rda` · [읽기](items/rda/2026/06/100000811064.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811064&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 6월 9일과 10일, 경기도 고양시 킨텍스에서 개최되는 ‘월드푸드테크컨퍼런스 엑스포(World FoodTech ConfEx 2026)’에 참여해 첨단 식품 기술(푸드테크) 분야 연구개발(R&D) 성과를 선보인다. 이번 행사에서 농촌진흥청은 첨단 식품 기술 연구 성과와 기술 개발 방향을 공유하고 대외에 확산할 계획이다.
+
+- **[국립식량과학원-샘표식품, 국산 식량작물·발효미생물 활용 고급 장류 개발 맞손](items/nics/2026/06/944260.md)**
+  - 2026-06-10 · `nics` · [읽기](items/nics/2026/06/944260.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944260)
+
+- **[농산부산물부터 맞춤 식품까지, 첨단 식품 기술(푸드테크) 미래를 본다](items/nics/2026/06/944259.md)**
+  - 2026-06-10 · `nics` · [읽기](items/nics/2026/06/944259.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944259)
+
+- **[폭염·집중호우 대비, 여름철 과수원 관리 중요](items/nihhs/2026/06/100000811066.md)**
+  - 2026-06-10 · `nihhs` · [읽기](items/nihhs/2026/06/100000811066.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000811066&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 폭염·집중호우 대비, 여름철 과수원 관리 중요 부서…
+
 - **[Why Seed Matters More Than Ever](items/seedworld/2026/06/https_www.seedworld.com_p_125867.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125867.md) · [원문](https://www.seedworld.com/us/2026/06/09/why-seed-matters-more-than-ever/)
-  - One sentence in the June cover story captures the essence of this issue and the entire seed industry. “There’s not much that doesn’t start around the seed.” Aimee Nielson, Seed World U.S.
+  - From crop production and sustainability to innovation and global food security, nearly every agricultural advancement begins with seed. In this month's editor's note, Aimee Nielson reflects on why se…
 
 - **[Organic Farming Could Help Crops Resist Drought](items/seedworld/2026/06/https_www.seedworld.com_p_125527.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125527.md) · [원문](https://www.seedworld.com/europe/2026/06/09/organic-farming-could-help-crops-resist-drought/)
-  - Long-term organic management may enrich beneficial soil bacteria that help plants cope with drought stress and changing climate conditions. A study led by researchers from the Department of Microbiol…
+  - Organic farming may help crops resist drought by enriching beneficial soil bacteria linked to plant resilience. The post Organic Farming Could Help Crops Resist Drought appeared first on Seed World .
 
 - **[The French Corn Seed Industry: A Model of Excellence Based on Innovation](items/seedworld/2026/06/https_www.seedworld.com_p_125879.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125879.md) · [원문](https://www.seedworld.com/europe/2026/06/09/french-corn-seed-industry-innovation/)
-  - For more than 75 years, the French corn seed industry has established itself as a global leader by combining agronomic excellence, scientific innovation, and collective organization.
+  - The French corn seed industry has built a global reputation through variety innovation, specialized seed production, strict quality control and strong collective organization.
 
 - **[The Future of Seed Innovation Starts Before the Seed Exists](items/seedworld/2026/06/https_www.seedworld.com_p_125876.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125876.md) · [원문](https://www.seedworld.com/us/2026/06/09/baker-center-seed-industry-innovation/)
-  - Every successful seed product begins long before it reaches a conditioning line, testing lab, or farmer’s planter. It starts with a breeder asking one critical question: What will growers need next?
+  - The Baker Center at Iowa State University supports seed industry innovation by advancing plant breeding, genetics, AI-enabled tools, and workforce training. Its work helps seed companies accelerate s…
 
 - **[Democratizing Gene Editing: Pairwise’s Blueprint for the Future of Agriculture](items/seedworld/2026/06/https_www.seedworld.com_p_125872.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125872.md) · [원문](https://www.seedworld.com/us/2026/06/09/pairwise-gene-editing-crop-innovation/)
-  - Agriculture doesn’t suffer from a shortage of problems to solve. According to Pairwise CEO Tom Adams, it also shouldn’t rely on a handful of companies to solve them.
+  - Pairwise gene editing could expand access to advanced breeding tools and accelerate crop improvement across agriculture. The post Democratizing Gene Editing: Pairwise’s Blueprint for the Future of Ag…
 
 - **[Back to the Future and the Power of Seed](items/seedworld/2026/06/https_www.seedworld.com_p_125861.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125861.md) · [원문](https://www.seedworld.com/us/2026/06/08/back-to-the-future-power-of-seed/)
-  - ASTA Chair Bryan Gerard draws on family legacy, entrepreneurial energy and a conviction that the power of seed sits at the center of food security, innovation and agriculture’s future.
+  - ASTA Chair Bryan Gerard brings family legacy, entrepreneurial energy and a steady belief in innovation to his year leading the seed industry. The post Back to the Future and the Power of Seed appeare…
 
 - **[Heritage Driving What Comes Next For Hybrid Rye](items/seedworld/2026/06/https_www.seedworld.com_p_125847.md)**
   - 2026-06-09 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125847.md) · [원문](https://www.seedworld.com/us/2026/06/08/kws-hybrid-rye-north-america/)
-  - How KWS applies generations of breeding discipline to today’s challenges and opportunities in North American agriculture. Plant breeding unfolds over seasons, decades and, in some cases, generations.
-
-- **[농촌진흥청, 마늘 수확 ‘농업인 체감 기술’ 보급에 속도 내](items/rda/2026/06/100000811045.md)**
-  - 2026-06-09 · `rda` · [읽기](items/rda/2026/06/100000811045.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811045&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 이승돈 농촌진흥청장은 6월 8일 경북 영천의 마늘 수확 현장을 방문해 농촌진흥청이 개발한 마늘 수확 기계화 기술 시범사업 추진 과정을 점검하고, 현장 적용 효과를 공유했다. 이날 현장에서는 영천시농업기술센터가 영천시 마늘 산업 현황을 보고한 데 이어 농촌진흥청이 마늘 무멀칭 재배 기술, 마늘 수확 기계화 기술 등을 소개했다.
-
-- **[돌발해충 ‘갈색날개매미충’ 감소에 ‘토착 천적’ 활동 주목](items/rda/2026/06/100000811043.md)**
-  - 2026-06-09 · `rda` · [읽기](items/rda/2026/06/100000811043.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811043&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 돌발해충 ‘갈색날개매미충’을 친환경적으로 억제하기 위해 토착 천적 ‘날개매미충알벌’의 활동 현황을 조사한 결과, 방제 효과가 있음을 확인했다. 갈색날개매미충은 연 1회 발생해 사과, 블루베리, 단감, 산수유 등 과수의 수액을 빨아먹거나 일년생 가지 속에 알을 낳아 피해를 준다.
-
-- **[미생물 기반 농업 바이오 소재 “이제 현장에서 효과 입증”](items/rda/2026/06/100000811042.md)**
-  - 2026-06-09 · `rda` · [읽기](items/rda/2026/06/100000811042.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811042&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 이상기후에 대응하고, 친환경 미생물제 시장을 넓히기 위해 국내 토양에서 찾아낸 미생물의 효과 증명부터 제품화까지 민관 상생 협력으로 의미 있는 성과를 내고 있다. 최근 이상기후 등으로 고온, 건조 현상이 심화하면서 농산물 생산성에도 영향을 끼치고 있다.
-
-- **[CDC Meadow Nearly Got Thrown Out. Instead, It Became Canada’s 2026 Seed of the Year](items/seedworld/2026/06/https_www.seedworld.com_p_125822.md)**
-  - 2026-06-08 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125822.md) · [원문](https://www.seedworld.com/canada/2026/06/08/cdc-meadow-nearly-got-thrown-out-instead-it-became-canadas-2026-seed-of-the-year/)
-  - A single breeding decision kept CDC Meadow alive long enough to become one of Canada’s most successful yellow pea varieties and a cornerstone of Prairie pulse production.
-
-- **[Data Abundance Is Reshaping Plant Breeding](items/seedworld/2026/06/https_www.seedworld.com_p_125830.md)**
-  - 2026-06-08 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125830.md) · [원문](https://www.seedworld.com/us/2026/06/08/data-abundance-plant-breeding/)
-  - For decades, plant breeders faced a simple challenge: collecting enough data. Today, many breeding programs face the opposite problem.
-
-- **[Why the Seed Sector Is Raising the Bar on Social Rights](items/seedworld/2026/06/https_www.seedworld.com_p_125824.md)**
-  - 2026-06-08 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125824.md) · [원문](https://www.seedworld.com/europe/2026/06/08/labor-rights-seed-sector-accountability/)
-  - For years, the seed sector has focused on genetics, technology, productivity, and sustainability. But behind every innovation sits a global network of people — from field workers and growers to produ…
-
-- **[How CDC Meadow Became One of Canada’s Most Successful Yellow Pea Varieties](items/seedworld/2026/06/https_www.seedworld.com_p_125817.md)**
-  - 2026-06-08 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125817.md) · [원문](https://www.seedworld.com/canada/2026/06/07/how-cdc-meadow-became-one-of-canadas-most-successful-yellow-pea-varieties/)
-  - A single-star evaluation helped save a breeding line that would go on to become 2026 Seed of the Year The post How CDC Meadow Became One of Canada’s Most Successful Yellow Pea Varieties appeared firs…
-
-- **[The Cultural Divide Between LATAM and the West](items/seedworld/2026/06/https_www.seedworld.com_p_125811.md)**
-  - 2026-06-07 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125811.md) · [원문](https://www.seedworld.com/latam/2026/06/06/the-cultural-divide-between-latam-and-the-west/)
-  - After speaking with University of Florida students, one plant researcher reflects on cultural differences in academic career paths, ambition and professional planning. The post The Cultural Divide Be…
-
-- **[Australia’s Seed Market Rewards Those Who Play the Long Game](items/seedworld/2026/06/https_www.seedworld.com_p_125687.md)**
-  - 2026-06-05 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125687.md) · [원문](https://www.seedworld.com/europe/2026/06/04/australia-seed-market-barriers-opportunity/)
-  - Australia’s seed market is difficult to access, but Australian Seed Federation CEO Katherine Delbridge says those barriers help build trust and opportunity. The post Australia’s Seed Market Rewards T…
-
-- **[Speed Wins in Seed: Honoring Mike Peterson for a Lifetime of Impact](items/seedworld/2026/06/https_www.seedworld.com_p_125678.md)**
-  - 2026-06-05 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125678.md) · [원문](https://www.seedworld.com/us/2026/06/04/mike-peterson-independent-seed-companies/)
-  - Independent seed companies face constant pressure to introduce new genetics and respond to changing technology. Mike Peterson explains why speed, confidence in data and strong partnerships have been…
-
-- **[‘무멀칭‧깊이거름주기’로 마늘 재배 기계화 성큼](items/rda/2026/06/100000811003.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000811003.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811003&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 이종이식 거부반응 제어 기술 개발](items/rda/2026/06/100000811002.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000811002.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811002&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“신선·아삭 햇양파로 맛과 건강 챙기세요”](items/rda/2026/06/100000811001.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000811001.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811001&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[꽃향 가득 국산 아까시꿀, 초여름 별미로 무한변신](items/rda/2026/06/100000811000.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000811000.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811000&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[충남 홍성 사과 과수원 1곳 과수화상병 발생](items/rda/2026/06/100000810997.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000810997.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000810997&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘유자잎 식품원료로 등재’ 차·음료·제과 활용 길 열려](items/rda/2026/06/100000810996.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000810996.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000810996&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[봄배추 저장기술 적용 확대, 비축기지 실증 현장 점검](items/rda/2026/06/100000810995.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000810995.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000810995&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“농업 현장 수요·로봇 기술 결합” 농업로봇 실용화 속도 내](items/rda/2026/06/100000810994.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000810994.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000810994&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 국산 품종·특화단지 육성해 국산 밀 경쟁력 높인다!](items/rda/2026/06/100000810993.md)**
-  - 2026-06-05 · `rda` · [읽기](items/rda/2026/06/100000810993.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000810993&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“신선·아삭 햇양파로 맛과 건강 챙기세요”](items/nihhs/2026/06/100000811001.md)**
-  - 2026-06-05 · `nihhs` · [읽기](items/nihhs/2026/06/100000811001.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000811001&mc=MN0000000136)
-
-- **[‘유자잎 식품원료로 등재’ 차·음료·제과 활용 길 열려](items/nihhs/2026/06/100000810996.md)**
-  - 2026-06-05 · `nihhs` · [읽기](items/nihhs/2026/06/100000810996.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000810996&mc=MN0000000136)
-
-- **[봄배추 저장기술 적용 확대, 비축기지 실증 현장 점검](items/nihhs/2026/06/100000810995.md)**
-  - 2026-06-05 · `nihhs` · [읽기](items/nihhs/2026/06/100000810995.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000810995&mc=MN0000000136)
-
-- **[New Seed Development Map Could Improve Crop Yield](items/seedworld/2026/06/https_www.seedworld.com_p_125520.md)**
-  - 2026-06-04 · `seedworld` · [읽기](items/seedworld/2026/06/https_www.seedworld.com_p_125520.md) · [원문](https://www.seedworld.com/europe/2026/06/04/seed-development-map-crop-yield/)
-  - A new seed development map from Whitehead Institute could help researchers study crop yield, nutrient storage and resilience. The post New Seed Development Map Could Improve Crop Yield appeared first…
+  - For 170 years, KWS has focused on plant breeding. Today, that long-term approach is helping North American growers adopt hybrid rye and other resilient crops that improve productivity, diversificatio…
 
 
 <a id="podcast"></a>
@@ -222,6 +231,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-06-15](weekly/2026-06-15.md)
 - [2026-06-10](weekly/2026-06-10.md)
 - [2026-06-08](weekly/2026-06-08.md)
 - [2026-06-05](weekly/2026-06-05.md)

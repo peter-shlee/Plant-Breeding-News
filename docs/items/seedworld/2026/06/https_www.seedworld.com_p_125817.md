@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/07/how-cdc-meadow-became-one-of-c
 summary: "A single-star evaluation helped save a breeding line that would go on to become 2026 Seed of the Year The post How CDC Meadow Became One of Canada’s Most Successful Yellow Pea Varieties appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # How CDC Meadow Became One of Canada’s Most Successful Yellow Pea Varieties
 

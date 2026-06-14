@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/03/what-do-seed-companies-really-want
 summary: "AI can sharpen insights and speed decisions, but trust, relationships and personal service still drive the seed industry forward. The post What do Seed Companies Really Want from AI?"
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # What do Seed Companies Really Want from AI?
 

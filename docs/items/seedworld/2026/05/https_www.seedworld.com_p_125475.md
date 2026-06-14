@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/25/michael-keller-honoured-with-g
 summary: "Michael Keller, Secretary General of the International Seed Federation, received Seed World Group’s 2025 Global Unity Award at World Seed Congress in Lisbon. The award recognizes Keller’s leadership, collaboration, and global influence in"
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # Michael Keller Honoured with Global Unity Award in Lisbon
 

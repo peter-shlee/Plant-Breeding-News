@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/04/mike-peterson-independent-seed-com
 summary: "Independent seed companies face constant pressure to introduce new genetics and respond to changing technology. Mike Peterson explains why speed, confidence in data and strong partnerships have been critical to success throughout his"
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # Speed Wins in Seed: Honoring Mike Peterson for a Lifetime of Impact
 

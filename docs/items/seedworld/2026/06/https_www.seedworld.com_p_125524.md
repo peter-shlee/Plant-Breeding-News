@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/03/how-soil-fungi-could-help-crop
 summary: "Soil fungi could help crops improve nutrient uptake and reduce fertilizer needs by maintaining beneficial root partnerships. The post How Soil Fungi Could Help Crops Need Less Fertilizer appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-10T07:05:16+09:00"
+fetched_at: "2026-06-15T06:57:51+09:00"
 ---
 # How Soil Fungi Could Help Crops Need Less Fertilizer
 
