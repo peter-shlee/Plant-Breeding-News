@@ -9,7 +9,7 @@ summary: "The French corn seed industry has built a global reputation through va
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # The French Corn Seed Industry: A Model of Excellence Based on Innovation
 

@@ -9,7 +9,7 @@ summary: "Researchers developed low-cost 3D-printed devices to study bacterial m
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # 3D-Printed Technology Sheds Light on Fungal Highways in Wheat Crops
 

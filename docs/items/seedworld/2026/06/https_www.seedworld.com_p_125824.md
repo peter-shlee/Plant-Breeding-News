@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/08/labor-rights-seed-sector-accou
 summary: "In an interview with Ben Rivoire of the International Seed Federation, Seed World explores whether labor rights and ethical practices could become a major accountability issue for companies across the global seed value chain."
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # Why the Seed Sector Is Raising the Bar on Social Rights
 

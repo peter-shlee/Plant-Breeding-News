@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/08/back-to-the-future-power-of-seed/"
 summary: "ASTA Chair Bryan Gerard brings family legacy, entrepreneurial energy and a steady belief in innovation to his year leading the seed industry. The post Back to the Future and the Power of Seed appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # Back to the Future and the Power of Seed
 

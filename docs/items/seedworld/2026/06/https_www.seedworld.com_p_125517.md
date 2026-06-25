@@ -9,7 +9,7 @@ summary: "A Rothamsted Research pipeline aims to speed fungicide discovery for S
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # New Pipeline Targets Fungicide Discovery in Wheat
 

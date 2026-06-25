@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/09/baker-center-seed-industry-innovat
 summary: "The Baker Center at Iowa State University supports seed industry innovation by advancing plant breeding, genetics, AI-enabled tools, and workforce training. Its work helps seed companies accelerate stronger, more resilient products from"
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # The Future of Seed Innovation Starts Before the Seed Exists
 

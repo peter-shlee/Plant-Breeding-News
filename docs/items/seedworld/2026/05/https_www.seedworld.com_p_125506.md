@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/05/27/why-plant-breeding-persistence
 summary: "Plant breeding requires patience, discipline and long-term learning to develop better varieties and stronger seed sector leadership. The post Why Plant Breeding Persistence Matters in Seeds appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # Why Plant Breeding Persistence Matters in Seeds
 

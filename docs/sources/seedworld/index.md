@@ -11,37 +11,217 @@ source: "seedworld"
 
 ## 2026-06
 
+- **[From Crop Genetics to World Cup Turf, Plant Breeding Needs a Bigger Stage](../../items/seedworld/2026/06/https_www.seedworld.com_p_126232.md)**
+  - 2026-06-26 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126232.md) · [원문](https://www.seedworld.com/canada/2026/06/25/from-crop-genetics-to-world-cup-turf-plant-breeding-needs-a-bigger-stage/)
+  - This week’s stories show how seed science shapes food, sports, cities and the future of agriculture. The future doesn’t just happen, right?
+
+- **[The Scholarship Winner Helping Rewrite the Future of Crop Genetics](../../items/seedworld/2026/06/https_www.seedworld.com_p_126214.md)**
+  - 2026-06-25 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126214.md) · [원문](https://www.seedworld.com/canada/2026/06/25/the-scholarship-winner-helping-rewrite-the-future-of-crop-genetics/)
+  - At just 25, Anirup Sengupta is using genomics, AI, and predictive breeding tools to help plant breeders develop more resilient crops — without losing sight of the farmers those innovations are meant…
+
+- **[From Seed to Stadium: In Pursuit of the Perfect World Cup Pitch](../../items/seedworld/2026/06/https_www.seedworld.com_p_126177.md)**
+  - 2026-06-25 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126177.md) · [원문](https://www.seedworld.com/us/2026/06/25/seed-world-cup-turf-pitch/)
+  - Fans will see players, goals and championship moments at the 2026 FIFA World Cup. They probably won’t think about the decades of plant breeding, research and collaboration quietly working beneath eve…
+
+- **[Embrapa Sends Brazilian Seeds to Svalbard Vault](../../items/seedworld/2026/06/https_www.seedworld.com_p_126060.md)**
+  - 2026-06-25 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126060.md) · [원문](https://www.seedworld.com/latam/en/2026/06/25/embrapa-brazilian-seeds-svalbard-vault/)
+  - The latest deposit adds 24 accessions of cashew, fava beans, peanuts, castor and sesame to Brazil’s collection in the world’s largest agricultural safety reserve. Embrapa President Silvia Massruhá de…
+
+- **[Seed Sector 2045: Future of Plant Breeding in Europe](../../items/seedworld/2026/06/https_www.seedworld.com_p_126195.md)**
+  - 2026-06-25 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126195.md) · [원문](https://www.seedworld.com/europe/2026/06/25/seed-sector-2045-plant-breeding-europe/)
+  - How climate change, gene editing, AI, regulation, public trust and new business models are changing the future of plant breeding in Europe. Each year, the Seed World Europe Advisory Board comes toget…
+
+- **[At 25, Anirup Sengupta is Already Thinking Decades Ahead for Agriculture](../../items/seedworld/2026/06/https_www.seedworld.com_p_126185.md)**
+  - 2026-06-25 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126185.md) · [원문](https://www.seedworld.com/canada/2026/06/24/at-25-anirup-sengupta-is-already-thinking-decades-ahead-for-agriculture/)
+  - From rural West Bengal to Saskatchewan’s leading agricultural research programs, he’s helping build the genomic foundations that could shape the future of crop improvement.
+
+- **[Super El Niño Potential in 2026-2027 Could Rival Historic 1877-1878 Event](../../items/seedworld/2026/06/https_www.seedworld.com_p_126142.md)**
+  - 2026-06-25 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126142.md) · [원문](https://www.seedworld.com/us/2026/06/24/super-el-nino-agriculture-seed-planning/)
+  - A rare alignment of climate indicators raises the possibility of a historic super El Niño. What are the potential implications for global crop supplies, seed sector planning and agricultural profitab…
+
+- **[Breeding Canada’s Future | On The Brink: Season 2 – Episode 7](../../items/seedworld/2026/06/https_www.seedworld.com_p_126150.md)**
+  - 2026-06-24 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126150.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/06/24/why-plant-breeding-investment-matters-on-the-brink-season-2-episode-7/)
+  - When Mark Keating started farming, the hardest part of the job was the labour. Heading into his 35th crop, the heaviest load is financial, and it has him thinking hard about the case for continued Ca…
+
+- **[James Hutton Institute Joins PhenomUK Crop Programme](../../items/seedworld/2026/06/https_www.seedworld.com_p_126111.md)**
+  - 2026-06-24 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126111.md) · [원문](https://www.seedworld.com/europe/2026/06/24/james-hutton-institute-phenomuk-crop-programme/)
+  - Six-year UKRI-backed programme will strengthen national phenotyping capacity and accelerate the development of resilient crops. The James Hutton Institute is proud to be a partner in PhenomUK, a majo…
+
+- **[The System Behind the Seed: Honoring IPSA Lifetime Achievement Recipient Jon Popp](../../items/seedworld/2026/06/https_www.seedworld.com_p_126139.md)**
+  - 2026-06-23 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126139.md) · [원문](https://www.seedworld.com/us/2026/06/23/the-system-behind-the-seed-facility-design/)
+  - Facility design isn’t visible to farmers, but Jon Popp says it’s one of the most important drivers of uniformity and performance. Editor’s note: This story is part of a special Seed World U.S.
+
+- **[BSPB Celebrates 60 Years of Plant Breeding Progress](../../items/seedworld/2026/06/https_www.seedworld.com_p_126124.md)**
+  - 2026-06-23 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126124.md) · [원문](https://www.seedworld.com/europe/2026/06/23/bspb-60-years-plant-breeding/)
+  - British Society of Plant Breeders marks six decades of championing innovation, collaboration and progress across UK agriculture. The British Society of Plant Breeders is celebrating a major milestone…
+
+- **[Plant Viruses Advance Virus-Induced Gene Editing](../../items/seedworld/2026/06/https_www.seedworld.com_p_126114.md)**
+  - 2026-06-23 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126114.md) · [원문](https://www.seedworld.com/europe/2026/06/23/plant-viruses-virus-induced-gene-editing/)
+  - New research shows how common plant viruses may be used to deliver gene-editing instructions, giving scientists more flexible tools to study and improve crops Plant scientists are looking for faster…
+
+- **[Embrapa deposita semillas Brasileñas en Svalbard](../../items/seedworld/2026/06/https_www.seedworld.com_p_126057.md)**
+  - 2026-06-23 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126057.md) · [원문](https://www.seedworld.com/latam/2026/06/23/embrapa-semillas-brasilenas-svalbard/)
+  - Este último depósito añade 24 accesiones de anacardo, habas, cacahuetes, ricino y sésamo a la colección de Brasil en la mayor reserva de seguridad agrícola del mundo. La presidenta de Embrapa, Silvia…
+
+- **[Sorghum Wax Gene Could Aid Drought-Tolerant Crops](../../items/seedworld/2026/06/https_www.seedworld.com_p_126048.md)**
+  - 2026-06-23 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126048.md) · [원문](https://www.seedworld.com/europe/2026/06/23/sorghum-wax-gene-drought-tolerant-crops/)
+  - New findings reveal how a key sorghum gene helps control the crop’s protective wax layer and may support future drought-tolerance breeding. As climate change brings hotter and drier growing condition…
+
+- **[La Brecha Cultural Entre Latinoamérica Y Occidente](../../items/seedworld/2026/06/https_www.seedworld.com_p_126136.md)**
+  - 2026-06-23 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126136.md) · [원문](https://www.seedworld.com/latam/2026/06/23/perspectiva-cultural-carreras-agricolas/)
+  - El verano pasado di una charla en la Universidad de Florida donde recordé lo diferente que puede ser la perspectiva de alguien que creció en un país desarrollado en comparación con quienes crecimos e…
+
+- **[Why the Seed Industry Has a Stake in the Future of Global Trade](../../items/seedworld/2026/06/https_www.seedworld.com_p_126127.md)**
+  - 2026-06-23 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126127.md) · [원문](https://www.seedworld.com/us/2026/06/22/wto-edwini-kessie-global-trade-seed-innovation/)
+  - WTO agriculture leader Edwini Kessie explains why certainty, predictability and international collaboration remain essential to agricultural innovation. For decades, the global seed sector has operat…
+
+- **[EU Seed Legislation Modernised Under New PRM Rules](../../items/seedworld/2026/06/https_www.seedworld.com_p_126109.md)**
+  - 2026-06-22 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126109.md) · [원문](https://www.seedworld.com/europe/2026/06/22/eu-seed-legislation-prm-rules/)
+  - New framework aims to modernise EU seed legislation while preserving core quality and market access principles. Euroseeds welcomes the political agreement reached late Monday night by the Council of…
+
+- **[Crop Disease Resistance Gene Targets Two Pathogens](../../items/seedworld/2026/06/https_www.seedworld.com_p_126045.md)**
+  - 2026-06-22 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126045.md) · [원문](https://www.seedworld.com/europe/2026/06/22/crop-disease-resistance-gene-targets-two-pathogens/)
+  - New research shows how plant immune receptors can evolve through molecular mimicry, opening a potential path to more durable disease resistance in cereal crops. Scientists have found new evidence sho…
+
+- **[Young Professionals and Influence in the Seed Sector](../../items/seedworld/2026/06/https_www.seedworld.com_p_126104.md)**
+  - 2026-06-22 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126104.md) · [원문](https://www.seedworld.com/europe/2026/06/21/young-professionals-seed-sector-influence/)
+  - Seed sector companies know a key step towards the future is attracting the next generation of talent. But once young professionals enter the industry, a more difficult question emerges: How much infl…
+
+- **[Nutrition Emerged as a Big Theme at NAPB 2026](../../items/seedworld/2026/06/https_www.seedworld.com_p_126100.md)**
+  - 2026-06-20 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126100.md) · [원문](https://www.seedworld.com/us/2026/06/19/nutrition-theme-napb-2026/)
+  - Yield still matters. Disease resistance still matters.
+
+- **[Plant DNA Repair Discovery Could Help Future Crops](../../items/seedworld/2026/06/https_www.seedworld.com_p_125978.md)**
+  - 2026-06-19 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125978.md) · [원문](https://www.seedworld.com/europe/2026/06/19/plant-dna-repair-discovery-future-crops/)
+  - New Salk Institute research identifies a plant-specific DNA repair protein that may help protect growth tissues and support future advances in crop resilience and genome editing.
+
+- **[Wild Maize Gene Could Help Boost Maize Protein](../../items/seedworld/2026/06/https_www.seedworld.com_p_125973.md)**
+  - 2026-06-19 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125973.md) · [원문](https://www.seedworld.com/europe/2026/06/19/wild-maize-gene-boost-maize-protein/)
+  - Discovery from teosinte could give breeders a new tool to raise maize protein levels without reducing yield. Maize is one of the world’s most important food and feed crops, but modern varieties often…
+
+- **[Chile Grows as Biotechnology Seed Industry Hub](../../items/seedworld/2026/06/https_www.seedworld.com_p_126054.md)**
+  - 2026-06-19 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126054.md) · [원문](https://www.seedworld.com/latam/2026/06/19/chile-biotechnology-seed-industry-hub/)
+  - As agriculture faces climate pressure, shrinking farmland and rising food demand, biotechnology is helping accelerate seed innovation in Chile and around the world. Chile is consolidating its positio…
+
+- **[Brian Rossnagel Inducted Into Canadian Agricultural Hall of Fame for Transforming Barley and Oat Breeding](../../items/seedworld/2026/06/https_www.seedworld.com_p_126082.md)**
+  - 2026-06-19 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126082.md) · [원문](https://www.seedworld.com/canada/2026/06/18/brian-rossnagel-inducted-into-canadian-agricultural-hall-of-fame-for-transforming-barley-and-oat-breeding/)
+  - The longtime Crop Development Centre breeder developed more than 100 barley and oat varieties, including CDC Austenson, while helping shape Canada’s global leadership in cereal crop innovation.
+
+- **[A Lifetime in Plant Breeding: Dr. Weikai Yan Honoured for Four Decades of Scientific Leadership](../../items/seedworld/2026/06/https_www.seedworld.com_p_126072.md)**
+  - 2026-06-19 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126072.md) · [원문](https://www.seedworld.com/canada/2026/06/18/a-lifetime-in-plant-breeding-dr-weikai-yan-honoured-for-four-decades-of-scientific-leadership/)
+  - From his early studies in China to leading oat breeding efforts in Canada, Yan has built a career dedicated to helping breeders make better decisions and develop stronger crops for changing environme…
+
+- **[The Common Thread Running Through This Week’s Biggest Seed Industry Stories](../../items/seedworld/2026/06/https_www.seedworld.com_p_126085.md)**
+  - 2026-06-19 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126085.md) · [원문](https://www.seedworld.com/canada/2026/06/18/the-common-thread-running-through-this-weeks-biggest-seed-industry-stories/)
+  - New conversations about seed policy, concerns over declining agricultural R&D investment, and recognition for two of Canada’s most influential plant breeders all point to the same truth: innovation i…
+
+- **[Canada is Shifting Toward Innovation, But More Work Remains on Seed and IP Policy](../../items/seedworld/2026/06/https_www.seedworld.com_p_126077.md)**
+  - 2026-06-19 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126077.md) · [원문](https://www.seedworld.com/canada/2026/06/18/canada-is-shifting-toward-innovation-but-more-work-remains-on-seed-and-ip-policy/)
+  - A stronger focus on intellectual property protection has helped unlock investment and new crop genetics, but challenges around farm-saved seed and breeder remuneration continue to shape the future of…
+
+- **[Concepts For Your Seeds](../../items/seedworld/2026/06/https_www.seedworld.com_p_115731.md)**
+  - 2026-06-18 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_115731.md) · [원문](https://www.seedworld.com/europe/2026/06/18/concepts-for-your-seeds-2/)
+  - For over 40 years, SATEC® has provided high-quality seed treatment solutions—from pelleting to coating—serving agriculture, vegetables, ornamentals, and forestry with German-engineered equipment.
+
+- **[Plant Breeders May Need to Think Bigger Than Ever](../../items/seedworld/2026/06/https_www.seedworld.com_p_126069.md)**
+  - 2026-06-18 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126069.md) · [원문](https://www.seedworld.com/us/2026/06/18/plant-breeding-think-beyond-farm-gate-usda/)
+  - USDA Under Secretary Scott Hutchins says the future of agriculture will depend on breeding innovations that extend beyond the farm gate to include consumers and human health.
+
+- **[Seed Priming Boosts Crop Resistance to Pests](../../items/seedworld/2026/06/https_www.seedworld.com_p_125946.md)**
+  - 2026-06-18 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125946.md) · [원문](https://www.seedworld.com/europe/2026/06/18/seed-priming-crop-resistance-pests/)
+  - Seed priming with a natural plant defense molecule may help crops withstand insect and mite damage without slowing growth. Pest control remains one of agriculture’s major challenges, driving interest…
+
+- **[Chile refuerza su rol en semillas biotecnológicas](../../items/seedworld/2026/06/https_www.seedworld.com_p_126051.md)**
+  - 2026-06-18 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126051.md) · [원문](https://www.seedworld.com/latam/2026/06/18/chile-semillas-biotecnologicas/)
+  - Ante la presión climática, la disminución de las tierras cultivables y el aumento de la demanda de alimentos, la agricultura enfrenta un desafío que la biotecnología está impulsando la innovación en…
+
+- **[Svalbard Seed Vault Surpasses 1.4M Seed Samples](../../items/seedworld/2026/06/https_www.seedworld.com_p_126041.md)**
+  - 2026-06-18 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126041.md) · [원문](https://www.seedworld.com/europe/2026/06/18/svalbard-seed-vault-surpasses-1-4m-seed-samples/)
+  - More than 15,000 seed samples from 11 genebanks were deposited during the Vault’s second opening of 2026, including first-time deposits from Burkina Faso and Niger. The Svalbard Global Seed Vault ope…
+
+- **[Is Canada’s Ag Advantage Slipping? | On The Brink: Season 2 – Episode 6](../../items/seedworld/2026/06/https_www.seedworld.com_p_126002.md)**
+  - 2026-06-18 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126002.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/06/17/canadian-agricultural-rd-investment-on-the-brink-season-2-episode-6/)
+  - Canada is still a global leader in agricultural productivity. But according to Stuart Smyth of the University of Saskatchewan , that standing rests on Canadian agricultural R&D investment made years…
+
+- **[EU Agri-Food Coalition Welcomes NGT Regulation](../../items/seedworld/2026/06/https_www.seedworld.com_p_126027.md)**
+  - 2026-06-17 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126027.md) · [원문](https://www.seedworld.com/europe/2026/06/17/eu-agri-food-coalition-welcomes-ngt-regulation/)
+  - New framework marks a major milestone for plant breeding innovation, sustainability and food security in Europe. A coalition of 30 European agri-food value chain organisations welcomes the adoption o…
+
+- **[On-Farm Experimentation Turns Fields Into Labs](../../items/seedworld/2026/06/https_www.seedworld.com_p_125940.md)**
+  - 2026-06-17 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125940.md) · [원문](https://www.seedworld.com/europe/2026/06/17/on-farm-experimentation-fields-labs/)
+  - For generations, agronomic knowledge was built on research stations such as AU Flakkebjerg, where carefully designed fields made agriculture measurable, comparable and reproducible.
+
+- **[What’s Next for Global Seed Testing? Three Conversations Shaping ISTA 2026](../../items/seedworld/2026/06/https_www.seedworld.com_p_126014.md)**
+  - 2026-06-17 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126014.md) · [원문](https://www.seedworld.com/canada/2026/06/16/global-seed-testing-ista-2026/)
+  - At ISTA 2026 in Calgary, International Seed Testing Association President Ernest Allen highlights the seed testing conversations shaping quality, market access and the future of the global seed indus…
+
+- **[From Seed Innovation to Grower ROI: Closing the On-Farm Gap](../../items/seedworld/2026/06/https_www.seedworld.com_p_126009.md)**
+  - 2026-06-17 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_126009.md) · [원문](https://www.seedworld.com/europe/2026/06/16/seed-technology-field-validation/)
+  - Why do some agricultural technologies deliver exceptional results in trials, yet fail to generate the same impact on the farm? As agricultural technologies become more advanced, the gap between scien…
+
+- **[Who Is the Seed Industry Innovating For?](../../items/seedworld/2026/06/https_www.seedworld.com_p_125994.md)**
+  - 2026-06-17 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125994.md) · [원문](https://www.seedworld.com/us/2026/06/16/who-is-the-seed-industry-innovating-for/)
+  - Farmers say the next breakthrough matters, but only if it helps them manage uncertainty, stay profitable and create a future for the next generation. Jamie Kress farms in a place where uncertainty is…
+
+- **[How AI is Changing Certified Seed Operations](../../items/seedworld/2026/06/https_www.seedworld.com_p_125990.md)**
+  - 2026-06-16 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125990.md) · [원문](https://www.seedworld.com/us/2026/06/16/ai-certified-seed-operations/)
+  - Certified seed growers are using AI to cut paperwork, sharpen decisions and reclaim time. When most people in the seed industry hear artificial intelligence, they think about breeding pipelines, geno…
+
+- **[EU Committee Vote Advances New Genomic Techniques Rules](../../items/seedworld/2026/06/https_www.seedworld.com_p_125987.md)**
+  - 2026-06-16 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125987.md) · [원문](https://www.seedworld.com/europe/2026/06/16/comenvi-vote-new-genomic-techniques/)
+  - Euroseeds welcomes committee approval of the trilogue compromise as the EU moves closer to a new framework for innovative plant breeding. Yesterday, the European Parliament’s Committee on Environment…
+
+- **[Wheat Roots Could Help Crops Use Nitrogen More Efficiently](../../items/seedworld/2026/06/https_www.seedworld.com_p_125943.md)**
+  - 2026-06-16 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125943.md) · [원문](https://www.seedworld.com/europe/2026/06/16/bni-wheat-nitrogen-efficiency/)
+  - Natural compounds released by wheat roots may help crops keep more nitrogen in the field, offering a biological path to lower fertiliser use and reduced emissions. In a greenhouse at AU Flakkebjerg,…
+
+- **[Drought May Reduce Crops’ Iron Uptake](../../items/seedworld/2026/06/https_www.seedworld.com_p_125975.md)**
+  - 2026-06-16 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125975.md) · [원문](https://www.seedworld.com/europe/2026/06/16/drought-reduce-crops-iron-uptake/)
+  - New research suggests drought stress can affect not only crop growth, but also the nutritional quality of plants such as canola, rice and tomatoes. New research from the University of Calgary has fou…
+
+- **[Award-Winning Plant Breeder Weikai Yan Says AI Won’t Replace Human Breeders](../../items/seedworld/2026/06/https_www.seedworld.com_p_125980.md)**
+  - 2026-06-16 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125980.md) · [원문](https://www.seedworld.com/canada/2026/06/15/award-winning-plant-breeder-weikai-yan-says-ai-wont-replace-human-breeders/)
+  - The 2026 Plant Breeding & Genetics Award recipient believes artificial intelligence will transform crop development—but says human expertise remains essential as breeders tackle climate volatility, g…
+
+- **[Hybrid True Potato Seed Variety Registered in Netherlands](../../items/seedworld/2026/06/https_www.seedworld.com_p_125971.md)**
+  - 2026-06-15 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125971.md) · [원문](https://www.seedworld.com/europe/2026/06/15/hybrid-true-potato-seed-variety-netherlands/)
+  - Solynta has announced the registration of its diploid hybrid true potato variety SOLHY019 on the Dutch National Variety Register. The variety was approved and published by the Dutch Board of Plant Va…
+
+- **[Andalusia Offers Organic Farming Lessons for Europe](../../items/seedworld/2026/06/https_www.seedworld.com_p_125968.md)**
+  - 2026-06-15 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125968.md) · [원문](https://www.seedworld.com/europe/2026/06/15/andalusia-organic-farming-lessons-europe/)
+  - A University of Córdoba study finds farmers’ decisions to adopt organic practices are shaped by both profitability and environmental values. The European Union has set a goal for at least 25% of agri…
+
 - **[The Race to Accelerate Plant Breeding Innovation](../../items/seedworld/2026/06/https_www.seedworld.com_p_125933.md)**
   - 2026-06-12 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125933.md) · [원문](https://www.seedworld.com/us/2026/06/11/plant-breeding-innovation/)
-  - New tools, predictive models and systems thinking are helping breeders move plant breeding innovation faster while preparing crops for a more complex future. Plant breeders have always chased the sam…
+  - Plant breeding is entering a new era. Bayer's Julia Honold explains how AI, predictive breeding, digital twins and gene editing are helping researchers accelerate crop improvement, increase efficienc…
 
 - **[European Project Targets Crop Pest Threats with New Decision-Making Platform](../../items/seedworld/2026/06/https_www.seedworld.com_p_125896.md)**
   - 2026-06-11 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125896.md) · [원문](https://www.seedworld.com/europe/2026/06/11/phytoprism-plant-pest-project/)
-  - The University of Warwick is leading a European consortium to develop the first platform capable of coordinating Europe’s response to major agricultural and forest pest invasions.
+  - PhytoPRISM, a €6 million EU Horizon project led by the University of Warwick, will develop a platform to help Europe coordinate responses to agricultural and forest pest invasions.
 
 - **[Why The Best Solutions Aren’t Built for Everywhere](../../items/seedworld/2026/06/https_www.seedworld.com_p_125904.md)**
   - 2026-06-11 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125904.md) · [원문](https://www.seedworld.com/canada/2026/06/10/why-the-best-solutions-arent-built-for-everywhere/)
-  - A conversation about local plant breeding, the unlikely rise of CDC Meadow, and the wisdom of honeybees all point to the same lesson: adaptation beats standardization. One of the assumptions we somet…
+  - A conversation about local plant breeding, the unlikely rise of CDC Meadow, and the wisdom of honeybees all point to the same lesson: adaptation beats standardization. One of the assumptions […] The…
 
 - **[The Next Breeding Breakthrough Could Come From a Variety Nobody Uses Anymore](../../items/seedworld/2026/06/https_www.seedworld.com_p_125908.md)**
   - 2026-06-11 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125908.md) · [원문](https://www.seedworld.com/europe/2026/06/10/crop-genetic-diversity-gene-banks-plant-breeding/)
-  - What if future breeding depends as much on genetic diversity as it does on breeding programs? In this Seed World Insight interview, Stefan Schmitz, Executive Director of the Crop Trust, discusses why…
+  - Stefan Schmitz, Executive Director of the Crop Trust, makes the case that gene banks and crop genetic diversity — including wild relatives and forgotten varieties — are a foundational resource for th…
 
 - **[Breed Local, Grow Better | On The Brink: Season 2 – Episode 5](../../items/seedworld/2026/06/https_www.seedworld.com_p_125883.md)**
   - 2026-06-10 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125883.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/06/10/local-plant-breeding-on-the-brink/)
-  - Plant breeding capacity in Canada is changing. Investment is concentrating into fewer programs and fewer locations — a shift supporters frame as an opportunity for collaboration, efficiency, and focu…
+  - As plant breeding consolidates into fewer programs and locations, veteran Ontario agronomist Paul Sullivan makes the case that locally adapted genetics need breeders who stay close to the farms they…
 
 - **[Crop Microbiome Study Shows Plants Select Microbes](../../items/seedworld/2026/06/https_www.seedworld.com_p_125899.md)**
   - 2026-06-10 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125899.md) · [원문](https://www.seedworld.com/europe/2026/06/10/crop-microbiome-plants-select-microbes/)
-  - Research suggests crop species play a stronger role than soil type in determining the beneficial functions of root-associated bacteria. A new study shows that crop species, rather than soil type, pri…
+  - A new crop microbiome study shows that crop species, rather than soil type, primarily determines the beneficial functions provided by root-associated microbes. Researchers say the findings could supp…
 
 - **[Euroseeds Raises EUDR Concerns for Soybean Seeds](../../items/seedworld/2026/06/https_www.seedworld.com_p_125893.md)**
   - 2026-06-10 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125893.md) · [원문](https://www.seedworld.com/europe/2026/06/10/soybean-seeds-eudr-scope/)
-  - The European Commission has published a simplification review and technical amendments to the EU Deforestation Regulation (EUDR), including proposed changes to Annex I.
+  - Euroseeds is calling on the European Commission to exempt certified soybean seeds for sowing from the EU Deforestation Regulation. The organization says their inclusion would burden the seed sector w…
 
 - **[Agri-Food Sector Seeks Strategic Role in EU Fund](../../items/seedworld/2026/06/https_www.seedworld.com_p_125890.md)**
   - 2026-06-10 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125890.md) · [원문](https://www.seedworld.com/europe/2026/06/10/agri-food-sector-eu-competitiveness-fund/)
-  - Five European Technology Platforms, together with nine organisations from across the agri-food sector, have issued a joint statement urging EU policymakers to recognise agriculture, aquaculture, and…
+  - The agri-food sector is urging EU policymakers to recognise agriculture, aquaculture and food systems as strategic areas within the future European Competitiveness Fund and Horizon Europe.
 
 - **[Why Seed Matters More Than Ever](../../items/seedworld/2026/06/https_www.seedworld.com_p_125867.md)**
   - 2026-06-09 · [읽기](../../items/seedworld/2026/06/https_www.seedworld.com_p_125867.md) · [원문](https://www.seedworld.com/us/2026/06/09/why-seed-matters-more-than-ever/)
@@ -197,151 +377,3 @@ source: "seedworld"
 - **[AI Model Predicts Tomato Virus Severity With 100% Accuracy](../../items/seedworld/2026/05/https_www.seedworld.com_p_125454.md)**
   - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125454.md) · [원문](https://www.seedworld.com/europe/2026/05/27/ai-model-predicts-tomato-virus-severity-with-100-accuracy/)
   - DeepTYLCV, developed at Sungkyunkwan University, uses artificial intelligence and viral genome sequence data to predict tomato yellow leaf curl virus virulence. Published in Plant Communications, the…
-
-- **[The Million-Dollar Question Facing Canadian Plant Breeding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125553.md)**
-  - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125553.md) · [원문](https://www.seedworld.com/canada/2026/05/26/the-million-dollar-question-facing-canadian-plant-breeding/)
-  - Seeds Canada argues stronger breeder protections are needed to ensure innovators see a return on investment and continue bringing new genetics to market The post The Million-Dollar Question Facing Ca…
-
-- **[They Went on Vacation and Bought a Seed Company?! | The Fusion Seed Story](../../items/seedworld/2026/05/https_www.seedworld.com_p_125552.md)**
-  - 2026-05-27 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125552.md) · [원문](https://www.seedworld.com/us/2026/05/26/fusion-seeds-story-how-chad-and-sherry-goldsmith-bought-a-seed-company/)
-  - While on vacation in Hawaii, Chad and Sherry Goldsmith made a life-changing decision to buy a seed company. That leap became Fusion Seeds.
-
-- **[New Discovery Reveals How Crops Detect Stress and Disease](../../items/seedworld/2026/05/https_www.seedworld.com_p_125451.md)**
-  - 2026-05-26 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125451.md) · [원문](https://www.seedworld.com/europe/2026/05/26/new-discovery-reveals-how-crops-detect-stress-and-disease/)
-  - Researchers in Japan have discovered a copper-dependent hydrogen peroxide sensing system in plants, reshaping understanding of crop stress signaling and immunity. Published in Nature Communications,…
-
-- **[WSC26: The Race for Faster Seed Innovation is Driving Companies to Chile](../../items/seedworld/2026/05/https_www.seedworld.com_p_125501.md)**
-  - 2026-05-26 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125501.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc-2026-the-race-for-faster-seed-innovation-is-driving-companies-to-chile/)
-  - In today’s seed sector, speed is a critical competitive advantage. Chile is increasingly positioning itself as a key facilitator in that race.
-
-- **[Remembering Seedsmen Who Served](../../items/seedworld/2026/05/https_www.seedworld.com_p_125493.md)**
-  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125493.md) · [원문](https://www.seedworld.com/us/2026/05/25/seedsmen-who-served-memorial-day/)
-  - From the Civil War to World War II, these seedsmen helped shape American agriculture seed after military service. The post Remembering Seedsmen Who Served appeared first on Seed World .
-
-- **[Michael Keller Honored with Global Unity Award in Lisbon](../../items/seedworld/2026/05/https_www.seedworld.com_p_125483.md)**
-  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125483.md) · [원문](https://www.seedworld.com/us/2026/05/25/michael-keller-honored-with-global-unity-award-in-lisbon/)
-  - Michael Keller, Secretary General of the International Seed Federation, received Seed World Group’s 2025 Global Unity Award at World Seed Congress in Lisbon. The award recognizes Keller’s leadership,…
-
-- **[Michael Keller Honoured with Global Unity Award in Lisbon](../../items/seedworld/2026/05/https_www.seedworld.com_p_125475.md)**
-  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125475.md) · [원문](https://www.seedworld.com/europe/2026/05/25/michael-keller-honoured-with-global-unity-award-in-lisbon/)
-  - Michael Keller, Secretary General of the International Seed Federation, received Seed World Group’s 2025 Global Unity Award at World Seed Congress in Lisbon. The award recognizes Keller’s leadership,…
-
-- **[WSC26: Seed’s Future Depends on Food System Thinking](../../items/seedworld/2026/05/https_www.seedworld.com_p_125470.md)**
-  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125470.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc26-seeds-future-depends-on-food-system-thinking/)
-  - World Seed Congress 2026 in Lisbon highlighted the seed sector’s growing role in global food systems. ISF Value Chain Coordination Group Chair Eduard Fito discusses sustainability, regulation, innova…
-
-- **[WSC26: ISF Secretary General on the Future of the Global Seed Sector](../../items/seedworld/2026/05/https_www.seedworld.com_p_125466.md)**
-  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125466.md) · [원문](https://www.seedworld.com/europe/2026/05/25/wsc26-isf-secretary-general-on-the-future-of-the-global-seed-sector/)
-  - World Seed Congress 2026 in Lisbon united more than 1,800 delegates from 80 countries to address the future of agriculture. In an exclusive interview, ISF Secretary General Michael Keller discusses g…
-
-- **[Seed World Announces Winner of €10,000 Advertising Prize](../../items/seedworld/2026/05/https_www.seedworld.com_p_125480.md)**
-  - 2026-05-25 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125480.md) · [원문](https://www.seedworld.com/europe/2026/05/25/seed-world-announces-winner-of-e10000-advertising-prize/)
-  - At this year’s World Seed Congress in Lisbon, Seed World invited the global seed community to answer one big question for a chance to win €10,000 in advertising: what’s one […] The post Seed World An…
-
-- **[Rothamsted Launches UK’s First Field Trial Under New PBO Rules](../../items/seedworld/2026/05/https_www.seedworld.com_p_125448.md)**
-  - 2026-05-24 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125448.md) · [원문](https://www.seedworld.com/europe/2026/05/24/rothamsted-launches-uks-first-field-trial-under-new-pbo-rules/)
-  - Rothamsted Research has planted the UK’s first crop under a Precision Bred Organism Release Notice, marking a milestone for gene-edited field trials. The CRISPR-Cas9 Camelina sativa trial will test i…
-
-- **[European Commission Adopts Fertiliser Action Plan to Support Farmers and Strengthen EU Supply Security](../../items/seedworld/2026/05/https_www.seedworld.com_p_125445.md)**
-  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125445.md) · [원문](https://www.seedworld.com/europe/2026/05/22/european-commission-adopts-fertiliser-action-plan-to-support-farmers-and-strengthen-eu-supply-security/)
-  - European Commission’s Fertiliser Action Plan aims to ease rising fertiliser costs, improve supply security, support farmers, and strengthen domestic production. The initiative promotes bio-based, low…
-
-- **[The Inventory Question Every Seed Company Struggles to Answer](../../items/seedworld/2026/05/https_www.seedworld.com_p_125439.md)**
-  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125439.md) · [원문](https://www.seedworld.com/us/2026/05/22/the-inventory-question-every-seed-company-struggles-to-answer/)
-  - Seed inventory changes fast across field estimates, raw stock and bagged product. A live seed inventory system helps teams track inspections, processing losses, lab results, allocations and true avai…
-
-- **[Concepts for Your Seeds](../../items/seedworld/2026/05/https_www.seedworld.com_p_121426.md)**
-  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_121426.md) · [원문](https://www.seedworld.com/canada/2026/05/21/concepts-for-your-seeds-6/)
-  - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds, ensuring their high quality. You get specific and individual […] The…
-
-- **[Career Change Story: From Restaurant Work to Seed Industry Client Services in Canada](../../items/seedworld/2026/05/https_www.seedworld.com_p_125430.md)**
-  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125430.md) · [원문](https://www.seedworld.com/canada/2026/05/21/career-change-story-from-restaurant-work-to-seed-industry-client-services-in-canada/)
-  - A first-person look at how hospitality experience helped shape a role in agricultural seed testing. I like to think I started at the other end of the story.
-
-- **[A New Era of Farmer-Led Innovation is Emerging in Canada](../../items/seedworld/2026/05/https_www.seedworld.com_p_125426.md)**
-  - 2026-05-22 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125426.md) · [원문](https://www.seedworld.com/canada/2026/05/21/a-new-era-of-farmer-led-innovation-is-emerging-in-canada/)
-  - From wheat breeding discussions to concerns about oat research sustainability, producers are becoming central voices in shaping the future of crop innovation The post A New Era of Farmer-Led Innovati…
-
-- **[Why Canadian Farmers are Leading Discussions on a New Wheat Breeding Model](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md)**
-  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125240.md) · [원문](https://www.seedworld.com/canada/2026/05/21/why-canadian-farmers-are-leading-discussions-on-a-new-wheat-breeding-model/)
-  - Jocelyn Velestuk says Canada’s wheat breeding system is at an “inflection point” as stakeholders look to create a stronger future for farmers and crop innovation The post Why Canadian Farmers are Lea…
-
-- **[Concepts For Your Seeds](../../items/seedworld/2026/05/https_www.seedworld.com_p_115731.md)**
-  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_115731.md) · [원문](https://www.seedworld.com/europe/2026/05/21/concepts-for-your-seeds-2/)
-  - For over 40 years, SATEC® has provided high-quality seed treatment solutions—from pelleting to coating—serving agriculture, vegetables, ornamentals, and forestry with German-engineered equipment.
-
-- **[Putting Concerns About Glyphosate into Perspective](../../items/seedworld/2026/05/https_www.seedworld.com_p_125293.md)**
-  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125293.md) · [원문](https://www.seedworld.com/europe/2026/05/21/putting-concerns-about-glyphosate-into-perspective/)
-  - Joe Schwarcz examines the long-running glyphosate controversy, arguing that trace dietary residues in food pose no meaningful health risk to consumers. Reviewing decades of studies, he distinguishes…
-
-- **[Better Varieties Need Investment to Deliver Results](../../items/seedworld/2026/05/https_www.seedworld.com_p_125332.md)**
-  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125332.md) · [원문](https://www.seedworld.com/canada/2026/05/20/better-varieties-need-investment-to-deliver-results/)
-  - There's an opportunity to evolve, and the sooner we act, the better positioned farmers will be The post Better Varieties Need Investment to Deliver Results appeared first on Seed World .
-
-- **[Why Seed Trade Is Getting More Expensive](../../items/seedworld/2026/05/https_www.seedworld.com_p_125328.md)**
-  - 2026-05-21 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125328.md) · [원문](https://www.seedworld.com/us/2026/05/20/seed-trade-getting-more-expensive-sam-crowell-asta/)
-  - Sam Crowell of ASTA discusses tariffs, Section 301 investigations, customs delays and why seed trade uncertainty is raising costs for seed companies. The post Why Seed Trade Is Getting More Expensive…
-
-- **[Where the Conversation Goes Next | On The Brink: Season 2 – Episode 2](../../items/seedworld/2026/05/https_www.seedworld.com_p_125283.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125283.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/05/20/canadian-oat-breeding-investment-on-the-brink-season-2-episode-2/)
-  - Quentin Martin of Cribit Seeds argues that Canada's sustained investment in plant breeding is the reason crown rust hasn't devastated eastern Canada's 65,000 acres of grain oats — and that continued…
-
-- **[La ISF otorga la Membresía Honoraria Vitalicia al Director de ANPROS, Mario Schindler](../../items/seedworld/2026/05/https_www.seedworld.com_p_125319.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125319.md) · [원문](https://www.seedworld.com/latam/2026/05/20/la-isf-otorga-la-membresia-honoraria-vitalicia-al-director-de-anpros-mario-schindler/)
-  - La Federación Internacional de Semillas (ISF) otorgó al Director Ejecutivo de ANPROS, Mario Schindler, la Membresía Honoraria Vitalicia por sus destacadas contribuciones a la industria global de semi…
-
-- **[ISF Awards Lifetime Honorary Membership to ANPROS Director Mario Schindler](../../items/seedworld/2026/05/https_www.seedworld.com_p_125316.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125316.md) · [원문](https://www.seedworld.com/europe/2026/05/20/isf-awards-lifetime-honorary-membership-to-anpros-director-mario-schindler/)
-  - ISF awarded ANPROS Executive Director Mario Schindler Lifetime Honorary Membership for his outstanding contributions to the global seed industry. The rare honor, granted to only 20 people since 1996,…
-
-- **[Scientists Decode Crop Stress Signals Linked to Climate Resilience](../../items/seedworld/2026/05/https_www.seedworld.com_p_125170.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125170.md) · [원문](https://www.seedworld.com/europe/2026/05/20/scientists-decode-crop-stress-signals-linked-to-climate-resilience/)
-  - New research from ISTA shows that plants use two parallel cAMP signaling pathways to manage normal cell functions and stress responses. The discovery could help scientists better understand plant res…
-
-- **[Strategy Creates Momentum. Planning Creates Motion.](../../items/seedworld/2026/05/https_www.seedworld.com_p_125313.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125313.md) · [원문](https://www.seedworld.com/us/2026/05/20/strategy-creates-momentum-planning-creates-motion-3/)
-  - Strong strategy separates motion from momentum. In the seed industry, organizations often confuse planning with strategy, creating activity without alignment.
-
-- **[Strategy Creates Momentum. Planning Creates Motion.](../../items/seedworld/2026/05/https_www.seedworld.com_p_125310.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125310.md) · [원문](https://www.seedworld.com/europe/2026/05/20/strategy-creates-momentum-planning-creates-motion-2/)
-  - Strong strategy separates motion from momentum. In the seed industry, organizations often confuse planning with strategy, creating activity without alignment.
-
-- **[Strategy Creates Momentum. Planning Creates Motion.](../../items/seedworld/2026/05/https_www.seedworld.com_p_125307.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125307.md) · [원문](https://www.seedworld.com/canada/2026/05/20/strategy-creates-momentum-planning-creates-motion/)
-  - Strong strategy separates motion from momentum. In the seed industry, organizations often confuse planning with strategy, creating activity without alignment.
-
-- **[ISF Launches New Global Guidelines on Social Rights and Ethical Seed Production](../../items/seedworld/2026/05/https_www.seedworld.com_p_125298.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125298.md) · [원문](https://www.seedworld.com/europe/2026/05/20/isf-launches-new-global-guidelines-on-social-rights-and-ethical-seed-production/)
-  - The International Seed Federation (ISF) has launched new voluntary guidelines to help seed companies, growers, and suppliers strengthen social rights and ethical practices in seed production.
-
-- **[Lorena Basso da un paso adelante en el sector mundial de semillas](../../items/seedworld/2026/05/https_www.seedworld.com_p_125301.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125301.md) · [원문](https://www.seedworld.com/latam/2026/05/20/lorena-basso-da-un-paso-adelante-en-el-sector-mundial-de-semillas/)
-  - Lorena Basso se prepara para liderar la ISF con un enfoque en la innovación, la claridad regulatoria y una colaboración más sólida en todo el sector mundial de semillas.
-
-- **[NAPB 2026 Focuses on AI, Indoor Farming, and the Next Era of Plant Breeding](../../items/seedworld/2026/05/https_www.seedworld.com_p_125253.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125253.md) · [원문](https://www.seedworld.com/us/2026/05/19/napb-2026-focuses-on-ai-indoor-farming-and-the-next-era-of-plant-breeding/)
-  - Researchers will gather in Texas to discuss how artificial intelligence and controlled environment agriculture are accelerating the development of climate-smart crops The post NAPB 2026 Focuses on AI…
-
-- **[Canada Makes Its Case to Global Seed Investors](../../items/seedworld/2026/05/https_www.seedworld.com_p_125237.md)**
-  - 2026-05-20 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125237.md) · [원문](https://www.seedworld.com/canada/2026/05/19/canada-seed-innovation-investment/)
-  - At World Seed Congress, industry and government leaders explain why seed innovation in Canada is making the country a faster, more competitive destination. For years, Canada has offered international…
-
-- **[Unauthorized Plant Variety Propagation Faces Legal Crackdown After Spanish Court Rulings](../../items/seedworld/2026/05/https_www.seedworld.com_p_125238.md)**
-  - 2026-05-19 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125238.md) · [원문](https://www.seedworld.com/europe/2026/05/19/unauthorized-plant-variety-propagation-faces-legal-crackdown-after-spanish-court-rulings/)
-  - Spanish court rulings warn horticulture companies that unauthorized propagation and sale of protected plant varieties can lead to criminal liability. Cases involving tomato grafting in Almería and on…
-
-- **[Deep-Rooted Grasses Increase Soybean Productivity by 15% in Brazil](../../items/seedworld/2026/05/https_www.seedworld.com_p_125082.md)**
-  - 2026-05-18 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125082.md) · [원문](https://www.seedworld.com/latam/2026/05/18/deep-rooted-grasses-increase-soybean-productivity-by-15-in-brazil/)
-  - A new Embrapa-led meta-analysis found that deep-rooted tropical grasses such as brachiaria can increase soybean yields by 15% while improving soil health in Brazil. The study reviewed 55 research pap…
-
-- **[CIMMYT and John Innes Centre Partnership Advances Wheat Research and Disease Surveillance](../../items/seedworld/2026/05/https_www.seedworld.com_p_125167.md)**
-  - 2026-05-18 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125167.md) · [원문](https://www.seedworld.com/europe/2026/05/18/cimmyt-and-john-innes-centre-partnership-advances-wheat-research-and-disease-surveillance/)
-  - JIC and CIMMYT are advancing wheat research through molecular breeding, disease surveillance and rapid diagnostics, linking discovery science with farmer-focused delivery to develop more resilient, n…
-
-- **[Las gramíneas de raíces profundas aumentan la productividad de la soja en un 15 % en Brasil](../../items/seedworld/2026/05/https_www.seedworld.com_p_125079.md)**
-  - 2026-05-17 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125079.md) · [원문](https://www.seedworld.com/latam/2026/05/17/las-gramineas-de-raices-profundas-aumentan-la-productividad-de-la-soja-en-un-15-en-brasil/)
-  - Un metaanálisis liderado por Embrapa encontró que gramíneas tropicales de raíces profundas, como brachiaria, pueden aumentar en 15% los rendimientos de soja y mejorar la salud del suelo en Brasil.
-
-- **[Chile Seed Industry Pushes for Stronger Agricultural Competitiveness and Innovation](../../items/seedworld/2026/05/https_www.seedworld.com_p_125076.md)**
-  - 2026-05-16 · [읽기](../../items/seedworld/2026/05/https_www.seedworld.com_p_125076.md) · [원문](https://www.seedworld.com/latam/2026/05/16/chile-seed-industry-pushes-for-stronger-agricultural-competitiveness-and-innovation/)
-  - ANPROS outlined the main challenges and opportunities facing Chile’s seed industry during a meeting with Agriculture Minister Jaime Campos, focusing on competitiveness, sustainability and the sector’…

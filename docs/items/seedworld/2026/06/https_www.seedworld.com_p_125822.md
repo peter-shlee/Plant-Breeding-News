@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/08/cdc-meadow-nearly-got-thrown-o
 summary: "A single breeding decision kept CDC Meadow alive long enough to become one of Canada's most successful yellow pea varieties The post CDC Meadow Nearly Got Thrown Out. Instead, It Became Canada’s 2026 Seed of the Year appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # CDC Meadow Nearly Got Thrown Out. Instead, It Became Canada’s 2026 Seed of the Year
 

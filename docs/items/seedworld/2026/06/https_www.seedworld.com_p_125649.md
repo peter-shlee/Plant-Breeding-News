@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/03/what-honeybees-can-teach-us-ab
 summary: "Prairie Sweetheart Honey founder Rebecca Krowelski says honeybee colonies have mastered skills many organizations still struggle with, from collaborative decision-making and adaptability to putting purpose ahead of ego."
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # What Honeybees Can Teach Us About Leadership, Adaptability, and Working Together
 

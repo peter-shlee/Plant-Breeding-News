@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/04/seed-development-map-crop-yiel
 summary: "A new seed development map from Whitehead Institute could help researchers study crop yield, nutrient storage and resilience. The post New Seed Development Map Could Improve Crop Yield appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # New Seed Development Map Could Improve Crop Yield
 

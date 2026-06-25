@@ -11,32 +11,32 @@ source: "nics"
 
 ## 2026-06
 
-- **[농촌진흥청, 어린이와 함께하는 ‘전통 손 모내기 체험 행사’ 열어](../../items/nics/2026/06/944270.md)**
-  - 2026-06-11 · [읽기](../../items/nics/2026/06/944270.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944270)
+- **[건강에 좋은 국산 혼합잡곡 제품화·유통 연계 기반 구축](../../items/nics/2026/06/944307.md)**
+  - 2026-06-25 · [읽기](../../items/nics/2026/06/944307.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944307)
 
-- **[옥수수 생육 중기 6월, 주요 병 미리 살펴 방제하세요](../../items/nics/2026/06/944269.md)**
-  - 2026-06-11 · [읽기](../../items/nics/2026/06/944269.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944269)
+- **[고랭지 감자 역병, 지금이 방제 적기!](../../items/nics/2026/06/944306.md)**
+  - 2026-06-25 · [읽기](../../items/nics/2026/06/944306.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944306)
 
-- **[국립식량과학원-샘표식품, 국산 식량작물·발효미생물 활용 고급 장류 개발 맞손](../../items/nics/2026/06/944260.md)**
-  - 2026-06-10 · [읽기](../../items/nics/2026/06/944260.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944260)
+- **[농촌진흥청, 가루쌀 ‘바로미4’ 현장 점검… “안정적 생산 기반 구축에 총력”](../../items/nics/2026/06/944304.md)**
+  - 2026-06-25 · [읽기](../../items/nics/2026/06/944304.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944304)
 
-- **[농산부산물부터 맞춤 식품까지, 첨단 식품 기술(푸드테크) 미래를 본다](../../items/nics/2026/06/944259.md)**
-  - 2026-06-10 · [읽기](../../items/nics/2026/06/944259.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944259)
+- **[농촌진흥청, 충남 저탄소 벼 재배 현장 찾아 기술 확산 방안 논의](../../items/nics/2026/06/944303.md)**
+  - 2026-06-25 · [읽기](../../items/nics/2026/06/944303.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944303)
 
-- **[장마철 경사지 밭 토양유실, 맥주용 보리로 줄인다](../../items/nics/2026/06/944251.md)**
-  - 2026-06-04 · [읽기](../../items/nics/2026/06/944251.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944251)
+- **[국산 콩 소비 활성화, 검정콩으로 이끈다](../../items/nics/2026/06/944302.md)**
+  - 2026-06-25 · [읽기](../../items/nics/2026/06/944302.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944302)
 
-- **[농촌진흥청, 강원도 맞춤형 밀·콩 이모작…지역 상생 협력 체계 강화](../../items/nics/2026/06/944250.md)**
-  - 2026-06-04 · [읽기](../../items/nics/2026/06/944250.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944250)
+- **[겹삼잎국화, ‘일반식품원료’ 됐다 …김치 유산균 2종도 신규 등재](../../items/nics/2026/06/944289.md)**
+  - 2026-06-22 · [읽기](../../items/nics/2026/06/944289.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944289)
 
-- **[올여름, 비 잦고 일교차 커 ‘벼 병 방제’ 집중해야](../../items/nics/2026/06/944249.md)**
-  - 2026-06-04 · [읽기](../../items/nics/2026/06/944249.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944249)
+- **[농촌진흥청, 직원 가족 초청 ‘일터 탐방·감자 수확 체험’](../../items/nics/2026/06/944288.md)**
+  - 2026-06-22 · [읽기](../../items/nics/2026/06/944288.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944288)
 
-- **[농촌진흥청, ‘벼멸구 유입 예측부터 약제 처방까지’ 선제 대응](../../items/nics/2026/06/944248.md)**
-  - 2026-06-04 · [읽기](../../items/nics/2026/06/944248.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944248)
+- **[논콩 늦게 심을 때, 일찍 익는 ‘품종’ 선택해 ‘빽빽이’ 심어요!!](../../items/nics/2026/06/944285.md)**
+  - 2026-06-16 · [읽기](../../items/nics/2026/06/944285.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944285)
 
-- **[‘복합 선도유지 기술’로 케이(K)-고구마 태국 선박 수출 시대 열어](../../items/nics/2026/06/944242.md)**
-  - 2026-06-01 · [읽기](../../items/nics/2026/06/944242.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944242)
+- **[국립식량과학원·한국도로공사 전북본부, 농촌 일손 돕기로 상생 가치 실천](../../items/nics/2026/06/944282.md)**
+  - 2026-06-16 · [읽기](../../items/nics/2026/06/944282.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944282)
 
-- **[농촌진흥청, 기후 변화 대응 ‘국산 밀 신규 우수 계통’ 현장 평가회 개최](../../items/nics/2026/06/944241.md)**
-  - 2026-06-01 · [읽기](../../items/nics/2026/06/944241.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944241)
+- **[쓴메밀 ‘황금미소’ 현장 평가회…일반메밀보다 루틴 51배 많아](../../items/nics/2026/06/944281.md)**
+  - 2026-06-16 · [읽기](../../items/nics/2026/06/944281.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944281)

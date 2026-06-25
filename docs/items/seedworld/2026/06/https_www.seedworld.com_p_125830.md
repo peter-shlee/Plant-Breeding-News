@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/08/data-abundance-plant-breeding/"
 summary: "Enid Perez-Lara explains how data abundance is changing plant breeding, from integration challenges to better decision-making. The post Data Abundance Is Reshaping Plant Breeding appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # Data Abundance Is Reshaping Plant Breeding
 

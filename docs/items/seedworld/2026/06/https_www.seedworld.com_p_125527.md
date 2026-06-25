@@ -9,7 +9,7 @@ summary: "Organic farming may help crops resist drought by enriching beneficial 
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # Organic Farming Could Help Crops Resist Drought
 

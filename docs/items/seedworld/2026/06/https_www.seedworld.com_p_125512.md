@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/01/ukraine-gm-traceability-law/"
 summary: "Ukraine’s GM traceability law will align seed, crop and product rules with EU standards ahead of its August 2026 rollout. The post Ukraine’s New GM Traceability Law Takes Shape appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-06-15T06:57:51+09:00"
+fetched_at: "2026-06-26T07:06:14+09:00"
 ---
 # Ukraine’s New GM Traceability Law Takes Shape
 
