@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/09/why-seed-matters-more-than-ever/"
 summary: "From crop production and sustainability to innovation and global food security, nearly every agricultural advancement begins with seed. In this month's editor's note, Aimee Nielson reflects on why seed remains agriculture's most important"
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # Why Seed Matters More Than Ever
 

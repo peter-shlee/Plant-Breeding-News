@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/02/european-agri-food-coalition-n
 summary: "A Push for Practical NGT Rules A coalition of 34 European agri-food value chain organisations is calling on Members of the European Parliament to support the adoption of the trilogue […] The post European Agri-Food Coalition Backs NGT"
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # European Agri-Food Coalition Backs NGT Compromise
 

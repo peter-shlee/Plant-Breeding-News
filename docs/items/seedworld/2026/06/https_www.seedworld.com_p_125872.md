@@ -9,7 +9,7 @@ summary: "Pairwise gene editing could expand access to advanced breeding tools a
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # Democratizing Gene Editing: Pairwise’s Blueprint for the Future of Agriculture
 

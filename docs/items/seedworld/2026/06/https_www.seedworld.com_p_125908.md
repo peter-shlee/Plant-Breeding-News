@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/10/crop-genetic-diversity-gene-ba
 summary: "Stefan Schmitz, Executive Director of the Crop Trust, makes the case that gene banks and crop genetic diversity — including wild relatives and forgotten varieties — are a foundational resource for the next generation of plant breeding"
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # The Next Breeding Breakthrough Could Come From a Variety Nobody Uses Anymore
 

@@ -9,7 +9,7 @@ summary: "Euroseeds is calling on the European Commission to exempt certified so
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # Euroseeds Raises EUDR Concerns for Soybean Seeds
 

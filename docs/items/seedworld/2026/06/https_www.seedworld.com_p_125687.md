@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/04/australia-seed-market-barriers
 summary: "Australia’s seed market is difficult to access, but Australian Seed Federation CEO Katherine Delbridge says those barriers help build trust and opportunity. The post Australia’s Seed Market Rewards Those Who Play the Long Game appeared"
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # Australia’s Seed Market Rewards Those Who Play the Long Game
 

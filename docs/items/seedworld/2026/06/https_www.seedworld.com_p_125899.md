@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/10/crop-microbiome-plants-select-
 summary: "A new crop microbiome study shows that crop species, rather than soil type, primarily determines the beneficial functions provided by root-associated microbes. Researchers say the findings could support microbial inoculants and"
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # Crop Microbiome Study Shows Plants Select Microbes
 

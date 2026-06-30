@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/06/03/canadian-plant-br
 summary: "Manitoba seed grower Jake Ayre of Southern Seed Ltd. argues Canadian plant breeding investment returns 34 to 1 — and that cutting it would erode farm profitability as input costs climb."
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # Made For This Land | On The Brink: Season 2 – Episode 4
 

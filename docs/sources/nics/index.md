@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-06
 
+- **[농촌진흥청, 민관 손잡고 전통 ‘발효종균’ 산업 경쟁력 키운다](../../items/nics/2026/06/944310.md)**
+  - 2026-06-29 · [읽기](../../items/nics/2026/06/944310.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944310)
+
 - **[건강에 좋은 국산 혼합잡곡 제품화·유통 연계 기반 구축](../../items/nics/2026/06/944307.md)**
   - 2026-06-25 · [읽기](../../items/nics/2026/06/944307.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944307)
 
@@ -37,6 +40,3 @@ source: "nics"
 
 - **[국립식량과학원·한국도로공사 전북본부, 농촌 일손 돕기로 상생 가치 실천](../../items/nics/2026/06/944282.md)**
   - 2026-06-16 · [읽기](../../items/nics/2026/06/944282.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944282)
-
-- **[쓴메밀 ‘황금미소’ 현장 평가회…일반메밀보다 루틴 51배 많아](../../items/nics/2026/06/944281.md)**
-  - 2026-06-16 · [읽기](../../items/nics/2026/06/944281.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944281)

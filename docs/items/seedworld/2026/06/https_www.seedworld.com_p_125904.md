@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/10/why-the-best-solutions-arent-b
 summary: "A conversation about local plant breeding, the unlikely rise of CDC Meadow, and the wisdom of honeybees all point to the same lesson: adaptation beats standardization. One of the assumptions […] The post Why The Best Solutions Aren’t Built"
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # Why The Best Solutions Aren’t Built for Everywhere
 

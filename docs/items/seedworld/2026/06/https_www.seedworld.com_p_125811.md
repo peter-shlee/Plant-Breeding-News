@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/06/06/the-cultural-divide-between-lat
 summary: "After speaking with University of Florida students, one plant researcher reflects on cultural differences in academic career paths, ambition and professional planning. The post The Cultural Divide Between LATAM and the West appeared first"
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # The Cultural Divide Between LATAM and the West
 

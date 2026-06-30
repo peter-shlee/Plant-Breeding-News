@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/04/why-some-fields-win-and-others-don
 summary: "Two fields can look the same but perform differently. Explore how below-ground biological interactions influence crop consistency, nutrient use, stress response and field performance."
 attachments: []
 tags: []
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # Why Some Fields Win — And Others Don’t (Even When Everything Looks the Same)
 

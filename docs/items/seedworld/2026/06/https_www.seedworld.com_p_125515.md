@@ -9,7 +9,7 @@ summary: "GridScore NEXT helps crop researchers collect cleaner field data, redu
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-06-26T07:06:14+09:00"
+fetched_at: "2026-07-01T07:01:47+09:00"
 ---
 # GridScore NEXT Speeds Up Plant Breeding Research
 
