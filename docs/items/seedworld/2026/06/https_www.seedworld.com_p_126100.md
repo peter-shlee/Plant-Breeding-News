@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/19/nutrition-theme-napb-2026/"
 summary: "From human health to consumer expectations, NAPB 2026 showed how plant breeding priorities are expanding beyond traditional measures of success. The post Nutrition Emerged as a Big Theme at NAPB 2026 appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Nutrition Emerged as a Big Theme at NAPB 2026
 

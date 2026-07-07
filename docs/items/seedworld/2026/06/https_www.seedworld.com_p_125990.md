@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/16/ai-certified-seed-operations/"
 summary: "Artificial intelligence is moving beyond breeding programs and into everyday certified seed operations. South Carolina seed grower Rachael Sharp is using AI to automate recordkeeping, improve logistics, guide crop rotation decisions and"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # How AI is Changing Certified Seed Operations
 

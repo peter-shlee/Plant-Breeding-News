@@ -9,7 +9,7 @@ summary: "Solynta’s SOLHY019 has been added to the Dutch National Variety Regi
 attachments: []
 tags:
   - "감자"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Hybrid True Potato Seed Variety Registered in Netherlands
 

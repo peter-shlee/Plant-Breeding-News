@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/15/andalusia-organic-farming-less
 summary: "A University of Córdoba study finds organic farming decisions in Andalusia are shaped by profitability, environmental values and social responsibility. The findings may help guide European policies aimed at expanding organic agriculture by"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Andalusia Offers Organic Farming Lessons for Europe
 

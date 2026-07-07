@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/24/super-el-nino-agriculture-seed-pla
 summary: "A rare alignment of climate indicators could point to a historic super El Niño with major implications for global crops, seed production and agricultural markets. The post Super El Niño Potential in 2026-2027 Could Rival Historic 1877-1878"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Super El Niño Potential in 2026-2027 Could Rival Historic 1877-1878 Event
 

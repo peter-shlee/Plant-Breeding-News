@@ -9,7 +9,7 @@ summary: "Challenges around farm-saved seed and breeder remuneration continue to
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Canada is Shifting Toward Innovation, But More Work Remains on Seed and IP Policy
 

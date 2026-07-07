@@ -9,7 +9,7 @@ summary: "BNI wheat research at AU Flakkebjerg is revealing how root compounds m
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Wheat Roots Could Help Crops Use Nitrogen More Efficiently
 

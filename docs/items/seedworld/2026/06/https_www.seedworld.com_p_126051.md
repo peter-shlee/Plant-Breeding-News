@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/06/18/chile-semillas-biotecnologicas/
 summary: "Chile consolida su posición como centro estratégico para las semillas biotecnológicas, apoyado por su diversidad climática, capacidad técnica y participación en investigación agrícola internacional."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Chile refuerza su rol en semillas biotecnológicas
 

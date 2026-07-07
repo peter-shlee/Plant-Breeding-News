@@ -9,7 +9,7 @@ summary: "Chinese researchers have identified a teosinte gene that could help br
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Wild Maize Gene Could Help Boost Maize Protein
 

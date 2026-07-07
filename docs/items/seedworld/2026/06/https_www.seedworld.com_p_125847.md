@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/08/kws-hybrid-rye-north-america/"
 summary: "For 170 years, KWS has focused on plant breeding. Today, that long-term approach is helping North American growers adopt hybrid rye and other resilient crops that improve productivity, diversification and sustainability."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Heritage Driving What Comes Next For Hybrid Rye
 

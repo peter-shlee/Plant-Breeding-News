@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/06/24/why-plant-breedin
 summary: "In Episode 8 of On The Brink, grower Mark Keating of Keating Seed argues the financial risk on Canadian farms has never been higher, and that continued Canadian plant breeding investment is what keeps growers competitive in a global market."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Breeding Canada’s Future | On The Brink: Season 2 – Episode 7
 

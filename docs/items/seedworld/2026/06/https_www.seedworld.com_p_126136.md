@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/06/23/perspectiva-cultural-carreras-a
 summary: "La perspectiva cultural puede influir profundamente en cómo los profesionales agrícolas planifican sus carreras. Esta reflexión compara experiencias en Latinoamérica y países desarrollados, destacando diferencias en ambición, competencia,"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # La Brecha Cultural Entre Latinoamérica Y Occidente
 

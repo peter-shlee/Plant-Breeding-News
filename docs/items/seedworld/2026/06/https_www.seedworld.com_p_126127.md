@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/22/wto-edwini-kessie-global-trade-see
 summary: "WTO agriculture leader Edwini Kessie discusses trade fragmentation, food security and why international collaboration remains essential for seed innovation. The post Why the Seed Industry Has a Stake in the Future of Global Trade appeared"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Why the Seed Industry Has a Stake in the Future of Global Trade
 

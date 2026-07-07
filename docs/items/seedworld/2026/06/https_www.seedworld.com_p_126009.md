@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/16/seed-technology-field-validati
 summary: "Seed technology often performs well in trials but faces new challenges on the farm. Emilhano Lima of Syngenta explains how field validation, grower collaboration and implementation support help turn innovation into measurable results."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # From Seed Innovation to Grower ROI: Closing the On-Farm Gap
 

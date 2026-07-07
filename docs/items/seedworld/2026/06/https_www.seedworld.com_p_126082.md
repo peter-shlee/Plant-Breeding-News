@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/18/brian-rossnagel-inducted-into-
 summary: "The longtime Crop Development Centre breeder developed more than 100 barley and oat varieties, including CDC Austenson The post Brian Rossnagel Inducted Into Canadian Agricultural Hall of Fame for Transforming Barley and Oat Breeding"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Brian Rossnagel Inducted Into Canadian Agricultural Hall of Fame for Transforming Barley and Oat Breeding
 

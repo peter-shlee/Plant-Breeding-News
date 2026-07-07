@@ -9,7 +9,7 @@ summary: "From rural West Bengal to Saskatchewan’s leading agricultural resear
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # At 25, Anirup Sengupta is Already Thinking Decades Ahead for Agriculture
 

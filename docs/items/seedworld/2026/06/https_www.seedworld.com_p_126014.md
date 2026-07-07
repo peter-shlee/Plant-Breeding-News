@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/16/global-seed-testing-ista-2026/
 summary: "ISTA 2026 will bring seed testing professionals, regulators and industry leaders to Calgary to discuss global seed movement, accreditation, AI and emerging technologies."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # What’s Next for Global Seed Testing? Three Conversations Shaping ISTA 2026
 

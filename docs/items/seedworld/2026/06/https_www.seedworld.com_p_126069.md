@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/18/plant-breeding-think-beyond-farm-g
 summary: "USDA's Scott Hutchins says plant breeders must expand their focus beyond the farm to include consumers, nutrition, human health and seed sovereignty. The post Plant Breeders May Need to Think Bigger Than Ever appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Plant Breeders May Need to Think Bigger Than Ever
 

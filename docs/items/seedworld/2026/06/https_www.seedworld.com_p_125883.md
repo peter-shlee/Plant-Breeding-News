@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/06/10/local-plant-breed
 summary: "As plant breeding consolidates into fewer programs and locations, veteran Ontario agronomist Paul Sullivan makes the case that locally adapted genetics need breeders who stay close to the farms they serve."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Breed Local, Grow Better | On The Brink: Season 2 – Episode 5
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/18/svalbard-seed-vault-surpasses-
 summary: "The Svalbard Seed Vault has surpassed 1.4 million seed samples after receiving 15,387 new deposits from 11 genebanks during its second opening of 2026, including first-time contributions from Burkina Faso and Niger."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Svalbard Seed Vault Surpasses 1.4M Seed Samples
 

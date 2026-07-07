@@ -9,7 +9,7 @@ summary: "Plant breeding is entering a new era. Bayer's Julia Honold explains ho
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # The Race to Accelerate Plant Breeding Innovation
 

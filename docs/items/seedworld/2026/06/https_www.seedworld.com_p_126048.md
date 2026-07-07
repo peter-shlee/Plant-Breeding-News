@@ -9,7 +9,7 @@ summary: "A sorghum wax gene discovery is helping researchers understand how the
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Sorghum Wax Gene Could Aid Drought-Tolerant Crops
 

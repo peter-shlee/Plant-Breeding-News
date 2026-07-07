@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/11/phytoprism-plant-pest-project/
 summary: "PhytoPRISM, a €6 million EU Horizon project led by the University of Warwick, will develop a platform to help Europe coordinate responses to agricultural and forest pest invasions."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # European Project Targets Crop Pest Threats with New Decision-Making Platform
 

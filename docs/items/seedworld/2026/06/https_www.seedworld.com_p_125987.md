@@ -9,7 +9,7 @@ summary: "COMENVI voted in favour of the trilogue compromise on New Genomic Tech
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # EU Committee Vote Advances New Genomic Techniques Rules
 

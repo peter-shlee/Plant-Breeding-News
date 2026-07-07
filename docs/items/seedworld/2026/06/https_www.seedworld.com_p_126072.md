@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/18/a-lifetime-in-plant-breeding-d
 summary: "From his early studies in China to leading oat breeding efforts in Canada, Yan has built a career dedicated to helping breeders make better decisions The post A Lifetime in Plant Breeding: Dr."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # A Lifetime in Plant Breeding: Dr. Weikai Yan Honoured for Four Decades of Scientific Leadership
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/10/agri-food-sector-eu-competitiv
 summary: "The agri-food sector is urging EU policymakers to recognise agriculture, aquaculture and food systems as strategic areas within the future European Competitiveness Fund and Horizon Europe."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Agri-Food Sector Seeks Strategic Role in EU Fund
 

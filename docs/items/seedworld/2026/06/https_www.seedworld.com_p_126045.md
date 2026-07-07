@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "벼"
   - "밀"
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Crop Disease Resistance Gene Targets Two Pathogens
 

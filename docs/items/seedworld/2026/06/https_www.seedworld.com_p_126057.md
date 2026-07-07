@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/06/23/embrapa-semillas-brasilenas-sva
 summary: "Embrapa entregó un nuevo cargamento de semillas brasileñas a la Bóveda Global de Semillas de Svalbard, en Noruega. El depósito incluye 24 accesiones de anacardo, habas, cacahuetes, ricino y sésamo para respaldar la conservación de la"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Embrapa deposita semillas Brasileñas en Svalbard
 

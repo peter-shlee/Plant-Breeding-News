@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/17/eu-agri-food-coalition-welcome
 summary: "A coalition of 30 European agri-food value chain organisations welcomes the NGT Regulation, calling it a major milestone for plant breeding innovation, sustainability and food security across Europe."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # EU Agri-Food Coalition Welcomes NGT Regulation
 

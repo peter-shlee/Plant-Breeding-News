@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/18/seed-priming-crop-resistance-p
 summary: "Seed priming with methyl jasmonate, a natural plant defense molecule, may help crops resist insect and mite damage without slowing growth. The findings point to a potential tool for more sustainable crop protection."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Seed Priming Boosts Crop Resistance to Pests
 

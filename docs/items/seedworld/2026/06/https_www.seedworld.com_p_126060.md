@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/en/2026/06/25/embrapa-brazilian-seeds-sval
 summary: "Embrapa delivered a new shipment of Brazilian seeds to the Svalbard Global Seed Vault in Norway. The deposit adds 24 accessions of cashew, fava beans, peanuts, castor and sesame to Brazil’s collection in the global agricultural safety"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Embrapa Sends Brazilian Seeds to Svalbard Vault
 

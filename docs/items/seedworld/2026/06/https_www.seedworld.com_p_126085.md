@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/18/the-common-thread-running-thro
 summary: "New conversations about seed policy, concerns over declining agricultural R&D investment, and recognition for two of Canada’s most influential plant breeders all point to the same truth: innovation is built […] The post The Common Thread"
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # The Common Thread Running Through This Week’s Biggest Seed Industry Stories
 

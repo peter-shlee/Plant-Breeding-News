@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/06/19/chile-biotechnology-seed-indust
 summary: "Chile is strengthening its role in the biotechnology seed industry as climate pressure, shrinking farmland and rising food demand push agriculture toward faster innovation."
 attachments: []
 tags: []
-fetched_at: "2026-07-01T07:01:47+09:00"
+fetched_at: "2026-07-08T07:00:46+09:00"
 ---
 # Chile Grows as Biotechnology Seed Industry Hub
 
