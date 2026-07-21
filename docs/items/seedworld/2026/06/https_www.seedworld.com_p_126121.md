@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/06/29/cambio-climatico-calidad-soja/"
 summary: "Un nuevo estudio con apoyo de IA sugiere que el cambio climático podría aumentar la producción, pero reducir la calidad de la soja. Los investigadores encontraron que el CO₂ elevado, el calor y la sequía pueden disminuir el contenido de"
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # El cambio climático podría reducir la calidad de la soja
 

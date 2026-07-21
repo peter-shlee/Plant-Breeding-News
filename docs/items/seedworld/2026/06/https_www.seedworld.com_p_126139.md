@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/23/the-system-behind-the-seed-facilit
 summary: "For nearly 50 years, Jon Popp has designed seed facilities that quietly influence everything from seed quality to final yield. The CEO of Popp Engineering explains why successful operations depend less on equipment and more on designing"
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # The System Behind the Seed: Honoring IPSA Lifetime Achievement Recipient Jon Popp
 

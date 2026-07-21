@@ -11,86 +11,102 @@ source: "rda"
 
 ## 2026-07
 
-- **[다수확용 여름딸기 신품종 ‘예랑’, 농가소득 향상 기대](../../items/rda/2026/07/100000811940.md)**
-  - 2026-07-07 · [읽기](../../items/rda/2026/07/100000811940.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811940&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 7월 7일 경상남도 합천의 여름딸기 실증 재배 농가에서 다수확용 여름딸기 신품종 ‘예랑’ 현장 평가회를 개최한다. 이번 현장 평가회에는 농가와 육종가, 지방정부 관계자 등이 참석해 ‘예랑’ 생육과 과실 특성을 확인하고 현장 재배 적응성과 보급 가능성을 평가한다.
+- **[농촌진흥청 개발 찰옥수수 신품종 ‘찰옥5호’, “맛으로 고르고, 기계로 수확”](../../items/rda/2026/07/100000812098.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812098.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812098&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 7월 16일 충북 충주시 살미면에서 찰옥수수 신품종 ‘찰옥5호’ 식미 평가와 기계수확 연시회를 열었다. 이번 행사는 식량 자급률을 높이기 위한 전략 작물 중 하나인 옥수수의 안정적인 생산 기반을 넓히고, 재배 현장의 일손 부족 문제를 해결하고자 마련됐다.
 
-- **[새만금에 국가 간척지농업 연구 거점 문 연다](../../items/rda/2026/07/100000811923.md)**
-  - 2026-07-07 · [읽기](../../items/rda/2026/07/100000811923.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811923&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 7월 6일 전북특별자치도 김제시 국립식량과학원 간척지농업연구센터에서 ‘간척지농업연구센터 개소식 및 기념 학술 토론회(심포지엄)’을 개최했다. 이번 행사는 간척지농업 발전을 지원하기 위해 국가기관 최초로 새만금간척지 농생명용지에 조성한 간척지농업연구센터의 개소를 기념하고, 간척지의 농업적 활용 확대와 현장 중심 연구, 민관협력 방…
+- **[농촌진흥청, 현장 중심의 역점과제 추진· 하반기 국민 체감 성과 창출에 속도 높인다](../../items/rda/2026/07/100000812097.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812097.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812097&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 7월 16일 청와대에서 진행된 부처 합동 업무보고에서 ‘2026년도 하반기 주요 업무 계획’을 보고했다. 농촌진흥청은 국민주권정부 2년 차를 맞아 정부 핵심 정책인 농업 대전환과 모두의 성장 등을 뒷받침할 역점과제를 하반기에 속도감 있게 추진, 주권자인 국민과 함께 변화와 성과를 만들어 갈 방침이다.
 
-- **[농촌진흥청, ‘한-아프리카 벼 개발 파트너십 II’ 2단계 사업 착수](../../items/rda/2026/07/100000811921.md)**
-  - 2026-07-07 · [읽기](../../items/rda/2026/07/100000811921.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811921&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 한-아프리카 농식품 기술협력 협의체(카파시, KAFACI)*가 추진한 ‘아프리카 벼 개발 파트너십’ 1단계 사업을 마무리하고, 올해부터 2단계 사업에 본격 착수한다. *한-아프리카 농식품기술협력협의체(KAFACI, Korea-Africa Food & Agriculture Cooperation Initiative) : 2010년…
+- **[콩 생육 중기, 병해충 방제·물 관리에 힘써야!](../../items/rda/2026/07/100000812093.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812093.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812093&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 보도자료 보도 시점 2026. 7.
 
-- **[농촌진흥청, ‘농작업 안전 수칙 자율점검 행사’ 개최](../../items/rda/2026/07/100000811920.md)**
-  - 2026-07-07 · [읽기](../../items/rda/2026/07/100000811920.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811920&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 전국 농업인을 대상으로 ‘2026년 농작업 안전 수칙 자율점검 이벤트’를 7월 31일까지 진행한다. 이번 참여 행사는 농업인이 농작업 주요 안전 수칙을 자발적으로 점검하고 실천을 서약함으로써 안전 의식 고취 및 자율적인 안전 문화 확산을 유도하기 위해 마련됐다.
+- **[농촌진흥청, ‘2026 농업인 안전365 캠페인 공모전’ 개최](../../items/rda/2026/07/100000812092.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812092.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812092&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 7월 16일부터 9월 30일까지 ‘2026 농업인 안전365 캠페인 공모전’을 개최한다. 공모 분야는 △농작업 안전 실천 우수 영상 △안전 개선 우수 현장 사례 2개다.
 
-- **[‘벼멸구’ 국내 유입 가능성 커…세심한 관찰로 조기 발견해야](../../items/rda/2026/07/100000811919.md)**
-  - 2026-07-07 · [읽기](../../items/rda/2026/07/100000811919.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811919&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 현재 벼멸구의 국내 유입·정착 가능성이 높다며, 전국 벼 재배 농가를 대상으로 조기 발견을 위한 세심한 관찰을 당부했다. 베트남과 중국 현지* 예찰포*에서 올 6월 벼멸구 발생을 확인한 결과, 채집 개체수가 지난 2024년보다 높은 수준으로 나타났다.
+- **[기후변화 대응형 인삼 품종, 종자 생산·보급 확대 방안 논의](../../items/rda/2026/07/100000812090.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812090.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812090&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립원예특작과학원 김대현 원장은 7월 15일 전북특별자치도 김제의 인삼 종자 생산 농가를 찾아 현장을 둘러보고 농업인 목소리를 들었다. 이날 방문은 농촌진흥청이 자체 개발한 기후변화 대응형 인삼 ‘천량’과 ‘고원’의 종자 생산 현장을 점검하고, 우수 종자의 안정적인 생산과 현장 보급 확대 방안을 논의하기 위해 마련했다.
 
-- **[차세대중형위성 4호, 7월 7일(화) 오후 4시경 발사](../../items/rda/2026/07/100000811918.md)**
-  - 2026-07-07 · [읽기](../../items/rda/2026/07/100000811918.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000811918&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 우주항공청(청장 오태석), 농촌진흥청(청장 이승돈), 산림청(청장 박은식)은 ‘차세대중형위성 4호(CAS500-4)’를 7월 7일(화) 오후 4시 10분(한국시간) 미국 캘리포니아주 반덴버그 우주군기지에서 발사한다고 밝혔다. 차세대중형위성 4호는 반덴버그 우주군기지에서 30여일 간 기능점검, 연료주입 등 사전 작업을 성공리에 모두 완료하여, 현재는 스페이…
+- **[농촌진흥청, ‘신동진1’ 농가 보급 “현장 소통 활발”](../../items/rda/2026/07/100000812089.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812089.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812089&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 ‘신동진1’ 본격 보급에 앞서 7월 15일 전북특별자치도 완주군 국립식량과학원 본원에서 현장 의견을 듣는 소통의 장을 마련했다. 이날 국립종자원, 전북특별자치도 및 도내 14개 시군농업기술센터 담당자 등 관계자 30여 명이 자리해 2027년 ‘신동진1’의 본격적인 정부 보급종 공급에 앞서 기술적 지원과 시범 사업 추진 상황을 점…
 
-- **[주말 ‘장맛비’ 예보, 농작물·농업시설물 피해 예방·관리 당부](../../items/rda/2026/07/100000811917.md)**
-  - 2026-07-07 · [읽기](../../items/rda/2026/07/100000811917.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811917&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 본격적인 장마철에 접어들면서 이번 주말부터 다음 주 초반까지 지역별로 많은 비가 예보돼 있다며, 농작물 및 농업시설물 피해 최소화를 위한 철저한 대비를 당부했다. 이와 관련, 7월 3일 오전 본청 영농종합상황실에서 도 농업기술원, 특·광역시 농업기술센터 농업재해 담당관들과 영상회의를 개최하고, 지역별 농업재해 예방 대책 추진 현…
+- **[농촌진흥청, 지역특화작목 맞춤형 순회 교육 돌입](../../items/rda/2026/07/100000812088.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812088.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812088&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 농촌인적자원개발센터는 도 농업기술원과 손잡고 지역 주산지의 재배 여건과 농촌지도 현장 수요를 반영, 지역특화작목 순회 교육을 본격화한다. 이번 교육은 정부가 추진하는 ‘제2차 지역특화작목 연구개발·육성 종합계획’ 방침에 따라 지역별 전략작목의 경쟁력을 높이는 연구와 기술 보급, 전문 인력 교육에 초점을 두고 진행한다.
 
-- **[우리 쌀 경쟁력 강화 ‘장립종 벼 혁신 프로젝트’ 2년 차 공동연수 개최](../../items/rda/2026/07/100000811876.md)**
-  - 2026-07-02 · [읽기](../../items/rda/2026/07/100000811876.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811876&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 7월 3일 부산항국제전시컨벤션센터에서 국내 밥쌀용 쌀 수급 조절과 수출시장 개척을 위한 ‘장립종 벼 기반 쌀 산업 혁신프로젝트’ 공동연수(워크숍)를 개최한다. 국립식량과학원과 한국육종학회가 공동 주최하는 이번 행사에는 연구 책임자, 참여연구원, 정부 기관, 대학, 산업체 등 관계자 100여 명이 참석해 지난 1년간 주요 연구 성…
+- **[농촌진흥청, 전국 도 농업기술원장 7월 업무협의회 개최](../../items/rda/2026/07/100000812086.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812086.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812086&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 7월 15일 본청 영농종합상황실에서에서 전국 9개 도 농업기술원장, 전국 시군농업기술센터 대표(세종특별자치시) 소장 등이 영상으로 참석한 가운데 업무협의회를 개최했다. 이승돈 청장 주재로 열린 이날 업무 회의에서 농촌진흥청은 지난 7일 성공적으로 발사된 ‘차세대 중형위성 4호(농림 위성)’ 활용 방안과 인공지능(AI) 기반 농업…
 
-- **[농촌진흥청, 여름철 농업인 안전관리 활동 집중 추진](../../items/rda/2026/07/100000811875.md)**
-  - 2026-07-02 · [읽기](../../items/rda/2026/07/100000811875.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811875&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 폭염, 폭우 등 여름철 기상으로 인한 농업인 안전사고 및 농작업 재해 예방을 위해 7월 1일부터 10일까지 ‘여름철 농업인 안전 대응 현장 활동’을 실시한다. 이 기간 지방 농촌진흥기관이 수립한 여름철 농업인 안전 대응체계의 실효성을 검토하고, 온열질환 예방 활동을 선제적으로 펼쳐 농업인 건강과 안전 확보에 주력할 방침이다.
+- **[북부 원예 연구 협의체 출범, 중앙-지방 함께 기후변화 대응](../../items/rda/2026/07/100000812085.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812085.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812085&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 기후변화와 이상기상에 대응하고 북부 지역 원예산업의 경쟁력을 높이기 위한 중앙-지방 연구 협력 체계가 본격 가동된다. 농촌진흥청(청장 이승돈) 국립원예특작과학원은 7월 15일 북부원예시험장(강원 철원)에서 ‘북부 원예 분야 중앙-지방 연구협의체’ 출범식을 연다고 밝혔다.
 
-- **[‘마늘·양파’ 수확 끝, 여름철 ‘육묘상·본밭 소독’ 당부](../../items/rda/2026/07/100000811873.md)**
-  - 2026-07-02 · [읽기](../../items/rda/2026/07/100000811873.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811873&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 마늘과 양파 수확이 끝나는 7~8월은 토양 내 유해 요인을 줄이고 다음 농사를 준비하는 중요한 시기다. 농촌진흥청(청장 이승돈)은 마늘과 양파 수확이 마무리되는 여름철, 다음 농사의 안정적인 생산 기반 마련을 위해 철저한 토양 관리를 당부했다.
+- **[삼복더위에 지친 몸과 맘, 콩 별미로 달래요!](../../items/rda/2026/07/100000812084.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812084.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812084&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 더운 날에는 땀 배출이 많아 체력 소모가 많고 입맛을 잃어 단백질과 필수 영양소가 부족해지기 쉽다. 농촌진흥청(청장 이승돈)은 삼복더위를 맞아 무더운 여름에 가볍고 건강하게 즐길 수 있는 국산 콩 활용 이색 요리법을 제안했다.
 
-- **[건강한 여름나기, 우리 콩 별미로 무더위 싹 날려보자](../../items/rda/2026/07/100000811872.md)**
-  - 2026-07-02 · [읽기](../../items/rda/2026/07/100000811872.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811872&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 무더운 여름철 건강을 지킬 수 있는 국산 콩의 영양 성분과 간편하게 조리할 수 있는 이색 콩 요리법 3종을 소개하고, 용도별 국산 콩 품종을 추천했다. 콩은 필수 아미노산을 고르게 함유한 양질의 단백질 공급원이다.
+- **[꿀벌 신품종 ‘지역 적응’, ‘이용 촉진’ 성과 공유한다](../../items/rda/2026/07/100000812083.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812083.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812083&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 7월 15, 16일 이틀간 충남농업기술원 산업곤충연구소에서 ‘2026년 꿀벌 신품종 개발 공동연구 상반기 현장 평가회’를 연다. 이번 현장 평가회는 올해 상반기 ‘꿀벌 강건 다수확 신품종 지역 적응 연구’와 ‘우수 꿀벌 신품종 이용 촉진 사업’ 추진 결과를 공유하고, 중앙-지자체 협업으로 양봉농가 어려움을 해결하기 위해 마련됐다.
 
-- **[‘헛개나무꿀’ 전립선 건강 돕는다](../../items/rda/2026/07/100000811871.md)**
-  - 2026-07-02 · [읽기](../../items/rda/2026/07/100000811871.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811871&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 기후변화로 어려움을 겪는 양봉산업을 지원하고 농가 채밀구조를 다변화해 안정적인 소득원을 마련하고자 국산 헛개나무꿀의 전립선 비대증 개선 효과를 과학적으로 입증했다. 현재 우리나라 벌꿀은 아까시꿀과 밤꿀 중심으로 생산되고 있다.
+- **[토착 미생물로 발효식품 품질 높이고, 세계 경쟁력 확보한다](../../items/rda/2026/07/100000812082.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812082.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812082&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 나고야의정서* 시행 이후 생물자원 주권과 이익 공유에 대한 국제적 요구가 커지면서 국내 토착 미생물 자원 확보와 활용 중요성이 높아졌다. 특히 장류, 주류, 식초류 등 전통 발효식품 산업에서는 고유한 맛과 향을 유지하면서도 품질 편차를 줄일 수 있는 국산 종균 개발의 필요성이 커지고 있다.
 
-- **[농촌진흥청, 2026년 하반기부터 이렇게 달라집니다(재경부 주관)](../../items/rda/2026/07/100000811854.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811854.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000811854&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 2026년 하반기부터 달라지는 농촌진흥청 소관 정책사항을 붙임과 같이 안내합니다. 연번 달라지는 제도 1 현장 실정 반영한 가축분뇨발효액의 공정규격 완화 2 농업인 온열질환 예방 현장밀착 안전관리 지원 3 1급 치유농업사 국가전문자격시험 첫 시행 4 가축분 퇴비 비료사용 처방 개선 5 신선농산물 「CA 수출·품질관리」 통합 서비스
+- **[농촌진흥청, 여름철 농업인 안전관리 활동 추진 박차](../../items/rda/2026/07/100000812080.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812080.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812080&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 김상경 농촌진흥청 차장은 7월 14일 충청북도 청주시에서 여름철 농업인 안전 대응 상황을 살피고, 온열질환 예방 요원들과 현장 밀착 활동을 펼쳤다. 이번 방문은 농촌진흥청이 이달 1일부터 추진 중인 ‘여름철 농업인 안전 대응 현장 활동’의 하나로, 농업인 온열질환 예방과 안전 확보를 지원하고자 마련됐다.
 
-- **[고온기 육묘장 병해충 확산 우려, 시설 안팎 관리 강화해야](../../items/rda/2026/07/100000811852.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811852.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000811852&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 여름철 높은 기온으로 육묘장 내 병해충 발생 위험이 커진 만큼, 시설 안팎의 위생 관리를 철저히 하고 병해충 유입 차단에 힘써 줄 것을 당부했다. 육묘장은 본밭에 옮겨 심을 모종을 짧은 기간 동안 대량 생산하는 시설로, 사계절 운영된다.
+- **[‘배’ 햇볕 데임, 열매 터짐 막으려면 고온기 집중 관리](../../items/rda/2026/07/100000812078.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812078.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812078&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 올여름 기온이 평년보다 높을 것*으로 예상됨에 따라, 배 과수원의 고온 피해를 줄이고 안정적인 열매 생산을 위한 집중 관리를 당부했다. * 기상청 ‘3개월 전망(2026년 6~8월)’에 따르면, 올해 여름은 평년보다 덥고 비도 많이 올 가능성이 큼(2026.5.) 우리나라에서 가장 많이 재배 중인 ‘신고’ 품종은 열매가 커지는…
 
-- **[우수 박과 유전자원 선보이고 분양 신청 받는다](../../items/rda/2026/07/100000811851.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811851.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000811851&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 우수 형질을 가진 유전자원이 육종 현장에서 신속히 활용될 수 있도록 7월 1일 농업유전자원센터에서 ‘박과 유전자원 현장 평가회’를 연다. 이번 현장 평가회에서는 농업유전자원센터가 우리나라를 비롯해 세계 각국에서 수집해 보존하고 있는 수박, 여주, 호박 유전자원 중 219자원을 선보인다.
+- **[“기운 돋우고 입맛 살리고” 약용작물로 채우는 여름 식탁](../../items/rda/2026/07/100000812077.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812077.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812077&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 무더위로 지치기 쉬운 여름철을 맞아 황기, 오미자, 맥문동 등 약용작물을 활용해 가볍고 건강하게 즐기는 여름 식탁을 제안했다. 여름철에는 입맛을 돋우고, 수분을 보충하며, 소화가 편한 음식을 천천히 섭취하는 것이 중요하다.
 
-- **[폭염·기습 강우 대비, 버섯 재배 관리 요령 제시](../../items/rda/2026/07/100000811849.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811849.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000811849&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 장마 뒤 이어지는 폭염과 기습 강우에 대비해 여름철 버섯 재배 관리 요령을 제시하고, 농가의 각별한 주의를 당부했다. 최근 들어 기후변화로 기온이 35도(℃)를 웃도는 폭염과 기습적인 집중호우가 반복되고 있다.
+- **[농촌진흥청, 국제기준 반영 ‘농약 인축독성 등록 기준’ 개정](../../items/rda/2026/07/100000812076.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812076.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812076&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 농약 인축독성 분야의 ‘농약 및 원제의 등록 기준’을 전면 개정했다. 이번 개정은 국제 수준의 농약 독성 평가 체계를 구축하고 동물대체시험법 활용을 확대하기 위해 추진됐다.
 
-- **[‘큰 기체’, ‘하향풍’, ‘충분한 농약량’ 벼멸구 무인항공기 방제 효과 높다](../../items/rda/2026/07/100000811848.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811848.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000811848&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 무인항공기(드론) 크기와 농약 살포량에 따른 벼멸구 방제 효과를 실험한 결과, ‘큰 기체’, ‘하향풍(아래쪽으로 부는 바람)’, ‘충분한 농약량’이 방제 효과를 높이는 것을 확인했다. 실험 결과, 무인항공기 기체가 클수록 하향풍이 강해져 약액이 벼 아랫부분까지 잘 도달했다.
+- **[‘지역특화작목 2.0 도약 위한 국회 토론회’ 개최](../../items/rda/2026/07/100000812075.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812075.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812075&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 7월 13일 국회의원회관 제2소회의실에서 농업인, 대학, 연구기관, 농산업체, 지방농촌진흥기관 관계자 등 130여 명이 참석한 가운데 ‘지역특화작목 2.0 도약을 위한 국회토론회’를 개최했다. 이번 토론회는 제1차 종합계획 성과를 공유하고, 올해부터 향후 5년간 추진되는 제2차 지역특화작목 연구개발 및 육성 종합계획의 현장 실행…
 
-- **[농촌진흥청, 제5차 ‘치유농업 포럼’ 개최… 건강관리·인공지능 기반 미래형 치유농업 모색](../../items/rda/2026/07/100000811847.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811847.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000811847&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 6월 30일 국립원예특작과학원(전북 완주)에서 ‘헬스케어 산업 연계를 통한 인공지능(AI) 기반 치유농업 활성화 방안’을 주제로 ‘제5차 농촌진흥청 치유농업 포럼*을 개최한다. *2026년 1차 포럼 이후 3월부터 11월까지 매월 1회 개최 이번 공개 토론회(포럼)에서는 치유농업에 인공지능(AI) 기술을 접목하고, 건강관리(헬스…
+- **[국산 포도 신품종 현장 안착 지원, 농가 실증연구 살펴](../../items/rda/2026/07/100000812074.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812074.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812074&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립원예특작과학원 김대현 원장은 7월 13일 경기도 화성시 포도 신품종 재배 농가를 찾아 실증연구 현황을 확인하고 현장 의견을 들었다. 이번 방문은 신품종 재배 기술과 품질 관리 방안을 중점 관리하고 국산 포도 품종의 안정적인 현장 정착을 지원하기 위해 마련했다.
 
-- **[국립원예특작과학원-성균관대, 인공지능 융합해 산업 경쟁력 높인다](../../items/rda/2026/07/100000811844.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811844.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000811844&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈) 국립원예특작과학원과 성균관대학교 생명공학대학이 6월 29일 성균관대학교에서 원예·특용작물 산업 경쟁력 강화를 위한 업무 협약(MOU)을 맺었다. 이번 협약은 인공지능(AI) 대전환 시대에 국립원예특작과학원이 보유한 방대한 농생명 데이터와 대학의 첨단 인공지능(AI) 분석 기술을 연계해 미래 바이오산업의 새로운 성장 기반을 마련하고…
+- **[농촌진흥청, 논콩 · 팥 집중호우 피해 현장 기술지원 “병해충 신속 방제 총력”](../../items/rda/2026/07/100000812073.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812073.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812073&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립식량과학원 김병석 원장은 7월 13일, 호우 피해가 발생한 충남 공주시 논 콩, 팥 재배단지를 방문해 현장을 살피고 병해충 관리 기술 지원활동을 펼쳤다. 이번 집중호우로 충남 공주시에서는 밭작물 재배면적 928헥타르(ha) 중 논 콩 167.4헥타르, 팥 4헥타르가 물에 잠기는 피해가 발생했다.
 
-- **[치유음식 활용 현장 방문 “지역 관광 연계 방안 모색”](../../items/rda/2026/07/100000811843.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811843.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000811843&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈) 국립식량과학원 김병석 원장은 6월 29일 충청남도 공주시 ‘곡물집’과 논산시 ‘꽃비원’을 방문해 치유음식 활용 콘텐츠 운용 현황을 살피고 지역 관광상품 연계 발전 방안을 논의했다. 올해 국립식량과학원은 활동적 은퇴자*를 대상으로 제철 채소와 토종 곡물, 전통 발효음식을 매개로 작물의 서사와 생산자의 농업 철학을 오감으로 경험하는…
+- **[농촌진흥청, 몽골 축산·벼 기술 협력 강화 행보 활발](../../items/rda/2026/07/100000812072.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812072.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812072&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 이승돈 농촌진흥청장은 7월 8일부터 11일까지 몽골을 방문해 대통령실·농업부 고위급 인사와 잇달아 면담하고, 케이(K)-축산·벼 기술 협력 강화 방안에 대해 논의했다. * KOPIA(KOrea Partnership for Innovation of Agriculture): 농촌진흥청이 주관하는 국제개발 협력사업.
 
-- **[한여름 고온기에도 ‘잎채소 안정 생산 기술’ 확산에 최선](../../items/rda/2026/07/100000811842.md)**
-  - 2026-07-01 · [읽기](../../items/rda/2026/07/100000811842.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000811842&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 이승돈 농촌진흥청장은 6월 29일 전북특별자치도 진안에 있는 여름철 상추 재배 농가를 방문해 잎채소 수경재배용 고효율 양액 냉각기 적용 현장을 둘러보고 농가 의견을 들었다. 시설 잎채소는 저온성 작물로 적정 생육온도는 15~22도(℃)다.
+- **[무더운 여름철, 염소탕으로 건강 챙기세요](../../items/rda/2026/07/100000812071.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812071.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812071&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 초복(7월 15일)을 앞두고 여름철 대표 보양식으로 염소탕이 주목받고 있다. 농촌진흥청(청장 이승돈)은 염소고기를 좀 더 건강하고 안전하게 즐길 수 있도록 영양적 가치를 소개하고, 가정 내 올바른 보관·조리 방법을 소개했다.
+
+- **[농촌진흥청, 이삭팬 이후 ‘주요 벼 병해’ 철저 방제 당부](../../items/rda/2026/07/100000812070.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812070.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812070&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 올해 7∼8월은 평년보다 기온이 높고 강수량이 많을 것으로 전망된다며, 이삭팬(출수) 이후 고온다습한 기후에서 발생하는 주요 벼 병을 소개하고 철저한 방제를 당부했다. 이삭이 나오는 시기에 비가 잦고 습하면 이삭에 직접적으로 피해를 주는 이삭도열병, 세균벼알마름병, 이삭누룩병이 발생하기 쉽다.
+
+- **[농촌진흥청, 여름방학 맞아 ‘팜앤펀’ 특별프로그램 운영](../../items/rda/2026/07/100000812069.md)**
+  - 2026-07-16 · [읽기](../../items/rda/2026/07/100000812069.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812069&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 여름방학을 맞아 7월 26일부터 8월까지 농업과학관에서 ‘팜앤펀(Farm&Fun)’ 특별 프로그램을 순차적으로 운영한다. 여름방학 동안 어린이들이 농업과학을 쉽고 재미있게 이해할 수 있도록 총 3가지 특별 프로그램을 선보인다.
+
+- **[비 소강·당분간 무더위…농작물 병해 예방 사전 관리 중요](../../items/rda/2026/07/100000812024.md)**
+  - 2026-07-10 · [읽기](../../items/rda/2026/07/100000812024.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812024&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 전국 대부분 지역에 내리던 비가 소강상태를 보이고 당분간 무덥고 고온다습한 환경이 형성될 것 같다며, 주요 농작물 병해 예방 관리와 방제 방법을 안내했다. 현재 농촌진흥청은 병해충 전문가로 ‘농작물 병해충 중앙 예찰단’을 편성해 도 농업기술원과 시군농업기술센터 예찰단과 공동으로 9개 작목 69개 시군에서 농작물 병해충 합동 예찰…
+
+- **[농촌진흥청, 몽골 정부와 농업기술 협력 강화 업무협약 체결](../../items/rda/2026/07/100000812023.md)**
+  - 2026-07-10 · [읽기](../../items/rda/2026/07/100000812023.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812023&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 몽골 식량농업경공업부와 축산 및 식량안보 분야 농업기술협력 강화를 위한 ‘농촌진흥청-몽골 농업부, 수의청과의 축산 및 식량안보 농업기술 업무협약’을 7월 9일, 몽골 정부 청사에서 체결했다. 이번 업무협약은 한-몽골 정상회담(7.9.)을 계기로 2014년 해외농업기술개발(KOPIA, 코피아) 몽골 사업 시작 이후 10년 넘게 이…

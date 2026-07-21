@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/06/25/from-crop-genetics-to-world-cu
 summary: "This week’s stories show how seed science shapes food, sports, cities and the future of our society The post From Crop Genetics to World Cup Turf, Why Plant Breeding Needs a Bigger Stage appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # From Crop Genetics to World Cup Turf, Why Plant Breeding Needs a Bigger Stage
 

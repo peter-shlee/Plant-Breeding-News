@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/25/seed-world-cup-turf-pitch/"
 summary: "Behind every FIFA World Cup match is a seed story. Stacy Bonos of Rutgers and Matthew Duncan of DLF explain the breeding, research and turf science behind World Cup pitches."
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # From Seed to Stadium: In Pursuit of the Perfect World Cup Pitch
 

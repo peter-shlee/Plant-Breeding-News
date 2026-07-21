@@ -1,0 +1,19 @@
+---
+id: "85f1b691a3a13207f62f5619c3c2ab04e8e5f45cf96591256233ea8fd17dc90c"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=126530"
+published_at: "2026-07-16T19:18:09+09:00"
+url: "https://www.seedworld.com/europe/2026/07/16/european-competitiveness-fund-agri-food/"
+summary: "Coalition of 40 organisations says agriculture and food must remain a strategic priority in the EU’s 2028–2034 investment framework. Euroseeds has joined 39 organisations from across Europe’s agri-food chain in calling on EU policymakers"
+attachments: []
+tags: []
+fetched_at: "2026-07-22T06:52:25+09:00"
+---
+# Euroseeds Urges Agri-Food Role in EU Fund
+
+Coalition of 40 organisations says agriculture and food must remain a strategic priority in the EU’s 2028–2034 investment framework. Euroseeds has joined 39 organisations from across Europe’s agri-food chain in calling on EU policymakers to ensure agriculture, food and the wider sector remain central to the future European Competitiveness Fund for 2028–2034. The joint statement argues that agriculture and food are strategic to Europe’s economy, security and resilience. The agri-food value chain generates more than €1 trillion in gross value added for the EU economy while supplying citizens with safe and nutritious food, feed, fuel and fibre. Agri-Food Supports EU Strategic Priorities The coalition says the agri-food chain can contribute directly to several EU priorities, including the clean transition, digital transformation, biotechnology, competitiveness, security and development of the bioeconomy. However, the sector also faces substantial investment needs in infrastructure, innovation, services and skills development. The organisations are therefore calling for agriculture and food to be fully recognized within the EU’s competitiveness agenda and given appropriate access to future investment opportunities, according to a Euroseeds press release. Sector Seen as Driver of Growth and Resilience The statement stresses that agriculture and food should not be viewed only as beneficiaries of competitiveness policies. Instead, the sectors should be recognized as important contributors to economic growth, strategic autonomy and long-term resilience. With geopolitical uncertainty continuing to increase, the coalition says a strong and innovative agri-food sector will be critical to protecting Europe’s food security and supporting its broader economic goals. Coalition Calls for Parliamentary Support Alongside organisations representing farmers, cooperatives, breeders, agricultural input suppliers, processors, traders and food manufacturers, Euroseeds is calling on the European Parliament to support an approach that reflects the strategic role of agriculture and the agri-food chain in Europe’s future competitiveness agenda. “A competitive, resilient and food-secure Europe depends on a strong agricultural sector, and modern agriculture depends on sustained investment in research and innovation, with plant breeding serving as a key driver of agricultural progress,” Euroseeds Manager Research Policy and Project Coordination, Yasmine Ambrogio, said. “We therefore call on the European Parliament to support the proposed amendments and restore a clear and dedicated focus on agriculture and the bioeconomy within the European Competitiveness Fund, rather than subsuming these strategic sectors under a broad ‘Sustainable Prosperity’ window.” Investment Linked to Europe’s Future Security As the EU develops its next long-term budget and competitiveness strategy, the coalition says investment in agriculture and food must be recognized as an investment in Europe’s security, resilience, economic growth and future prosperity. Read the Joint Statement here.
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/europe/2026/07/16/european-competitiveness-fund-agri-food/)

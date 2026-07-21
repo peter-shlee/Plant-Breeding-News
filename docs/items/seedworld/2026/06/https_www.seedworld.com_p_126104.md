@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/21/young-professionals-seed-secto
 summary: "Young professionals are entering the seed sector at a time of rapid change. Mario González Azcárate of NGIN discusses how the next generation can help shape leadership, innovation and the future of agriculture."
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # Young Professionals and Influence in the Seed Sector
 

@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "phenotyping"
   - "콩"
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # Climate Change Could Lower Soybean Seed Quality
 

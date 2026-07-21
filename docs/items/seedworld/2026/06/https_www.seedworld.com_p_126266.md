@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/06/26/the-end-of-the-handoff-era/"
 summary: "Innovation no longer happens in silos. Amanda McClerren explains how integrating breeding, biotechnology, AI and crop protection is accelerating the next generation of seed innovation."
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # Innovation is at the End of the Handoff Era
 

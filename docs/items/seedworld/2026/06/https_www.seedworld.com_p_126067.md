@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/06/29/argentine-barley-malt-quality-p
 summary: "Argentine barley is strengthening its position in malt production, with 90% of grains reaching first-size caliber over the last three campaigns. INTA Bordenave and the Argentine Brewers Chamber say the crop is exceeding key quality"
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # Argentine Barley Reinforces Malt Quality Potential
 

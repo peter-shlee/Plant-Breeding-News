@@ -9,7 +9,7 @@ summary: "The James Hutton Institute has joined PhenomUK, a £35 million UKRI-ba
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # James Hutton Institute Joins PhenomUK Crop Programme
 

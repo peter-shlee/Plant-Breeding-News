@@ -11,35 +11,32 @@ source: "nics"
 
 ## 2026-07
 
+- **[농촌진흥청 개발 찰옥수수 신품종 ‘찰옥5호’, “맛으로 고르고, 기계로 수확”](../../items/nics/2026/07/944358.md)**
+  - 2026-07-16 · [읽기](../../items/nics/2026/07/944358.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944358)
+
+- **[콩 생육 중기, 병해충 방제·물 관리에 힘써야!](../../items/nics/2026/07/944357.md)**
+  - 2026-07-16 · [읽기](../../items/nics/2026/07/944357.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944357)
+
+- **[농촌진흥청, ‘신동진1’ 농가 보급 “현장 소통 활발”](../../items/nics/2026/07/944356.md)**
+  - 2026-07-16 · [읽기](../../items/nics/2026/07/944356.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944356)
+
+- **[삼복더위에 지친 몸과 맘, 콩 별미로 달래요!](../../items/nics/2026/07/944355.md)**
+  - 2026-07-16 · [읽기](../../items/nics/2026/07/944355.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944355)
+
+- **[농촌진흥청, 논콩 · 팥 집중호우 피해 현장 기술지원 “병해충 신속 방제 총력”](../../items/nics/2026/07/944354.md)**
+  - 2026-07-16 · [읽기](../../items/nics/2026/07/944354.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944354)
+
+- **[농촌진흥청, 이삭팬 이후 ‘주요 벼 병해’ 철저 방제 당부](../../items/nics/2026/07/944353.md)**
+  - 2026-07-16 · [읽기](../../items/nics/2026/07/944353.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944353)
+
+- **[만성질환 시대, 국산 잡곡 황금비율로 국민 건강과 식품 산업 키운다!](../../items/nics/2026/07/944328.md)**
+  - 2026-07-09 · [읽기](../../items/nics/2026/07/944328.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944328)
+
+- **[국산 팥, ‘생산·가공 연계’로 안정적인 공급 기반 다진다](../../items/nics/2026/07/944327.md)**
+  - 2026-07-09 · [읽기](../../items/nics/2026/07/944327.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944327)
+
 - **[새만금에 국가 간척지농업 연구 거점 문 연다](../../items/nics/2026/07/944326.md)**
   - 2026-07-07 · [읽기](../../items/nics/2026/07/944326.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944326)
 
 - **[‘벼멸구’ 국내 유입 가능성 커…세심한 관찰로 조기 발견해야](../../items/nics/2026/07/944325.md)**
   - 2026-07-07 · [읽기](../../items/nics/2026/07/944325.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944325)
-
-- **[우리 쌀 경쟁력 강화 ‘장립종 벼 혁신 프로젝트’ 2년 차 공동연수 개최](../../items/nics/2026/07/944316.md)**
-  - 2026-07-06 · [읽기](../../items/nics/2026/07/944316.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944316)
-
-- **[건강한 여름나기, 우리 콩 별미로 무더위 싹 날려보자](../../items/nics/2026/07/944315.md)**
-  - 2026-07-06 · [읽기](../../items/nics/2026/07/944315.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944315)
-
-- **[우리 농산물 활용 양조 기술 지원, 전통주 산업 경쟁력 키운다](../../items/nics/2026/07/944314.md)**
-  - 2026-07-06 · [읽기](../../items/nics/2026/07/944314.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944314)
-
-- **[치유음식 활용 현장 방문 “지역 관광 연계 방안 모색”](../../items/nics/2026/07/944313.md)**
-  - 2026-07-06 · [읽기](../../items/nics/2026/07/944313.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944313)
-
-
-## 2026-06
-
-- **[농촌진흥청, 민관 손잡고 전통 ‘발효종균’ 산업 경쟁력 키운다](../../items/nics/2026/06/944310.md)**
-  - 2026-06-29 · [읽기](../../items/nics/2026/06/944310.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944310)
-
-- **[건강에 좋은 국산 혼합잡곡 제품화·유통 연계 기반 구축](../../items/nics/2026/06/944307.md)**
-  - 2026-06-25 · [읽기](../../items/nics/2026/06/944307.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944307)
-
-- **[고랭지 감자 역병, 지금이 방제 적기!](../../items/nics/2026/06/944306.md)**
-  - 2026-06-25 · [읽기](../../items/nics/2026/06/944306.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944306)
-
-- **[농촌진흥청, 가루쌀 ‘바로미4’ 현장 점검… “안정적 생산 기반 구축에 총력”](../../items/nics/2026/06/944304.md)**
-  - 2026-06-25 · [읽기](../../items/nics/2026/06/944304.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944304)

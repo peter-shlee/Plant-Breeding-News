@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/22/eu-seed-legislation-prm-rules/
 summary: "A new EU seed legislation framework aims to modernise plant reproductive material rules while maintaining core quality, variety registration and market access principles."
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # EU Seed Legislation Modernised Under New PRM Rules
 

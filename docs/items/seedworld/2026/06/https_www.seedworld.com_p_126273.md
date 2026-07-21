@@ -9,7 +9,7 @@ summary: "Vincent Fetterley is developing genomic and computer vision tools to h
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # Young Plant Breeder Wins CPBI Scholarship for AI-Powered Hemp Research
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/29/eu-ngt-regulation-plant-breedi
 summary: "EU NGT regulation creates a faster route for some gene-edited plants, but strict Category 1 limits, including the 20-nucleotide threshold, may leave valuable plant breeding innovation outside the gate."
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # EU NGT Regulation: Why the 20-Nucleotide Threshold Could Limit Plant Breeding Innovation
 

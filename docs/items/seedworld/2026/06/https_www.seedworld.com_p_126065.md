@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/06/26/cebada-argentina-potencial-malt
 summary: "La cebada argentina consolida su potencial para la producción de malta, con 90 % de los granos alcanzando el tamaño ideal en las últimas tres campañas. INTA Bordenave y la Cámara de Cerveceros destacan avances en rendimiento, calidad y"
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # Cebada Argentina refuerza su potencial maltero
 

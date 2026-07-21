@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/06/23/bspb-60-years-plant-breeding/"
 summary: "The British Society of Plant Breeders is marking 60 years of supporting plant breeding in the UK, celebrating advances in crop improvement, industry collaboration and the role of innovation in strengthening agriculture and food security."
 attachments: []
 tags: []
-fetched_at: "2026-07-08T07:00:46+09:00"
+fetched_at: "2026-07-22T06:53:22+09:00"
 ---
 # BSPB Celebrates 60 Years of Plant Breeding Progress
 
