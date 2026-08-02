@@ -10,11 +10,11 @@ attachments: []
 tags:
   - "genomics"
   - "벼"
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:50+09:00"
 ---
-# Rice Breeding is Becoming a Game of Tradoffs
+# Rice Breeding is Becoming a Game of Tradeoffs
 
-Rice breeders are integrating AI, genomic selection, root biology and microbiome research to accelerate genetic gain while improving yield, efficiency and grain quality. The post Rice Breeding is Becoming a Game of Tradoffs appeared first on Seed World .
+Rice breeders are integrating AI, genomic selection, root biology and microbiome research to accelerate genetic gain while improving yield, efficiency and grain quality. The post Rice Breeding is Becoming a Game of Tradeoffs appeared first on Seed World .
 
 ## Original
 

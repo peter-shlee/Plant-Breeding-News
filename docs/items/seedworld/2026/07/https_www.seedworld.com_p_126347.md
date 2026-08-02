@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/06/mujeres-mejoramiento-vegetal/"
 summary: "La próxima generación de mujeres en mejoramiento vegetal comienza su camino con claridad, ambición y determinación. Esta reflexión ofrece consejos sobre disciplina, visión profesional, redes de contacto y aprendizaje dentro de la industria."
 attachments: []
 tags: []
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:50+09:00"
 ---
 # De la Semilla a la Variedad: Guía Para Mujeres que Comienzan en el Fitomejoramiento
 

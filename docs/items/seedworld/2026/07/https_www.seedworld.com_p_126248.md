@@ -9,7 +9,7 @@ summary: "New research from North Carolina State University and Iowa State Unive
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:50+09:00"
 ---
 # The System Behind Bt Stewardship
 

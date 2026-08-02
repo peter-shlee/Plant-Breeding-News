@@ -1,0 +1,19 @@
+---
+id: "43356bdb9598f368d641a8bc90a357076428a32383a4abcc4948dde857ff61b4"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=126698"
+published_at: "2026-07-24T14:20:14+09:00"
+url: "https://www.seedworld.com/us/2026/07/24/the-best-way-to-use-ai-think-like-a-golfer-not-a-robot-2/"
+summary: "Every conversation about AI seems to collapse into one of two camps. One side is convinced it is going to replace everyone."
+attachments: []
+tags: []
+fetched_at: "2026-08-03T06:51:29+09:00"
+---
+# The Best Way to Use AI? Think Like a Golfer, Not a Robot
+
+Every conversation about AI seems to collapse into one of two camps. One side is convinced it is going to replace everyone. The other waves it off as another overhyped tool that will fade like the last one. I think both are wrong, and I think being stuck in either camp is quietly costing people more than they realize. I launched my own AI assistant recently. At first I imagined it as another member of the team. I even called it my “AI Chief of Staff.” That was my first mistake. I was treating it like a person, a second Shawn I could hand things to. But that is not what it is. It is not another name on the org chart. It is an extension of me. So I renamed it. I called it Caddy. If you golf, you already understand the whole philosophy. A caddy carries the clubs, reads the green, handles the routine, and offers a point of view on the shot in front of you. But the caddy never swings. When it is time to hit, the golfer steps up, and the golfer owns where the ball lands. Nobody blames the caddy for a shot in the water. That is exactly how I use AI. It takes the repetitive work off my plate and feeds me ideas faster than I would reach them on my own. But every decision that matters, every relationship, every conversation with real stakes, that is still mine. I am not trying to build a second version of me. I am trying to free up the version that already exists to spend more time on the handful of things only I can do. Watch any company adopt AI and you will see people sort themselves into three groups. Some lean on it too hard and let it think for them. Some barely touch it and hope it goes away. A few find the sweet spot. Here is how you know you are in that third group: your work gets better, and so does your life and the environment around you. That is the whole test. If AI is making your output worse or making your team’s experience worse, you are using it wrong. Let me be honest about where we all are. None of us has this figured out. Not me, not you, and probably not even the companies building these tools. That is exactly why you cannot afford to watch from the sidelines. This is not a spectator technology. You have to get your hands dirty, and you have to start now. You are going to try things that flop. You will automate tasks you never should have touched. And somewhere in that mess you will also stumble onto workflows that hand you back hours every week. That is not failure. That is the tuition. The real lesson for me had nothing to do with prompts or software. It was about where people still create value once a machine can produce the deliverable in seconds. Here is where I have landed. The value was never really the final deliverable. It is the thinking behind it. The judgment. The planning. The relationships. The ability to connect ideas in a way a model simply cannot. Protect that, sharpen that, and lead with that. Which brings me to the line I keep coming back to. Yes, if you are not experimenting with AI, you are probably falling behind. But if all you are doing is flooding the world with AI-generated slop, you are falling behind just as fast. You just have more to show for it.
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/us/2026/07/24/the-best-way-to-use-ai-think-like-a-golfer-not-a-robot-2/)

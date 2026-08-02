@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/07/ukraine-joins-plant-genetic-re
 summary: "Ukraine has become the International Treaty’s 156th Contracting Party, strengthening its access to global plant genetic resources as the country works to protect seed collections, restore breeding capacity and rebuild agricultural"
 attachments: []
 tags: []
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:50+09:00"
 ---
 # Ukraine Joins International Treaty on Plant Genetic Resources
 

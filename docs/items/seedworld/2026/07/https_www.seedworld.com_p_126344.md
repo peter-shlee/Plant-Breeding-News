@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/06/women-plant-breeders-lead-futur
 summary: "The next generation of women plant breeders is entering the industry with ambition, confidence and a clear sense of direction. The advice for them is to stay organized, learn how the industry works, build networks and make decisions that"
 attachments: []
 tags: []
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:50+09:00"
 ---
 # She Knows What She Wants: Advice For Women Entering Plant Breeding
 

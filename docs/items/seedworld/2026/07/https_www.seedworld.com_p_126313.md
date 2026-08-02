@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/05/how-farmers-thrive-in-one-of-c
 summary: "In Canada's North, growers aren't chasing scale — they're searching for the right genetics The post How Farmers Thrive in One of Canada’s Toughest Growing Environments appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:51+09:00"
 ---
 # How Farmers Thrive in One of Canada’s Toughest Growing Environments
 

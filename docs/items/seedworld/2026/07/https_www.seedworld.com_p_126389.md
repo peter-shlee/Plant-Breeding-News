@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/07/european-coalition-eu-research
 summary: "Euroseeds joins 85 other associations in urging EU institutions to make FP10 more ambitious, better funded and more focused on innovation. A broad coalition of 86 European associations, including Euroseeds, […] The post European Coalition"
 attachments: []
 tags: []
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:50+09:00"
 ---
 # European Coalition Calls for Stronger EU Research Investment
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/05/the-next-battle-for-plant-bree
 summary: "Canada's competitiveness in genetics is no longer an isolated policy file, seed growers heard in Whitehorse this weekend The post Why the Next Battle for Plant Breeding Won’t Be in the Field — It’ll Be in Ottawa appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:51+09:00"
 ---
 # Why the Next Battle for Plant Breeding Won’t Be in the Field — It’ll Be in Ottawa
 

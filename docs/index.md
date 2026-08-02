@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-07-22 06:55 (KST)**  
-- 커버리지(최근 섹션): **2026-07-15 ~ 2026-07-22** (최근 7일)
+- 마지막 업데이트: **2026-08-03 06:54 (KST)**  
+- 커버리지(최근 섹션): **2026-07-27 ~ 2026-08-03** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 
 <a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-07-15~2026-07-22)
+## 30초 주간 브리핑 (2026-07-27~2026-08-03)
 
-> 식물 육종의 미래를 위한 정책적 변화와 첨단 기술 도입이 가속화되고 있습니다.
+> 기후 위기 대응을 위한 작물 관리 기술과 글로벌 종자 산업의 규제 변화가 주목받은 한 주입니다.
 
 ### 1) 정책/규제
 
-- 미국 하원의 '공정 종자법(Fair Seeds for Farmers Act)' 발의로 식물 지식재산권 보호 범위와 계약 강제성에 대한 제한 논의가 시작되었습니다. ([원문](https://www.seedworld.com/us/2026/07/21/fair-seeds-for-farmers-act/))
-- 유럽종자협회(Euroseeds) 등 40개 단체가 2028-2034 EU 경쟁력 기금 내 농식품 분야의 전략적 우선순위 유지를 촉구했습니다. ([원문](https://www.seedworld.com/europe/2026/07/16/european-competitiveness-fund-agri-food/))
+- 영국이 역병과 바이러스에 저항성을 갖춘 정밀 육종 감자 ‘파이퍼플러스’의 시장 출시를 승인했습니다. ([원문](https://www.seedworld.com/europe/2026/07/30/uk-approves-first-precision-bred-potato/))
+- 유럽연합 집행위원회가 대두 종자의 가치 사슬과 낮은 거래량을 고려해, 파종용 대두 종자를 EU 산림파괴 방지 규정(EUDR) 적용 대상에서 제외했습니다. ([원문](https://www.seedworld.com/europe/2026/07/29/soybean-seeds-eudr/))
 
 ### 2) 연구/기술
 
-- 네덜란드 식물 생태 표현형 센터(NPEC)가 차세대 이미징과 AI를 활용한 작물 성능 연구를 위해 540만 유로 규모의 시설 업그레이드를 추진합니다. ([원문](https://www.seedworld.com/europe/2026/07/21/netherlands-crop-phenotyping-facility/))
-- 유럽식품안전청(EFSA)이 기존에 평가된 유전자 변형(GM) 형질을 결합한 '스택형 GM 작물'의 승인 절차를 간소화하는 과학적 의견을 발표했습니다. ([원문](https://www.seedworld.com/europe/2026/07/20/efsa-opinion-stacked-gm-crops/))
+- 농촌진흥청이 대장균의 유전자 배열 패턴을 분석해 균주를 정밀하게 구별하는 유전형 분석기술을 개발했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812307&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 농촌진흥청은 집중호우로 침수된 딸기 모종이라도 신속하게 방제 작업을 시행하면 생존율을 2배 이상 높일 수 있다고 밝혔습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812296&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 ### 3) 유통/시장/현장
 
-- 영국 제임스 허튼 연구소(HSS)가 SASA의 상업적 감자 바이러스 검사 중단에 대응하여 새로운 상업용 검사 서비스를 출시했습니다. ([원문](https://www.seedworld.com/europe/2026/07/21/hutton-potato-virus-testing-2026-seed-campaign/))
-- 파라과이 종자생산자협회(APROSEMP)가 신규 콩 기술에 대한 접근성 제한과 미인증 종자 유통으로 인해 산업 경쟁력이 저하되고 있다고 경고했습니다. ([원문](https://www.seedworld.com/latam/2026/07/17/certified-soybean-seed-paraguay-technology-access/))
+- 국산 감귤 품종 ‘하례조생’이 사용료 부담 없는 효자 품종으로 자리 잡으며, 디지털 유통을 통한 직거래 성공 모델로 확산하고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812302&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 농촌진흥청과 오뚜기제유, 안동시가 국산 참기름의 고부가가치 산업화와 자급률 향상을 위해 업무협약을 체결했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812291&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -47,52 +47,53 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[기후변화 대응형 인삼 품종, 종자 생산·보급 확대 방안 논의](items/nihhs/2026/07/100000812090.md)**
-  - 2026-07-16 · `nihhs` · [읽기](items/nihhs/2026/07/100000812090.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812090&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 기후변화 대응형 인삼 품종, 종자 생산·보급 확대…
+- **[The Seed Sector Doesn’t Need More Ideas. It Needs Fewer Friction Points](items/seedworld/2026/07/https_www.seedworld.com_p_126799.md)**
+  - 2026-07-31 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126799.md) · [원문](https://www.seedworld.com/canada/2026/07/30/canada-seed-sector-needs-less-friction/)
+  - From digital administration to public plant breeding and industry leadership, three stories reveal the same challenge: making it easier for people, systems and institutions to work together.
 
-- **[Barley Genes Linked to Stress and Grain Quality](items/seedworld/2026/07/https_www.seedworld.com_p_126380.md)**
-  - 2026-07-16 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126380.md) · [원문](https://www.seedworld.com/europe/2026/07/16/barley-genes-stress-grain-quality/)
-  - Research from the International Barley Hub points to genetic mechanisms that help protect barley from environmental stress and grain skinning. A new study from the International Barley Hub (IBH), pub…
+- **[품종 사용료 없는 국산 감귤로…‘하례조생’ 성공 모델 확산](items/rda/2026/08/100000812302.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812302.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812302&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 해외 품종 의존도가 높았던 감귤 시장에서 국산 신품종 ‘하례조생’이 농가 소득을 올리는 효자 품종으로 급부상하고 있다. 이승돈 농촌진흥청장은 7월 29일 제주특별자치도 서귀포시 사랑꽃감귤농장을 찾아 하례조생의 재배, 판매 현황을 살피고, 국산 품종의 보급 확대 방안을 논했다.
 
-- **[기후변화 대응형 인삼 품종, 종자 생산·보급 확대 방안 논의](items/rda/2026/07/100000812090.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812090.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812090&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈) 국립원예특작과학원 김대현 원장은 7월 15일 전북특별자치도 김제의 인삼 종자 생산 농가를 찾아 현장을 둘러보고 농업인 목소리를 들었다. 이날 방문은 농촌진흥청이 자체 개발한 기후변화 대응형 인삼 ‘천량’과 ‘고원’의 종자 생산 현장을 점검하고, 우수 종자의 안정적인 생산과 현장 보급 확대 방안을 논의하기 위해 마련했다.
+- **[국산 사료피 신품종 ‘만온’, 전남 영암서 수확 연시](items/rda/2026/08/100000812300.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812300.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812300&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립축산과학원은 7월 29일 전남광주통합특별시 영암군 사료 피 실증 재배지에서 신품종 현장 수확 연시회를 열고, 재배·수확·이용 기술의 현장 적용성을 검증했다. 실증 재배지는 40헥타르(ha) 규모다.
 
-- **[꿀벌 신품종 ‘지역 적응’, ‘이용 촉진’ 성과 공유한다](items/rda/2026/07/100000812083.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812083.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812083&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 7월 15, 16일 이틀간 충남농업기술원 산업곤충연구소에서 ‘2026년 꿀벌 신품종 개발 공동연구 상반기 현장 평가회’를 연다. 이번 현장 평가회는 올해 상반기 ‘꿀벌 강건 다수확 신품종 지역 적응 연구’와 ‘우수 꿀벌 신품종 이용 촉진 사업’ 추진 결과를 공유하고, 중앙-지자체 협업으로 양봉농가 어려움을 해결하기 위해 마련됐다.
+- **[품종 사용료 없는 국산 감귤로…‘하례조생’ 성공 모델 확산](items/nihhs/2026/08/100000812302.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812302.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812302&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 품종 사용료 없는 국산 감귤로…‘하례조생’ 성공 모…
 
-- **[국산 포도 신품종 현장 안착 지원, 농가 실증연구 살펴](items/rda/2026/07/100000812074.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812074.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812074&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈) 국립원예특작과학원 김대현 원장은 7월 13일 경기도 화성시 포도 신품종 재배 농가를 찾아 실증연구 현황을 확인하고 현장 의견을 들었다. 이번 방문은 신품종 재배 기술과 품질 관리 방안을 중점 관리하고 국산 포도 품종의 안정적인 현장 정착을 지원하기 위해 마련했다.
+- **[Commission Excludes Soybean Seeds from EUDR](items/seedworld/2026/07/https_www.seedworld.com_p_126711.md)**
+  - 2026-07-30 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126711.md) · [원문](https://www.seedworld.com/europe/2026/07/29/soybean-seeds-eudr/)
+  - The European Commission has removed soybean seeds for sowing from the EU Deforestation Regulation scope after recognising their separate value chain, negligible trade volumes and seed-specific contro…
 
-- **[농촌진흥청 개발 찰옥수수 신품종 ‘찰옥5호’, “맛으로 고르고, 기계로 수확”](items/nics/2026/07/944358.md)**
-  - 2026-07-16 · `nics` · [읽기](items/nics/2026/07/944358.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944358)
+- **[Austria Builds Research Station for Climate-Resilient Crops](items/seedworld/2026/07/https_www.seedworld.com_p_126736.md)**
+  - 2026-07-29 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126736.md) · [원문](https://www.seedworld.com/europe/2026/07/29/austria-climate-resilient-crops-research-station/)
+  - The new AGES facility in Großnondorf will support variety testing and research into drought stress, crop production and climate-adapted plant breeding. Austria has begun construction of a new agricul…
 
-- **[농촌진흥청 개발 찰옥수수 신품종 ‘찰옥5호’, “맛으로 고르고, 기계로 수확”](items/rda/2026/07/100000812098.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812098.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812098&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 7월 16일 충북 충주시 살미면에서 찰옥수수 신품종 ‘찰옥5호’ 식미 평가와 기계수확 연시회를 열었다. 이번 행사는 식량 자급률을 높이기 위한 전략 작물 중 하나인 옥수수의 안정적인 생산 기반을 넓히고, 재배 현장의 일손 부족 문제를 해결하고자 마련됐다.
+- **[“찐감자는 포슬포슬한 밤맛”…소비자 사로잡은 감자 ‘금선’·‘은선’](items/rda/2026/08/100000812304.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812304.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812304&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 찐감자는 품종에 따라 맛과 식감이 크게 다르다. 어떤 감자는 밤처럼 고소하고 포슬포슬하지만, 어떤 감자는 촉촉하고 단단하다.
 
-- **[“기운 돋우고 입맛 살리고” 약용작물로 채우는 여름 식탁](items/nihhs/2026/07/100000812077.md)**
-  - 2026-07-16 · `nihhs` · [읽기](items/nihhs/2026/07/100000812077.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812077&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 “기운 돋우고 입맛 살리고” 약용작물로 채우는 여름…
+- **[상생 더하고 당 뺀 지역 상생 에이드 3종 선봬](items/rda/2026/08/100000812303.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812303.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812303&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 여름철 음료 시장에 ‘건강’과 ‘지역 상생’을 동시에 잡은 프리미엄 에이드가 찾아온다. 농촌진흥청(청장 이승돈)은 7월 30일 국내 육성 품종과 지역특화 농산물을 활용한 ‘지역 상생 에이드(음료) 무설탕(제로슈거)·무가당’ 재출시 제품 3종을 전국의 세븐일레븐 매장에 선보였다.
 
-- **[국산 포도 신품종 현장 안착 지원, 농가 실증연구 살펴](items/nihhs/2026/07/100000812074.md)**
-  - 2026-07-16 · `nihhs` · [읽기](items/nihhs/2026/07/100000812074.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812074&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 국산 포도 신품종 현장 안착 지원, 농가 실증연구…
+- **[‘난축맛돈’ 산업화 가속…제주 넘어 전국구 프리미엄 돈육으로](items/rda/2026/08/100000812299.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812299.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812299&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 제주 고유의 흑돼지 품종인 ‘난축맛돈’이 신선육 중심의 판매에서 벗어나 외식·가공시장으로 판로를 넓힌다. 이승돈 농촌진흥청장은 7월 29일 제주특별자치도 제주시의 난축맛돈 전문 육가공·유통업체 (주)제주드림포크(대표 조원재)를 찾아 유통·가공 현황을 점검하고, 고부가가치 산업화 확대 방안을 논의했다.
 
-- **[What the Fair Seeds for Farmers Act Would Change](items/seedworld/2026/07/https_www.seedworld.com_p_126629.md)**
-  - 2026-07-22 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126629.md) · [원문](https://www.seedworld.com/us/2026/07/21/fair-seeds-for-farmers-act/)
-  - Seed World explains a new House bill that would limit federal intellectual property protection for plants. It would restrict the enforcement of certain contracts involving research, breeding and seed…
+- **[농촌진흥청, 벼‧논콩 집중호우 피해 현장 기술 지원](items/rda/2026/08/100000812295.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812295.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812295&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청 국립식량과학원 김병석 원장은 7월 28일 충남 아산시의 벼와 논콩 재배지를 찾아 집중호우로 인한 피해 상황을 점검하고, 농작물 생육 회복과 병해충 관리를 위한 현장 기술 지원에 나섰다. 이 지역은 지난 21일부터 22일까지 160밀리미터(㎜)가 쏟아져 아산시 둔포면의 전병기 농가는 재배 중인 조생종 벼 128헥타르(ha) 중 0.7헥타르가 잠기…
 
-- **[Can Crops Keep Fighting White Mold in a Changing Climate?](items/seedworld/2026/07/https_www.seedworld.com_p_126622.md)**
-  - 2026-07-21 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126622.md) · [원문](https://www.seedworld.com/canada/2026/07/21/climate-change-crop-disease-resistance-podcast/)
-  - On this week’s Seed World podcast, McGill University PhD candidate Neha Paserkar explains how genomics, transcriptomics and climate research are helping breeders develop disease-resistant crops for t…
+- **[가을 파종용 씨마늘, 여름철 보관·선별·소독 철저 당부](items/nihhs/2026/08/100000812293.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812293.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812293&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 가을 파종용 씨마늘, 여름철 보관·선별·소독 철저…
 
-- **[Netherlands Invests in Crop Phenotyping Facility](items/seedworld/2026/07/https_www.seedworld.com_p_126618.md)**
-  - 2026-07-21 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126618.md) · [원문](https://www.seedworld.com/europe/2026/07/21/netherlands-crop-phenotyping-facility/)
-  - NPEC upgrade will combine next-generation imaging, drones and AI to help researchers study crop performance under changing environmental conditions. The Netherlands Plant Eco-phenotyping Centre (NPEC…
+- **[품종 개발·배지 국산화·스마트팜으로 버섯산업 활로 찾는다](items/nihhs/2026/08/100000812292.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812292.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812292&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 품종 개발·배지 국산화·스마트팜으로 버섯산업 활로…
 
 
 <a id="news-feed"></a>
@@ -101,125 +102,125 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
-- **[NAPB President Wants to Strengthen Public-Private Partnerships](items/seedworld/2026/07/https_www.seedworld.com_p_126632.md)**
-  - 2026-07-22 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126632.md) · [원문](https://www.seedworld.com/us/watch-listen/2026/07/21/katy-martin-rainey-napb-president/)
-  - National Association for Plant Breeding ( NAPB) President Katy Martin Rainey says workforce development, stronger industry connections and engaging smaller seed companies will be central priorities d…
+- **[폭염·가뭄 지속…과수원 생육 관리 강화해야](items/rda/2026/08/100000812309.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812309.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812309&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 최근 고온·건조한 날씨가 이어짐에 따라 사과, 배, 복숭아, 포도 등 주요 과수의 안정적인 생육을 위해 과수원 관리를 철저히 해 달라고 당부했다. 국립원예특작과학원이 주요 과수 주산지의 생육 상황을 점검한 결과, 현재까지 폭염과 가뭄으로 인한 큰 피해는 확인되지 않았다.
 
-- **[What the Fair Seeds for Farmers Act Would Change](items/seedworld/2026/07/https_www.seedworld.com_p_126629.md)**
-  - 2026-07-22 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126629.md) · [원문](https://www.seedworld.com/us/2026/07/21/fair-seeds-for-farmers-act/)
-  - Seed World explains a new House bill that would limit federal intellectual property protection for plants. It would restrict the enforcement of certain contracts involving research, breeding and seed…
+- **[겉보기 같은 대장균, ‘유전자 지문’으로 세밀하게 가린다](items/rda/2026/08/100000812307.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812307.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812307&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 겉보기에 같아도 위험도는 천차만별인 대장균을 ‘유전자 지문’으로 정확히 구별해내는 기술이 개발돼 농산물 안전관리에도 혁신이 기대된다. 농촌진흥청(청장 이승돈)은 대장균의 독특한 유전자 배열 패턴을 분석해 균주의 정밀한 '족보'를 찾아내는 새로운 유전형 분석기술을 개발했다고 밝혔다.
 
-- **[Can Crops Keep Fighting White Mold in a Changing Climate?](items/seedworld/2026/07/https_www.seedworld.com_p_126622.md)**
-  - 2026-07-21 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126622.md) · [원문](https://www.seedworld.com/canada/2026/07/21/climate-change-crop-disease-resistance-podcast/)
-  - On this week’s Seed World podcast, McGill University PhD candidate Neha Paserkar explains how genomics, transcriptomics and climate research are helping breeders develop disease-resistant crops for t…
+- **[“찐감자는 포슬포슬한 밤맛”…소비자 사로잡은 감자 ‘금선’·‘은선’](items/rda/2026/08/100000812304.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812304.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812304&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 찐감자는 품종에 따라 맛과 식감이 크게 다르다. 어떤 감자는 밤처럼 고소하고 포슬포슬하지만, 어떤 감자는 촉촉하고 단단하다.
 
-- **[Netherlands Invests in Crop Phenotyping Facility](items/seedworld/2026/07/https_www.seedworld.com_p_126618.md)**
-  - 2026-07-21 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126618.md) · [원문](https://www.seedworld.com/europe/2026/07/21/netherlands-crop-phenotyping-facility/)
-  - NPEC upgrade will combine next-generation imaging, drones and AI to help researchers study crop performance under changing environmental conditions. The Netherlands Plant Eco-phenotyping Centre (NPEC…
+- **[상생 더하고 당 뺀 지역 상생 에이드 3종 선봬](items/rda/2026/08/100000812303.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812303.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812303&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 여름철 음료 시장에 ‘건강’과 ‘지역 상생’을 동시에 잡은 프리미엄 에이드가 찾아온다. 농촌진흥청(청장 이승돈)은 7월 30일 국내 육성 품종과 지역특화 농산물을 활용한 ‘지역 상생 에이드(음료) 무설탕(제로슈거)·무가당’ 재출시 제품 3종을 전국의 세븐일레븐 매장에 선보였다.
 
-- **[Hutton Launches Potato Virus Testing for 2026 Campaign](items/seedworld/2026/07/https_www.seedworld.com_p_126551.md)**
-  - 2026-07-21 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126551.md) · [원문](https://www.seedworld.com/europe/2026/07/21/hutton-potato-virus-testing-2026-seed-campaign/)
-  - New commercial service will test for PVY and PLRV following SASA’s withdrawal from commercial potato virus testing Hutton Scientific Services (HSS), the commercial arm of The James Hutton Institute,…
+- **[품종 사용료 없는 국산 감귤로…‘하례조생’ 성공 모델 확산](items/rda/2026/08/100000812302.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812302.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812302&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 해외 품종 의존도가 높았던 감귤 시장에서 국산 신품종 ‘하례조생’이 농가 소득을 올리는 효자 품종으로 급부상하고 있다. 이승돈 농촌진흥청장은 7월 29일 제주특별자치도 서귀포시 사랑꽃감귤농장을 찾아 하례조생의 재배, 판매 현황을 살피고, 국산 품종의 보급 확대 방안을 논했다.
 
-- **[Nanocápsulas Fertilizantes Mejoran Uso de Nutrientes](items/seedworld/2026/07/https_www.seedworld.com_p_126464.md)**
-  - 2026-07-21 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126464.md) · [원문](https://www.seedworld.com/latam/2026/07/21/nanocapsulas-fertilizantes-uso-nutrientes/)
-  - Investigadores del CONICET están desarrollando sistemas de fertilizantes de liberación controlada diseñados para reducir las pérdidas de nutrientes, mejorar la absorción por los cultivos y apoyar una…
+- **[벼 병해충 확산 막는다…신속 방제 현장 기술 지원](items/rda/2026/08/100000812301.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812301.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812301&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립식량과학원 김병석 원장은 7월 29일 전북 임실군 성수면의 벼 재배 농가를 찾아 생육 상황과 병해충 발생 현황을 점검하고, 주요 병해충의 확산 방지를 위한 현장 기술 지원에 나섰다. 올해 벼 도열병은 평년보다 10일가량 늦은 7월 1일 경기도 여주에서 첫 발생이 확인된 이후 현재 경남북, 전남, 강원 등 전국적으로 3,783h…
 
-- **[U.S. Company Named a Euroseeds InnovAction Finalist](items/seedworld/2026/07/https_www.seedworld.com_p_126607.md)**
-  - 2026-07-21 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126607.md) · [원문](https://www.seedworld.com/us/2026/07/20/bioconsortia-euroseeds-innovation-finalist/)
-  - California Company BioConsortia will showcase its Always-N microbial seed treatment at the Euroseeds2026 Congress in Spain. California-based BioConsortia is one of 10 finalists for the Euroseeds2026…
+- **[국산 사료피 신품종 ‘만온’, 전남 영암서 수확 연시](items/rda/2026/08/100000812300.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812300.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812300&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립축산과학원은 7월 29일 전남광주통합특별시 영암군 사료 피 실증 재배지에서 신품종 현장 수확 연시회를 열고, 재배·수확·이용 기술의 현장 적용성을 검증했다. 실증 재배지는 40헥타르(ha) 규모다.
 
-- **[Corn’s Next Job Description Is Getting Longer](items/seedworld/2026/07/https_www.seedworld.com_p_126604.md)**
-  - 2026-07-21 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126604.md) · [원문](https://www.seedworld.com/us/2026/07/20/corn-breeding-aflatoxin-resistance-nutrition/)
-  - Texas A&M researchers are developing corn hybrids that tackle food safety, nutrition and resilience while delivering the yields farmers expect. For decades, corn breeders have chased a familiar set o…
+- **[‘난축맛돈’ 산업화 가속…제주 넘어 전국구 프리미엄 돈육으로](items/rda/2026/08/100000812299.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812299.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812299&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 제주 고유의 흑돼지 품종인 ‘난축맛돈’이 신선육 중심의 판매에서 벗어나 외식·가공시장으로 판로를 넓힌다. 이승돈 농촌진흥청장은 7월 29일 제주특별자치도 제주시의 난축맛돈 전문 육가공·유통업체 (주)제주드림포크(대표 조원재)를 찾아 유통·가공 현황을 점검하고, 고부가가치 산업화 확대 방안을 논의했다.
 
-- **[Euroseeds Names 2026 InnovAction Stage Finalists](items/seedworld/2026/07/https_www.seedworld.com_p_126599.md)**
-  - 2026-07-20 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126599.md) · [원문](https://www.seedworld.com/europe/2026/07/20/euroseeds-innovation-stage-2026-finalists/)
-  - Selected companies will present seed treatment, enhancement and crop resilience technologies at the Euroseeds2026 Congress in Valencia. Euroseeds has announced the 10 companies selected as finalists…
+- **[폭염에 데이고 터지는 배…수확기 피해 줄이는 기술 공유](items/rda/2026/08/100000812297.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812297.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812297&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 무더위가 지속되면서 배 껍질이 햇볕에 데거나 열매가 터지는 고온 장해가 발생할 수 있다. 수확을 앞둔 배 농가의 피해 예방을 위해 연구자와 농업인이 현장 대응 기술을 공유할 수 있는 자리가 마련된다.
 
-- **[EFSA Opinion Could Streamline Stacked GM Crops](items/seedworld/2026/07/https_www.seedworld.com_p_126596.md)**
-  - 2026-07-20 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126596.md) · [원문](https://www.seedworld.com/europe/2026/07/20/efsa-opinion-stacked-gm-crops/)
-  - New guidance suggests comparative field trials and certain dietary exposure assessments may not always be necessary when previously assessed GM traits are combined. The European Food Safety Authority…
+- **[침수된 딸기 모종, 빠른 방제 시 생존율 2배 이상 높아](items/rda/2026/08/100000812296.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812296.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812296&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 여름철 잦은 집중호우로 딸기 육묘장이 물에 잠기는 피해가 자주 발생하고 있다. 이에 농촌진흥청(청장 이승돈)은 침수된 모종도 바로 방제 작업을 할 경우 생존율을 크게 높일 수 있다고 밝혔다.
 
-- **[Nordic Melons Project Tests Historic Varieties](items/seedworld/2026/07/https_www.seedworld.com_p_126554.md)**
-  - 2026-07-20 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126554.md) · [원문](https://www.seedworld.com/europe/2026/07/20/nordic-melons-historic-varieties/)
-  - NordGen project is testing 12 heritage varieties to assess their potential for locally grown, commercially viable melon production. Melon production in the Nordic region may appear novel, but it is r…
+- **[농촌진흥청, 벼‧논콩 집중호우 피해 현장 기술 지원](items/rda/2026/08/100000812295.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812295.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812295&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청 국립식량과학원 김병석 원장은 7월 28일 충남 아산시의 벼와 논콩 재배지를 찾아 집중호우로 인한 피해 상황을 점검하고, 농작물 생육 회복과 병해충 관리를 위한 현장 기술 지원에 나섰다. 이 지역은 지난 21일부터 22일까지 160밀리미터(㎜)가 쏟아져 아산시 둔포면의 전병기 농가는 재배 중인 조생종 벼 128헥타르(ha) 중 0.7헥타르가 잠기…
 
-- **[Concepts For Your Seeds](items/seedworld/2026/07/https_www.seedworld.com_p_115731.md)**
-  - 2026-07-18 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_115731.md) · [원문](https://www.seedworld.com/europe/2026/07/18/concepts-for-your-seeds-2/)
-  - For over 40 years, SATEC® has provided high-quality seed treatment solutions—from pelleting to coating—serving agriculture, vegetables, ornamentals, and forestry with German-engineered equipment.
+- **[농촌진흥청, 중앙치유농업센터 운영 전략 찾는다](items/rda/2026/08/100000812294.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812294.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812294&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 7월 28일 경상남도 김해시농업기술센터에서 ‘중앙치유농업센터 운영 전략 모색’을 주제로 제6차 「농촌진흥청 치유농업 포럼」을 개최했다. * 치유농업: 농업·농촌 자원을 활용해 국민의 신체적·정신적 건강을 증진하고 삶의 질을 높이는 다양한 활동과 서비스.
 
-- **[Concepts For Your Seeds](items/seedworld/2026/07/https_www.seedworld.com_p_120734.md)**
-  - 2026-07-18 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_120734.md) · [원문](https://www.seedworld.com/us/2026/07/18/concepts-for-your-seeds-5/)
-  - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds referring to their high quality. You get specific and individual […]…
+- **[가을 파종용 씨마늘, 여름철 보관·선별·소독 철저 당부](items/rda/2026/08/100000812293.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812293.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812293&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 안정적인 마늘 생산을 위해 여름철 씨마늘(종구) 보관과 파종 전 우량 씨마늘 선별·소독을 철저히 해 달라고 당부했다. 마늘은 씨앗이 아닌 씨마늘을 심어 재배하는 작물이다.
 
-- **[Wheat Salt Tolerance Traits Could Improve Yields](items/seedworld/2026/07/https_www.seedworld.com_p_126382.md)**
-  - 2026-07-17 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126382.md) · [원문](https://www.seedworld.com/europe/2026/07/17/wheat-salt-tolerance-traits-improve-yields/)
-  - Researchers identify potassium retention, lower sodium accumulation and proline content as key indicators of wheat salt tolerance. Soil salinity and sodicity are major challenges for global agricultu…
+- **[품종 개발·배지 국산화·스마트팜으로 버섯산업 활로 찾는다](items/rda/2026/08/100000812292.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812292.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812292&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 7월 28일 국립원예특작과학원 본원 대강당에서 버섯산업의 지속 가능한 성장과 현안 해결 방안을 논의하는 ‘버섯산업 발전 방안 토론회’를 연다. 국내 버섯산업은 고품질 품종과 안정 생산 기술 개발, 재배 시설 현대화, 농가의 꾸준한 노력에 힘입어 연간 17만 톤 이상의 생산 기반을 갖춘 주요 원예산업으로 성장했다.
 
-- **[Plant Sensors Could Detect Crop Stress Earlier](items/seedworld/2026/07/https_www.seedworld.com_p_126570.md)**
-  - 2026-07-17 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126570.md) · [원문](https://www.seedworld.com/europe/2026/07/17/plant-sensors-crop-stress/)
-  - Tufts University researchers developed battery-free leaf and stem sensors that monitor plant water loss, growth and stress before visible symptoms appear. Researchers at Tufts University have develop…
+- **[국립식량과학원-오뚜기제유(주)-안동시, 국산 프리미엄 참기름 산업 활성화 위해 맞손](items/rda/2026/08/100000812291.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812291.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812291&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립식량과학원은 7월 27일 경상북도 안동시청에서 오뚜기제유(주), 안동시와 업무협약(MOU)을 체결했다. 이번 협약은 국산 프리미엄 참기름 시장 조성과 관련 산업 활성화를 위해 마련됐다.
 
-- **[Certified Soybean Seed: Paraguay Sector Raises Alarm](items/seedworld/2026/07/https_www.seedworld.com_p_126461.md)**
-  - 2026-07-17 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126461.md) · [원문](https://www.seedworld.com/latam/2026/07/17/certified-soybean-seed-paraguay-technology-access/)
-  - APROSEMP says limited access to new soybean technology, low certified seed use and unauthorized sales are putting pressure on Paraguay’s seed industry. The Paraguayan Seed Producers Association (APRO…
+- **[전국 지방농촌진흥기관 폭염 대응 농업인 온열질환 예방 현황 점검](items/rda/2026/08/100000812290.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812290.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812290&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 장마가 끝나고 무더위가 이어지고 있는 가운데, 7월 27일 전국 17개 시도 농업인 안전 업무 담당자와 함께 「폭염 대응 농업인 온열질환 예방 점검회의」를 개최했다고 밝혔다. 지난 26일 전남, 경북, 경남, 대구 등 여러 지역에 폭염중대경보(체감온도 38℃ 이상 또는 기온 39℃ 이상)가 발효된 가운데, 이번 회의는 지방농촌진…
 
-- **[The Amazon Moment for Seed Retail: Register For Our July 27 Webinar](items/seedworld/2026/07/https_www.seedworld.com_p_126545.md)**
-  - 2026-07-17 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126545.md) · [원문](https://www.seedworld.com/canada/2026/07/16/the-amazon-moment-for-seed-retail-register-for-our-july-27-webinar/)
-  - Explore the concept of “Seed Administrative Synergy” and what a single platform for seed transactions could mean for retailers, farmers, seed growers, and seed companies The post The Amazon Moment fo…
+- **[농촌진흥청, 이달의 신간](items/rda/2026/08/100000812289.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812289.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812289&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - - 「꽃송이버섯 수확 후 품질 관리 기술 길라잡이」 농촌진흥청(청장 이승돈)은 꽃송이버섯의 수확 후 품질 관리 체계를 확립하고 현장 활용도를 높이기 위해 「꽃송이버섯 수확 후 품질 관리 기술 길라잡이」를 펴냈다. 꽃송이버섯은 카네이션 꽃잎처럼 얇은 자실체가 여러 겹 모여 마치 꽃양배추를 닮은 독특한 형태를 띤다.
 
-- **[Midwest Migration Signals a Financial Power Shift](items/seedworld/2026/07/https_www.seedworld.com_p_126542.md)**
-  - 2026-07-17 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126542.md) · [원문](https://www.seedworld.com/us/2026/07/16/midwest-migration-agriculture/)
-  - Population shifts are creating new opportunities for seed companies to recruit talent, strengthen university partnerships and grow alongside the Midwest economy. What makes a state strong?
+- **[‘참외 수확후관리’ 생산‧유통 현장 목소리 듣는다](items/rda/2026/08/100000812288.md)**
+  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812288.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812288&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 24일 경북 성주군 월항농협 산지유통센터에서 ‘참외 수확후관리 현장간담회’를 열었다. 이번 간담회는 국내 최대 참외 주산지인 성주의 생산자와 월항농협 산지유통센터 관계자, 경상북도농업기술원 성주참외과채류연구소, 참외 선별기 제작업체 등이 참여한 가운데 열렸다.
 
-- **[Why We Can’t Let Canada’s Seed Sector Become a Museum Piece](items/seedworld/2026/07/https_www.seedworld.com_p_126533.md)**
-  - 2026-07-17 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126533.md) · [원문](https://www.seedworld.com/canada/2026/07/16/why-we-cant-let-canadas-seed-sector-become-a-museum-piece/)
-  - Boomtown Street celebrates the past. It also reminds us what happens when successful institutions stop evolving.
+- **[폭염·가뭄 지속…과수원 생육 관리 강화해야](items/nihhs/2026/08/100000812309.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812309.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812309&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 폭염·가뭄 지속…과수원 생육 관리 강화해야 부서 과…
 
-- **[Barley Genes Linked to Stress and Grain Quality](items/seedworld/2026/07/https_www.seedworld.com_p_126380.md)**
-  - 2026-07-16 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126380.md) · [원문](https://www.seedworld.com/europe/2026/07/16/barley-genes-stress-grain-quality/)
-  - Research from the International Barley Hub points to genetic mechanisms that help protect barley from environmental stress and grain skinning. A new study from the International Barley Hub (IBH), pub…
+- **[품종 사용료 없는 국산 감귤로…‘하례조생’ 성공 모델 확산](items/nihhs/2026/08/100000812302.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812302.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812302&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 품종 사용료 없는 국산 감귤로…‘하례조생’ 성공 모…
 
-- **[Euroseeds Urges Agri-Food Role in EU Fund](items/seedworld/2026/07/https_www.seedworld.com_p_126530.md)**
-  - 2026-07-16 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126530.md) · [원문](https://www.seedworld.com/europe/2026/07/16/european-competitiveness-fund-agri-food/)
-  - Coalition of 40 organisations says agriculture and food must remain a strategic priority in the EU’s 2028–2034 investment framework. Euroseeds has joined 39 organisations from across Europe’s agri-fo…
+- **[폭염에 데이고 터지는 배…수확기 피해 줄이는 기술 공유](items/nihhs/2026/08/100000812297.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812297.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812297&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 폭염에 데이고 터지는 배…수확기 피해 줄이는 기술…
 
-- **[Semillas de Soja: APROSEMP Advierte por Tecnología](items/seedworld/2026/07/https_www.seedworld.com_p_126458.md)**
-  - 2026-07-16 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126458.md) · [원문](https://www.seedworld.com/latam/2026/07/16/semillas-soja-aprosemp-tecnologia/)
-  - APROSEMP afirma que el acceso limitado a la nueva tecnología de soja, el bajo uso de semillas certificadas y las ventas no autorizadas están ejerciendo presión sobre la industria de semillas de Parag…
+- **[침수된 딸기 모종, 빠른 방제 시 생존율 2배 이상 높아](items/nihhs/2026/08/100000812296.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812296.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812296&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 침수된 딸기 모종, 빠른 방제 시 생존율 2배 이상…
 
-- **[Ottawa is Finally Treating Soil as Strategic Infrastructure. Here’s Why Seed Growers Should Care](items/seedworld/2026/07/https_www.seedworld.com_p_126422.md)**
-  - 2026-07-16 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126422.md) · [원문](https://www.seedworld.com/canada/2026/07/16/ottawa-is-finally-treating-soil-as-strategic-infrastructure-heres-why-seed-growers-should-care/)
-  - Senator Robert Black says a new national soil strategy could reshape conservation, land-use planning and research priorities. Canada’s seed sector has a rare opportunity to influence federal policy a…
+- **[가을 파종용 씨마늘, 여름철 보관·선별·소독 철저 당부](items/nihhs/2026/08/100000812293.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812293.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812293&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 가을 파종용 씨마늘, 여름철 보관·선별·소독 철저…
 
-- **[농촌진흥청 개발 찰옥수수 신품종 ‘찰옥5호’, “맛으로 고르고, 기계로 수확”](items/rda/2026/07/100000812098.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812098.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812098&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 7월 16일 충북 충주시 살미면에서 찰옥수수 신품종 ‘찰옥5호’ 식미 평가와 기계수확 연시회를 열었다. 이번 행사는 식량 자급률을 높이기 위한 전략 작물 중 하나인 옥수수의 안정적인 생산 기반을 넓히고, 재배 현장의 일손 부족 문제를 해결하고자 마련됐다.
+- **[품종 개발·배지 국산화·스마트팜으로 버섯산업 활로 찾는다](items/nihhs/2026/08/100000812292.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812292.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812292&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 품종 개발·배지 국산화·스마트팜으로 버섯산업 활로…
 
-- **[농촌진흥청, 현장 중심의 역점과제 추진· 하반기 국민 체감 성과 창출에 속도 높인다](items/rda/2026/07/100000812097.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812097.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812097&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 7월 16일 청와대에서 진행된 부처 합동 업무보고에서 ‘2026년도 하반기 주요 업무 계획’을 보고했다. 농촌진흥청은 국민주권정부 2년 차를 맞아 정부 핵심 정책인 농업 대전환과 모두의 성장 등을 뒷받침할 역점과제를 하반기에 속도감 있게 추진, 주권자인 국민과 함께 변화와 성과를 만들어 갈 방침이다.
+- **[농촌진흥청, 이달의 신간](items/nihhs/2026/08/100000812289.md)**
+  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812289.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812289&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 농촌진흥청, 이달의 신간 부서 저장유통과 작성일 2…
 
-- **[콩 생육 중기, 병해충 방제·물 관리에 힘써야!](items/rda/2026/07/100000812093.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812093.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812093&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 보도자료 보도 시점 2026. 7.
+- **[Reflecting on a Lifetime in Wheat Breeding](items/seedworld/2026/07/https_www.seedworld.com_p_126803.md)**
+  - 2026-07-31 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126803.md) · [원문](https://www.seedworld.com/us/2026/07/30/mark-sorrells-plant-breeding-legacy/)
+  - This Cornell professor says his greatest accomplishment isn’t a variety or a publication. It’s the next generation of scientists who will carry the work forward.
 
-- **[농촌진흥청, ‘2026 농업인 안전365 캠페인 공모전’ 개최](items/rda/2026/07/100000812092.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812092.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812092&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 7월 16일부터 9월 30일까지 ‘2026 농업인 안전365 캠페인 공모전’을 개최한다. 공모 분야는 △농작업 안전 실천 우수 영상 △안전 개선 우수 현장 사례 2개다.
+- **[The Seed Sector Doesn’t Need More Ideas. It Needs Fewer Friction Points](items/seedworld/2026/07/https_www.seedworld.com_p_126799.md)**
+  - 2026-07-31 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126799.md) · [원문](https://www.seedworld.com/canada/2026/07/30/canada-seed-sector-needs-less-friction/)
+  - From digital administration to public plant breeding and industry leadership, three stories reveal the same challenge: making it easier for people, systems and institutions to work together.
 
-- **[기후변화 대응형 인삼 품종, 종자 생산·보급 확대 방안 논의](items/rda/2026/07/100000812090.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812090.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812090&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈) 국립원예특작과학원 김대현 원장은 7월 15일 전북특별자치도 김제의 인삼 종자 생산 농가를 찾아 현장을 둘러보고 농업인 목소리를 들었다. 이날 방문은 농촌진흥청이 자체 개발한 기후변화 대응형 인삼 ‘천량’과 ‘고원’의 종자 생산 현장을 점검하고, 우수 종자의 안정적인 생산과 현장 보급 확대 방안을 논의하기 위해 마련했다.
+- **[The Weight of Trust in Seed Testing](items/seedworld/2026/07/https_www.seedworld.com_p_126795.md)**
+  - 2026-07-30 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126795.md) · [원문](https://www.seedworld.com/us/2026/07/30/weight-trust-seed-testing/)
+  - Through a lifetime in the seed industry, one lesson has never changed: every seed sample represents someone’s investment, reputation and often, their livelihood. People often think seed testing is ab…
 
-- **[농촌진흥청, ‘신동진1’ 농가 보급 “현장 소통 활발”](items/rda/2026/07/100000812089.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812089.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812089&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 ‘신동진1’ 본격 보급에 앞서 7월 15일 전북특별자치도 완주군 국립식량과학원 본원에서 현장 의견을 듣는 소통의 장을 마련했다. 이날 국립종자원, 전북특별자치도 및 도내 14개 시군농업기술센터 담당자 등 관계자 30여 명이 자리해 2027년 ‘신동진1’의 본격적인 정부 보급종 공급에 앞서 기술적 지원과 시범 사업 추진 상황을 점…
+- **[UK Approves First Precision-Bred Potato for Market](items/seedworld/2026/07/https_www.seedworld.com_p_126777.md)**
+  - 2026-07-30 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126777.md) · [원문](https://www.seedworld.com/europe/2026/07/30/uk-approves-first-precision-bred-potato/)
+  - Regulatory approval moves a disease-resistant Maris Piper capable of combating late blight and two major potato viruses closer to commercial production. The United Kingdom has approved its first prec…
 
-- **[농촌진흥청, 지역특화작목 맞춤형 순회 교육 돌입](items/rda/2026/07/100000812088.md)**
-  - 2026-07-16 · `rda` · [읽기](items/rda/2026/07/100000812088.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812088&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈) 농촌인적자원개발센터는 도 농업기술원과 손잡고 지역 주산지의 재배 여건과 농촌지도 현장 수요를 반영, 지역특화작목 순회 교육을 본격화한다. 이번 교육은 정부가 추진하는 ‘제2차 지역특화작목 연구개발·육성 종합계획’ 방침에 따라 지역별 전략작목의 경쟁력을 높이는 연구와 기술 보급, 전문 인력 교육에 초점을 두고 진행한다.
+- **[Commission Excludes Soybean Seeds from EUDR](items/seedworld/2026/07/https_www.seedworld.com_p_126711.md)**
+  - 2026-07-30 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126711.md) · [원문](https://www.seedworld.com/europe/2026/07/29/soybean-seeds-eudr/)
+  - The European Commission has removed soybean seeds for sowing from the EU Deforestation Regulation scope after recognising their separate value chain, negligible trade volumes and seed-specific contro…
 
 
 <a id="podcast"></a>
@@ -235,6 +236,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-08-03](weekly/2026-08-03.md)
 - [2026-07-22](weekly/2026-07-22.md)
 - [2026-07-08](weekly/2026-07-08.md)
 - [2026-07-01](weekly/2026-07-01.md)

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/05/vua-platform-simplifies-compli
 summary: "Seed growers in Western Canada who have yet to adopt seeds subject to a Variety Use Agreement (VUA) sometimes anticipate that the administrative aspects will be time consuming or difficult […] The post VUA Platform Simplifies Compliance"
 attachments: []
 tags: []
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:51+09:00"
 ---
 # VUA Platform Simplifies Compliance
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/06/global-seed-systems-us-agriculture
 summary: "Global seed systems play a growing role in strengthening U.S. agriculture by supporting genetic diversity, seed health, regulatory cooperation and market development."
 attachments: []
 tags: []
-fetched_at: "2026-07-22T06:53:22+09:00"
+fetched_at: "2026-08-03T06:51:50+09:00"
 ---
 # What Happens Abroad Doesn’t Stay Abroad: Why Global Seed Systems Matter at Home
 
