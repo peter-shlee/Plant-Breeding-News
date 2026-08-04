@@ -9,7 +9,7 @@ summary: "Prairie farmers call midge-tolerant wheat \"plant it and forget about 
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # One Gene Between Wheat and Disaster | On The Brink: Season 2 – Episode 9
 

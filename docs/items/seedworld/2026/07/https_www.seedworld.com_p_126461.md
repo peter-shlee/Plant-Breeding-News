@@ -9,7 +9,7 @@ summary: "Paraguay’s certified soybean seed sector is facing pressure from lim
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # Certified Soybean Seed: Paraguay Sector Raises Alarm
 

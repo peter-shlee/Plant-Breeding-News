@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/20/efsa-opinion-stacked-gm-crops/
 summary: "EFSA’s GMO Panel says stacked GM crops may not always require additional comparative field trials or some dietary exposure assessments when previously assessed traits are combined and no new metabolic effects are expected."
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # EFSA Opinion Could Streamline Stacked GM Crops
 

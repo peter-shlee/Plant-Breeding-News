@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/16/semillas-soja-aprosemp-tecnolog
 summary: "El sector de semillas de soja de Paraguay enfrenta presión por el acceso limitado a nueva tecnología, el bajo uso de semillas certificadas y las ventas no autorizadas. APROSEMP pide avanzar en la liberación formal de tecnología para"
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # Semillas de Soja: APROSEMP Advierte por Tecnología
 

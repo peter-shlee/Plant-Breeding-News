@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/14/europe-pollinator-loss-threate
 summary: "Pollinator loss could pose a serious risk to European crop production, food security and agricultural resilience. EU-funded researchers say stronger pollinator stewardship is needed across farming, land use, pesticide regulation and policy."
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # Europe Warned Pollinator Loss Threatens Crops
 

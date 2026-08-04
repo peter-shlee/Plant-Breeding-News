@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/21/fair-seeds-for-farmers-act/"
 summary: "The Fair Seeds for Farmers Act would change federal plant IP protections and restrict some contracts involving research, breeding and seed saving. The post What the Fair Seeds for Farmers Act Would Change appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # What the Fair Seeds for Farmers Act Would Change
 

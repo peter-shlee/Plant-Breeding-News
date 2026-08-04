@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/15/ai-model-maps-plant-genomes/"
 summary: "Plant genomes contain regulatory patterns that help control traits such as flowering time, disease resistance and heat stress response. IPK researchers used deep learning to predict how transcription factors bind to DNA and influence gene"
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # AI Model Maps Hidden Grammar of Plant Genomes
 

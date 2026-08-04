@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/10/eu-pesticide-reform-safety-saf
 summary: "EU pesticide reform proposals could reduce oversight of active substances and weaken safety safeguards, according to researchers from 27 European institutions. The scientists say efficiency gains should not come at the expense of"
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # Scientists Warn EU Pesticide Reform Could Weaken Safety
 

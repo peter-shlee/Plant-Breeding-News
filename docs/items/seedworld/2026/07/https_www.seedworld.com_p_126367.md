@@ -9,7 +9,7 @@ summary: "Crop diversity delivered practical benefits for food systems in 2025, 
 attachments: []
 tags:
   - "감자"
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # Five Ways Crop Diversity Strengthened Food Systems
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/15/csga-announces-its-new-executi
 summary: "Former cattle industry government relations leader Cathy-Jo Noble will join the Canadian Seed Growers’ Association in mid-August, bringing more than 30 years of experience in agricultural policy, advocacy and leadership."
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # CSGA Announces its New Executive Director, and it’s Not Someone From the Seed Sector
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/06/microbial-inoculants-ecology-perfo
 summary: "Microbial inoculants have advanced biological agriculture, but inconsistent field performance remains a costly challenge. This article argues that the industry must screen microbes for ecology as well as function to improve survival,"
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:51+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # Seed Companies Prioritizing Ecology Will Own the Next Era of Biologicals
 

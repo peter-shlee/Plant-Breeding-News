@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/16/why-we-cant-let-canadas-seed-s
 summary: "Boomtown celebrates the past. It also reminds us what happens when successful institutions stop evolving The post Why We Can’t Let Canada’s Seed Sector Become a Museum Piece appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # Why We Can’t Let Canada’s Seed Sector Become a Museum Piece
 

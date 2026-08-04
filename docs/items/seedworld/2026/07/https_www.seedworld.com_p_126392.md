@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/07/one-helped-build-seeds-canada-
 summary: "Georges Chaussé and Senator Rob Black are the recipients of the 2026 Seeds Canada Award of Excellence, recognizing decades of leadership and lasting impact The post One Helped Build Seeds Canada."
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # One Helped Build Seeds Canada. The Other Took the Seed Sector to Parliament
 

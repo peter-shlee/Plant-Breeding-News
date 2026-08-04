@@ -5,16 +5,14 @@ org: "Seed World"
 site_id: "https://www.seedworld.com/?p=126560"
 published_at: "2026-07-22T14:09:00+09:00"
 url: "https://www.seedworld.com/europe/2026/07/22/harvest-ai-ready-agricultural-data/"
-summary: "HARVEST will use barley as a model crop to improve how agricultural data supports crop breeding, research and farm decision-making across Europe. The James Hutton Institute and the International Barley Hub have joined a major European"
+summary: "HARVEST will bring together more than 60 participants from 19 countries to make agricultural data AI-ready for crop breeding, research and farm decision-making. The European initiative will use barley as a model crop to improve data"
 attachments: []
-tags:
-  - "genomics"
-  - "phenotyping"
-fetched_at: "2026-08-03T06:51:50+09:00"
+tags: []
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # HARVEST Aims to Make Agricultural Data AI-Ready
 
-HARVEST will use barley as a model crop to improve how agricultural data supports crop breeding, research and farm decision-making across Europe. The James Hutton Institute and the International Barley Hub have joined a major European initiative aimed at making agricultural data easier to use with artificial intelligence. The Harvesting AI for Responsive, Valuable and Efficient Sustainable Technologies project, known as HARVEST, brings together more than 60 participants from 19 countries, including universities, research institutes, government organizations and scientific agencies. The network will work to transform crop and environmental data into tools that can support farmers, plant breeders and researchers responding to climate change. Turning Agricultural Data Into Practical Tools Deputy Director of the International Barley Hub Dr Isabelle Colas said climate change is placing growing pressure on European agriculture. “Climate change is increasingly threatening agricultural systems across Europe. Farmers are facing unpredictable weather patterns, shifting growing seasons, disease outbreaks, and unstable yields. “At the same time, researchers are generating vast amounts of valuable crop and environmental data that remain difficult to integrate and apply in practice. “HARVEST aims to bridge this gap with a clear goal: to make agricultural data AI-ready, so it can better support research, crop breeding and real-world farming decisions.” Modern agriculture generates large volumes of genomic, field trial, phenotyping, soil, weather and satellite data. However, these datasets are often fragmented, inconsistently formatted or missing important supporting information. Barley to Serve as a Model Crop HARVEST will develop best-practice guidelines for data collection and management, standardized metadata and annotation frameworks, and systems based on FAIR principles — making data findable, accessible, interoperable and reusable, according to a press release. The project will also work to connect crop, environmental and farm data and develop a future Barley Blueprint Database to organize and consolidate barley-related information.
+HARVEST will bring together more than 60 participants from 19 countries to make agricultural data AI-ready for crop breeding, research and farm decision-making. The European initiative will use barley as a model crop to improve data integration and climate resilience. The post HARVEST Aims to Make Agricultural Data AI-Ready appeared first on Seed World .
 
 ## Original
 

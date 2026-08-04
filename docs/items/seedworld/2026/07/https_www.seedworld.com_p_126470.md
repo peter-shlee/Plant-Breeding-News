@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/13/european-crop-breeding-researc
 summary: "The Horizon Europe-funded COLiBRI initiative will bring together 17 organizations to strengthen crop breeding research coordination across Europe. The project will develop a shared roadmap, implementation strategy and recommendations for"
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # European Crop Breeding Research Project Launches
 

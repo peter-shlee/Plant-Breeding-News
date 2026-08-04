@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/05/shannon-bieman-wants-canadas-s
 summary: "The new president of the Canadian Seed Growers' Association says trust, collaboration and practical leadership are critical for the future The post CSGA’s New President Wants Canada’s Seed Sector to Listen Better."
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:51+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # CSGA’s New President Wants Canada’s Seed Sector to Listen Better. Here’s Why It Matters
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/watch-listen/2026/07/21/katy-martin-rainey-na
 summary: "NAPB President Katy Martin Rainey plans to strengthen the plant breeding workforce, public-private partnerships and seed industry engagement. The post NAPB President Wants to Strengthen Public-Private Partnerships appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # NAPB President Wants to Strengthen Public-Private Partnerships
 

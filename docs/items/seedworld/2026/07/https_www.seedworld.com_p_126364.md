@@ -11,7 +11,7 @@ tags:
   - "genomics"
   - "gene-editing"
   - "밀"
-fetched_at: "2026-08-03T06:51:50+09:00"
+fetched_at: "2026-08-05T06:56:30+09:00"
 ---
 # Low-Asparagine Wheat Gains U.K. Precision-Bred Status
 
