@@ -9,7 +9,7 @@ summary: "New breeding partnership and federal genomics investment position Cana
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-08-05T06:56:29+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Better Pulses Need Better Data. Two Announcements Show How Canada’s Breeding Model Is Changing
 

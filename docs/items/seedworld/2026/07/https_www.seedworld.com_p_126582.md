@@ -9,7 +9,7 @@ summary: "Canada's wheat breeding system has significant gaps and risks, and rec
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Farmers Are Building What’s Next | On The Brink: Season 2 – Episode 11
 

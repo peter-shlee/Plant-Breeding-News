@@ -9,7 +9,7 @@ summary: "Austria has begun construction of a new AGES research station in Groß
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-08-05T06:56:29+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Austria Builds Research Station for Climate-Resilient Crops
 

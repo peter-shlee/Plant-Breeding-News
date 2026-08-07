@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/16/european-competitiveness-fund-
 summary: "Euroseeds has joined 39 European agri-food organisations in urging policymakers to keep agriculture and food central to the European Competitiveness Fund for 2028–2034, citing the sector’s role in security, resilience, innovation and"
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Euroseeds Urges Agri-Food Role in EU Fund
 

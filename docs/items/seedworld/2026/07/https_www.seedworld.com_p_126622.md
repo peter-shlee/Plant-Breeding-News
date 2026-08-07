@@ -9,7 +9,7 @@ summary: "McGill University PhD candidate Neha Paserkar explains how genomics, t
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Can Crops Keep Fighting White Mold in a Changing Climate?
 

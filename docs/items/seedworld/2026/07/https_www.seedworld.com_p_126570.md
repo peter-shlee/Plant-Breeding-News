@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/17/plant-sensors-crop-stress/"
 summary: "Tufts University researchers have developed battery-free plant sensors that attach to leaves and stems to monitor water loss, growth and crop stress. The technology could help farmers detect water shortages, salt stress or other problems"
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Plant Sensors Could Detect Crop Stress Earlier
 

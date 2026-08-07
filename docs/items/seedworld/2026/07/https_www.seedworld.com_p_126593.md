@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/29/national-seed-health-system-25-yea
 summary: "The National Seed Health System celebrates 25 years of helping U.S. seed companies, laboratories, researchers and regulators protect seed health, support exports and maintain global confidence in American seed."
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:29+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # For 25 Years, You’ve Built Trust; the National Seed Health System Helps You Keep It
 

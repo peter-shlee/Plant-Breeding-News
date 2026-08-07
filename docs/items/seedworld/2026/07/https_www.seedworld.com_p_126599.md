@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/20/euroseeds-innovation-stage-202
 summary: "Euroseeds has named 10 finalists for the Euroseeds InnovAction Stage at its 2026 Congress in Valencia. The selected companies will present seed treatment, enhancement, biological input and crop resilience technologies to the European and"
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Euroseeds Names 2026 InnovAction Stage Finalists
 

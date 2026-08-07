@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-08-05 06:56 (KST)**  
-- 커버리지(최근 섹션): **2026-07-29 ~ 2026-08-05** (최근 7일)
+- 마지막 업데이트: **2026-08-07 10:04 (KST)**  
+- 커버리지(최근 섹션): **2026-07-31 ~ 2026-08-07** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 
 <a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-07-29~2026-08-05)
+## 30초 주간 브리핑 (2026-07-31~2026-08-07)
 
-> 유전자 편집 기술의 상용화와 기후 변화 대응을 위한 육종 연구가 가속화되고 있습니다.
+> 식물 육종의 혁신 기술 도입과 기후 위기 대응을 위한 현장 기술 지원이 활발히 이루어지고 있습니다.
 
 ### 1) 정책/규제
 
-- 캐나다 종자협회 회장 글렌 로건은 임기 동안 종자 규제 현대화 과정에서 회원들의 의견을 경청하고 참여를 이끄는 데 주력했다고 밝혔습니다. ([원문](https://www.seedworld.com/canada/2026/08/03/glenn-logan-csga-leadership-seed-regulatory-modernization/))
-- 농촌진흥청은 중앙치유농업센터의 효율적인 운영과 발전을 위한 구체적인 전략 수립에 나섰습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812294&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 농업 혁신을 가속화하기 위해서는 새로운 시스템 설계뿐만 아니라 기존의 제도와 기관 간의 협력적 관계를 유지하는 것이 중요합니다. ([원문](https://www.seedworld.com/canada/2026/08/05/agricultural-innovation-strong-systems/))
+- 캐나다 종자재배자협회(CSGA)의 리더십은 성과 중심의 나열보다 현장의 목소리를 경청하는 규제 현대화의 중요성을 강조합니다. ([원문](https://www.seedworld.com/canada/2026/08/03/glenn-logan-csga-leadership-seed-regulatory-modernization/))
 
 ### 2) 연구/기술
 
-- 리마그레인은 베이징 치 바이오디자인과 유전자 편집 기술 라이선스 계약을 체결하여 작물 육종 프로그램에 CRISPR 도구를 도입합니다. ([원문](https://www.seedworld.com/us/2026/08/04/limagrain-qi-biodesign-genome-editing-agreement/))
-- 뉴욕대 연구진은 식물의 질소 흡수를 조절하는 유전자 스위치를 발견하여, 향후 비료 효율을 높인 작물 개발의 가능성을 열었습니다. ([원문](https://www.seedworld.com/us/2026/08/03/plant-nitrogen-uptake/))
+- 유럽 연구진이 올리브의 병 저항성 유전 메커니즘을 규명하고 게놈 편집 등을 활용한 병해 관리 기술을 진전시켰습니다. ([원문](https://www.seedworld.com/europe/2026/08/06/xylella-fastidiosa-disease-control/))
+- KAUST 연구팀이 DNA 손상 없이 식물 게놈에 대규모 유전자를 정밀하게 삽입하는 새로운 기술을 개발했습니다. ([원문](https://www.seedworld.com/europe/2026/08/04/gene-insertion-crop-traits/))
 
 ### 3) 유통/시장/현장
 
-- 국립식량과학원과 오뚜기제유, 안동시는 국산 프리미엄 참기름 산업의 활성화를 위해 상호 협력하기로 했습니다. ([원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944389))
-- 농촌진흥청이 개발한 감귤 품종 '하례조생'이 품종 사용료 부담 없는 국산 품종의 성공 모델로 확산되고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812302&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 리마그레인(Limagrain)이 필드 및 채소 작물 육종 프로그램에 활용하기 위해 Qi Biodesign의 게놈 편집 기술 라이선스를 확보했습니다. ([원문](https://www.seedworld.com/us/2026/08/04/limagrain-qi-biodesign-genome-editing-agreement/))
+- 로열티 부담이 없는 국산 감귤 품종 '하례조생'의 성공적인 보급 모델이 전국적으로 확산되고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812302&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -47,32 +47,24 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[New Gene Insertion Method Could Support Crop Traits](items/seedworld/2026/08/https_www.seedworld.com_p_126742.md)**
-  - 2026-08-04 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126742.md) · [원문](https://www.seedworld.com/europe/2026/08/04/gene-insertion-crop-traits/)
-  - KAUST researchers demonstrated a technique for precisely inserting large genetic sequences into rice and tobacco without first breaking the plants’ DNA. Researchers at King Abdullah University of Sci…
-
-- **[Climate Change Threatens Crop Nutrition](items/seedworld/2026/08/https_www.seedworld.com_p_126739.md)**
-  - 2026-08-03 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126739.md) · [원문](https://www.seedworld.com/europe/2026/08/03/climate-change-crop-nutrition/)
-  - Nature review examines how plant breeding, genome editing and other technologies could produce more nutritious crops that are better able to withstand climate-related stress.
-
-- **[Limagrain Licenses Genome-Editing Technologies From Qi Biodesign](items/seedworld/2026/08/https_www.seedworld.com_p_126825.md)**
-  - 2026-08-05 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126825.md) · [원문](https://www.seedworld.com/us/2026/08/04/limagrain-qi-biodesign-genome-editing-agreement/)
-  - The agreement gives Limagrain access to new CRISPR tools for its field and vegetable crop breeding programs. Limagrain has entered a global licensing agreement with Beijing Qi Biodesign Biotechnology…
-
-- **[Wheat Genotyping Platform Advances at Embrapa](items/seedworld/2026/08/https_www.seedworld.com_p_126771.md)**
-  - 2026-08-04 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126771.md) · [원문](https://www.seedworld.com/latam/2026/08/04/wheat-genotyping-embrapa/)
-  - Automated DNA sample preparation and sequencing could help researchers identify genetic markers associated with wheat yield, disease resistance and other agronomic traits.
-
 - **[국산 사료피 신품종 ‘만온’, 전남 영암서 수확 연시](items/rda/2026/08/100000812300.md)**
   - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812300.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812300&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
-- **[Scientists Find the Switch That Tells Plants They Have Enough Nitrogen](items/seedworld/2026/08/https_www.seedworld.com_p_126816.md)**
-  - 2026-08-03 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126816.md) · [원문](https://www.seedworld.com/us/2026/08/03/plant-nitrogen-uptake/)
-  - Researchers identified a genetic stop signal that limits nitrogen uptake, opening a possible path toward crops that use fertilizer more efficiently. Plants know when they have absorbed enough nitroge…
+- **[Xylella Research Advances Disease Control](items/seedworld/2026/08/https_www.seedworld.com_p_126748.md)**
+  - 2026-08-06 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126748.md) · [원문](https://www.seedworld.com/europe/2026/08/06/xylella-fastidiosa-disease-control/)
+  - Researchers report progress in resistant olive cultivars, biological control, insect vector management and disease surveillance. Research into Xylella fastidiosa is producing practical findings that…
 
-- **[Austria Builds Research Station for Climate-Resilient Crops](items/seedworld/2026/07/https_www.seedworld.com_p_126736.md)**
-  - 2026-07-29 · `seedworld` · [읽기](items/seedworld/2026/07/https_www.seedworld.com_p_126736.md) · [원문](https://www.seedworld.com/europe/2026/07/29/austria-climate-resilient-crops-research-station/)
-  - Austria has begun construction of a new AGES research station in Großnondorf to evaluate climate-resilient crops under dry conditions. The site will support variety testing, drought stress research a…
+- **[Climate Change Threatens Crop Nutrition](items/seedworld/2026/08/https_www.seedworld.com_p_126739.md)**
+  - 2026-08-03 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126739.md) · [원문](https://www.seedworld.com/europe/2026/08/03/climate-change-crop-nutrition/)
+  - Climate change is reducing the nutritional value of major food crops, creating new challenges for food security. A Nature review examines how plant breeding, genome editing and other technologies cou…
+
+- **[Limagrain Licenses Genome-Editing Technologies From Qi Biodesign](items/seedworld/2026/08/https_www.seedworld.com_p_126825.md)**
+  - 2026-08-05 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126825.md) · [원문](https://www.seedworld.com/us/2026/08/04/limagrain-qi-biodesign-genome-editing-agreement/)
+  - Limagrain has licensed genome-editing technologies from Qi Biodesign for use in field and vegetable crop breeding programs. The post Limagrain Licenses Genome-Editing Technologies From Qi Biodesign a…
+
+- **[Wheat Genotyping Platform Advances at Embrapa](items/seedworld/2026/08/https_www.seedworld.com_p_126771.md)**
+  - 2026-08-04 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126771.md) · [원문](https://www.seedworld.com/latam/2026/08/04/wheat-genotyping-embrapa/)
+  - A new wheat genotyping platform at Embrapa Wheat in Brazil is expanding researchers’ capacity to analyze DNA and support improved cultivar development. The automated system could speed marker identif…
 
 - **[품종 사용료 없는 국산 감귤로…‘하례조생’ 성공 모델 확산](items/rda/2026/08/100000812302.md)**
   - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812302.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812302&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
@@ -86,9 +78,17 @@ title: "식물 육종 뉴스"
 - **[품종 개발·배지 국산화·스마트팜으로 버섯산업 활로 찾는다](items/nihhs/2026/08/100000812292.md)**
   - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812292.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812292&mc=MN0000000136)
 
-- **[No Agenda, Just Listening: Glenn Logan Reflects on Leading the Canadian Seed Growers’ Association](items/seedworld/2026/08/https_www.seedworld.com_p_126832.md)**
-  - 2026-08-03 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126832.md) · [원문](https://www.seedworld.com/canada/2026/08/03/glenn-logan-csga-leadership-seed-regulatory-modernization/)
-  - As his term as Canadian Seed Growers’ Association president comes to a close, Glenn Logan reflects on the value of listening, the importance of member engagement, and why the next generation of leade…
+- **[The Varieties Fade; The Impact Doesn’t](items/seedworld/2026/08/https_www.seedworld.com_p_126828.md)**
+  - 2026-08-07 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126828.md) · [원문](https://www.seedworld.com/us/2026/08/06/istvan-rajcan-plant-breeding-impact/)
+  - National Association for Plant Breeding ( NAPB ) 2025 Public Sector Impact Award recipient Istvan Rajcan measures success in many ways. He mentions farmer adoption, industry partnerships and the scie…
+
+- **[Gen del tomate podría impulsar el rendimiento](items/seedworld/2026/08/https_www.seedworld.com_p_126773.md)**
+  - 2026-08-06 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126773.md) · [원문](https://www.seedworld.com/latam/2026/08/06/gen-tomate-rendimiento/)
+  - Investigadores identificaron una proteína que ayuda a las plantas de tomate a responder a la sombra, regular la fotosíntesis y mantener la producción de frutos en condiciones de cultivo de alta densi…
+
+- **[Why Plant Breeding, Leadership and Seed Policy Matter Together](items/seedworld/2026/08/https_www.seedworld.com_p_126847.md)**
+  - 2026-08-06 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126847.md) · [원문](https://www.seedworld.com/canada/2026/08/05/agricultural-innovation-strong-systems/)
+  - We often focus on designing new systems to accelerate innovation. But perhaps the more important question is whether we’re adequately stewarding the institutions, relationships and frameworks that ha…
 
 
 <a id="news-feed"></a>
@@ -97,21 +97,45 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
+- **[The Varieties Fade; The Impact Doesn’t](items/seedworld/2026/08/https_www.seedworld.com_p_126828.md)**
+  - 2026-08-07 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126828.md) · [원문](https://www.seedworld.com/us/2026/08/06/istvan-rajcan-plant-breeding-impact/)
+  - National Association for Plant Breeding ( NAPB ) 2025 Public Sector Impact Award recipient Istvan Rajcan measures success in many ways. He mentions farmer adoption, industry partnerships and the scie…
+
+- **[Xylella Research Advances Disease Control](items/seedworld/2026/08/https_www.seedworld.com_p_126748.md)**
+  - 2026-08-06 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126748.md) · [원문](https://www.seedworld.com/europe/2026/08/06/xylella-fastidiosa-disease-control/)
+  - Researchers report progress in resistant olive cultivars, biological control, insect vector management and disease surveillance. Research into Xylella fastidiosa is producing practical findings that…
+
+- **[Gen del tomate podría impulsar el rendimiento](items/seedworld/2026/08/https_www.seedworld.com_p_126773.md)**
+  - 2026-08-06 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126773.md) · [원문](https://www.seedworld.com/latam/2026/08/06/gen-tomate-rendimiento/)
+  - Investigadores identificaron una proteína que ayuda a las plantas de tomate a responder a la sombra, regular la fotosíntesis y mantener la producción de frutos en condiciones de cultivo de alta densi…
+
+- **[Why Plant Breeding, Leadership and Seed Policy Matter Together](items/seedworld/2026/08/https_www.seedworld.com_p_126847.md)**
+  - 2026-08-06 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126847.md) · [원문](https://www.seedworld.com/canada/2026/08/05/agricultural-innovation-strong-systems/)
+  - We often focus on designing new systems to accelerate innovation. But perhaps the more important question is whether we’re adequately stewarding the institutions, relationships and frameworks that ha…
+
+- **[Making The Case For VUA | On The Brink: Season 2 – Episode 13](items/seedworld/2026/08/https_www.seedworld.com_p_126790.md)**
+  - 2026-08-05 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126790.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/05/making-oats-case-for-vuas-on-the-brink-season-2-episode-13/)
+  - Jim Dyck breeds oats for a living, which in Western Canada makes him unusual. He is one of a handful of private breeders working on the crop.
+
+- **[Global Soil Degradation Is Cutting Crop Yields](items/seedworld/2026/08/https_www.seedworld.com_p_126745.md)**
+  - 2026-08-05 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126745.md) · [원문](https://www.seedworld.com/europe/2026/08/05/global-soil-degradation-crop-yields/)
+  - Researchers estimate that a 10% increase in soil degradation reduces crop yields by an average of 2%, while reversing degradation could substantially expand the global food supply.
+
 - **[Limagrain Licenses Genome-Editing Technologies From Qi Biodesign](items/seedworld/2026/08/https_www.seedworld.com_p_126825.md)**
   - 2026-08-05 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126825.md) · [원문](https://www.seedworld.com/us/2026/08/04/limagrain-qi-biodesign-genome-editing-agreement/)
-  - The agreement gives Limagrain access to new CRISPR tools for its field and vegetable crop breeding programs. Limagrain has entered a global licensing agreement with Beijing Qi Biodesign Biotechnology…
+  - Limagrain has licensed genome-editing technologies from Qi Biodesign for use in field and vegetable crop breeding programs. The post Limagrain Licenses Genome-Editing Technologies From Qi Biodesign a…
 
 - **[New Gene Insertion Method Could Support Crop Traits](items/seedworld/2026/08/https_www.seedworld.com_p_126742.md)**
   - 2026-08-04 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126742.md) · [원문](https://www.seedworld.com/europe/2026/08/04/gene-insertion-crop-traits/)
-  - KAUST researchers demonstrated a technique for precisely inserting large genetic sequences into rice and tobacco without first breaking the plants’ DNA. Researchers at King Abdullah University of Sci…
+  - KAUST researchers have developed a gene insertion method that precisely adds large genetic sequences into plant genomes without first breaking DNA. The technique, demonstrated in rice and tobacco, co…
 
 - **[Wheat Genotyping Platform Advances at Embrapa](items/seedworld/2026/08/https_www.seedworld.com_p_126771.md)**
   - 2026-08-04 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126771.md) · [원문](https://www.seedworld.com/latam/2026/08/04/wheat-genotyping-embrapa/)
-  - Automated DNA sample preparation and sequencing could help researchers identify genetic markers associated with wheat yield, disease resistance and other agronomic traits.
+  - A new wheat genotyping platform at Embrapa Wheat in Brazil is expanding researchers’ capacity to analyze DNA and support improved cultivar development. The automated system could speed marker identif…
 
 - **[No Agenda, Just Listening: Glenn Logan Reflects on Leading the Canadian Seed Growers’ Association](items/seedworld/2026/08/https_www.seedworld.com_p_126832.md)**
   - 2026-08-03 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126832.md) · [원문](https://www.seedworld.com/canada/2026/08/03/glenn-logan-csga-leadership-seed-regulatory-modernization/)
-  - As his term as Canadian Seed Growers’ Association president comes to a close, Glenn Logan reflects on the value of listening, the importance of member engagement, and why the next generation of leade…
+  - As Glenn Logan looks back on his time as president of the CSGA, he isn't measuring success by a list of accomplishments or a single initiative The post No Agenda, Just Listening: Glenn Logan Reflects…
 
 - **[Scientists Find the Switch That Tells Plants They Have Enough Nitrogen](items/seedworld/2026/08/https_www.seedworld.com_p_126816.md)**
   - 2026-08-03 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126816.md) · [원문](https://www.seedworld.com/us/2026/08/03/plant-nitrogen-uptake/)
@@ -119,11 +143,11 @@ title: "식물 육종 뉴스"
 
 - **[Climate Change Threatens Crop Nutrition](items/seedworld/2026/08/https_www.seedworld.com_p_126739.md)**
   - 2026-08-03 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126739.md) · [원문](https://www.seedworld.com/europe/2026/08/03/climate-change-crop-nutrition/)
-  - Nature review examines how plant breeding, genome editing and other technologies could produce more nutritious crops that are better able to withstand climate-related stress.
+  - Climate change is reducing the nutritional value of major food crops, creating new challenges for food security. A Nature review examines how plant breeding, genome editing and other technologies cou…
 
 - **[Genotipado del trigo avanza en Embrapa](items/seedworld/2026/08/https_www.seedworld.com_p_126769.md)**
   - 2026-08-03 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126769.md) · [원문](https://www.seedworld.com/latam/2026/08/03/genotipado-trigo-embrapa/)
-  - La preparación y secuenciación automatizada de muestras de ADN podría ayudar a los investigadores a identificar marcadores genéticos asociados con el rendimiento del trigo, la resistencia a enfermeda…
+  - Una nueva plataforma de genotipado del trigo en Embrapa Trigo automatiza la preparación de muestras de ADN y amplía la capacidad de análisis molecular. La tecnología podría acelerar la selección de m…
 
 - **[“찐감자는 포슬포슬한 밤맛”…소비자 사로잡은 감자 ‘금선’·‘은선’](items/nics/2026/08/944392.md)**
   - 2026-08-03 · `nics` · [읽기](items/nics/2026/08/944392.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944392)
@@ -176,24 +200,6 @@ title: "식물 육종 뉴스"
 - **[가을 파종용 씨마늘, 여름철 보관·선별·소독 철저 당부](items/rda/2026/08/100000812293.md)**
   - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812293.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812293&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
-- **[품종 개발·배지 국산화·스마트팜으로 버섯산업 활로 찾는다](items/rda/2026/08/100000812292.md)**
-  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812292.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812292&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[국립식량과학원-오뚜기제유(주)-안동시, 국산 프리미엄 참기름 산업 활성화 위해 맞손](items/rda/2026/08/100000812291.md)**
-  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812291.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812291&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[전국 지방농촌진흥기관 폭염 대응 농업인 온열질환 예방 현황 점검](items/rda/2026/08/100000812290.md)**
-  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812290.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812290&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 이달의 신간](items/rda/2026/08/100000812289.md)**
-  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812289.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812289&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘참외 수확후관리’ 생산‧유통 현장 목소리 듣는다](items/rda/2026/08/100000812288.md)**
-  - 2026-08-01 · `rda` · [읽기](items/rda/2026/08/100000812288.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812288&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[폭염·가뭄 지속…과수원 생육 관리 강화해야](items/nihhs/2026/08/100000812309.md)**
-  - 2026-08-01 · `nihhs` · [읽기](items/nihhs/2026/08/100000812309.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000812309&mc=MN0000000136)
-
 
 <a id="podcast"></a>
 ## AI 팟캐스트
@@ -208,6 +214,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-08-07](weekly/2026-08-07.md)
 - [2026-08-05](weekly/2026-08-05.md)
 - [2026-08-03](weekly/2026-08-03.md)
 - [2026-07-22](weekly/2026-07-22.md)

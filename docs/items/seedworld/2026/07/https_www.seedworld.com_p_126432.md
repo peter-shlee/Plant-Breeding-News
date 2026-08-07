@@ -9,7 +9,7 @@ summary: "Climate adaptation is becoming a central priority for plant breeding a
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # The Seed Sector 2045: Climate Adaptation Becomes Breeding’s New Baseline
 

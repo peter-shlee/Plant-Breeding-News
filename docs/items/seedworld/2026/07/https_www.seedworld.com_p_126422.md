@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/16/ottawa-is-finally-treating-soi
 summary: "Senator Robert Black says a new national soil strategy could reshape conservation, land-use planning and research priorities The post Ottawa is Finally Treating Soil as Strategic Infrastructure."
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Ottawa is Finally Treating Soil as Strategic Infrastructure. Here’s Why Seed Growers Should Care
 

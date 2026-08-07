@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/29/simplifying-seed-treatment-new-all
 summary: "For independent seed companies and ag retailers, the seed-treating window is one of the most demanding times of the year. Balancing operational efficiency, precise chemical mixing, and logistics can create […] The post Simplifying Seed"
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:29+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Simplifying Seed Treatment: New All-in-One Premix Relieves Retailers’ Headaches
 

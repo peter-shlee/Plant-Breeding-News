@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/22/harvest-ai-ready-agricultural-
 summary: "HARVEST will bring together more than 60 participants from 19 countries to make agricultural data AI-ready for crop breeding, research and farm decision-making. The European initiative will use barley as a model crop to improve data"
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # HARVEST Aims to Make Agricultural Data AI-Ready
 

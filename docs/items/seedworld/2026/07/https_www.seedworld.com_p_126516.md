@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/28/el-nino-en-brasil-recomendacion
 summary: "Embrapa emitió recomendaciones para ayudar a los agricultores a prepararse para El Niño en Brasil. La guía aborda riesgos de lluvias intensas, enfermedades, erosión del suelo y posibles impactos en granos, frutas, forraje, silvicultura y"
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:29+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Brasil emite recomendaciones ante El Niño
 

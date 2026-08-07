@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/08/why-the-world-is-watching-cana
 summary: "A decades-old breeding model helped make Canada an agricultural powerhouse. Now industry leaders warn the system funding future crop genetics is running out of steam — and tools like the […] The post Why the World is Watching Canada’s"
 attachments: []
 tags: []
-fetched_at: "2026-08-05T06:56:30+09:00"
+fetched_at: "2026-08-07T10:04:44+09:00"
 ---
 # Why the World is Watching Canada’s Royalty Debate Closely
 
