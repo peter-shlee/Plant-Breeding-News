@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/14/seed-industry-presses-u-s-to-lift-
 summary: "ASTA is urging the U.S. to eliminate tariffs on planting seed, saying added costs are disrupting research and development and could affect innovation, seed choice and farmer competitiveness."
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # Seed Industry Presses U.S. to Lift Tariffs on Research Seed
 

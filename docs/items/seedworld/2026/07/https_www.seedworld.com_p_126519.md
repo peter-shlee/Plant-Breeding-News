@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/29/el-nino-in-brazil-crop-guidance
 summary: "Embrapa researchers are urging farmers to prepare for El Niño in Brazil with measures to reduce risks from heavy rainfall, crop diseases, soil erosion and livestock impacts."
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:57+09:00"
 ---
 # Brazil Issues Crop Guidance as El Niño Risks Rise
 

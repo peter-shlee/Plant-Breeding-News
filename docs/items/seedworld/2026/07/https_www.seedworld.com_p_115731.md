@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/18/concepts-for-your-seeds-2/"
 summary: "For over 40 years, SATEC® has provided high-quality seed treatment solutions—from pelleting to coating—serving agriculture, vegetables, ornamentals, and forestry with German-engineered equipment."
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # Concepts For Your Seeds
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/27/planting-seed-section-301-tariff-e
 summary: "The exemption protects seed moving through global research and production systems from tariffs of up to 12.5% on imports from 60 U.S. trading partners."
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:57+09:00"
 ---
 # USTR Exempts Planting Seed from New Forced Labor Tariffs
 

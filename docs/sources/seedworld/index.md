@@ -11,29 +11,37 @@ source: "seedworld"
 
 ## 2026-08
 
+- **[Seed Sector 2045: Cover Crops Offer Regenerative Opportunity for Seed](../../items/seedworld/2026/08/https_www.seedworld.com_p_126751.md)**
+  - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126751.md) · [원문](https://www.seedworld.com/europe/2026/08/07/cover-crops-regenerative-agriculture-seed-sector/)
+  - How soil health, crop rotations and regenerative practices are influencing breeding strategies and variety development. Regenerative agriculture has become one of the most widely used terms in agricu…
+
+- **[Tomato Gene Could Help Boost Yields](../../items/seedworld/2026/08/https_www.seedworld.com_p_126775.md)**
+  - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126775.md) · [원문](https://www.seedworld.com/latam/2026/08/07/tomato-gene-boost-yields/)
+  - Researchers identified a protein that helps tomato plants respond to shade, regulate photosynthesis and maintain fruit production under high-density growing conditions.
+
 - **[The Varieties Fade; The Impact Doesn’t](../../items/seedworld/2026/08/https_www.seedworld.com_p_126828.md)**
   - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126828.md) · [원문](https://www.seedworld.com/us/2026/08/06/istvan-rajcan-plant-breeding-impact/)
-  - National Association for Plant Breeding ( NAPB ) 2025 Public Sector Impact Award recipient Istvan Rajcan measures success in many ways. He mentions farmer adoption, industry partnerships and the scie…
+  - NAPB award recipient Istvan Rajcan explains why farmer adoption, research freedom and training future scientists define plant breeding impact. The post The Varieties Fade; The Impact Doesn’t appeared…
 
 - **[Xylella Research Advances Disease Control](../../items/seedworld/2026/08/https_www.seedworld.com_p_126748.md)**
   - 2026-08-06 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126748.md) · [원문](https://www.seedworld.com/europe/2026/08/06/xylella-fastidiosa-disease-control/)
-  - Researchers report progress in resistant olive cultivars, biological control, insect vector management and disease surveillance. Research into Xylella fastidiosa is producing practical findings that…
+  - Research on Xylella fastidiosa is advancing resistant olive cultivars, biological control, insect vector management and surveillance. Findings presented in Italy could support improved disease manage…
 
 - **[Gen del tomate podría impulsar el rendimiento](../../items/seedworld/2026/08/https_www.seedworld.com_p_126773.md)**
   - 2026-08-06 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126773.md) · [원문](https://www.seedworld.com/latam/2026/08/06/gen-tomate-rendimiento/)
-  - Investigadores identificaron una proteína que ayuda a las plantas de tomate a responder a la sombra, regular la fotosíntesis y mantener la producción de frutos en condiciones de cultivo de alta densi…
+  - Investigadores del CONICET identificaron un gen del tomate que ayuda a las plantas a responder a la sombra, regular la fotosíntesis y mantener la producción de frutos. El hallazgo podría apoyar el de…
 
 - **[Why Plant Breeding, Leadership and Seed Policy Matter Together](../../items/seedworld/2026/08/https_www.seedworld.com_p_126847.md)**
   - 2026-08-06 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126847.md) · [원문](https://www.seedworld.com/canada/2026/08/05/agricultural-innovation-strong-systems/)
-  - We often focus on designing new systems to accelerate innovation. But perhaps the more important question is whether we’re adequately stewarding the institutions, relationships and frameworks that ha…
+  - Innovation isn't simply the product of discovery. It's the product of relationships The post Why Plant Breeding, Leadership and Seed Policy Matter Together appeared first on Seed World .
 
 - **[Making The Case For VUA | On The Brink: Season 2 – Episode 13](../../items/seedworld/2026/08/https_www.seedworld.com_p_126790.md)**
   - 2026-08-05 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126790.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/05/making-oats-case-for-vuas-on-the-brink-season-2-episode-13/)
-  - Jim Dyck breeds oats for a living, which in Western Canada makes him unusual. He is one of a handful of private breeders working on the crop.
+  - Jim Dyck is one of a handful of private oat breeders in Western Canada. A variety takes 10 to 15 years.
 
 - **[Global Soil Degradation Is Cutting Crop Yields](../../items/seedworld/2026/08/https_www.seedworld.com_p_126745.md)**
   - 2026-08-05 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126745.md) · [원문](https://www.seedworld.com/europe/2026/08/05/global-soil-degradation-crop-yields/)
-  - Researchers estimate that a 10% increase in soil degradation reduces crop yields by an average of 2%, while reversing degradation could substantially expand the global food supply.
+  - University of Bonn researchers found that soil degradation is significantly reducing crop yields worldwide. Reversing human-caused degradation could increase production enough to feed approximately 7…
 
 - **[Limagrain Licenses Genome-Editing Technologies From Qi Biodesign](../../items/seedworld/2026/08/https_www.seedworld.com_p_126825.md)**
   - 2026-08-05 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126825.md) · [원문](https://www.seedworld.com/us/2026/08/04/limagrain-qi-biodesign-genome-editing-agreement/)
@@ -349,35 +357,3 @@ source: "seedworld"
 - **[What Decades of Service Look Like: Meet the 4 Leaders Honoured by CSGA](../../items/seedworld/2026/07/https_www.seedworld.com_p_126415.md)**
   - 2026-07-13 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126415.md) · [원문](https://www.seedworld.com/canada/2026/07/13/what-decades-of-service-look-like-meet-the-four-leaders-honoured-by-csga/)
   - The Canadian Seed Growers' Association recognized Rick Love, Ken McLean, Éric Laflamme and Laurie Wakefield for careers that quietly transformed Canada's seed sector The post What Decades of Service…
-
-- **[Scientists Warn EU Pesticide Reform Could Weaken Safety](../../items/seedworld/2026/07/https_www.seedworld.com_p_126384.md)**
-  - 2026-07-10 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126384.md) · [원문](https://www.seedworld.com/europe/2026/07/10/eu-pesticide-reform-safety-safeguards/)
-  - EU pesticide reform proposals could reduce oversight of active substances and weaken safety safeguards, according to researchers from 27 European institutions. The scientists say efficiency gains sho…
-
-- **[Five Ways Crop Diversity Strengthened Food Systems](../../items/seedworld/2026/07/https_www.seedworld.com_p_126367.md)**
-  - 2026-07-10 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126367.md) · [원문](https://www.seedworld.com/europe/2026/07/10/five-ways-crop-diversity-strengthened-food-systems/)
-  - Crop diversity delivered practical benefits for food systems in 2025, from new seed deposits at Svalbard to disease-free sweet potato vines, opportunity crops and climate-resilient varieties reaching…
-
-- **[The Seed Sector 2045: Climate Adaptation Becomes Breeding’s New Baseline](../../items/seedworld/2026/07/https_www.seedworld.com_p_126432.md)**
-  - 2026-07-10 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126432.md) · [원문](https://www.seedworld.com/europe/2026/07/09/climate-adaptation-breeding-baseline/)
-  - Climate adaptation is becoming a central priority for plant breeding as weather extremes reshape crop performance. The seed sector is responding with resilience traits, expanded testing, genomic tool…
-
-- **[How Cover Crops Can Improve Seed Quality and Create New Opportunities for Seed Growers](../../items/seedworld/2026/07/https_www.seedworld.com_p_126411.md)**
-  - 2026-07-10 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126411.md) · [원문](https://www.seedworld.com/canada/2026/07/09/how-cover-crops-can-improve-seed-quality-and-create-new-opportunities-for-seed-growers/)
-  - Kevin Elmy believes cover crops could give seed growers a practical new way to add value without losing sight of the fundamentals of producing high-quality seed The post How Cover Crops Can Improve S…
-
-- **[Low-Asparagine Wheat Gains U.K. Precision-Bred Status](../../items/seedworld/2026/07/https_www.seedworld.com_p_126364.md)**
-  - 2026-07-09 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126364.md) · [원문](https://www.seedworld.com/europe/2026/07/09/low-asparagine-wheat-genome-editing-uk/)
-  - A genome editing milestone in the U.K. seed sector, low-asparagine wheat has received precision-bred status and will move toward food and feed evaluation for potential use in reducing acrylamide form…
-
-- **[Why the World is Watching Canada’s Royalty Debate Closely](../../items/seedworld/2026/07/https_www.seedworld.com_p_126404.md)**
-  - 2026-07-09 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126404.md) · [원문](https://www.seedworld.com/canada/2026/07/08/why-the-world-is-watching-canadas-royalty-debate-closely/)
-  - A decades-old breeding model helped make Canada an agricultural powerhouse. Now industry leaders warn the system funding future crop genetics is running out of steam — and tools like the […] The post…
-
-- **[European Parliament Rejects Soybean Oil ILUC Label](../../items/seedworld/2026/07/https_www.seedworld.com_p_126396.md)**
-  - 2026-07-08 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126396.md) · [원문](https://www.seedworld.com/europe/2026/07/08/european-parliament-rejects-soybean-oil-iluc/)
-  - The European Parliament’s objection to the soybean oil ILUC classification has been welcomed by agricultural and biofuel groups. The coalition says the vote supports evidence-based policymaking and g…
-
-- **[One Gene Between Wheat and Disaster | On The Brink: Season 2 – Episode 9](../../items/seedworld/2026/07/https_www.seedworld.com_p_126351.md)**
-  - 2026-07-08 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126351.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/07/08/midge-tolerant-wheat-sm1-gene-on-the-brink-season-2-episode-9/)
-  - Prairie farmers call midge-tolerant wheat "plant it and forget about it," a crop they no longer have to scout. But the entire defense rests on a single gene.

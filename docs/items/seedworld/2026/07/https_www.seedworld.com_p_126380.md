@@ -9,7 +9,7 @@ summary: "Barley genes identified by International Barley Hub researchers help c
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # Barley Genes Linked to Stress and Grain Quality
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/14/el-nino-colombia-farmers-prepar
 summary: "El Niño Colombia may affect key crops as ICA and Acosemillas urge authorized seed, soil conservation and technical planning. The post El Niño Colombia: Farmers Urged to Prepare Crops appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # El Niño Colombia: Farmers Urged to Prepare Crops
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/13/what-decades-of-service-look-l
 summary: "The Canadian Seed Growers' Association recognized Rick Love, Ken McLean, Éric Laflamme and Laurie Wakefield for careers that quietly transformed Canada's seed sector The post What Decades of Service Look Like: Meet the 4 Leaders Honoured"
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # What Decades of Service Look Like: Meet the 4 Leaders Honoured by CSGA
 

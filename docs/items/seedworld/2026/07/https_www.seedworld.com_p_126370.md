@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/13/climate-change-threatens-crop-
 summary: "Crop nutrition is becoming a growing concern as climate change affects both food production and the nutritional value of major crops. Ghent University researchers say future crop improvement must address yield, nutrition and climate"
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # Climate Change Threatens Crop Nutrition, Researchers Warn
 

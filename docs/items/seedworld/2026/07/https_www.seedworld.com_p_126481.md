@@ -9,7 +9,7 @@ summary: "Farmer check-off dollars have quietly become the backbone of plant bre
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # If Farmers Pay, They Need A Say | On The Brink: Season 2 – Episode 10
 

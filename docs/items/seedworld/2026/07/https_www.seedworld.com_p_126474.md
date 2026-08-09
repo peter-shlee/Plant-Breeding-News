@@ -9,7 +9,7 @@ summary: "AI-powered virtual fields are helping corn breeders evaluate canopy ar
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # Building Better Corn in Virtual Fields
 

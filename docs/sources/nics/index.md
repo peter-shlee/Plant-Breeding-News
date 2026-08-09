@@ -11,6 +11,15 @@ source: "nics"
 
 ## 2026-08
 
+- **[농촌진흥청, 가뭄·폭염 대응 현장 총력… 작물·축산·농업인 안전 집중 점검](../../items/nics/2026/08/944418.md)**
+  - 2026-08-07 · [읽기](../../items/nics/2026/08/944418.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944418)
+
+- **[가을감자 안정 생산, 통 씨감자 선택과 초기 관리가 핵심](../../items/nics/2026/08/944417.md)**
+  - 2026-08-07 · [읽기](../../items/nics/2026/08/944417.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944417)
+
+- **[기계수확 가능한 녹두 새 품종 '채흔' 현장 평가회](../../items/nics/2026/08/944416.md)**
+  - 2026-08-07 · [읽기](../../items/nics/2026/08/944416.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944416)
+
 - **[“찐감자는 포슬포슬한 밤맛”…소비자 사로잡은 감자 ‘금선’·‘은선’](../../items/nics/2026/08/944392.md)**
   - 2026-08-03 · [읽기](../../items/nics/2026/08/944392.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944392)
 
@@ -34,12 +43,3 @@ source: "nics"
 
 - **[벼, 온실가스 늘자 키 자라고 알곡 줄었다… 기후변화가 바꿀 ‘미래 쌀농사’](../../items/nics/2026/07/944371.md)**
   - 2026-07-23 · [읽기](../../items/nics/2026/07/944371.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944371)
-
-- **[농촌융복합산업 활성화 “농촌진흥청-도농업기술원 힘 모은다”](../../items/nics/2026/07/944370.md)**
-  - 2026-07-23 · [읽기](../../items/nics/2026/07/944370.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944370)
-
-- **[국산 기능성 ‘도담쌀’ 시장 키운다…특허 기술이전 업체와 상생 협력 다져](../../items/nics/2026/07/944369.md)**
-  - 2026-07-23 · [읽기](../../items/nics/2026/07/944369.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944369)
-
-- **[농촌진흥청 신진 연구자, 식품기업 연구소와 기술 교류 및 소통 행보](../../items/nics/2026/07/944368.md)**
-  - 2026-07-23 · [읽기](../../items/nics/2026/07/944368.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944368)

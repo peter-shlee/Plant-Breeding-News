@@ -9,7 +9,7 @@ summary: "The Netherlands Plant Eco-phenotyping Centre will receive €5.4 milli
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # Netherlands Invests in Crop Phenotyping Facility
 

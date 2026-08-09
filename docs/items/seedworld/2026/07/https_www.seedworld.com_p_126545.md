@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/16/the-amazon-moment-for-seed-ret
 summary: "Explore the concept of “Seed Administrative Synergy” and what a single platform for seed transactions could mean for retailers, farmers, seed growers, and seed companies The post The Amazon Moment for Seed Retail: Register For Our July 27"
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # The Amazon Moment for Seed Retail: Register For Our July 27 Webinar
 

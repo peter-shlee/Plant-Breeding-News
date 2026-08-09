@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/14/climate-change-is-rewriting-th
 summary: "The McGill University PhD student is working to understand how crops will defend themselves against white mold as atmospheric CO₂ levels rise The post Climate Change is Rewriting the Rules of Disease Resistance."
 attachments: []
 tags: []
-fetched_at: "2026-08-07T10:04:44+09:00"
+fetched_at: "2026-08-10T07:00:58+09:00"
 ---
 # Climate Change is Rewriting the Rules of Disease Resistance. Neha Paserkar Wants Plant Breeders Ready
 
