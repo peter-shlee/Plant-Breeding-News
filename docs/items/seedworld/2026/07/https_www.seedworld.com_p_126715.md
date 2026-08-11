@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/27/brent-collins-seeds-canada-pre
 summary: "The outgoing Seeds Canada president says the organization has grown into a stronger voice for the seed industry, but seed regulatory modernization remains unfinished business The post Brent Collins Reflects on His Time as Seeds Canada"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:57+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Brent Collins Reflects on His Time as Seeds Canada President
 

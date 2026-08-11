@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/21/nanocapsulas-fertilizantes-uso-
 summary: "Investigadores del CONICET están desarrollando nanocápsulas fertilizantes de liberación controlada para mejorar la eficiencia en el uso de nutrientes. La tecnología busca reducir pérdidas, apoyar la absorción por los cultivos y avanzar"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Nanocápsulas Fertilizantes Mejoran Uso de Nutrientes
 

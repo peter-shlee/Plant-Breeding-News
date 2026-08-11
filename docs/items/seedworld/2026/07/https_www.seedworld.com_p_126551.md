@@ -9,7 +9,7 @@ summary: "Hutton Scientific Services has launched a potato virus testing service
 attachments: []
 tags:
   - "감자"
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Hutton Launches Potato Virus Testing for 2026 Campaign
 

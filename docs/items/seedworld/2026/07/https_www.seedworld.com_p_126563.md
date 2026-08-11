@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/23/biochar-soil-health-vegetable-
 summary: "A new review examines how biochar may help protect soil health in continuously cropped solanaceous vegetables, including tomatoes, peppers, eggplants and potatoes. Researchers say biochar may improve soil structure, support beneficial"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Biochar May Protect Soil Health in Vegetable Crops
 

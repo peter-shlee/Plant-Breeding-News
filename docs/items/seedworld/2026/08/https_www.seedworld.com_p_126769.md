@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/08/03/genotipado-trigo-embrapa/"
 summary: "Una nueva plataforma de genotipado del trigo en Embrapa Trigo automatiza la preparación de muestras de ADN y amplía la capacidad de análisis molecular. La tecnología podría acelerar la selección de marcadores asociados con rendimiento,"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:57+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Genotipado del trigo avanza en Embrapa
 

@@ -9,7 +9,7 @@ summary: "INTA researchers are evaluating corn in Patagonia with early and ultra
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-08-10T07:00:57+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Corn in Patagonia Tests Southern Crop Limits
 

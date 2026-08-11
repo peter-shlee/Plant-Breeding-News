@@ -9,7 +9,7 @@ summary: "The UK has approved its first precision-bred potato, moving PiperPlus 
 attachments: []
 tags:
   - "감자"
-fetched_at: "2026-08-10T07:00:57+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # UK Approves First Precision-Bred Potato for Market
 

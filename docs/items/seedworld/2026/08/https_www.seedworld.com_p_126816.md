@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/03/plant-nitrogen-uptake/"
 summary: "Researchers identified a genetic stop signal that limits nitrogen uptake, opening a possible path toward crops that use fertilizer more efficiently. Plants know when they have absorbed enough nitrogen."
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:57+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Scientists Find the Switch That Tells Plants They Have Enough Nitrogen
 

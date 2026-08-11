@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/22/a-common-language-for-quality-
 summary: "Discover how the OECD Fruit and Vegetable Scheme creates consistent quality standards, supports fair trade and helps fresh produce move across global markets. The post A Common Language for Quality: Inside the OECD Fruit and Vegetable"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # A Common Language for Quality: Inside the OECD Fruit and Vegetable Scheme
 

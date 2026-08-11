@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/30/canada-seed-sector-needs-less-
 summary: "Sometimes the biggest innovation is simply making the system less complicated The post The Seed Sector Doesn’t Need More Ideas. It Needs Fewer Friction Points appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:57+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # The Seed Sector Doesn’t Need More Ideas. It Needs Fewer Friction Points
 

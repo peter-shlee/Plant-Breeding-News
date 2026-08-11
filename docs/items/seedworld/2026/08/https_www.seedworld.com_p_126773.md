@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/08/06/gen-tomate-rendimiento/"
 summary: "Investigadores del CONICET identificaron un gen del tomate que ayuda a las plantas a responder a la sombra, regular la fotosíntesis y mantener la producción de frutos. El hallazgo podría apoyar el desarrollo de variedades comerciales más"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:57+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Gen del tomate podría impulsar el rendimiento
 

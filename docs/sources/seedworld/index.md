@@ -11,13 +11,45 @@ source: "seedworld"
 
 ## 2026-08
 
+- **[The Hard Economics of Climate-Friendly Grains](../../items/seedworld/2026/08/https_www.seedworld.com_p_126872.md)**
+  - 2026-08-12 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126872.md) · [원문](https://www.seedworld.com/us/2026/08/11/climate-friendly-grains-kernza-market/)
+  - New research suggests consumers may pay more for bread with a smaller environmental footprint. The bigger question is whether the seed industry can build a business around that demand.
+
+- **[Flax Could Hold an Answer to Farming’s Fertilizer Problem](../../items/seedworld/2026/08/https_www.seedworld.com_p_126909.md)**
+  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126909.md) · [원문](https://www.seedworld.com/canada/2026/08/11/nitrogen-efficient-flax-reduce-fertilizer-use/)
+  - Canadian and Chilean scientists have identified more than 1,000 genes involved in how flax responds to nitrogen stress. The discovery could eventually help breeders create crops that need less fertil…
+
+- **[RF3 Canola Quality B. juncea Deemed Safe by EFSA](../../items/seedworld/2026/08/https_www.seedworld.com_p_126894.md)**
+  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126894.md) · [원문](https://www.seedworld.com/europe/2026/08/11/rf3-canola-quality-b-juncea-efsa-safe/)
+  - Scientific opinion supports the import and processing of BASF’s genetically modified crop in the European Union; the application does not cover cultivation. The European Food Safety Authority’s Panel…
+
+- **[The Future Belongs to Predictive Breeding](../../items/seedworld/2026/08/https_www.seedworld.com_p_126887.md)**
+  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126887.md) · [원문](https://www.seedworld.com/latam/2026/08/11/predictive-breeding-plant-breeding-future/)
+  - The next generation of breeders are entering the industry at a moment when it’s being rewritten from the ground up. Only a few years ago, the Internet of Things was the buzz we heard everywhere.
+
+- **[Breeding 4.0: Por qué la ia no premia al que compra la herramienta, sino al que construye la base](../../items/seedworld/2026/08/https_www.seedworld.com_p_126884.md)**
+  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126884.md) · [원문](https://www.seedworld.com/latam/2026/08/11/breeding-4-0-ia-datos-mejoramiento-vegetal/)
+  - La nueva generación de mejoradores se incorpora a la industria en un momento de profunda transformación. Hace apenas unos años, el Internet de las Cosas era el tema de conversación en cada congreso y…
+
+- **[The Way I See It… There’s More Seed in the Farm Bill Than You Think](../../items/seedworld/2026/08/https_www.seedworld.com_p_126881.md)**
+  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126881.md) · [원문](https://www.seedworld.com/us/2026/08/10/farm-bill-seed-research-innovation/)
+  - The latest Farm Bill fight is about much more than SNAP. For the seed industry, research, innovation, technology and the next generation of crops are also waiting on Congress.
+
+- **[How One Seed Plant Upgrade Improved Flax Cleaning — and Much More](../../items/seedworld/2026/08/https_www.seedworld.com_p_126875.md)**
+  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126875.md) · [원문](https://www.seedworld.com/canada/2026/08/10/seed-cleaning-equipment-flax-throughput/)
+  - A Saskatchewan operation upgraded its seed and grain cleaner to boost flax throughput, but the added flexibility is now improving efficiency across multiple specialty crops.
+
+- **[Why CSGA’s New President Says Now is the Time to Get Involved](../../items/seedworld/2026/08/https_www.seedworld.com_p_126865.md)**
+  - 2026-08-10 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126865.md) · [원문](https://www.seedworld.com/canada/2026/08/10/shannon-bieman-canadian-seed-sector/)
+  - Shannon Bieman says a rapidly changing Canadian seed sector presents an opportunity to strengthen collaboration, communication and industry partnerships. Canada’s seed sector is navigating a period o…
+
 - **[Seed Sector 2045: Cover Crops Offer Regenerative Opportunity for Seed](../../items/seedworld/2026/08/https_www.seedworld.com_p_126751.md)**
   - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126751.md) · [원문](https://www.seedworld.com/europe/2026/08/07/cover-crops-regenerative-agriculture-seed-sector/)
-  - How soil health, crop rotations and regenerative practices are influencing breeding strategies and variety development. Regenerative agriculture has become one of the most widely used terms in agricu…
+  - Cover crops are emerging as a practical link between regenerative agriculture and the seed sector. As farmers focus more on soil health, rotations and input efficiency, seed companies may find new op…
 
 - **[Tomato Gene Could Help Boost Yields](../../items/seedworld/2026/08/https_www.seedworld.com_p_126775.md)**
   - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126775.md) · [원문](https://www.seedworld.com/latam/2026/08/07/tomato-gene-boost-yields/)
-  - Researchers identified a protein that helps tomato plants respond to shade, regulate photosynthesis and maintain fruit production under high-density growing conditions.
+  - Researchers identified a tomato gene that helps plants respond to shade, regulate photosynthesis and maintain fruit production under high-density growing conditions. The SlBBX20 gene could give breed…
 
 - **[The Varieties Fade; The Impact Doesn’t](../../items/seedworld/2026/08/https_www.seedworld.com_p_126828.md)**
   - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126828.md) · [원문](https://www.seedworld.com/us/2026/08/06/istvan-rajcan-plant-breeding-impact/)

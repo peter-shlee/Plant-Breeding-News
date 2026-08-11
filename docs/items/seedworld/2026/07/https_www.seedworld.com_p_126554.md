@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/20/nordic-melons-historic-varieti
 summary: "Nordic Melons is testing 12 heritage melon varieties to determine whether historic genetics can support locally grown, commercially viable production. The NordGen project aims to revive regional cultivation knowledge while supporting"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Nordic Melons Project Tests Historic Varieties
 

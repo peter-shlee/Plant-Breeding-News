@@ -9,7 +9,7 @@ summary: "International study maps more than 66,000 structural variants linked t
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Mung Bean Pan-Genome Reveals Key Crop Traits
 

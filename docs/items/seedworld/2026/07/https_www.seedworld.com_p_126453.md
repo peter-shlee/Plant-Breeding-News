@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/13/el-nino-colombia-semillas-autor
 summary: "El Niño Colombia podría reducir lluvias y elevar temperaturas durante el segundo semestre del año. ICA y Acosemillas recomiendan a los agricultores usar semillas autorizadas, conservar la humedad del suelo y planificar técnicamente sus"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # El Niño Colombia: ICA pide usar semillas autorizadas
 

@@ -9,7 +9,7 @@ summary: "Wheat salt tolerance could be improved by selecting for potassium rete
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Wheat Salt Tolerance Traits Could Improve Yields
 

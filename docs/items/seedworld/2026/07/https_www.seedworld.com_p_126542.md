@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/16/midwest-migration-agriculture/"
 summary: "Midwest migration is creating new opportunities for agriculture, from stronger talent pipelines and university partnerships to long-term economic growth. The post Midwest Migration Signals a Financial Power Shift appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-08-10T07:00:58+09:00"
+fetched_at: "2026-08-12T07:13:18+09:00"
 ---
 # Midwest Migration Signals a Financial Power Shift
 
