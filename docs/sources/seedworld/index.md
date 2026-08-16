@@ -11,25 +11,65 @@ source: "seedworld"
 
 ## 2026-08
 
+- **[Stop Deploying Microbes Like Chemistry](../../items/seedworld/2026/08/https_www.seedworld.com_p_126957.md)**
+  - 2026-08-15 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126957.md) · [원문](https://www.seedworld.com/us/2026/08/14/microbial-activator-technology-beyond-inoculants/)
+  - For years, growers would ask me the same question after a field trial. We’d found a microbe that made their crop healthier, more productive, and they’d ask if they could get the product for their own…
+
+- **[The Fertilizer Squeeze Could Change the Seed Industry for Years](../../items/seedworld/2026/08/https_www.seedworld.com_p_126946.md)**
+  - 2026-08-15 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126946.md) · [원문](https://www.seedworld.com/us/2026/08/14/fertilizer-prices-seed-industry/)
+  - Geopolitical conflicts continue to disrupt global fertilizer markets. Seed World Columnist Shawn Hackett explores how prolonged volatility could reshape seed demand, production planning and breeding…
+
+- **[Sugar Beet Drought Stress Can Increase Pest Damage](../../items/seedworld/2026/08/https_www.seedworld.com_p_126902.md)**
+  - 2026-08-14 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126902.md) · [원문](https://www.seedworld.com/europe/2026/08/14/sugar-beet-drought-pest-damage/)
+  - Researchers find that water stress changes sugar beet physiology, leaf-miner development and crop damage Drought affects more than crop growth. New research shows that the severity of water stress ca…
+
+- **[Innovation Gets the Headlines. Plant Breeding Capacity Makes It Possible](../../items/seedworld/2026/08/https_www.seedworld.com_p_126937.md)**
+  - 2026-08-14 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126937.md) · [원문](https://www.seedworld.com/canada/2026/08/13/canada-seed-sector-capacity/)
+  - Behind every new variety is a much longer story of breeders, germplasm, research funding and industry partnerships — infrastructure Canada must build today to meet the challenges of tomorrow’s farmer…
+
+- **[Public Plant Breeders Need More Than Funding; They Need Support](../../items/seedworld/2026/08/https_www.seedworld.com_p_126922.md)**
+  - 2026-08-14 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126922.md) · [원문](https://www.seedworld.com/us/2026/08/13/public-plant-breeding-pbcc-support/)
+  - As funding pressures mount, NAPB Plant Breeding Coordinating Committee (PBCC) chair Marta Pudzianowska wants to help public breeders understand the forces shaping their programs and their profession.
+
+- **[China EDV System Begins With First 10 Crops](../../items/seedworld/2026/08/https_www.seedworld.com_p_126899.md)**
+  - 2026-08-13 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126899.md) · [원문](https://www.seedworld.com/europe/2026/08/13/china-edv-system-first-10-crops/)
+  - MARA publishes its first essentially derived variety catalogue, determination guidelines and testing framework. China has taken a significant step in strengthening plant breeders’ rights by putting i…
+
+- **[EU Seed Trade Looks to New Global Agreements](../../items/seedworld/2026/08/https_www.seedworld.com_p_126890.md)**
+  - 2026-08-13 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126890.md) · [원문](https://www.seedworld.com/europe/2026/08/13/eu-seed-trade-trade-agreements/)
+  - From Mercosur and Mexico to Australia, India and Indonesia, recent EU trade deals point to new opportunities for seed movement, plant health cooperation and market diversification.
+
+- **[Crop Diversity Strengthens Natural Pest Control](../../items/seedworld/2026/08/https_www.seedworld.com_p_126896.md)**
+  - 2026-08-13 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126896.md) · [원문](https://www.seedworld.com/europe/2026/08/12/crop-diversity-natural-pest-control/)
+  - Analysis of 149 field studies across five continents finds that diverse cropping systems support more natural enemies of pests and can improve plant performance. Increasing plant diversity strengthen…
+
+- **[Seed Testing Helps Move Hurricane Recovery Seed From Iowa to Jamaica](../../items/seedworld/2026/08/https_www.seedworld.com_p_126912.md)**
+  - 2026-08-12 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126912.md) · [원문](https://www.seedworld.com/us/2026/08/12/hurricane-recovery-seed-testing-jamaica/)
+  - Iowa State University’s Seed Science Center provided seed health testing that helped a donated shipment of vegetable seed meet Jamaica’s import requirements following Hurricane Melissa.
+
+- **[From Students To Scientists | On The Brink: Season 2 – Episode 14](../../items/seedworld/2026/08/https_www.seedworld.com_p_126788.md)**
+  - 2026-08-12 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126788.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/12/public-private-plant-breeding-funding-on-the-brink-season-2-episode-14/)
+  - Istvan Rajcan might be Canada’s most decorated soybean breeder. In 28 and a half years at the University of Guelph he has developed 87 cultivars, published 140 refereed papers and trained 51 graduate…
+
 - **[The Hard Economics of Climate-Friendly Grains](../../items/seedworld/2026/08/https_www.seedworld.com_p_126872.md)**
   - 2026-08-12 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126872.md) · [원문](https://www.seedworld.com/us/2026/08/11/climate-friendly-grains-kernza-market/)
-  - New research suggests consumers may pay more for bread with a smaller environmental footprint. The bigger question is whether the seed industry can build a business around that demand.
+  - Consumers may pay more for climate-friendly bread, but Kernza and other perennial grains still face hurdles in breeding, yield, taste and supply chains. The post The Hard Economics of Climate-Friendl…
 
 - **[Flax Could Hold an Answer to Farming’s Fertilizer Problem](../../items/seedworld/2026/08/https_www.seedworld.com_p_126909.md)**
   - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126909.md) · [원문](https://www.seedworld.com/canada/2026/08/11/nitrogen-efficient-flax-reduce-fertilizer-use/)
-  - Canadian and Chilean scientists have identified more than 1,000 genes involved in how flax responds to nitrogen stress. The discovery could eventually help breeders create crops that need less fertil…
+  - The discovery could eventually help breeders create crops that need less fertilizer and cost farmers less to grow The post Flax Could Hold an Answer to Farming’s Fertilizer Problem appeared first on…
 
 - **[RF3 Canola Quality B. juncea Deemed Safe by EFSA](../../items/seedworld/2026/08/https_www.seedworld.com_p_126894.md)**
   - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126894.md) · [원문](https://www.seedworld.com/europe/2026/08/11/rf3-canola-quality-b-juncea-efsa-safe/)
-  - Scientific opinion supports the import and processing of BASF’s genetically modified crop in the European Union; the application does not cover cultivation. The European Food Safety Authority’s Panel…
+  - EFSA’s GMO Panel concluded that RF3 Canola Quality B. juncea is as safe and nutritionally equivalent as conventional counterparts.
 
 - **[The Future Belongs to Predictive Breeding](../../items/seedworld/2026/08/https_www.seedworld.com_p_126887.md)**
   - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126887.md) · [원문](https://www.seedworld.com/latam/2026/08/11/predictive-breeding-plant-breeding-future/)
-  - The next generation of breeders are entering the industry at a moment when it’s being rewritten from the ground up. Only a few years ago, the Internet of Things was the buzz we heard everywhere.
+  - Predictive breeding is changing how breeders design crosses, prioritize evaluations and make decisions. Enid Perez-Lara of Agronomix Software explains why artificial intelligence rewards organization…
 
 - **[Breeding 4.0: Por qué la ia no premia al que compra la herramienta, sino al que construye la base](../../items/seedworld/2026/08/https_www.seedworld.com_p_126884.md)**
   - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126884.md) · [원문](https://www.seedworld.com/latam/2026/08/11/breeding-4-0-ia-datos-mejoramiento-vegetal/)
-  - La nueva generación de mejoradores se incorpora a la industria en un momento de profunda transformación. Hace apenas unos años, el Internet de las Cosas era el tema de conversación en cada congreso y…
+  - Breeding 4.0 está transformando el mejoramiento vegetal al integrar inteligencia artificial, selección genómica y datos ambientales. El artículo explica por qué el verdadero valor no está en comprar…
 
 - **[The Way I See It… There’s More Seed in the Farm Bill Than You Think](../../items/seedworld/2026/08/https_www.seedworld.com_p_126881.md)**
   - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126881.md) · [원문](https://www.seedworld.com/us/2026/08/10/farm-bill-seed-research-innovation/)
@@ -37,11 +77,11 @@ source: "seedworld"
 
 - **[How One Seed Plant Upgrade Improved Flax Cleaning — and Much More](../../items/seedworld/2026/08/https_www.seedworld.com_p_126875.md)**
   - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126875.md) · [원문](https://www.seedworld.com/canada/2026/08/10/seed-cleaning-equipment-flax-throughput/)
-  - A Saskatchewan operation upgraded its seed and grain cleaner to boost flax throughput, but the added flexibility is now improving efficiency across multiple specialty crops.
+  - A Saskatchewan operation upgraded its seed and grain cleaner to boost flax throughput, but the added flexibility is now improving efficiency across multiple crops The post How One Seed Plant Upgrade…
 
 - **[Why CSGA’s New President Says Now is the Time to Get Involved](../../items/seedworld/2026/08/https_www.seedworld.com_p_126865.md)**
   - 2026-08-10 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126865.md) · [원문](https://www.seedworld.com/canada/2026/08/10/shannon-bieman-canadian-seed-sector/)
-  - Shannon Bieman says a rapidly changing Canadian seed sector presents an opportunity to strengthen collaboration, communication and industry partnerships. Canada’s seed sector is navigating a period o…
+  - Shannon Bieman says a rapidly changing Canadian seed sector presents a big opportunity The post Why CSGA’s New President Says Now is the Time to Get Involved appeared first on Seed World .
 
 - **[Seed Sector 2045: Cover Crops Offer Regenerative Opportunity for Seed](../../items/seedworld/2026/08/https_www.seedworld.com_p_126751.md)**
   - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126751.md) · [원문](https://www.seedworld.com/europe/2026/08/07/cover-crops-regenerative-agriculture-seed-sector/)
@@ -289,103 +329,3 @@ source: "seedworld"
 - **[Concepts For Your Seeds](../../items/seedworld/2026/07/https_www.seedworld.com_p_120734.md)**
   - 2026-07-18 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_120734.md) · [원문](https://www.seedworld.com/us/2026/07/18/concepts-for-your-seeds-5/)
   - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds referring to their high quality. You get specific and individual […]…
-
-- **[Wheat Salt Tolerance Traits Could Improve Yields](../../items/seedworld/2026/07/https_www.seedworld.com_p_126382.md)**
-  - 2026-07-17 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126382.md) · [원문](https://www.seedworld.com/europe/2026/07/17/wheat-salt-tolerance-traits-improve-yields/)
-  - Wheat salt tolerance could be improved by selecting for potassium retention, lower sodium accumulation and proline content. Researchers say these traits are linked to stronger grain yield under sodic…
-
-- **[Plant Sensors Could Detect Crop Stress Earlier](../../items/seedworld/2026/07/https_www.seedworld.com_p_126570.md)**
-  - 2026-07-17 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126570.md) · [원문](https://www.seedworld.com/europe/2026/07/17/plant-sensors-crop-stress/)
-  - Tufts University researchers have developed battery-free plant sensors that attach to leaves and stems to monitor water loss, growth and crop stress. The technology could help farmers detect water sh…
-
-- **[Certified Soybean Seed: Paraguay Sector Raises Alarm](../../items/seedworld/2026/07/https_www.seedworld.com_p_126461.md)**
-  - 2026-07-17 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126461.md) · [원문](https://www.seedworld.com/latam/2026/07/17/certified-soybean-seed-paraguay-technology-access/)
-  - Paraguay’s certified soybean seed sector is facing pressure from limited technology access, unauthorized seed sales and low adoption by growers. APROSEMP says formal technology release is needed to s…
-
-- **[The Amazon Moment for Seed Retail: Register For Our July 27 Webinar](../../items/seedworld/2026/07/https_www.seedworld.com_p_126545.md)**
-  - 2026-07-17 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126545.md) · [원문](https://www.seedworld.com/canada/2026/07/16/the-amazon-moment-for-seed-retail-register-for-our-july-27-webinar/)
-  - Explore the concept of “Seed Administrative Synergy” and what a single platform for seed transactions could mean for retailers, farmers, seed growers, and seed companies The post The Amazon Moment fo…
-
-- **[Midwest Migration Signals a Financial Power Shift](../../items/seedworld/2026/07/https_www.seedworld.com_p_126542.md)**
-  - 2026-07-17 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126542.md) · [원문](https://www.seedworld.com/us/2026/07/16/midwest-migration-agriculture/)
-  - Midwest migration is creating new opportunities for agriculture, from stronger talent pipelines and university partnerships to long-term economic growth. The post Midwest Migration Signals a Financia…
-
-- **[Why We Can’t Let Canada’s Seed Sector Become a Museum Piece](../../items/seedworld/2026/07/https_www.seedworld.com_p_126533.md)**
-  - 2026-07-17 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126533.md) · [원문](https://www.seedworld.com/canada/2026/07/16/why-we-cant-let-canadas-seed-sector-become-a-museum-piece/)
-  - Boomtown celebrates the past. It also reminds us what happens when successful institutions stop evolving The post Why We Can’t Let Canada’s Seed Sector Become a Museum Piece appeared first on Seed Wo…
-
-- **[Barley Genes Linked to Stress and Grain Quality](../../items/seedworld/2026/07/https_www.seedworld.com_p_126380.md)**
-  - 2026-07-16 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126380.md) · [원문](https://www.seedworld.com/europe/2026/07/16/barley-genes-stress-grain-quality/)
-  - Barley genes identified by International Barley Hub researchers help control protective surface traits linked to environmental stress protection and grain quality. The findings could support future w…
-
-- **[Euroseeds Urges Agri-Food Role in EU Fund](../../items/seedworld/2026/07/https_www.seedworld.com_p_126530.md)**
-  - 2026-07-16 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126530.md) · [원문](https://www.seedworld.com/europe/2026/07/16/european-competitiveness-fund-agri-food/)
-  - Euroseeds has joined 39 European agri-food organisations in urging policymakers to keep agriculture and food central to the European Competitiveness Fund for 2028–2034, citing the sector’s role in se…
-
-- **[Semillas de Soja: APROSEMP Advierte por Tecnología](../../items/seedworld/2026/07/https_www.seedworld.com_p_126458.md)**
-  - 2026-07-16 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126458.md) · [원문](https://www.seedworld.com/latam/2026/07/16/semillas-soja-aprosemp-tecnologia/)
-  - El sector de semillas de soja de Paraguay enfrenta presión por el acceso limitado a nueva tecnología, el bajo uso de semillas certificadas y las ventas no autorizadas. APROSEMP pide avanzar en la lib…
-
-- **[Ottawa is Finally Treating Soil as Strategic Infrastructure. Here’s Why Seed Growers Should Care](../../items/seedworld/2026/07/https_www.seedworld.com_p_126422.md)**
-  - 2026-07-16 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126422.md) · [원문](https://www.seedworld.com/canada/2026/07/16/ottawa-is-finally-treating-soil-as-strategic-infrastructure-heres-why-seed-growers-should-care/)
-  - Senator Robert Black says a new national soil strategy could reshape conservation, land-use planning and research priorities The post Ottawa is Finally Treating Soil as Strategic Infrastructure.
-
-- **[CSGA Announces its New Executive Director, and it’s Not Someone From the Seed Sector](../../items/seedworld/2026/07/https_www.seedworld.com_p_126524.md)**
-  - 2026-07-15 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126524.md) · [원문](https://www.seedworld.com/canada/2026/07/15/csga-announces-its-new-executive-director-and-its-not-someone-from-the-seed-sector/)
-  - Former cattle industry government relations leader Cathy-Jo Noble will join the Canadian Seed Growers’ Association in mid-August, bringing more than 30 years of experience in agricultural policy, adv…
-
-- **[Climate Stress May Lower Soybean Seed Quality](../../items/seedworld/2026/07/https_www.seedworld.com_p_126387.md)**
-  - 2026-07-15 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126387.md) · [원문](https://www.seedworld.com/europe/2026/07/15/climate-stress-soybean-seed-quality/)
-  - Soybean seed quality could decline under combined climate stress from elevated CO₂, heat and drought, according to an AI-supported study. Researchers found potential yield gains but lower starch and…
-
-- **[AI Model Maps Hidden Grammar of Plant Genomes](../../items/seedworld/2026/07/https_www.seedworld.com_p_126376.md)**
-  - 2026-07-15 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126376.md) · [원문](https://www.seedworld.com/europe/2026/07/15/ai-model-maps-plant-genomes/)
-  - Plant genomes contain regulatory patterns that help control traits such as flowering time, disease resistance and heat stress response. IPK researchers used deep learning to predict how transcription…
-
-- **[If Farmers Pay, They Need A Say | On The Brink: Season 2 – Episode 10](../../items/seedworld/2026/07/https_www.seedworld.com_p_126481.md)**
-  - 2026-07-15 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126481.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/07/15/should-farmers-fun-wheat-breeding-on-the-brink-season-2-episode-10/)
-  - Farmer check-off dollars have quietly become the backbone of plant breeding in Canada, even as Ottawa closes research facilities. On this On The Brink, Darcy Pawlik of the Western Canadian Wheat Grow…
-
-- **[Climate Change is Rewriting the Rules of Disease Resistance. Neha Paserkar Wants Plant Breeders Ready](../../items/seedworld/2026/07/https_www.seedworld.com_p_126427.md)**
-  - 2026-07-15 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126427.md) · [원문](https://www.seedworld.com/canada/2026/07/14/climate-change-is-rewriting-the-rules-of-disease-resistance-neha-paserkar-wants-plant-breeders-ready/)
-  - The McGill University PhD student is working to understand how crops will defend themselves against white mold as atmospheric CO₂ levels rise The post Climate Change is Rewriting the Rules of Disease…
-
-- **[Seed Industry Presses U.S. to Lift Tariffs on Research Seed](../../items/seedworld/2026/07/https_www.seedworld.com_p_126498.md)**
-  - 2026-07-15 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126498.md) · [원문](https://www.seedworld.com/us/2026/07/14/seed-industry-presses-u-s-to-lift-tariffs-on-research-seed/)
-  - ASTA is urging the U.S. to eliminate tariffs on planting seed, saying added costs are disrupting research and development and could affect innovation, seed choice and farmer competitiveness.
-
-- **[Sorghum Researchers Build a New Roadmap for Nutritional Traits](../../items/seedworld/2026/07/https_www.seedworld.com_p_126483.md)**
-  - 2026-07-14 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126483.md) · [원문](https://www.seedworld.com/us/2026/07/14/sorghum-nutritional-traits-breeding/)
-  - Researchers are using genomics, metabolomics and machine learning to map the compounds inside sorghum grain and help breeders select for nutrition, quality and specific end uses.
-
-- **[Europe Warned Pollinator Loss Threatens Crops](../../items/seedworld/2026/07/https_www.seedworld.com_p_126373.md)**
-  - 2026-07-14 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126373.md) · [원문](https://www.seedworld.com/europe/2026/07/14/europe-pollinator-loss-threatens-crops/)
-  - Pollinator loss could pose a serious risk to European crop production, food security and agricultural resilience. EU-funded researchers say stronger pollinator stewardship is needed across farming, l…
-
-- **[El Niño Colombia: Farmers Urged to Prepare Crops](../../items/seedworld/2026/07/https_www.seedworld.com_p_126456.md)**
-  - 2026-07-14 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126456.md) · [원문](https://www.seedworld.com/latam/2026/07/14/el-nino-colombia-farmers-prepare-crops/)
-  - El Niño Colombia may affect key crops as ICA and Acosemillas urge authorized seed, soil conservation and technical planning. The post El Niño Colombia: Farmers Urged to Prepare Crops appeared first o…
-
-- **[EU Excludes Soybean Seed from Deforestation Rules](../../items/seedworld/2026/07/https_www.seedworld.com_p_126490.md)**
-  - 2026-07-14 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126490.md) · [원문](https://www.seedworld.com/europe/2026/07/14/eu-excludes-soybean-seed-deforestation-rules/)
-  - The European Commission has excluded soybean seed for sowing from the EU Deforestation Regulation. Euroseeds says the decision provides legal certainty for breeders, supports variety development and…
-
-- **[Climate Change Threatens Crop Nutrition, Researchers Warn](../../items/seedworld/2026/07/https_www.seedworld.com_p_126370.md)**
-  - 2026-07-14 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126370.md) · [원문](https://www.seedworld.com/europe/2026/07/13/climate-change-threatens-crop-nutrition/)
-  - Crop nutrition is becoming a growing concern as climate change affects both food production and the nutritional value of major crops. Ghent University researchers say future crop improvement must add…
-
-- **[Building Better Corn in Virtual Fields](../../items/seedworld/2026/07/https_www.seedworld.com_p_126474.md)**
-  - 2026-07-14 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126474.md) · [원문](https://www.seedworld.com/us/2026/07/13/ai-corn-breeding-virtual-fields/)
-  - AI-powered virtual fields are helping corn breeders evaluate canopy architecture, identify promising traits and improve breeding decisions before field trials begin. The post Building Better Corn in…
-
-- **[European Crop Breeding Research Project Launches](../../items/seedworld/2026/07/https_www.seedworld.com_p_126470.md)**
-  - 2026-07-13 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126470.md) · [원문](https://www.seedworld.com/europe/2026/07/13/european-crop-breeding-research-project-launches/)
-  - The Horizon Europe-funded COLiBRI initiative will bring together 17 organizations to strengthen crop breeding research coordination across Europe. The project will develop a shared roadmap, implement…
-
-- **[El Niño Colombia: ICA pide usar semillas autorizadas](../../items/seedworld/2026/07/https_www.seedworld.com_p_126453.md)**
-  - 2026-07-13 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126453.md) · [원문](https://www.seedworld.com/latam/2026/07/13/el-nino-colombia-semillas-autorizadas/)
-  - El Niño Colombia podría reducir lluvias y elevar temperaturas durante el segundo semestre del año. ICA y Acosemillas recomiendan a los agricultores usar semillas autorizadas, conservar la humedad del…
-
-- **[What Decades of Service Look Like: Meet the 4 Leaders Honoured by CSGA](../../items/seedworld/2026/07/https_www.seedworld.com_p_126415.md)**
-  - 2026-07-13 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126415.md) · [원문](https://www.seedworld.com/canada/2026/07/13/what-decades-of-service-look-like-meet-the-four-leaders-honoured-by-csga/)
-  - The Canadian Seed Growers' Association recognized Rick Love, Ken McLean, Éric Laflamme and Laurie Wakefield for careers that quietly transformed Canada's seed sector The post What Decades of Service…

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/06/istvan-rajcan-plant-breeding-impac
 summary: "NAPB award recipient Istvan Rajcan explains why farmer adoption, research freedom and training future scientists define plant breeding impact. The post The Varieties Fade; The Impact Doesn’t appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # The Varieties Fade; The Impact Doesn’t
 

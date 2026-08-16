@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/03/glenn-logan-csga-leadership-se
 summary: "As Glenn Logan looks back on his time as president of the CSGA, he isn't measuring success by a list of accomplishments or a single initiative The post No Agenda, Just Listening: Glenn Logan Reflects on Leading the Canadian Seed Growers’"
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # No Agenda, Just Listening: Glenn Logan Reflects on Leading the Canadian Seed Growers’ Association
 

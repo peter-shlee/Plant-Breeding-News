@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/24/the-best-way-to-use-ai-think-like-
 summary: "An AI caddy can carry the routine work, offer perspective and speed up ideas, but it should never take the shot for you. The real value remains in human judgment, relationships, planning and experimentation."
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # The Best Way to Use AI? Think Like a Golfer, Not a Robot
 

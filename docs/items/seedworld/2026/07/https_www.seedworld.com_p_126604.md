@@ -9,7 +9,7 @@ summary: "Texas A&M researchers are breeding corn hybrids for aflatoxin resistan
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Corn’s Next Job Description Is Getting Longer
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/07/24/maiz-en-patagonia-limites-austr
 summary: "Investigadores del INTA evalúan maíz en Patagonia con híbridos precoces y ultraprecoces en Santa Cruz y Chubut. Los ensayos analizan adaptación al frío, rendimiento de grano y potencial para ensilaje y alimentación ganadera."
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Maíz en Patagonia prueba nuevos límites australes
 

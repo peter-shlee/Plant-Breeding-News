@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/30/weight-trust-seed-testing/"
 summary: "Seed testing is more than laboratory equipment and reports. Heidi Larson of SGS Crop Science reflects on how experience, accuracy and customer trust help protect every seed sample’s value."
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # The Weight of Trust in Seed Testing
 

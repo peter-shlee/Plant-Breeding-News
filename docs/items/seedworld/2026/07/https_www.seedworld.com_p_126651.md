@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/23/seed-industry-connection-probl
 summary: "This week's biggest stories all point to the same conclusion: the people who can make connections between science, infrastructure and farmers will win the future The post The Seed Sector Has a Connection Problem, Not an Innovation Problem"
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # The Seed Sector Has a Connection Problem, Not an Innovation Problem
 

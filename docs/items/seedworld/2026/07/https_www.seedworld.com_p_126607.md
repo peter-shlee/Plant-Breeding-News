@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/20/bioconsortia-euroseeds-innovation-
 summary: "BioConsortia is one of 10 finalists selected for the Euroseeds2026 InnovAction Stage competition in Valencia, Spain. The post U.S."
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # U.S. Company Named a Euroseeds InnovAction Finalist
 

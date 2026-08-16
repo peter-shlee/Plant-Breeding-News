@@ -1,0 +1,19 @@
+---
+id: "c26f605c9ce9f08d5d96565432f229d8c3b8af51dc0b6096690fa5a897e7c1d6"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=126957"
+published_at: "2026-08-15T00:51:24+09:00"
+url: "https://www.seedworld.com/us/2026/08/14/microbial-activator-technology-beyond-inoculants/"
+summary: "For years, growers would ask me the same question after a field trial. We’d found a microbe that made their crop healthier, more productive, and they’d ask if they could get the product for their own farm."
+attachments: []
+tags: []
+fetched_at: "2026-08-17T06:46:41+09:00"
+---
+# Stop Deploying Microbes Like Chemistry
+
+For years, growers would ask me the same question after a field trial. We’d found a microbe that made their crop healthier, more productive, and they’d ask if they could get the product for their own farm. I had to tell them no, because this was “just research.” I said that more times than I can count, and every time, it bothered me a little more. In the meantime, I was writing federal grants, and in every single one I wrote the same sentence: This work will make agriculture better. One day, I looked honestly at what I had done with that funding. I had published papers and taught students, but it wasn’t enough for me. I wanted to make a bigger impact for farmers. It wasn’t a funding problem, but a problem with the approach. The industry was only asking one question about microbes: What can this one do? But that’s the chemistry question, and it comes with a chemistry answer. You isolate an active ingredient, deploy it broadly, and expect it to perform the same way everywhere. Microbes don’t work like that. They’re living organisms, and living things exist in interactive partnerships. A microbe’s usefulness depends on who it is with and whether it can colonize a root, persist through a season, and function inside a soil community that’s already been operating successfully for a very long time. The complex interactions among microbes within the soil community are key to the effectiveness of the community in supporting crop health and productivity. Deploy a microbial inoculant like it’s chemistry, and you get exactly what the industry keeps getting: a result that worked once, with no way to predict when it doesn’t. That reframing is what sent me to my university’s technology commercialization office instead of back to my lab. I had a library of thousands of microbial isolates, built over 30+ years of asking how these organisms behave together in real soils. What I didn’t have yet was a way to put that library to work outside of a research paper. That’s why we started Jord. Since then, Jord and our big goals have grown in ways that I would not have predicted. We are pioneering microbial activator technology, utilizing microbial inoculants to stimulate the full potential of the soil microbiome to support crop productivity. We’re active on substantial row crop acreage, moving into specialty crops, and bringing new products to the market that offer a clear return on investment for both commercial partners and the farmers we all serve. The acreage and company growth are wonderful, but the ultimate goal is changing the model for the entire industry. I want to see all of us moving past this idea of a single magic microbe doing all the work, and toward an ecology-first approach built on the understanding that microbes need the right partners to colonize, persist, and perform. Do that well, and we won’t just have grown a company. We’ll have helped move an industry past a habit it should have broken a long time ago. If you’re a seed or biological company still deploying microbes the old way inside your pipeline, know that our library and process aren’t sitting in my lab. They’re built and ready to be shared.
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/us/2026/08/14/microbial-activator-technology-beyond-inoculants/)

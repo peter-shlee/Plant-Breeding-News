@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/07/27/one-login-many-benefits-seed-i
 summary: "In this webinar, we explore what a unified transaction platform could look like—and why the conversation is gaining momentum The post One Login, Many Benefits: Rethinking Seed Industry Administration appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # One Login, Many Benefits: Rethinking Seed Industry Administration
 

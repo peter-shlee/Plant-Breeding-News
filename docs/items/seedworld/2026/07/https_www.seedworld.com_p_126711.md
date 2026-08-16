@@ -9,7 +9,7 @@ summary: "The European Commission has removed soybean seeds EUDR coverage after 
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Commission Excludes Soybean Seeds from EUDR
 

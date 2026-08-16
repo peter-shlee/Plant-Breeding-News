@@ -1,0 +1,24 @@
+---
+id: "f43806b190a883408e1a878c1444bf6a02f95963222928569b9f7beba60d14ac"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=126899"
+published_at: "2026-08-13T20:26:12+09:00"
+url: "https://www.seedworld.com/europe/2026/08/13/china-edv-system-first-10-crops/"
+summary: "MARA publishes its first essentially derived variety catalogue, determination guidelines and testing framework. China has taken a significant step in strengthening plant breeders’ rights by putting its system for essentially derived"
+attachments: []
+tags:
+  - "IP-policy"
+  - "벼"
+  - "밀"
+  - "고추"
+  - "배추"
+fetched_at: "2026-08-17T06:46:50+09:00"
+---
+# China EDV System Begins With First 10 Crops
+
+MARA publishes its first essentially derived variety catalogue, determination guidelines and testing framework. China has taken a significant step in strengthening plant breeders’ rights by putting its system for essentially derived varieties, or EDVs, into operation. On 27 July 2026, China’s Ministry of Agriculture and Rural Affairs, MARA, published the country’s first implementation catalogue for agricultural plant EDVs. The catalogue was approved by the State Council and entered into effect upon publication. MARA announced the measures at a press conference dedicated to implementation of the EDV system and progress in seed sector intellectual property protection. The initial implementation covers ten crops: rice, wheat, cotton, oilseed rape, groundnut, Chinese cabbage, pepper, millet, faba bean and peach. MARA has also published a determination guideline, crop specific thresholds, requirements for organisations carrying out EDV testing and a list of recommended testing institutions. The recommended list currently contains 28 organisations with molecular or phenotypic testing capabilities for one or more of the crops concerned. From Legislation to Implementation China introduced the legal basis for an EDV system through amendments to its Seed Law. The framework was further developed in the revised Regulations on the Protection of New Varieties of Plants, which entered into force on 1 June 2025. Those regulations provide for phased implementation, with the crops concerned identified through implementation catalogues approved by the State Council. The regulations state that EDV determinations are to be based primarily on molecular testing and phenotypic testing. Where necessary, other factors such as breeding method, selection process and pedigree relationships may also be considered. MARA’s newly published guidelines and crop specific thresholds now provide the technical framework needed to apply those provisions in practice. This distinction is important. China’s breeder’s exemption continues to allow the use of a protected variety for breeding and research without permission from the rights holder. However, if the resulting variety is determined to be essentially derived, exploitation of that EDV within the scope of the breeder’s right requires the consent of the rights holder of the initial variety. The EDV system therefore seeks to preserve access to protected varieties for further breeding while extending the economic rights of the breeder where a new variety remains essentially derived from an initial protected variety. Why European Breeders Should Pay Attention For European breeding companies with protected varieties, breeding programmes, licensing arrangements or commercial activities in China, the move from legislation to practical implementation is significant. Questions surrounding genetic distance, parentage, breeding records and licensing may now play a greater role when varieties covered by the initial catalogue are developed or commercialised in China. The international context is also noteworthy. China acceded to the UPOV Convention in 1999 under the 1978 Act. The EDV concept forms part of the 1991 Act of the UPOV Convention, where it operates alongside the breeder’s exemption by extending the breeder’s right to certain varieties essentially derived from a protected initial variety. China’s latest measures give that concept practical effect within its domestic plant variety protection framework. For breeders outside China, much will depend on how the new determination procedures work in practice, how disputes over EDV status are handled and how licensing relationships develop. The publication of crop specific thresholds and the establishment of a network of testing organisations mean that this is no longer simply a provision sitting in legislation. China now has an operational framework for applying it. The full announcement and supporting documents are available from China’s Ministry of Agriculture and Rural Affairs .
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/europe/2026/08/13/china-edv-system-first-10-crops/)

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/06/xylella-fastidiosa-disease-con
 summary: "Research on Xylella fastidiosa is advancing resistant olive cultivars, biological control, insect vector management and surveillance. Findings presented in Italy could support improved disease management and olive production recovery in"
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Xylella Research Advances Disease Control
 

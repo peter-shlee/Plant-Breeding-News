@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/07/cover-crops-regenerative-agric
 summary: "Cover crops are emerging as a practical link between regenerative agriculture and the seed sector. As farmers focus more on soil health, rotations and input efficiency, seed companies may find new opportunities in locally adapted genetics,"
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Seed Sector 2045: Cover Crops Offer Regenerative Opportunity for Seed
 

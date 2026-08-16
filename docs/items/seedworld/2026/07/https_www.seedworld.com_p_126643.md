@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/07/23/low-input-farming-plant-breedi
 summary: "Low-input farming is becoming a strategic priority for European seed companies as farmers face tighter input constraints, reduced plant protection options and rising biodiversity expectations."
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Seed Sector 2045: How Low-Input Farming Is Changing Plant Breeding
 

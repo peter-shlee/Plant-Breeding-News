@@ -9,7 +9,7 @@ summary: "Scottish farmers and growers are being urged to prepare for water scar
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Scottish Farmers Urged to Plan for Water Scarcity
 

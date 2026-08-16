@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/24/plant-breeding-communications-hann
 summary: "Hannah Jeffery, incoming NAPB Communications Committee chair, explains how better communication can help the public understand plant breeding. The post Plant Breeding Needs Better PR and NAPB’s Communications Chair Has a Plan appeared"
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Plant Breeding Needs Better PR and NAPB’s Communications Chair Has a Plan
 

@@ -9,7 +9,7 @@ summary: "Lumisena Prime fungicide seed treatment from Corteva Agriscience gives
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Simplifying Seed Treatment: New All-in-One Premix Relieves Retailers’ Headaches
 

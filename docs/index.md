@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-08-12 07:13 (KST)**  
-- 커버리지(최근 섹션): **2026-08-05 ~ 2026-08-12** (최근 7일)
+- 마지막 업데이트: **2026-08-17 06:49 (KST)**  
+- 커버리지(최근 섹션): **2026-08-10 ~ 2026-08-17** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 
 <a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-08-05~2026-08-12)
+## 30초 주간 브리핑 (2026-08-10~2026-08-17)
 
-> 기후 변화 대응을 위한 유전자 연구와 디지털 육종 기술이 식물 육종 산업의 새로운 표준으로 자리 잡고 있습니다.
+> 글로벌 종자 산업의 기술 혁신과 정책 변화, 그리고 공급망 대응 전략을 요약합니다.
 
 ### 1) 정책/규제
 
-- 유럽식품안전청(EFSA)이 BASF의 유전자 변형 RF3 카놀라를 기존 품종과 동등하게 안전하다고 평가했습니다. ([원문](https://www.seedworld.com/europe/2026/08/11/rf3-canola-quality-b-juncea-efsa-safe/))
-- 미국 농업법안 논의 과정에서 종자 산업의 연구 혁신과 차세대 작물 개발을 위한 지원책이 주요 의제로 다뤄지고 있습니다. ([원문](https://www.seedworld.com/us/2026/08/10/farm-bill-seed-research-innovation/))
+- 중국 농업농촌부(MARA)가 벼, 밀 등 10개 작물을 대상으로 실질적 파생 품종(EDV) 관리 체계를 본격 시행했습니다. ([원문](https://www.seedworld.com/europe/2026/08/13/china-edv-system-first-10-crops/))
+- 유럽식품안전청(EFSA)은 BASF가 신청한 RF3 카놀라 품질의 B. juncea 품종에 대해 식품 및 사료용으로 안전하다는 평가 결과를 발표했습니다. ([원문](https://www.seedworld.com/europe/2026/08/11/rf3-canola-quality-b-juncea-efsa-safe/))
 
 ### 2) 연구/기술
 
-- 캐나다와 칠레 연구진이 질소 스트레스에 반응하는 아마의 유전자 1,000여 개를 규명하여 비료 효율 개선의 토대를 마련했습니다. ([원문](https://www.seedworld.com/canada/2026/08/11/nitrogen-efficient-flax-reduce-fertilizer-use/))
-- 머신러닝 기반의 유전체 예측 모델이 도입되면서 육종 과정의 분석 속도가 획기적으로 단축되고 정밀도가 향상되었습니다. ([원문](https://www.seedworld.com/latam/2026/08/11/predictive-breeding-plant-breeding-future/))
+- 독일 괴팅겐 대학 연구진은 가뭄 스트레스가 사탕무의 생리적 변화를 유도해 해충 피해를 가중시킬 수 있음을 확인했습니다. ([원문](https://www.seedworld.com/europe/2026/08/14/sugar-beet-drought-pest-damage/))
+- 5개 대륙 149개 연구를 분석한 결과, 작물 다양성 확보가 해충의 천적 개체군을 늘려 자연적인 방제 효과를 높이는 것으로 나타났습니다. ([원문](https://www.seedworld.com/europe/2026/08/12/crop-diversity-natural-pest-control/))
 
 ### 3) 유통/시장/현장
 
-- 코넬대 연구 결과, 소비자들이 기후 친화적인 다년생 곡물인 '커나자(Kernza)'로 만든 빵에 추가 비용을 지불할 의사가 있음이 확인되었습니다. ([원문](https://www.seedworld.com/us/2026/08/11/climate-friendly-grains-kernza-market/))
-- 캐나다의 한 종자 처리 시설이 아마 정선 장비를 업그레이드하여 처리 효율을 높이고 다양한 특수 작물로 운영 범위를 확대했습니다. ([원문](https://www.seedworld.com/canada/2026/08/10/seed-cleaning-equipment-flax-throughput/))
+- 지정학적 갈등으로 인한 비료 가격 변동성이 향후 종자 수요와 육종 우선순위 등 종자 산업 전반에 큰 변화를 예고하고 있습니다. ([원문](https://www.seedworld.com/us/2026/08/14/fertilizer-prices-seed-industry/))
+- EU가 호주, 인도 등과 체결한 최근 무역 협정들은 종자 이동의 효율성을 높이고 시장 다변화를 촉진할 새로운 기회를 제공하고 있습니다. ([원문](https://www.seedworld.com/europe/2026/08/13/eu-seed-trade-trade-agreements/))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -47,51 +47,53 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[The Future Belongs to Predictive Breeding](items/seedworld/2026/08/https_www.seedworld.com_p_126887.md)**
-  - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126887.md) · [원문](https://www.seedworld.com/latam/2026/08/11/predictive-breeding-plant-breeding-future/)
-  - The next generation of breeders are entering the industry at a moment when it’s being rewritten from the ground up. Only a few years ago, the Internet of Things was the buzz we heard everywhere.
+- **[China EDV System Begins With First 10 Crops](items/seedworld/2026/08/https_www.seedworld.com_p_126899.md)**
+  - 2026-08-13 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126899.md) · [원문](https://www.seedworld.com/europe/2026/08/13/china-edv-system-first-10-crops/)
+  - MARA publishes its first essentially derived variety catalogue, determination guidelines and testing framework. China has taken a significant step in strengthening plant breeders’ rights by putting i…
 
-- **[The Way I See It… There’s More Seed in the Farm Bill Than You Think](items/seedworld/2026/08/https_www.seedworld.com_p_126881.md)**
-  - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126881.md) · [원문](https://www.seedworld.com/us/2026/08/10/farm-bill-seed-research-innovation/)
-  - The latest Farm Bill fight is about much more than SNAP. For the seed industry, research, innovation, technology and the next generation of crops are also waiting on Congress.
+- **[The Fertilizer Squeeze Could Change the Seed Industry for Years](items/seedworld/2026/08/https_www.seedworld.com_p_126946.md)**
+  - 2026-08-15 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126946.md) · [원문](https://www.seedworld.com/us/2026/08/14/fertilizer-prices-seed-industry/)
+  - Geopolitical conflicts continue to disrupt global fertilizer markets. Seed World Columnist Shawn Hackett explores how prolonged volatility could reshape seed demand, production planning and breeding…
 
-- **[기계수확 가능한 녹두 새 품종 '채흔' 현장 평가회](items/rda/2026/08/100000812393.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812393.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812393&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Sugar Beet Drought Stress Can Increase Pest Damage](items/seedworld/2026/08/https_www.seedworld.com_p_126902.md)**
+  - 2026-08-14 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126902.md) · [원문](https://www.seedworld.com/europe/2026/08/14/sugar-beet-drought-pest-damage/)
+  - Researchers find that water stress changes sugar beet physiology, leaf-miner development and crop damage Drought affects more than crop growth. New research shows that the severity of water stress ca…
 
-- **[기계수확 가능한 녹두 새 품종 '채흔' 현장 평가회](items/nics/2026/08/944416.md)**
-  - 2026-08-07 · `nics` · [읽기](items/nics/2026/08/944416.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944416)
+- **[Innovation Gets the Headlines. Plant Breeding Capacity Makes It Possible](items/seedworld/2026/08/https_www.seedworld.com_p_126937.md)**
+  - 2026-08-14 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126937.md) · [원문](https://www.seedworld.com/canada/2026/08/13/canada-seed-sector-capacity/)
+  - Behind every new variety is a much longer story of breeders, germplasm, research funding and industry partnerships — infrastructure Canada must build today to meet the challenges of tomorrow’s farmer…
+
+- **[EU Seed Trade Looks to New Global Agreements](items/seedworld/2026/08/https_www.seedworld.com_p_126890.md)**
+  - 2026-08-13 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126890.md) · [원문](https://www.seedworld.com/europe/2026/08/13/eu-seed-trade-trade-agreements/)
+  - From Mercosur and Mexico to Australia, India and Indonesia, recent EU trade deals point to new opportunities for seed movement, plant health cooperation and market diversification.
+
+- **[Stop Deploying Microbes Like Chemistry](items/seedworld/2026/08/https_www.seedworld.com_p_126957.md)**
+  - 2026-08-15 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126957.md) · [원문](https://www.seedworld.com/us/2026/08/14/microbial-activator-technology-beyond-inoculants/)
+  - For years, growers would ask me the same question after a field trial. We’d found a microbe that made their crop healthier, more productive, and they’d ask if they could get the product for their own…
+
+- **[Public Plant Breeders Need More Than Funding; They Need Support](items/seedworld/2026/08/https_www.seedworld.com_p_126922.md)**
+  - 2026-08-14 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126922.md) · [원문](https://www.seedworld.com/us/2026/08/13/public-plant-breeding-pbcc-support/)
+  - As funding pressures mount, NAPB Plant Breeding Coordinating Committee (PBCC) chair Marta Pudzianowska wants to help public breeders understand the forces shaping their programs and their profession.
+
+- **[Crop Diversity Strengthens Natural Pest Control](items/seedworld/2026/08/https_www.seedworld.com_p_126896.md)**
+  - 2026-08-13 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126896.md) · [원문](https://www.seedworld.com/europe/2026/08/12/crop-diversity-natural-pest-control/)
+  - Analysis of 149 field studies across five continents finds that diverse cropping systems support more natural enemies of pests and can improve plant performance. Increasing plant diversity strengthen…
+
+- **[Seed Testing Helps Move Hurricane Recovery Seed From Iowa to Jamaica](items/seedworld/2026/08/https_www.seedworld.com_p_126912.md)**
+  - 2026-08-12 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126912.md) · [원문](https://www.seedworld.com/us/2026/08/12/hurricane-recovery-seed-testing-jamaica/)
+  - Iowa State University’s Seed Science Center provided seed health testing that helped a donated shipment of vegetable seed meet Jamaica’s import requirements following Hurricane Melissa.
+
+- **[From Students To Scientists | On The Brink: Season 2 – Episode 14](items/seedworld/2026/08/https_www.seedworld.com_p_126788.md)**
+  - 2026-08-12 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126788.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/12/public-private-plant-breeding-funding-on-the-brink-season-2-episode-14/)
+  - Istvan Rajcan might be Canada’s most decorated soybean breeder. In 28 and a half years at the University of Guelph he has developed 87 cultivars, published 140 refereed papers and trained 51 graduate…
 
 - **[The Hard Economics of Climate-Friendly Grains](items/seedworld/2026/08/https_www.seedworld.com_p_126872.md)**
   - 2026-08-12 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126872.md) · [원문](https://www.seedworld.com/us/2026/08/11/climate-friendly-grains-kernza-market/)
-  - New research suggests consumers may pay more for bread with a smaller environmental footprint. The bigger question is whether the seed industry can build a business around that demand.
+  - Consumers may pay more for climate-friendly bread, but Kernza and other perennial grains still face hurdles in breeding, yield, taste and supply chains. The post The Hard Economics of Climate-Friendl…
 
 - **[Flax Could Hold an Answer to Farming’s Fertilizer Problem](items/seedworld/2026/08/https_www.seedworld.com_p_126909.md)**
   - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126909.md) · [원문](https://www.seedworld.com/canada/2026/08/11/nitrogen-efficient-flax-reduce-fertilizer-use/)
-  - Canadian and Chilean scientists have identified more than 1,000 genes involved in how flax responds to nitrogen stress. The discovery could eventually help breeders create crops that need less fertil…
-
-- **[RF3 Canola Quality B. juncea Deemed Safe by EFSA](items/seedworld/2026/08/https_www.seedworld.com_p_126894.md)**
-  - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126894.md) · [원문](https://www.seedworld.com/europe/2026/08/11/rf3-canola-quality-b-juncea-efsa-safe/)
-  - Scientific opinion supports the import and processing of BASF’s genetically modified crop in the European Union; the application does not cover cultivation. The European Food Safety Authority’s Panel…
-
-- **[Breeding 4.0: Por qué la ia no premia al que compra la herramienta, sino al que construye la base](items/seedworld/2026/08/https_www.seedworld.com_p_126884.md)**
-  - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126884.md) · [원문](https://www.seedworld.com/latam/2026/08/11/breeding-4-0-ia-datos-mejoramiento-vegetal/)
-  - La nueva generación de mejoradores se incorpora a la industria en un momento de profunda transformación. Hace apenas unos años, el Internet de las Cosas era el tema de conversación en cada congreso y…
-
-- **[How One Seed Plant Upgrade Improved Flax Cleaning — and Much More](items/seedworld/2026/08/https_www.seedworld.com_p_126875.md)**
-  - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126875.md) · [원문](https://www.seedworld.com/canada/2026/08/10/seed-cleaning-equipment-flax-throughput/)
-  - A Saskatchewan operation upgraded its seed and grain cleaner to boost flax throughput, but the added flexibility is now improving efficiency across multiple specialty crops.
-
-- **[Why CSGA’s New President Says Now is the Time to Get Involved](items/seedworld/2026/08/https_www.seedworld.com_p_126865.md)**
-  - 2026-08-10 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126865.md) · [원문](https://www.seedworld.com/canada/2026/08/10/shannon-bieman-canadian-seed-sector/)
-  - Shannon Bieman says a rapidly changing Canadian seed sector presents an opportunity to strengthen collaboration, communication and industry partnerships. Canada’s seed sector is navigating a period o…
-
-- **[Seed Sector 2045: Cover Crops Offer Regenerative Opportunity for Seed](items/seedworld/2026/08/https_www.seedworld.com_p_126751.md)**
-  - 2026-08-07 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126751.md) · [원문](https://www.seedworld.com/europe/2026/08/07/cover-crops-regenerative-agriculture-seed-sector/)
-  - Cover crops are emerging as a practical link between regenerative agriculture and the seed sector. As farmers focus more on soil health, rotations and input efficiency, seed companies may find new op…
-
-- **[Tomato Gene Could Help Boost Yields](items/seedworld/2026/08/https_www.seedworld.com_p_126775.md)**
-  - 2026-08-07 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126775.md) · [원문](https://www.seedworld.com/latam/2026/08/07/tomato-gene-boost-yields/)
-  - Researchers identified a tomato gene that helps plants respond to shade, regulate photosynthesis and maintain fruit production under high-density growing conditions. The SlBBX20 gene could give breed…
+  - The discovery could eventually help breeders create crops that need less fertilizer and cost farmers less to grow The post Flax Could Hold an Answer to Farming’s Fertilizer Problem appeared first on…
 
 
 <a id="news-feed"></a>
@@ -100,25 +102,65 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
+- **[Stop Deploying Microbes Like Chemistry](items/seedworld/2026/08/https_www.seedworld.com_p_126957.md)**
+  - 2026-08-15 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126957.md) · [원문](https://www.seedworld.com/us/2026/08/14/microbial-activator-technology-beyond-inoculants/)
+  - For years, growers would ask me the same question after a field trial. We’d found a microbe that made their crop healthier, more productive, and they’d ask if they could get the product for their own…
+
+- **[The Fertilizer Squeeze Could Change the Seed Industry for Years](items/seedworld/2026/08/https_www.seedworld.com_p_126946.md)**
+  - 2026-08-15 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126946.md) · [원문](https://www.seedworld.com/us/2026/08/14/fertilizer-prices-seed-industry/)
+  - Geopolitical conflicts continue to disrupt global fertilizer markets. Seed World Columnist Shawn Hackett explores how prolonged volatility could reshape seed demand, production planning and breeding…
+
+- **[Sugar Beet Drought Stress Can Increase Pest Damage](items/seedworld/2026/08/https_www.seedworld.com_p_126902.md)**
+  - 2026-08-14 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126902.md) · [원문](https://www.seedworld.com/europe/2026/08/14/sugar-beet-drought-pest-damage/)
+  - Researchers find that water stress changes sugar beet physiology, leaf-miner development and crop damage Drought affects more than crop growth. New research shows that the severity of water stress ca…
+
+- **[Innovation Gets the Headlines. Plant Breeding Capacity Makes It Possible](items/seedworld/2026/08/https_www.seedworld.com_p_126937.md)**
+  - 2026-08-14 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126937.md) · [원문](https://www.seedworld.com/canada/2026/08/13/canada-seed-sector-capacity/)
+  - Behind every new variety is a much longer story of breeders, germplasm, research funding and industry partnerships — infrastructure Canada must build today to meet the challenges of tomorrow’s farmer…
+
+- **[Public Plant Breeders Need More Than Funding; They Need Support](items/seedworld/2026/08/https_www.seedworld.com_p_126922.md)**
+  - 2026-08-14 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126922.md) · [원문](https://www.seedworld.com/us/2026/08/13/public-plant-breeding-pbcc-support/)
+  - As funding pressures mount, NAPB Plant Breeding Coordinating Committee (PBCC) chair Marta Pudzianowska wants to help public breeders understand the forces shaping their programs and their profession.
+
+- **[China EDV System Begins With First 10 Crops](items/seedworld/2026/08/https_www.seedworld.com_p_126899.md)**
+  - 2026-08-13 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126899.md) · [원문](https://www.seedworld.com/europe/2026/08/13/china-edv-system-first-10-crops/)
+  - MARA publishes its first essentially derived variety catalogue, determination guidelines and testing framework. China has taken a significant step in strengthening plant breeders’ rights by putting i…
+
+- **[EU Seed Trade Looks to New Global Agreements](items/seedworld/2026/08/https_www.seedworld.com_p_126890.md)**
+  - 2026-08-13 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126890.md) · [원문](https://www.seedworld.com/europe/2026/08/13/eu-seed-trade-trade-agreements/)
+  - From Mercosur and Mexico to Australia, India and Indonesia, recent EU trade deals point to new opportunities for seed movement, plant health cooperation and market diversification.
+
+- **[Crop Diversity Strengthens Natural Pest Control](items/seedworld/2026/08/https_www.seedworld.com_p_126896.md)**
+  - 2026-08-13 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126896.md) · [원문](https://www.seedworld.com/europe/2026/08/12/crop-diversity-natural-pest-control/)
+  - Analysis of 149 field studies across five continents finds that diverse cropping systems support more natural enemies of pests and can improve plant performance. Increasing plant diversity strengthen…
+
+- **[Seed Testing Helps Move Hurricane Recovery Seed From Iowa to Jamaica](items/seedworld/2026/08/https_www.seedworld.com_p_126912.md)**
+  - 2026-08-12 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126912.md) · [원문](https://www.seedworld.com/us/2026/08/12/hurricane-recovery-seed-testing-jamaica/)
+  - Iowa State University’s Seed Science Center provided seed health testing that helped a donated shipment of vegetable seed meet Jamaica’s import requirements following Hurricane Melissa.
+
+- **[From Students To Scientists | On The Brink: Season 2 – Episode 14](items/seedworld/2026/08/https_www.seedworld.com_p_126788.md)**
+  - 2026-08-12 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126788.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/12/public-private-plant-breeding-funding-on-the-brink-season-2-episode-14/)
+  - Istvan Rajcan might be Canada’s most decorated soybean breeder. In 28 and a half years at the University of Guelph he has developed 87 cultivars, published 140 refereed papers and trained 51 graduate…
+
 - **[The Hard Economics of Climate-Friendly Grains](items/seedworld/2026/08/https_www.seedworld.com_p_126872.md)**
   - 2026-08-12 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126872.md) · [원문](https://www.seedworld.com/us/2026/08/11/climate-friendly-grains-kernza-market/)
-  - New research suggests consumers may pay more for bread with a smaller environmental footprint. The bigger question is whether the seed industry can build a business around that demand.
+  - Consumers may pay more for climate-friendly bread, but Kernza and other perennial grains still face hurdles in breeding, yield, taste and supply chains. The post The Hard Economics of Climate-Friendl…
 
 - **[Flax Could Hold an Answer to Farming’s Fertilizer Problem](items/seedworld/2026/08/https_www.seedworld.com_p_126909.md)**
   - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126909.md) · [원문](https://www.seedworld.com/canada/2026/08/11/nitrogen-efficient-flax-reduce-fertilizer-use/)
-  - Canadian and Chilean scientists have identified more than 1,000 genes involved in how flax responds to nitrogen stress. The discovery could eventually help breeders create crops that need less fertil…
+  - The discovery could eventually help breeders create crops that need less fertilizer and cost farmers less to grow The post Flax Could Hold an Answer to Farming’s Fertilizer Problem appeared first on…
 
 - **[RF3 Canola Quality B. juncea Deemed Safe by EFSA](items/seedworld/2026/08/https_www.seedworld.com_p_126894.md)**
   - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126894.md) · [원문](https://www.seedworld.com/europe/2026/08/11/rf3-canola-quality-b-juncea-efsa-safe/)
-  - Scientific opinion supports the import and processing of BASF’s genetically modified crop in the European Union; the application does not cover cultivation. The European Food Safety Authority’s Panel…
+  - EFSA’s GMO Panel concluded that RF3 Canola Quality B. juncea is as safe and nutritionally equivalent as conventional counterparts.
 
 - **[The Future Belongs to Predictive Breeding](items/seedworld/2026/08/https_www.seedworld.com_p_126887.md)**
   - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126887.md) · [원문](https://www.seedworld.com/latam/2026/08/11/predictive-breeding-plant-breeding-future/)
-  - The next generation of breeders are entering the industry at a moment when it’s being rewritten from the ground up. Only a few years ago, the Internet of Things was the buzz we heard everywhere.
+  - Predictive breeding is changing how breeders design crosses, prioritize evaluations and make decisions. Enid Perez-Lara of Agronomix Software explains why artificial intelligence rewards organization…
 
 - **[Breeding 4.0: Por qué la ia no premia al que compra la herramienta, sino al que construye la base](items/seedworld/2026/08/https_www.seedworld.com_p_126884.md)**
   - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126884.md) · [원문](https://www.seedworld.com/latam/2026/08/11/breeding-4-0-ia-datos-mejoramiento-vegetal/)
-  - La nueva generación de mejoradores se incorpora a la industria en un momento de profunda transformación. Hace apenas unos años, el Internet de las Cosas era el tema de conversación en cada congreso y…
+  - Breeding 4.0 está transformando el mejoramiento vegetal al integrar inteligencia artificial, selección genómica y datos ambientales. El artículo explica por qué el verdadero valor no está en comprar…
 
 - **[The Way I See It… There’s More Seed in the Farm Bill Than You Think](items/seedworld/2026/08/https_www.seedworld.com_p_126881.md)**
   - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126881.md) · [원문](https://www.seedworld.com/us/2026/08/10/farm-bill-seed-research-innovation/)
@@ -126,80 +168,11 @@ title: "식물 육종 뉴스"
 
 - **[How One Seed Plant Upgrade Improved Flax Cleaning — and Much More](items/seedworld/2026/08/https_www.seedworld.com_p_126875.md)**
   - 2026-08-11 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126875.md) · [원문](https://www.seedworld.com/canada/2026/08/10/seed-cleaning-equipment-flax-throughput/)
-  - A Saskatchewan operation upgraded its seed and grain cleaner to boost flax throughput, but the added flexibility is now improving efficiency across multiple specialty crops.
+  - A Saskatchewan operation upgraded its seed and grain cleaner to boost flax throughput, but the added flexibility is now improving efficiency across multiple crops The post How One Seed Plant Upgrade…
 
 - **[Why CSGA’s New President Says Now is the Time to Get Involved](items/seedworld/2026/08/https_www.seedworld.com_p_126865.md)**
   - 2026-08-10 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126865.md) · [원문](https://www.seedworld.com/canada/2026/08/10/shannon-bieman-canadian-seed-sector/)
-  - Shannon Bieman says a rapidly changing Canadian seed sector presents an opportunity to strengthen collaboration, communication and industry partnerships. Canada’s seed sector is navigating a period o…
-
-- **[Seed Sector 2045: Cover Crops Offer Regenerative Opportunity for Seed](items/seedworld/2026/08/https_www.seedworld.com_p_126751.md)**
-  - 2026-08-07 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126751.md) · [원문](https://www.seedworld.com/europe/2026/08/07/cover-crops-regenerative-agriculture-seed-sector/)
-  - Cover crops are emerging as a practical link between regenerative agriculture and the seed sector. As farmers focus more on soil health, rotations and input efficiency, seed companies may find new op…
-
-- **[Tomato Gene Could Help Boost Yields](items/seedworld/2026/08/https_www.seedworld.com_p_126775.md)**
-  - 2026-08-07 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126775.md) · [원문](https://www.seedworld.com/latam/2026/08/07/tomato-gene-boost-yields/)
-  - Researchers identified a tomato gene that helps plants respond to shade, regulate photosynthesis and maintain fruit production under high-density growing conditions. The SlBBX20 gene could give breed…
-
-- **[The Varieties Fade; The Impact Doesn’t](items/seedworld/2026/08/https_www.seedworld.com_p_126828.md)**
-  - 2026-08-07 · `seedworld` · [읽기](items/seedworld/2026/08/https_www.seedworld.com_p_126828.md) · [원문](https://www.seedworld.com/us/2026/08/06/istvan-rajcan-plant-breeding-impact/)
-  - NAPB award recipient Istvan Rajcan explains why farmer adoption, research freedom and training future scientists define plant breeding impact. The post The Varieties Fade; The Impact Doesn’t appeared…
-
-- **[“식물보며 쓴 마음의 기록” 어린이 농업·농촌 글짓기 공모전 시상식 개최](items/rda/2026/08/100000812403.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812403.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812403&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[도미니카공화국 감자 산업 자립 도울 ‘무병 씨감자 조직배양실’ 준공](items/rda/2026/08/100000812402.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812402.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812402&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 외국인근로자 등 취약계층 폭염 속 안전관리 강화](items/rda/2026/08/100000812401.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812401.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812401&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 가뭄·폭염 대응 현장 총력 … 작물·축산·농업인 안전 집중 점검](items/rda/2026/08/100000812400.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812400.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812400&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 농업용 트랙터플라우’ 신기술 지정](items/rda/2026/08/100000812399.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812399.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812399&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[가을감자 안정 생산, 통 씨감자 선택과 초기 관리가 핵심](items/rda/2026/08/100000812397.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812397.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812397&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“고온기 ‘원황’ 배, 한 번에 따지 마세요” 2~3회 나눠 수확](items/rda/2026/08/100000812396.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812396.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812396&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[‘젤리킹’ 여왕벌 국가 보급, 고품질 로열젤리 생산 기반 확대](items/rda/2026/08/100000812395.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812395.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812395&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[극심한 가뭄·빈곤의 과테말라, ‘K-농업기술’로 적신다](items/rda/2026/08/100000812394.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812394.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000812394&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[기계수확 가능한 녹두 새 품종 '채흔' 현장 평가회](items/rda/2026/08/100000812393.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812393.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812393&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[한-스리랑카 농업기술 협력 15년, ‘현지 생산성 향상·자립기반 구축’](items/rda/2026/08/100000812392.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812392.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812392&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[인삼 ‘한 곳 재배’ 앞당긴다…이중구조하우스 보급 확대](items/rda/2026/08/100000812391.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812391.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812391&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[불볕더위 속 벌무리, “벌통 내부 온도 낮춰야 세력 유지”](items/rda/2026/08/100000812386.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812386.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812386&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[달콤한 천도, 8월까지 즐겨요…복숭아 ‘이노센스’·‘설홍’ 눈길](items/rda/2026/08/100000812382.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812382.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812382&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청장 주재 전국 지방농촌진흥기관 폭염·가뭄 대응 긴급 점검회의 개최](items/rda/2026/08/100000812380.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812380.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812380&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[미래 농식품 수확 후 공학 이끌 신진 연구자 키운다](items/rda/2026/08/100000812379.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812379.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000812379&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 데이터로 농가 소득 높이고 소비 변화 잡는다](items/rda/2026/08/100000812377.md)**
-  - 2026-08-07 · `rda` · [읽기](items/rda/2026/08/100000812377.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000812377&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 가뭄·폭염 대응 현장 총력… 작물·축산·농업인 안전 집중 점검](items/nics/2026/08/944418.md)**
-  - 2026-08-07 · `nics` · [읽기](items/nics/2026/08/944418.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944418)
-
-- **[가을감자 안정 생산, 통 씨감자 선택과 초기 관리가 핵심](items/nics/2026/08/944417.md)**
-  - 2026-08-07 · `nics` · [읽기](items/nics/2026/08/944417.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944417)
+  - Shannon Bieman says a rapidly changing Canadian seed sector presents a big opportunity The post Why CSGA’s New President Says Now is the Time to Get Involved appeared first on Seed World .
 
 
 <a id="podcast"></a>
@@ -215,6 +188,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-08-17](weekly/2026-08-17.md)
 - [2026-08-12](weekly/2026-08-12.md)
 - [2026-08-10](weekly/2026-08-10.md)
 - [2026-08-07](weekly/2026-08-07.md)

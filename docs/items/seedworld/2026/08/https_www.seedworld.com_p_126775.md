@@ -9,7 +9,7 @@ summary: "Researchers identified a tomato gene that helps plants respond to shad
 attachments: []
 tags:
   - "토마토"
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Tomato Gene Could Help Boost Yields
 

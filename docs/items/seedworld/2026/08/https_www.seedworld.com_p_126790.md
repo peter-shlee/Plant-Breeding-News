@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/08/05/making-oats-case-
 summary: "Jim Dyck is one of a handful of private oat breeders in Western Canada. A variety takes 10 to 15 years."
 attachments: []
 tags: []
-fetched_at: "2026-08-12T07:13:18+09:00"
+fetched_at: "2026-08-17T06:47:00+09:00"
 ---
 # Making The Case For VUA | On The Brink: Season 2 – Episode 13
 
