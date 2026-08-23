@@ -11,6 +11,21 @@ source: "nics"
 
 ## 2026-08
 
+- **[재배 쉽고 가공에 좋은 우리 보리 종자 신청하세요](../../items/nics/2026/08/944439.md)**
+  - 2026-08-20 · [읽기](../../items/nics/2026/08/944439.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944439)
+
+- **[올해 경북 중심 일부 이른 모내기 농가 중만생종 벼 이삭패는 시기 2~3주 빨라…...](../../items/nics/2026/08/944426.md)**
+  - 2026-08-18 · [읽기](../../items/nics/2026/08/944426.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944426)
+
+- **[참깨 수확 앞두고 병해충 꼼꼼히 살피고 제때 방제해요](../../items/nics/2026/08/944425.md)**
+  - 2026-08-18 · [읽기](../../items/nics/2026/08/944425.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944425)
+
+- **[수량 많고 종잣값 낮은 사료용 옥수수 ‘광평옥2호’ 현장 평가](../../items/nics/2026/08/944424.md)**
+  - 2026-08-18 · [읽기](../../items/nics/2026/08/944424.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944424)
+
+- **[농촌진흥청, 가뭄·폭염 대응 농작물 현장 기술지원 강화](../../items/nics/2026/08/944423.md)**
+  - 2026-08-18 · [읽기](../../items/nics/2026/08/944423.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944423)
+
 - **[농촌진흥청, 가뭄·폭염 대응 현장 총력… 작물·축산·농업인 안전 집중 점검](../../items/nics/2026/08/944418.md)**
   - 2026-08-07 · [읽기](../../items/nics/2026/08/944418.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944418)
 
@@ -22,24 +37,3 @@ source: "nics"
 
 - **[“찐감자는 포슬포슬한 밤맛”…소비자 사로잡은 감자 ‘금선’·‘은선’](../../items/nics/2026/08/944392.md)**
   - 2026-08-03 · [읽기](../../items/nics/2026/08/944392.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944392)
-
-- **[벼 병해충 확산 막는다…신속 방제 현장 기술 지원](../../items/nics/2026/08/944391.md)**
-  - 2026-08-03 · [읽기](../../items/nics/2026/08/944391.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944391)
-
-- **[농촌진흥청, 벼‧논콩 집중호우 피해 현장 기술 지원](../../items/nics/2026/08/944390.md)**
-  - 2026-08-03 · [읽기](../../items/nics/2026/08/944390.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944390)
-
-- **[국립식량과학원-오뚜기제유(주)-안동시, 국산 프리미엄 참기름 산업 활성화 위해 맞...](../../items/nics/2026/08/944389.md)**
-  - 2026-08-03 · [읽기](../../items/nics/2026/08/944389.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944389)
-
-
-## 2026-07
-
-- **[고랭지 여름감자, 물주기·물길 정비가 품질 가른다](../../items/nics/2026/07/944378.md)**
-  - 2026-07-27 · [읽기](../../items/nics/2026/07/944378.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944378)
-
-- **[식량원-한국식품저장유통학회, K-발효식품 미래 발전 방안 논의](../../items/nics/2026/07/944372.md)**
-  - 2026-07-24 · [읽기](../../items/nics/2026/07/944372.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944372)
-
-- **[벼, 온실가스 늘자 키 자라고 알곡 줄었다… 기후변화가 바꿀 ‘미래 쌀농사’](../../items/nics/2026/07/944371.md)**
-  - 2026-07-23 · [읽기](../../items/nics/2026/07/944371.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944371)

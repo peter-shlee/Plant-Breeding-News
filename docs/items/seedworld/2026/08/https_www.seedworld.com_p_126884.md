@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/08/11/breeding-4-0-ia-datos-mejoramie
 summary: "Breeding 4.0 está transformando el mejoramiento vegetal al integrar inteligencia artificial, selección genómica y datos ambientales. El artículo explica por qué el verdadero valor no está en comprar herramientas nuevas, sino en construir"
 attachments: []
 tags: []
-fetched_at: "2026-08-17T06:47:00+09:00"
+fetched_at: "2026-08-24T06:49:55+09:00"
 ---
 # Breeding 4.0: Por qué la ia no premia al que compra la herramienta, sino al que construye la base
 
