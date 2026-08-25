@@ -9,7 +9,7 @@ summary: "Limagrain has licensed genome-editing technologies from Qi Biodesign f
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:03+09:00"
 ---
 # Limagrain Licenses Genome-Editing Technologies From Qi Biodesign
 

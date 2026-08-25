@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/07/28/usda-ai-germplasm-challenge/"
 summary: "USDA is launching an AI challenge to help researchers turn germplasm data into faster plant breeding discoveries. The post USDA Turns to AI to Unlock Germplasm Data appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:03+09:00"
 ---
 # USDA Turns to AI to Unlock Germplasm Data
 

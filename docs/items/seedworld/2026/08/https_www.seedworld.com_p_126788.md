@@ -9,7 +9,7 @@ summary: "Ask Canada's most decorated soybean breeder his favourite part of the 
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:03+09:00"
 ---
 # From Students To Scientists | On The Brink: Season 2 – Episode 14
 

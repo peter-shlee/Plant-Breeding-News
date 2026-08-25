@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "gene-editing"
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:03+09:00"
 ---
 # Climate Change Threatens Crop Nutrition
 

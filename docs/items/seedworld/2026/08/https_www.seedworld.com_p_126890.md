@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/13/eu-seed-trade-trade-agreements
 summary: "EU seed trade could benefit from recent EU trade agreements with Mercosur, Australia, India, Indonesia and Mexico. For plant breeders and seed companies, the real impact will depend on phytosanitary rules, customs procedures, IP protection"
 attachments: []
 tags: []
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:03+09:00"
 ---
 # EU Seed Trade Looks to New Global Agreements
 

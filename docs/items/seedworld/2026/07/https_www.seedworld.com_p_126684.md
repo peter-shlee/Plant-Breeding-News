@@ -9,7 +9,7 @@ summary: "Roughly 80 per cent of Canadian wheat acres carry AAFC genetics, and A
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:03+09:00"
 ---
 # The Goal Isn’t Better Public Breeding. It’s Better Breeding | On The Brink: Season 2 – Episode 12
 

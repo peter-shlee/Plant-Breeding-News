@@ -9,7 +9,7 @@ summary: "As Cornell plant breeder Mark Sorrells prepares to retire, he reflects
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:03+09:00"
 ---
 # Reflecting on a Lifetime in Wheat Breeding
 

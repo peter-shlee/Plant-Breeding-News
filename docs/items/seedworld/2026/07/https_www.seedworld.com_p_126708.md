@@ -9,7 +9,7 @@ summary: "Euroseeds says the European Parliament’s rejection of the soybean oi
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:04+09:00"
 ---
 # Euroseeds Welcomes EP Rejection of High ILUC Soybean Oil Proposal
 

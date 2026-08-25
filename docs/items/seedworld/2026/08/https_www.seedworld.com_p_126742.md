@@ -9,7 +9,7 @@ summary: "KAUST researchers have developed a gene insertion method that precisel
 attachments: []
 tags:
   - "벼"
-fetched_at: "2026-08-24T06:49:55+09:00"
+fetched_at: "2026-08-26T06:55:03+09:00"
 ---
 # New Gene Insertion Method Could Support Crop Traits
 
