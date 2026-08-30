@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/20/canadian-plant-breeding-new-ec
 summary: "As Canada rethinks its breeding ecosystem, researchers like Yue Yu show why the next model must make room for innovation and a new generation of breeders The post Canada’s Plant Breeding Future Depends on People, Not Just Funding appeared"
 attachments: []
 tags: []
-fetched_at: "2026-08-26T06:55:03+09:00"
+fetched_at: "2026-08-31T08:44:55+09:00"
 ---
 # Canada’s Plant Breeding Future Depends on People, Not Just Funding
 

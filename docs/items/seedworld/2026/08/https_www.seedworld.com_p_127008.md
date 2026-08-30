@@ -9,7 +9,7 @@ summary: "Malin Nilsson reflects on taking over as secretary general of SVUF, th
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-08-26T06:55:03+09:00"
+fetched_at: "2026-08-31T08:44:55+09:00"
 ---
 # Malin Nilsson Takes the Lead at Sweden’s SVUF
 

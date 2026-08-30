@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/20/nexeed-cimbria-partnership/"
 summary: "I first met the Nexeed team about 12 years ago. Back then I was a field technician with Cimbria, installing optical sorters in seed processing plants around the world."
 attachments: []
 tags: []
-fetched_at: "2026-08-26T06:55:03+09:00"
+fetched_at: "2026-08-31T08:44:55+09:00"
 ---
 # The Best Partnerships Don’t Sell Machines. They Build Better Ones
 

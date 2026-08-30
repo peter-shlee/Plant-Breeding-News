@@ -11,21 +11,77 @@ source: "seedworld"
 
 ## 2026-08
 
+- **[Advancing Better Canola: Before Canola Can Thrive, it Must Survive](../../items/seedworld/2026/08/https_www.seedworld.com_p_127169.md)**
+  - 2026-08-29 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127169.md) · [원문](https://www.seedworld.com/canada/2026/08/28/canola-seed-treatments-crop-establishment/)
+  - Canadian farmers planted a record 23.4 million acres of canola in 2026, according to Statistics Canada. That number tells an important story about the scale of canola in Canadian agriculture.
+
+- **[One Rye Chromosome Has Already Changed Wheat. What Else Is Hiding There?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127097.md)**
+  - 2026-08-29 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127097.md) · [원문](https://www.seedworld.com/europe/2026/08/28/new-rye-genome-wheat-breeding-potential/)
+  - A new high quality rye reference genome reveals far greater diversity in a chromosome region already used to improve disease resistance, stress tolerance and yield in wheat.
+
+- **[The Next Generation of Plant Breeders Is Here](../../items/seedworld/2026/08/https_www.seedworld.com_p_126993.md)**
+  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126993.md) · [원문](https://www.seedworld.com/us/2026/08/27/next-generation-plant-breeders-karlee-klemm/)
+  - This Borlaug Scholar is blending a livestock background, a passion for plant science and a technology-first mindset to help feed a growing world. Plant breeding wasn’t necessarily where Karlee Klemm…
+
+- **[Three Degrees Warmer, Three Times the Wheat Price?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127094.md)**
+  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127094.md) · [원문](https://www.seedworld.com/europe/2026/08/27/drought-global-wheat-prices/)
+  - New research shows how simultaneous drought across the world’s major wheat regions could send shocks through global markets and food systems. Bread, pasta and breakfast cereals may seem far removed f…
+
+- **[Plant Varieties, A Heritage to be Protected](../../items/seedworld/2026/08/https_www.seedworld.com_p_127135.md)**
+  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127135.md) · [원문](https://www.seedworld.com/europe/2026/08/27/plant-breeders-rights-seed-innovation/)
+  - “Innovation in agriculture depends on Plant Breeders’ Rights.” This was stated by Anthony Parker, the new president of UPOV, the Geneva-based intergovernmental organization that promotes the protecti…
+
+- **[Faster Plant Breeding Puts Canada’s Seed System to the Test](../../items/seedworld/2026/08/https_www.seedworld.com_p_127134.md)**
+  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127134.md) · [원문](https://www.seedworld.com/canada/2026/08/27/plant-breeding-speed-canada-seed-system/)
+  - Advances in genomics are accelerating breeding while raising new questions about variety registration, research infrastructure and speed to market. Three new stories graced the home page of Seed Worl…
+
+- **[Biological Seed Treatments Made Simple](../../items/seedworld/2026/08/https_www.seedworld.com_p_127126.md)**
+  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127126.md) · [원문](https://www.seedworld.com/canada/2026/08/27/biological-seed-treatments-seed-treaters/)
+  - Biological seed treatments are becoming a more common part of crop input conversations, particularly as growers look for tools that can support crop establishment, nutrient use and resilience.
+
+- **[Can Genomics Speed Up the Journey From Breeder to Farmer?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127125.md)**
+  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127125.md) · [원문](https://www.seedworld.com/canada/2026/08/27/plant-breeding-speed-genomics/)
+  - Yue Yu sees enormous potential for genomic prediction to accelerate plant breeding — and an equally important challenge in everything that happens before those genetics reach the farm.
+
+- **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127121.md)**
+  - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127121.md) · [원문](https://www.seedworld.com/us/2026/08/27/ai-and-sales-why-garbage-in-still-means-garbage-out-2/)
+  - There’s an old phrase from the early days of computing that we probably need to bring back. Garbage in, garbage out.
+
+- **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127118.md)**
+  - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127118.md) · [원문](https://www.seedworld.com/europe/2026/08/27/ai-and-sales-why-garbage-in-still-means-garbage-out/)
+  - There’s an old phrase from the early days of computing that we probably need to bring back. Garbage in, garbage out.
+
+- **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127115.md)**
+  - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127115.md) · [원문](https://www.seedworld.com/canada/2026/08/27/ai-sales-garbage-in-garbage-out/)
+  - There’s an old phrase from the early days of computing that we probably need to bring back. Garbage in, garbage out.
+
+- **[Tomatoes Have a ‘Golden Hour’. Could Breeders Use It?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127091.md)**
+  - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127091.md) · [원문](https://www.seedworld.com/europe/2026/08/26/tomato-golden-hour-drought-resilient-tomatoes/)
+  - New research suggests that the timing of stomatal opening could help breeders identify tomatoes that combine drought resilience with strong yields. What if the secret to drought-resistant crops is no…
+
+- **[What We Carry Forward](../../items/seedworld/2026/08/https_www.seedworld.com_p_127000.md)**
+  - 2026-08-26 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127000.md) · [원문](https://www.seedworld.com/us/2026/08/26/what-we-carry-forward-future-seed-industry/)
+  - Every magazine issue looks different when it is still spread across a screen or a desk. There are interview notes, half-finished headlines, photo selections, page proofs and stories that do not seem…
+
 - **[Can AI Help Plant Breeders Outrun Climate Change?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127087.md)**
   - 2026-08-26 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127087.md) · [원문](https://www.seedworld.com/europe/2026/08/25/ai-partnership-climate-resilient-potatoes/)
-  - A new global research partnership is combining artificial intelligence, genomics, gene editing and field research to accelerate the development of climate resilient crop varieties.
+  - A new global research partnership, GAIN-RT, will combine artificial intelligence, genomics, gene editing and field research to accelerate the development of climate resilient potatoes and other root…
+
+- **[When Action is the Only Option | On The Brink: Season 2 – Episode 16](../../items/seedworld/2026/08/https_www.seedworld.com_p_127101.md)**
+  - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127101.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/25/aafc-indian-head-research-farm-on-the-brink-season-2-episode-16/)
+  - Objecting Wasn’t Going to Save the AAFC Indian Head Research Farm In January, Agriculture and Agri-Food Canada confirmed it would eliminate 665 positions and close seven research facilities.
 
 - **[AI is Changing The Way Breeders Make Decisions](../../items/seedworld/2026/08/https_www.seedworld.com_p_126997.md)**
   - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126997.md) · [원문](https://www.seedworld.com/us/2026/08/25/ai-crop-breeding-breeder-decisions/)
-  - From mining germplasm and predicting crosses to finding genes for editing, AI is moving deeper into the breeding process. Researchers say the biggest gains may depend as much on better data as better…
+  - AI in crop breeding is helping researchers analyze germplasm, predict crosses, select genes and make faster breeding decisions. See where the technology is headed.
 
 - **[Is Canada’s Variety Registration System Slowing Seed Innovation?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127081.md)**
   - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127081.md) · [원문](https://www.seedworld.com/canada/2026/08/24/canada-variety-registration-system-innovation/)
-  - A growing coalition of breeders, seed companies, farmers and industry leaders says Canada’s variety registration system is slowing innovation instead of enabling it. Their message: the biggest risk i…
+  - Canada’s variety registration system helped build confidence in Canadian seed. But breeders, farmers and seed companies say parts of it may now be slowing genetic progress The post Is Canada’s Variet…
 
 - **[How Rigorous R&D Delivers Unmatched Soybean Yield and Operational Performance](../../items/seedworld/2026/08/https_www.seedworld.com_p_127078.md)**
   - 2026-08-24 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127078.md) · [원문](https://www.seedworld.com/us/2026/08/24/lumisena-prime-soybean-seedling-protection/)
-  - As soybean growers continue to plant earlier into cooler, wetter soils, a seedling’s window of vulnerability expands. For independent seed retailers, helping farmers protect that early-season investm…
+  - Lumisena Prime combines four fungicides and one insecticide in a single premix designed to protect soybean seedlings from early-season threats. Corteva says the treatment also improves dry-down, plan…
 
 - **[Tomato Gene Could Improve Crop Drought Recovery](../../items/seedworld/2026/08/https_www.seedworld.com_p_126976.md)**
   - 2026-08-22 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126976.md) · [원문](https://www.seedworld.com/europe/2026/08/21/tomato-gene-crop-drought-recovery/)
@@ -35,7 +91,7 @@ source: "seedworld"
   - 2026-08-21 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127070.md) · [원문](https://www.seedworld.com/europe/2026/08/21/public-trust-plant-breeding-innovation/)
   - Plant breeding innovation in Europe depends on more than science and regulation. As NGTs move closer to approval, public trust, social licence, transparency and misinformation are becoming strategic…
 
-- **[Red, White and Regulated](../../items/seedworld/2026/08/https_www.seedworld.com_p_127001.md)**
+- **[Inside The Hidden Bottleneck Slowing Seed Shipments Across America](../../items/seedworld/2026/08/https_www.seedworld.com_p_127001.md)**
   - 2026-08-21 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127001.md) · [원문](https://www.seedworld.com/us/2026/08/21/seed-labeling-regulations-database/)
   - Seed labeling rules can change from state to state. The Oregon Seed Association’s Seed Labeling Database gives companies one place to compare requirements, catch errors and navigate compliance before…
 
@@ -242,74 +298,3 @@ source: "seedworld"
 - **[Genotipado del trigo avanza en Embrapa](../../items/seedworld/2026/08/https_www.seedworld.com_p_126769.md)**
   - 2026-08-03 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126769.md) · [원문](https://www.seedworld.com/latam/2026/08/03/genotipado-trigo-embrapa/)
   - Una nueva plataforma de genotipado del trigo en Embrapa Trigo automatiza la preparación de muestras de ADN y amplía la capacidad de análisis molecular. La tecnología podría acelerar la selección de m…
-
-
-## 2026-07
-
-- **[Reflecting on a Lifetime in Wheat Breeding](../../items/seedworld/2026/07/https_www.seedworld.com_p_126803.md)**
-  - 2026-07-31 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126803.md) · [원문](https://www.seedworld.com/us/2026/07/30/mark-sorrells-plant-breeding-legacy/)
-  - As Cornell plant breeder Mark Sorrells prepares to retire, he reflects on the students, collaborations and scientific advances that shaped his career. The post Reflecting on a Lifetime in Wheat Breed…
-
-- **[The Seed Sector Doesn’t Need More Ideas. It Needs Fewer Friction Points](../../items/seedworld/2026/07/https_www.seedworld.com_p_126799.md)**
-  - 2026-07-31 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126799.md) · [원문](https://www.seedworld.com/canada/2026/07/30/canada-seed-sector-needs-less-friction/)
-  - Sometimes the biggest innovation is simply making the system less complicated The post The Seed Sector Doesn’t Need More Ideas. It Needs Fewer Friction Points appeared first on Seed World .
-
-- **[The Weight of Trust in Seed Testing](../../items/seedworld/2026/07/https_www.seedworld.com_p_126795.md)**
-  - 2026-07-30 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126795.md) · [원문](https://www.seedworld.com/us/2026/07/30/weight-trust-seed-testing/)
-  - Seed testing is more than laboratory equipment and reports. Heidi Larson of SGS Crop Science reflects on how experience, accuracy and customer trust help protect every seed sample’s value.
-
-- **[UK Approves First Precision-Bred Potato for Market](../../items/seedworld/2026/07/https_www.seedworld.com_p_126777.md)**
-  - 2026-07-30 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126777.md) · [원문](https://www.seedworld.com/europe/2026/07/30/uk-approves-first-precision-bred-potato/)
-  - The UK has approved its first precision-bred potato, moving PiperPlus closer to market. The disease-resistant Maris Piper was developed to combat late blight, Potato Virus Y and Potato Leafroll Virus…
-
-- **[Commission Excludes Soybean Seeds from EUDR](../../items/seedworld/2026/07/https_www.seedworld.com_p_126711.md)**
-  - 2026-07-30 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126711.md) · [원문](https://www.seedworld.com/europe/2026/07/29/soybean-seeds-eudr/)
-  - The European Commission has removed soybean seeds EUDR coverage after recognising that seeds for sowing move through a separate, highly controlled value chain with negligible trade volumes and distin…
-
-- **[Simplifying Seed Treatment: New All-in-One Premix Relieves Retailers’ Headaches](../../items/seedworld/2026/07/https_www.seedworld.com_p_126614.md)**
-  - 2026-07-30 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126614.md) · [원문](https://www.seedworld.com/us/2026/07/29/lumisena-prime-seed-treatment/)
-  - Lumisena Prime fungicide seed treatment from Corteva Agriscience gives seed retailers and dealers an all-in-one premix designed to simplify treating operations, improve application consistency and he…
-
-- **[Simplifying Seed Treatment: New All-in-One Premix Relieves Retailers’ Headaches](../../items/seedworld/2026/07/https_www.seedworld.com_p_126611.md)**
-  - 2026-07-30 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126611.md) · [원문](https://www.seedworld.com/us/2026/07/29/simplifying-seed-treatment-new-all-in-one-premix-relieves-retailers-headaches/)
-  - For independent seed companies and ag retailers, the seed-treating window is one of the most demanding times of the year. Balancing operational efficiency, precise chemical mixing, and logistics can…
-
-- **[For 25 Years, You’ve Built Trust; the National Seed Health System Helps You Keep It](../../items/seedworld/2026/07/https_www.seedworld.com_p_126593.md)**
-  - 2026-07-30 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126593.md) · [원문](https://www.seedworld.com/us/2026/07/29/national-seed-health-system-25-years/)
-  - The National Seed Health System celebrates 25 years of helping U.S. seed companies, laboratories, researchers and regulators protect seed health, support exports and maintain global confidence in Ame…
-
-- **[The Goal Isn’t Better Public Breeding. It’s Better Breeding | On The Brink: Season 2 – Episode 12](../../items/seedworld/2026/07/https_www.seedworld.com_p_126684.md)**
-  - 2026-07-30 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126684.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/07/29/public-plant-breeding-canada-reset-on-the-brink-season-2-episode-12/)
-  - Roughly 80 per cent of Canadian wheat acres carry AAFC genetics, and AAFC is absorbing a 15 per cent budget cut. François Eudes’ answer is not a bigger public breeding program.
-
-- **[Austria Builds Research Station for Climate-Resilient Crops](../../items/seedworld/2026/07/https_www.seedworld.com_p_126736.md)**
-  - 2026-07-29 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126736.md) · [원문](https://www.seedworld.com/europe/2026/07/29/austria-climate-resilient-crops-research-station/)
-  - Austria has begun construction of a new AGES research station in Großnondorf to evaluate climate-resilient crops under dry conditions. The site will support variety testing, drought stress research a…
-
-- **[Brazil Issues Crop Guidance as El Niño Risks Rise](../../items/seedworld/2026/07/https_www.seedworld.com_p_126519.md)**
-  - 2026-07-29 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126519.md) · [원문](https://www.seedworld.com/latam/2026/07/29/el-nino-in-brazil-crop-guidance/)
-  - Embrapa researchers are urging farmers to prepare for El Niño in Brazil with measures to reduce risks from heavy rainfall, crop diseases, soil erosion and livestock impacts.
-
-- **[USDA Turns to AI to Unlock Germplasm Data](../../items/seedworld/2026/07/https_www.seedworld.com_p_126764.md)**
-  - 2026-07-29 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126764.md) · [원문](https://www.seedworld.com/us/2026/07/28/usda-ai-germplasm-challenge/)
-  - USDA is launching an AI challenge to help researchers turn germplasm data into faster plant breeding discoveries. The post USDA Turns to AI to Unlock Germplasm Data appeared first on Seed World .
-
-- **[Brasil emite recomendaciones ante El Niño](../../items/seedworld/2026/07/https_www.seedworld.com_p_126516.md)**
-  - 2026-07-28 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126516.md) · [원문](https://www.seedworld.com/latam/2026/07/28/el-nino-en-brasil-recomendaciones-cultivos/)
-  - Embrapa emitió recomendaciones para ayudar a los agricultores a prepararse para El Niño en Brasil. La guía aborda riesgos de lluvias intensas, enfermedades, erosión del suelo y posibles impactos en g…
-
-- **[One Login, Many Benefits: Rethinking Seed Industry Administration](../../items/seedworld/2026/07/https_www.seedworld.com_p_126731.md)**
-  - 2026-07-28 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126731.md) · [원문](https://www.seedworld.com/canada/2026/07/27/one-login-many-benefits-seed-industry-administration/)
-  - In this webinar, we explore what a unified transaction platform could look like—and why the conversation is gaining momentum The post One Login, Many Benefits: Rethinking Seed Industry Administration…
-
-- **[USTR Exempts Planting Seed from New Forced Labor Tariffs](../../items/seedworld/2026/07/https_www.seedworld.com_p_126728.md)**
-  - 2026-07-28 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126728.md) · [원문](https://www.seedworld.com/us/2026/07/27/planting-seed-section-301-tariff-exemption/)
-  - The exemption protects seed moving through global research and production systems from tariffs of up to 12.5% on imports from 60 U.S. trading partners.
-
-- **[Brent Collins Reflects on His Time as Seeds Canada President](../../items/seedworld/2026/07/https_www.seedworld.com_p_126715.md)**
-  - 2026-07-27 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126715.md) · [원문](https://www.seedworld.com/canada/2026/07/27/brent-collins-seeds-canada-president-reflects/)
-  - The outgoing Seeds Canada president says the organization has grown into a stronger voice for the seed industry, but seed regulatory modernization remains unfinished business The post Brent Collins R…
-
-- **[Euroseeds Welcomes EP Rejection of High ILUC Soybean Oil Proposal](../../items/seedworld/2026/07/https_www.seedworld.com_p_126708.md)**
-  - 2026-07-27 · [읽기](../../items/seedworld/2026/07/https_www.seedworld.com_p_126708.md) · [원문](https://www.seedworld.com/europe/2026/07/27/soybean-oil-iluc-vote-eu-protein-goals/)
-  - Euroseeds says the European Parliament’s rejection of the soybean oil ILUC proposal is an important step for Europe’s soy value chain, protein crop ambitions and breeding investment, though the polic…

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/11/rf3-canola-quality-b-juncea-ef
 summary: "EFSA’s GMO Panel concluded that RF3 Canola Quality B. juncea is as safe and nutritionally equivalent as conventional counterparts."
 attachments: []
 tags: []
-fetched_at: "2026-08-26T06:55:03+09:00"
+fetched_at: "2026-08-31T08:44:55+09:00"
 ---
 # RF3 Canola Quality B. juncea Deemed Safe by EFSA
 
