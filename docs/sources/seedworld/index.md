@@ -9,7 +9,46 @@ source: "seedworld"
 
 - [홈으로](../../index.md)
 
+## 2026-09
+
+- **[EU PPWR: What Seed Companies Need to Do Now](../../items/seedworld/2026/09/https_www.seedworld.com_p_127220.md)**
+  - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127220.md) · [원문](https://www.seedworld.com/europe/2026/09/01/eu-ppwr-seed-companies-packaging/)
+  - What European seed companies and exporters need to know about packaging, EPR, recyclability, recycled content and future reuse requirements. On 12 August 2026, the European Union began applying its n…
+
+- **[The Proof is in the Product](../../items/seedworld/2026/09/https_www.seedworld.com_p_127212.md)**
+  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127212.md) · [원문](https://www.seedworld.com/us/2026/09/01/9311-biostimulant-soybean-yield-consistency/)
+  - At conferences, partner meetings and field days this year, my colleague Dr. Linda Kinkel and I have been emphasizing what we believe should be a fundamental shift in the biologicals industry.
+
+- **[Canada’s Next Crop Varieties Depend on What Happens Now: Curt Baldwin](../../items/seedworld/2026/09/https_www.seedworld.com_p_127201.md)**
+  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127201.md) · [원문](https://www.seedworld.com/canada/2026/09/01/plant-breeding-investment-canada/)
+  - Creating a sustainable environment for public and private plant breeding investment will be essential to delivering the genetics farmers need. One of the most important issues facing Canada’s seed in…
+
+- **[ASTA Field Crop Seed Convention Returns to Chicago](../../items/seedworld/2026/09/https_www.seedworld.com_p_127205.md)**
+  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127205.md) · [원문](https://www.seedworld.com/us/2026/09/01/field-crop-seed-convention-returns-chicago/)
+  - The annual event will take place Dec. 7-10, 2026, after three years in Orlando.
+
+- **[How Rigorous R&D Delivers Outstanding Soybean Yield and Operational Performance](../../items/seedworld/2026/09/https_www.seedworld.com_p_127112.md)**
+  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127112.md) · [원문](https://www.seedworld.com/us/2026/09/01/lumisena-prime-soybean-seed-treatment-performance/)
+  - As soybean growers continue to plant earlier into cooler, wetter soils, a seedling’s window of vulnerability expands. For independent seed retailers, helping farmers protect that early-season investm…
+
+- **[Why the New Plant Breeder is Part Geneticist and Part Data Scientist](../../items/seedworld/2026/09/https_www.seedworld.com_p_127189.md)**
+  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127189.md) · [원문](https://www.seedworld.com/canada/2026/08/31/ai-lentil-breeding-luke-dojack/)
+  - A University of Saskatchewan PhD student is combining field experience, genetics and AI to build faster, more practical tools for lentil breeding. Luke Dojack still remembers when plant breeding firs…
+
+
 ## 2026-08
+
+- **[Seed Certification Was Built for Trust. It Has to Be Built for Change, Too](../../items/seedworld/2026/08/https_www.seedworld.com_p_127177.md)**
+  - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127177.md) · [원문](https://www.seedworld.com/canada/2026/08/31/future-seed-certification-canada/)
+  - Shannon Bieman takes on the CSGA presidency as seed certification continues to evolve, bringing her perspective on the people, technology and priorities shaping its future Shannon Bieman knows the se…
+
+- **[When Your Seed Expertise Becomes a Bridge to Recovery](../../items/seedworld/2026/08/https_www.seedworld.com_p_127181.md)**
+  - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127181.md) · [원문](https://www.seedworld.com/us/2026/08/31/seed-health-testing-jamaica-hurricane-recovery/)
+  - When Hurricane Melissa hit Jamaica in October 2025, the Category 5 winds, heavy rain, and extensive flooding had a devastating effect on agricultural production throughout the island.
+
+- **[Finding Your Competitive Advantage in a Crowded Seed Market](../../items/seedworld/2026/08/https_www.seedworld.com_p_127147.md)**
+  - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127147.md) · [원문](https://www.seedworld.com/us/2026/08/31/competitive-advantage-seed-market/)
+  - A company brought us in because they had a sales problem. At least, that’s what they thought they had.
 
 - **[Advancing Better Canola: Before Canola Can Thrive, it Must Survive](../../items/seedworld/2026/08/https_www.seedworld.com_p_127169.md)**
   - 2026-08-29 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127169.md) · [원문](https://www.seedworld.com/canada/2026/08/28/canola-seed-treatments-crop-establishment/)
@@ -21,11 +60,11 @@ source: "seedworld"
 
 - **[The Next Generation of Plant Breeders Is Here](../../items/seedworld/2026/08/https_www.seedworld.com_p_126993.md)**
   - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126993.md) · [원문](https://www.seedworld.com/us/2026/08/27/next-generation-plant-breeders-karlee-klemm/)
-  - This Borlaug Scholar is blending a livestock background, a passion for plant science and a technology-first mindset to help feed a growing world. Plant breeding wasn’t necessarily where Karlee Klemm…
+  - Borlaug Scholar Karlee Klemm shares how technology, agriculture and a drive to make an impact are shaping the next generation of plant breeders. The post The Next Generation of Plant Breeders Is Here…
 
 - **[Three Degrees Warmer, Three Times the Wheat Price?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127094.md)**
   - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127094.md) · [원문](https://www.seedworld.com/europe/2026/08/27/drought-global-wheat-prices/)
-  - New research shows how simultaneous drought across the world’s major wheat regions could send shocks through global markets and food systems. Bread, pasta and breakfast cereals may seem far removed f…
+  - New research shows that severe water scarcity across major wheat-growing regions is closely linked to global wheat prices, with climate models suggesting that worsening compound droughts could create…
 
 - **[Plant Varieties, A Heritage to be Protected](../../items/seedworld/2026/08/https_www.seedworld.com_p_127135.md)**
   - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127135.md) · [원문](https://www.seedworld.com/europe/2026/08/27/plant-breeders-rights-seed-innovation/)
@@ -37,31 +76,31 @@ source: "seedworld"
 
 - **[Biological Seed Treatments Made Simple](../../items/seedworld/2026/08/https_www.seedworld.com_p_127126.md)**
   - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127126.md) · [원문](https://www.seedworld.com/canada/2026/08/27/biological-seed-treatments-seed-treaters/)
-  - Biological seed treatments are becoming a more common part of crop input conversations, particularly as growers look for tools that can support crop establishment, nutrient use and resilience.
+  - Biological seed treatments are becoming a practical option for commercial seed treaters looking to support crop establishment, nutrient use and crop resilience. Product fit depends on viability, crop…
 
 - **[Can Genomics Speed Up the Journey From Breeder to Farmer?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127125.md)**
   - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127125.md) · [원문](https://www.seedworld.com/canada/2026/08/27/plant-breeding-speed-genomics/)
-  - Yue Yu sees enormous potential for genomic prediction to accelerate plant breeding — and an equally important challenge in everything that happens before those genetics reach the farm.
+  - Genomic prediction can help identify promising plants before breeders spend years evaluating them. But there’s a catch: breeding faster doesn’t mean farmers get it faster The post Can Genomics Speed…
 
 - **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127121.md)**
   - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127121.md) · [원문](https://www.seedworld.com/us/2026/08/27/ai-and-sales-why-garbage-in-still-means-garbage-out-2/)
-  - There’s an old phrase from the early days of computing that we probably need to bring back. Garbage in, garbage out.
+  - AI and sales can create real opportunity, but only when organizations have reliable CRM data, clear sales processes and strong human expertise. Shawn Brook argues that AI will not fix weak systems.
 
 - **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127118.md)**
   - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127118.md) · [원문](https://www.seedworld.com/europe/2026/08/27/ai-and-sales-why-garbage-in-still-means-garbage-out/)
-  - There’s an old phrase from the early days of computing that we probably need to bring back. Garbage in, garbage out.
+  - AI and sales can create real opportunity, but only when organizations have reliable CRM data, clear sales processes and strong human expertise. Shawn Brook argues that AI will not fix weak systems.
 
 - **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127115.md)**
   - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127115.md) · [원문](https://www.seedworld.com/canada/2026/08/27/ai-sales-garbage-in-garbage-out/)
-  - There’s an old phrase from the early days of computing that we probably need to bring back. Garbage in, garbage out.
+  - AI and sales can create real opportunity, but only when organizations have reliable CRM data, clear sales processes and strong human expertise. Shawn Brook argues that AI will not fix weak systems.
 
 - **[Tomatoes Have a ‘Golden Hour’. Could Breeders Use It?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127091.md)**
   - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127091.md) · [원문](https://www.seedworld.com/europe/2026/08/26/tomato-golden-hour-drought-resilient-tomatoes/)
-  - New research suggests that the timing of stomatal opening could help breeders identify tomatoes that combine drought resilience with strong yields. What if the secret to drought-resistant crops is no…
+  - New research from the Hebrew University of Jerusalem suggests that an early-morning “golden hour” in stomatal activity could help breeders identify drought resilient tomatoes that combine strong yiel…
 
 - **[What We Carry Forward](../../items/seedworld/2026/08/https_www.seedworld.com_p_127000.md)**
   - 2026-08-26 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127000.md) · [원문](https://www.seedworld.com/us/2026/08/26/what-we-carry-forward-future-seed-industry/)
-  - Every magazine issue looks different when it is still spread across a screen or a desk. There are interview notes, half-finished headlines, photo selections, page proofs and stories that do not seem…
+  - Innovation may move faster than ever, but bringing it into the real world still takes experience, relationships and attention to the details that make progress possible.
 
 - **[Can AI Help Plant Breeders Outrun Climate Change?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127087.md)**
   - 2026-08-26 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127087.md) · [원문](https://www.seedworld.com/europe/2026/08/25/ai-partnership-climate-resilient-potatoes/)
@@ -69,7 +108,7 @@ source: "seedworld"
 
 - **[When Action is the Only Option | On The Brink: Season 2 – Episode 16](../../items/seedworld/2026/08/https_www.seedworld.com_p_127101.md)**
   - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127101.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/25/aafc-indian-head-research-farm-on-the-brink-season-2-episode-16/)
-  - Objecting Wasn’t Going to Save the AAFC Indian Head Research Farm In January, Agriculture and Agri-Food Canada confirmed it would eliminate 665 positions and close seven research facilities.
+  - The closure of the Indian Head Research Farm drew objections from across the sector in January. None of them changed the outcome.
 
 - **[AI is Changing The Way Breeders Make Decisions](../../items/seedworld/2026/08/https_www.seedworld.com_p_126997.md)**
   - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126997.md) · [원문](https://www.seedworld.com/us/2026/08/25/ai-crop-breeding-breeder-decisions/)
@@ -79,7 +118,7 @@ source: "seedworld"
   - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127081.md) · [원문](https://www.seedworld.com/canada/2026/08/24/canada-variety-registration-system-innovation/)
   - Canada’s variety registration system helped build confidence in Canadian seed. But breeders, farmers and seed companies say parts of it may now be slowing genetic progress The post Is Canada’s Variet…
 
-- **[How Rigorous R&D Delivers Unmatched Soybean Yield and Operational Performance](../../items/seedworld/2026/08/https_www.seedworld.com_p_127078.md)**
+- **[How Rigorous R&D Delivers Outstanding Soybean Yield and Operational Performance](../../items/seedworld/2026/08/https_www.seedworld.com_p_127078.md)**
   - 2026-08-24 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127078.md) · [원문](https://www.seedworld.com/us/2026/08/24/lumisena-prime-soybean-seedling-protection/)
   - Lumisena Prime combines four fungicides and one insecticide in a single premix designed to protect soybean seedlings from early-season threats. Corteva says the treatment also improves dry-down, plan…
 

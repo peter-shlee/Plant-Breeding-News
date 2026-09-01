@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/10/seed-cleaning-equipment-flax-t
 summary: "A Saskatchewan operation upgraded its seed and grain cleaner to boost flax throughput, but the added flexibility is now improving efficiency across multiple crops The post How One Seed Plant Upgrade Improved Flax Cleaning — and Much More"
 attachments: []
 tags: []
-fetched_at: "2026-08-31T08:44:55+09:00"
+fetched_at: "2026-09-02T08:33:54+09:00"
 ---
 # How One Seed Plant Upgrade Improved Flax Cleaning — and Much More
 

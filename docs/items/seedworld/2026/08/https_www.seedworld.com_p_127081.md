@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/24/canada-variety-registration-sy
 summary: "Canada’s variety registration system helped build confidence in Canadian seed. But breeders, farmers and seed companies say parts of it may now be slowing genetic progress The post Is Canada’s Variety Registration System Slowing Seed"
 attachments: []
 tags: []
-fetched_at: "2026-08-31T08:44:55+09:00"
+fetched_at: "2026-09-02T08:33:54+09:00"
 ---
 # Is Canada’s Variety Registration System Slowing Seed Innovation?
 

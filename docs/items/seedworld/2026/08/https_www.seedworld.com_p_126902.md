@@ -9,7 +9,7 @@ summary: "New research from the University of Göttingen finds that sugar beet d
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-08-31T08:44:55+09:00"
+fetched_at: "2026-09-02T08:33:54+09:00"
 ---
 # Sugar Beet Drought Stress Can Increase Pest Damage
 

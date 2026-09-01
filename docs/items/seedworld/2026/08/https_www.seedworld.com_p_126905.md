@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "phenotyping"
   - "배추"
-fetched_at: "2026-08-31T08:44:55+09:00"
+fetched_at: "2026-09-02T08:33:54+09:00"
 ---
 # UK Researchers Target Drought-Resilient Vegetables
 

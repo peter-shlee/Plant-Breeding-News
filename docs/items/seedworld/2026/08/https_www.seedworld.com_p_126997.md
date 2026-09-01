@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/25/ai-crop-breeding-breeder-decisions
 summary: "AI in crop breeding is helping researchers analyze germplasm, predict crosses, select genes and make faster breeding decisions. See where the technology is headed."
 attachments: []
 tags: []
-fetched_at: "2026-08-31T08:44:55+09:00"
+fetched_at: "2026-09-02T08:33:54+09:00"
 ---
 # AI is Changing The Way Breeders Make Decisions
 

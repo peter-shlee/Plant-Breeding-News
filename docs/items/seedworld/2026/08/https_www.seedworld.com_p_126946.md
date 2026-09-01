@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/14/fertilizer-prices-seed-industry/"
 summary: "Fertilizer volatility could reshape seed demand, production and breeding priorities. Shawn Hackett examines what the seed industry should watch."
 attachments: []
 tags: []
-fetched_at: "2026-08-31T08:44:55+09:00"
+fetched_at: "2026-09-02T08:33:54+09:00"
 ---
 # The Fertilizer Squeeze Could Change the Seed Industry for Years
 

@@ -9,11 +9,11 @@ summary: "Lumisena Prime combines four fungicides and one insecticide in a singl
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-08-31T08:44:55+09:00"
+fetched_at: "2026-09-02T08:33:54+09:00"
 ---
-# How Rigorous R&D Delivers Unmatched Soybean Yield and Operational Performance
+# How Rigorous R&D Delivers Outstanding Soybean Yield and Operational Performance
 
-Lumisena Prime combines four fungicides and one insecticide in a single premix designed to protect soybean seedlings from early-season threats. Corteva says the treatment also improves dry-down, plantability and operational efficiency for seed retailers and growers. The post How Rigorous R&D Delivers Unmatched Soybean Yield and Operational Performance appeared first on Seed World .
+Lumisena Prime combines four fungicides and one insecticide in a single premix designed to protect soybean seedlings from early-season threats. Corteva says the treatment also improves dry-down, plantability and operational efficiency for seed retailers and growers. The post How Rigorous R&D Delivers Outstanding Soybean Yield and Operational Performance appeared first on Seed World .
 
 ## Original
 

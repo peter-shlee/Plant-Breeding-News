@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "marker"
   - "밀"
-fetched_at: "2026-08-31T08:44:55+09:00"
+fetched_at: "2026-09-02T08:33:54+09:00"
 ---
 # Wheat Genotyping Platform Advances at Embrapa
 
