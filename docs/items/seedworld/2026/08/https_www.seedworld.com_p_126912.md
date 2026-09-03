@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/12/hurricane-recovery-seed-testing-ja
 summary: "Seed health testing from Iowa State University helped a donated shipment of vegetable seed meet Jamaica’s import requirements and reach farmers rebuilding after Hurricane Melissa."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Seed Testing Helps Move Hurricane Recovery Seed From Iowa to Jamaica
 

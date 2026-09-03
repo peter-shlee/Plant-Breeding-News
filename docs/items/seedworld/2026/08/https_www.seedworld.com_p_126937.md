@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/13/canada-seed-sector-capacity/"
 summary: "Behind every new variety is a much longer story of breeders, germplasm, research funding and industry partnerships The post Innovation Gets the Headlines. Plant Breeding Capacity Makes It Possible appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Innovation Gets the Headlines. Plant Breeding Capacity Makes It Possible
 

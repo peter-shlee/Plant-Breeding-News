@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "gene-editing"
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Can AI Help Plant Breeders Outrun Climate Change?
 

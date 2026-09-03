@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "밀"
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # One Rye Chromosome Has Already Changed Wheat. What Else Is Hiding There?
 

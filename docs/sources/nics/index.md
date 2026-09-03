@@ -9,6 +9,21 @@ source: "nics"
 
 - [홈으로](../../index.md)
 
+## 2026-09
+
+- **[수량 많고 품질 좋은 우리 사료맥류 종자 신청하세요](../../items/nics/2026/09/944481.md)**
+  - 2026-09-03 · [읽기](../../items/nics/2026/09/944481.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944481)
+
+- **[지속 가능한 고랭지 배추 농사, 미생물 다양성이 열쇠](../../items/nics/2026/09/944480.md)**
+  - 2026-09-03 · [읽기](../../items/nics/2026/09/944480.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944480)
+
+- **[‘도토리 가공부산물’ 기능성 소재로 탈바꿈…산업체 기술이전](../../items/nics/2026/09/944479.md)**
+  - 2026-09-03 · [읽기](../../items/nics/2026/09/944479.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944479)
+
+- **[농촌진흥청, 논 재배 배수기술 및 참깨 기계수확 연시회 열어](../../items/nics/2026/09/944478.md)**
+  - 2026-09-03 · [읽기](../../items/nics/2026/09/944478.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944478)
+
+
 ## 2026-08
 
 - **[국산 귀리 하루 70g, 식후 혈당·콜레스테롤 동시 관리](../../items/nics/2026/08/944466.md)**
@@ -28,15 +43,3 @@ source: "nics"
 
 - **[농촌진흥청, ‘국산 밀가루 구입 안내서’ 제작 소상공인 판로 연결](../../items/nics/2026/08/944461.md)**
   - 2026-08-31 · [읽기](../../items/nics/2026/08/944461.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944461)
-
-- **[“추석엔 햅쌀” 밥맛 좋은 조생종 벼 수확 연시회 개최](../../items/nics/2026/08/944460.md)**
-  - 2026-08-31 · [읽기](../../items/nics/2026/08/944460.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944460)
-
-- **[재배 쉽고 가공에 좋은 우리 보리 종자 신청하세요](../../items/nics/2026/08/944439.md)**
-  - 2026-08-20 · [읽기](../../items/nics/2026/08/944439.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944439)
-
-- **[올해 경북 중심 일부 이른 모내기 농가 중만생종 벼 이삭패는 시기 2~3주 빨라…...](../../items/nics/2026/08/944426.md)**
-  - 2026-08-18 · [읽기](../../items/nics/2026/08/944426.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944426)
-
-- **[참깨 수확 앞두고 병해충 꼼꼼히 살피고 제때 방제해요](../../items/nics/2026/08/944425.md)**
-  - 2026-08-18 · [읽기](../../items/nics/2026/08/944425.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944425)

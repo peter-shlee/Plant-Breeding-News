@@ -11,44 +11,80 @@ source: "seedworld"
 
 ## 2026-09
 
+- **[Molecular Switch Helps Crops Handle Heat Stress](../../items/seedworld/2026/09/https_www.seedworld.com_p_127231.md)**
+  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127231.md) · [원문](https://www.seedworld.com/europe/2026/09/03/crop-heat-stress-molecular-switch/)
+  - Researchers have identified an evolutionary mechanism that keeps leaf pores open at high temperatures, offering new insight into plant heat resilience and the development of climate-resilient crops.
+
+- **[Ag Economy Barometer Rises as Farm Outlook Improves](../../items/seedworld/2026/09/https_www.seedworld.com_p_127276.md)**
+  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127276.md) · [원문](https://www.seedworld.com/us/2026/09/03/ag-economy-barometer-farm-outlook-improves/)
+  - The August Purdue University/CME Group Ag Economy Barometer rose nine points as producers reported greater confidence in future finances and agricultural exports. U.S.
+
+- **[TÍTULO SEO:El portal de acceso digital de INASE se lanza el 7 de septiembre](../../items/seedworld/2026/09/https_www.seedworld.com_p_127299.md)**
+  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127299.md) · [원문](https://www.seedworld.com/latam/2026/09/03/portal-acceso-digital-inase/)
+  - A partir del 7 de septiembre, los usuarios podrán acceder a pagos, registros de lotes de semillas y otros servicios del INASE a través de un portal único mediante una Clave Fiscal ARCA.
+
+- **[Seed Sector 2045: Is Europe Competitive for Plant Breeding Innovation?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127237.md)**
+  - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127237.md) · [원문](https://www.seedworld.com/europe/2026/09/03/europe-plant-breeding-innovation/)
+  - How EU NGT regulation, PRM reform, research funding and policy coherence are shaping the future of plant breeding in Europe. Europe is asking more from plant breeding than ever before.
+
+- **[Why the “Plant Breeding Pipeline” is the Wrong Model for Canada](../../items/seedworld/2026/09/https_www.seedworld.com_p_127292.md)**
+  - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127292.md) · [원문](https://www.seedworld.com/canada/2026/09/02/canada-smarter-seed-system/)
+  - Breeding, registration and seed certification can no longer operate as isolated steps in an era of continuous data and rapid innovation. The most important change coming to plant breeding may not be…
+
+- **[You Can Process More Lines. You Can’t Automate Better Ideas.](../../items/seedworld/2026/09/https_www.seedworld.com_p_127287.md)**
+  - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127287.md) · [원문](https://www.seedworld.com/canada/2026/09/02/15-year-bet-canadian-plant-breeding/)
+  - Technology lets breeders evaluate tens of thousands of candidates, but Brian Rossnagel says efficiency cannot replace scientific talent and competing ways of thinking. Canada is trying to decide how…
+
+- **[Wolfson Foundation Funds Plant Research Facilities](../../items/seedworld/2026/09/https_www.seedworld.com_p_127228.md)**
+  - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127228.md) · [원문](https://www.seedworld.com/europe/2026/09/02/wolfson-foundation-plant-research-facilities/)
+  - Funding will support LED lighting for a next-generation glasshouse, insectary and horticultural research facility serving the John Innes Centre and The Sainsbury Laboratory.
+
+- **[Vylor Corn Roadmap Shows Corteva’s Seed Strategy](../../items/seedworld/2026/09/https_www.seedworld.com_p_127272.md)**
+  - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127272.md) · [원문](https://www.seedworld.com/us/2026/09/02/vylor-corn-roadmap-corteva-seed-strategy/)
+  - A month before the planned separation of Vylor from Corteva, a new corn roadmap reveals Vylor’s biggest technology bets through 2035. With its planned Oct.
+
+- **[The Economics of Climate-Friendly Grains](../../items/seedworld/2026/09/https_www.seedworld.com_p_127150.md)**
+  - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127150.md) · [원문](https://www.seedworld.com/us/2026/09/02/the-economics-of-climate-friendly-grains/)
+  - New research suggests consumers may pay more for bread with a smaller environmental footprint. The bigger question is whether the seed industry can build a business around that demand.
+
 - **[EU PPWR: What Seed Companies Need to Do Now](../../items/seedworld/2026/09/https_www.seedworld.com_p_127220.md)**
   - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127220.md) · [원문](https://www.seedworld.com/europe/2026/09/01/eu-ppwr-seed-companies-packaging/)
-  - What European seed companies and exporters need to know about packaging, EPR, recyclability, recycled content and future reuse requirements. On 12 August 2026, the European Union began applying its n…
+  - The EU PPWR now applies to packaging used across the seed sector. Seed companies and exporters need to understand their roles, EPR duties, recyclability rules, recycled content requirements and possi…
 
 - **[The Proof is in the Product](../../items/seedworld/2026/09/https_www.seedworld.com_p_127212.md)**
   - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127212.md) · [원문](https://www.seedworld.com/us/2026/09/01/9311-biostimulant-soybean-yield-consistency/)
-  - At conferences, partner meetings and field days this year, my colleague Dr. Linda Kinkel and I have been emphasizing what we believe should be a fundamental shift in the biologicals industry.
+  - Jord BioScience says its 9311 biostimulant delivered consistent soybean performance across multiple years of field trials, showing yield, biomass, emergence, nodulation and vigor benefits under varia…
 
 - **[Canada’s Next Crop Varieties Depend on What Happens Now: Curt Baldwin](../../items/seedworld/2026/09/https_www.seedworld.com_p_127201.md)**
   - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127201.md) · [원문](https://www.seedworld.com/canada/2026/09/01/plant-breeding-investment-canada/)
-  - Creating a sustainable environment for public and private plant breeding investment will be essential to delivering the genetics farmers need. One of the most important issues facing Canada’s seed in…
+  - Creating a sustainable environment for public and private plant breeding investment will be essential to delivering the genetics farmers need, says the president of Seeds Canada The post Canada’s Nex…
 
 - **[ASTA Field Crop Seed Convention Returns to Chicago](../../items/seedworld/2026/09/https_www.seedworld.com_p_127205.md)**
   - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127205.md) · [원문](https://www.seedworld.com/us/2026/09/01/field-crop-seed-convention-returns-chicago/)
-  - The annual event will take place Dec. 7-10, 2026, after three years in Orlando.
+  - The Field Crop Seed Convention will return to Chicago Dec. 7-10, 2026, after three years in Orlando.
 
 - **[How Rigorous R&D Delivers Outstanding Soybean Yield and Operational Performance](../../items/seedworld/2026/09/https_www.seedworld.com_p_127112.md)**
   - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127112.md) · [원문](https://www.seedworld.com/us/2026/09/01/lumisena-prime-soybean-seed-treatment-performance/)
-  - As soybean growers continue to plant earlier into cooler, wetter soils, a seedling’s window of vulnerability expands. For independent seed retailers, helping farmers protect that early-season investm…
+  - Lumisena Prime combines fungicide and insecticide components in a single-jug soybean seed treatment designed to protect early-season plant health. Corteva says its R&D trials showed yield advantages,…
 
 - **[Why the New Plant Breeder is Part Geneticist and Part Data Scientist](../../items/seedworld/2026/09/https_www.seedworld.com_p_127189.md)**
   - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127189.md) · [원문](https://www.seedworld.com/canada/2026/08/31/ai-lentil-breeding-luke-dojack/)
-  - A University of Saskatchewan PhD student is combining field experience, genetics and AI to build faster, more practical tools for lentil breeding. Luke Dojack still remembers when plant breeding firs…
+  - A University of Saskatchewan PhD student is combining field experience, genetics and AI to build faster, more practical tools for lentil breeding The post Why the New Plant Breeder is Part Geneticist…
 
 
 ## 2026-08
 
 - **[Seed Certification Was Built for Trust. It Has to Be Built for Change, Too](../../items/seedworld/2026/08/https_www.seedworld.com_p_127177.md)**
   - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127177.md) · [원문](https://www.seedworld.com/canada/2026/08/31/future-seed-certification-canada/)
-  - Shannon Bieman takes on the CSGA presidency as seed certification continues to evolve, bringing her perspective on the people, technology and priorities shaping its future Shannon Bieman knows the se…
+  - Shannon Bieman takes on the CSGA presidency as seed certification continues to evolve, bringing her perspective on the people, technology and priorities shaping its future The post Seed Certification…
 
 - **[When Your Seed Expertise Becomes a Bridge to Recovery](../../items/seedworld/2026/08/https_www.seedworld.com_p_127181.md)**
   - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127181.md) · [원문](https://www.seedworld.com/us/2026/08/31/seed-health-testing-jamaica-hurricane-recovery/)
-  - When Hurricane Melissa hit Jamaica in October 2025, the Category 5 winds, heavy rain, and extensive flooding had a devastating effect on agricultural production throughout the island.
+  - After Hurricane Melissa devastated farms in Jamaica, donated vegetable seed offered organic growers a path back to production. Seed health testing, regulatory cooperation and industry collaboration h…
 
 - **[Finding Your Competitive Advantage in a Crowded Seed Market](../../items/seedworld/2026/08/https_www.seedworld.com_p_127147.md)**
   - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127147.md) · [원문](https://www.seedworld.com/us/2026/08/31/competitive-advantage-seed-market/)
-  - A company brought us in because they had a sales problem. At least, that’s what they thought they had.
+  - Competitive advantage is not always found in products, pricing or scale. This article explains how seed companies can identify why customers choose them and turn that difference into a repeatable bus…
 
 - **[Advancing Better Canola: Before Canola Can Thrive, it Must Survive](../../items/seedworld/2026/08/https_www.seedworld.com_p_127169.md)**
   - 2026-08-29 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127169.md) · [원문](https://www.seedworld.com/canada/2026/08/28/canola-seed-treatments-crop-establishment/)
@@ -309,31 +345,3 @@ source: "seedworld"
 - **[Global Soil Degradation Is Cutting Crop Yields](../../items/seedworld/2026/08/https_www.seedworld.com_p_126745.md)**
   - 2026-08-05 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126745.md) · [원문](https://www.seedworld.com/europe/2026/08/05/global-soil-degradation-crop-yields/)
   - University of Bonn researchers found that soil degradation is significantly reducing crop yields worldwide. Reversing human-caused degradation could increase production enough to feed approximately 7…
-
-- **[Limagrain Licenses Genome-Editing Technologies From Qi Biodesign](../../items/seedworld/2026/08/https_www.seedworld.com_p_126825.md)**
-  - 2026-08-05 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126825.md) · [원문](https://www.seedworld.com/us/2026/08/04/limagrain-qi-biodesign-genome-editing-agreement/)
-  - Limagrain has licensed genome-editing technologies from Qi Biodesign for use in field and vegetable crop breeding programs. The post Limagrain Licenses Genome-Editing Technologies From Qi Biodesign a…
-
-- **[New Gene Insertion Method Could Support Crop Traits](../../items/seedworld/2026/08/https_www.seedworld.com_p_126742.md)**
-  - 2026-08-04 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126742.md) · [원문](https://www.seedworld.com/europe/2026/08/04/gene-insertion-crop-traits/)
-  - KAUST researchers have developed a gene insertion method that precisely adds large genetic sequences into plant genomes without first breaking DNA. The technique, demonstrated in rice and tobacco, co…
-
-- **[Wheat Genotyping Platform Advances at Embrapa](../../items/seedworld/2026/08/https_www.seedworld.com_p_126771.md)**
-  - 2026-08-04 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126771.md) · [원문](https://www.seedworld.com/latam/2026/08/04/wheat-genotyping-embrapa/)
-  - A new wheat genotyping platform at Embrapa Wheat in Brazil is expanding researchers’ capacity to analyze DNA and support improved cultivar development. The automated system could speed marker identif…
-
-- **[No Agenda, Just Listening: Glenn Logan Reflects on Leading the Canadian Seed Growers’ Association](../../items/seedworld/2026/08/https_www.seedworld.com_p_126832.md)**
-  - 2026-08-03 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126832.md) · [원문](https://www.seedworld.com/canada/2026/08/03/glenn-logan-csga-leadership-seed-regulatory-modernization/)
-  - As Glenn Logan looks back on his time as president of the CSGA, he isn't measuring success by a list of accomplishments or a single initiative The post No Agenda, Just Listening: Glenn Logan Reflects…
-
-- **[Scientists Find the Switch That Tells Plants They Have Enough Nitrogen](../../items/seedworld/2026/08/https_www.seedworld.com_p_126816.md)**
-  - 2026-08-03 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126816.md) · [원문](https://www.seedworld.com/us/2026/08/03/plant-nitrogen-uptake/)
-  - Researchers identified a genetic stop signal that limits nitrogen uptake, opening a possible path toward crops that use fertilizer more efficiently. Plants know when they have absorbed enough nitroge…
-
-- **[Climate Change Threatens Crop Nutrition](../../items/seedworld/2026/08/https_www.seedworld.com_p_126739.md)**
-  - 2026-08-03 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126739.md) · [원문](https://www.seedworld.com/europe/2026/08/03/climate-change-crop-nutrition/)
-  - Climate change is reducing the nutritional value of major food crops, creating new challenges for food security. A Nature review examines how plant breeding, genome editing and other technologies cou…
-
-- **[Genotipado del trigo avanza en Embrapa](../../items/seedworld/2026/08/https_www.seedworld.com_p_126769.md)**
-  - 2026-08-03 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126769.md) · [원문](https://www.seedworld.com/latam/2026/08/03/genotipado-trigo-embrapa/)
-  - Una nueva plataforma de genotipado del trigo en Embrapa Trigo automatiza la preparación de muestras de ADN y amplía la capacidad de análisis molecular. La tecnología podría acelerar la selección de m…

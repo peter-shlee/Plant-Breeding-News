@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/19/plant-breeding-future-mentorship-l
 summary: "The future of plant breeding needs more than technical skill. Ana Maria Heilman-Morales explains why mentorship, service and courage matter."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Plant Breeding’s Future Depends on More Than Science
 

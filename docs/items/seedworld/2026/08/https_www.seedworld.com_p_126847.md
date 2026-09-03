@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/05/agricultural-innovation-strong
 summary: "Innovation isn't simply the product of discovery. It's the product of relationships The post Why Plant Breeding, Leadership and Seed Policy Matter Together appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Why Plant Breeding, Leadership and Seed Policy Matter Together
 

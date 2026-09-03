@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/11/climate-friendly-grains-kernza-mar
 summary: "Consumers may pay more for climate-friendly bread, but Kernza and other perennial grains still face hurdles in breeding, yield, taste and supply chains. The post The Hard Economics of Climate-Friendly Grains appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # The Hard Economics of Climate-Friendly Grains
 

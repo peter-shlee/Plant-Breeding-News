@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/17/illini-superpop-popcorn-breeding/"
 summary: "Illini SuperPop started as a University of Illinois genetics project and grew into a new savory popcorn hybrid designed for flavor, field performance and education. The post Butter-Optional Popcorn appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Butter-Optional Popcorn
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/05/global-soil-degradation-crop-y
 summary: "University of Bonn researchers found that soil degradation is significantly reducing crop yields worldwide. Reversing human-caused degradation could increase production enough to feed approximately 70 million more people."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Global Soil Degradation Is Cutting Crop Yields
 

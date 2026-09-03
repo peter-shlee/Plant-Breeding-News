@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/10/farm-bill-seed-research-innovation
 summary: "The latest Farm Bill fight is about much more than SNAP. For the seed industry, research, innovation, technology and the next generation of crops are also waiting on Congress."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # The Way I See It… There’s More Seed in the Farm Bill Than You Think
 

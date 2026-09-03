@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/19/registered-seed-technologists-seed
 summary: "Registered Seed Technologists play a critical role in seed testing by applying trained judgment, regulatory knowledge and hands-on experience. Their expertise helps customers understand test results, identify potential issues and make"
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Why Seed Testing Still Needs Registered Seed Technologists (RSTs)
 

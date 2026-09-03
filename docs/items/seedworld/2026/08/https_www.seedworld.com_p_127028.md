@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/20/cottonseed-breeding-yield-resistan
 summary: "From nematode resistance that protects yield to gene silencing that could open new food and feed markets, cotton breeders and researchers are asking genetics to deliver more."
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Breeding More Into Cottonseed
 

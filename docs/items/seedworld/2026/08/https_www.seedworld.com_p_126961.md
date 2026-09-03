@@ -9,7 +9,7 @@ summary: "Maize sugar transporters ZmSWEET6a and ZmSWEET6b play key roles in pol
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # Maize Sugar Transporters Point to Male-Sterile Lines
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/08/11/predictive-breeding-plant-breed
 summary: "Predictive breeding is changing how breeders design crosses, prioritize evaluations and make decisions. Enid Perez-Lara of Agronomix Software explains why artificial intelligence rewards organizations that build strong data foundations,"
 attachments: []
 tags: []
-fetched_at: "2026-09-02T08:33:54+09:00"
+fetched_at: "2026-09-04T08:29:11+09:00"
 ---
 # The Future Belongs to Predictive Breeding
 
