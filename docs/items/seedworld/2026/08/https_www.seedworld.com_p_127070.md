@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/21/public-trust-plant-breeding-in
 summary: "Plant breeding innovation in Europe depends on more than science and regulation. As NGTs move closer to approval, public trust, social licence, transparency and misinformation are becoming strategic issues for the seed sector."
 attachments: []
 tags: []
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # Seed Sector 2045: Why Public Trust Matters for Plant Breeding Innovation
 

@@ -11,41 +11,61 @@ source: "seedworld"
 
 ## 2026-09
 
+- **[AgroENSO Maps El Niño Impacts on Argentina Crops](../../items/seedworld/2026/09/https_www.seedworld.com_p_127307.md)**
+  - 2026-09-06 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127307.md) · [원문](https://www.seedworld.com/latam/2026/09/05/agroenso-el-nino-argentina-crops/)
+  - The free interactive platform uses 35 years of climate and yield data to show how El Niño and La Niña conditions have affected corn, soybean, wheat, barley and sunflower production across Argentina.
+
+- **[AgroENSO mide el impacto de El Niño en cultivos argentinos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127304.md)**
+  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127304.md) · [원문](https://www.seedworld.com/latam/2026/09/04/agroenso-impacto-el-nino-cultivos-argentina/)
+  - Esta plataforma interactiva gratuita utiliza 35 años de datos climáticos y de rendimiento para mostrar cómo las condiciones de El Niño y La Niña han afectado la producción de maíz, soja, trigo, cebad…
+
+- **[INASE Digital Access Portal Launches September 7](../../items/seedworld/2026/09/https_www.seedworld.com_p_127301.md)**
+  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127301.md) · [원문](https://www.seedworld.com/latam/2026/09/04/inase-digital-access-portal/)
+  - Beginning Sept. 7, users will access payments, seed lot registrations and other INASE services through a single portal using an ARCA Fiscal Key.
+
+- **[Plant Breeding Investment Needs Faster Decisions](../../items/seedworld/2026/09/https_www.seedworld.com_p_127157.md)**
+  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127157.md) · [원문](https://www.seedworld.com/us/2026/09/04/plant-breeding-investment-faster-decisions/)
+  - Canada has been a global leader in crop production and plant breeding for a long time. But leadership is never permanent.
+
+- **[CO₂ Fertilisation and Crop Yield Policy Blind Spots](../../items/seedworld/2026/09/https_www.seedworld.com_p_127162.md)**
+  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127162.md) · [원문](https://www.seedworld.com/us/2026/09/03/co2-fertilisation-crop-yield-policy/)
+  - What satellite data reveal about productivity, plant biology and the blind spots in climate policy. For decades, agricultural productivity has followed a reassuring narrative.
+
 - **[Molecular Switch Helps Crops Handle Heat Stress](../../items/seedworld/2026/09/https_www.seedworld.com_p_127231.md)**
   - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127231.md) · [원문](https://www.seedworld.com/europe/2026/09/03/crop-heat-stress-molecular-switch/)
-  - Researchers have identified an evolutionary mechanism that keeps leaf pores open at high temperatures, offering new insight into plant heat resilience and the development of climate-resilient crops.
+  - Researchers have identified a molecular mechanism that could support crop heat stress resilience by keeping stomata open during high temperatures. The discovery offers new insight into plant cooling,…
 
 - **[Ag Economy Barometer Rises as Farm Outlook Improves](../../items/seedworld/2026/09/https_www.seedworld.com_p_127276.md)**
   - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127276.md) · [원문](https://www.seedworld.com/us/2026/09/03/ag-economy-barometer-farm-outlook-improves/)
-  - The August Purdue University/CME Group Ag Economy Barometer rose nine points as producers reported greater confidence in future finances and agricultural exports. U.S.
+  - The Ag Economy Barometer climbed in August as U.S. farmers expressed stronger confidence in future financial performance and agricultural exports.
 
 - **[TÍTULO SEO:El portal de acceso digital de INASE se lanza el 7 de septiembre](../../items/seedworld/2026/09/https_www.seedworld.com_p_127299.md)**
   - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127299.md) · [원문](https://www.seedworld.com/latam/2026/09/03/portal-acceso-digital-inase/)
-  - A partir del 7 de septiembre, los usuarios podrán acceder a pagos, registros de lotes de semillas y otros servicios del INASE a través de un portal único mediante una Clave Fiscal ARCA.
+  - EXTRACTO: Los servicios digitales de INASE en Argentina pasarán a un portal de acceso único a partir del 7 de septiembre. Los usuarios necesitarán una Clave Fiscal ARCA válida para gestionar pagos, r…
 
 - **[Seed Sector 2045: Is Europe Competitive for Plant Breeding Innovation?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127237.md)**
   - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127237.md) · [원문](https://www.seedworld.com/europe/2026/09/03/europe-plant-breeding-innovation/)
-  - How EU NGT regulation, PRM reform, research funding and policy coherence are shaping the future of plant breeding in Europe. Europe is asking more from plant breeding than ever before.
+  - Europe has strong plant breeding talent, public research and seed systems, but plant breeding innovation depends on more than ambition. NGT regulation, PRM reform, research funding, intellectual prop…
 
 - **[Why the “Plant Breeding Pipeline” is the Wrong Model for Canada](../../items/seedworld/2026/09/https_www.seedworld.com_p_127292.md)**
   - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127292.md) · [원문](https://www.seedworld.com/canada/2026/09/02/canada-smarter-seed-system/)
-  - Breeding, registration and seed certification can no longer operate as isolated steps in an era of continuous data and rapid innovation. The most important change coming to plant breeding may not be…
+  - Breeding, registration and seed certification can no longer operate as isolated steps in an era of continuous data and rapid innovation The post Why the “Plant Breeding Pipeline” is the Wrong Model f…
 
 - **[You Can Process More Lines. You Can’t Automate Better Ideas.](../../items/seedworld/2026/09/https_www.seedworld.com_p_127287.md)**
   - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127287.md) · [원문](https://www.seedworld.com/canada/2026/09/02/15-year-bet-canadian-plant-breeding/)
-  - Technology lets breeders evaluate tens of thousands of candidates, but Brian Rossnagel says efficiency cannot replace scientific talent and competing ways of thinking. Canada is trying to decide how…
+  - Technology lets breeders evaluate tens of thousands of candidates, but Brian Rossnagel says efficiency cannot replace scientific talent and competing ways of thinking The post You Can Process More Li…
 
 - **[Wolfson Foundation Funds Plant Research Facilities](../../items/seedworld/2026/09/https_www.seedworld.com_p_127228.md)**
   - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127228.md) · [원문](https://www.seedworld.com/europe/2026/09/02/wolfson-foundation-plant-research-facilities/)
-  - Funding will support LED lighting for a next-generation glasshouse, insectary and horticultural research facility serving the John Innes Centre and The Sainsbury Laboratory.
+  - The Wolfson Foundation is investing £1.6 million in plant research facilities at the John Innes Centre and The Sainsbury Laboratory. The funding will support LED lighting for a new glasshouse, insect…
 
 - **[Vylor Corn Roadmap Shows Corteva’s Seed Strategy](../../items/seedworld/2026/09/https_www.seedworld.com_p_127272.md)**
   - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127272.md) · [원문](https://www.seedworld.com/us/2026/09/02/vylor-corn-roadmap-corteva-seed-strategy/)
-  - A month before the planned separation of Vylor from Corteva, a new corn roadmap reveals Vylor’s biggest technology bets through 2035. With its planned Oct.
+  - Corteva has released a Vylor corn roadmap that outlines the future seed and genetics company’s planned technology platforms through 2035, including yield traits, gene editing, insect control and lice…
 
 - **[The Economics of Climate-Friendly Grains](../../items/seedworld/2026/09/https_www.seedworld.com_p_127150.md)**
   - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127150.md) · [원문](https://www.seedworld.com/us/2026/09/02/the-economics-of-climate-friendly-grains/)
-  - New research suggests consumers may pay more for bread with a smaller environmental footprint. The bigger question is whether the seed industry can build a business around that demand.
+  - Climate-friendly grains such as intermediate wheatgrass may attract consumers willing to pay more for sustainable bread. New Cornell research suggests demand exists, but taste, yield, processing infr…
 
 - **[EU PPWR: What Seed Companies Need to Do Now](../../items/seedworld/2026/09/https_www.seedworld.com_p_127220.md)**
   - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127220.md) · [원문](https://www.seedworld.com/europe/2026/09/01/eu-ppwr-seed-companies-packaging/)
@@ -313,35 +333,3 @@ source: "seedworld"
 - **[Why CSGA’s New President Says Now is the Time to Get Involved](../../items/seedworld/2026/08/https_www.seedworld.com_p_126865.md)**
   - 2026-08-10 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126865.md) · [원문](https://www.seedworld.com/canada/2026/08/10/shannon-bieman-canadian-seed-sector/)
   - Shannon Bieman says a rapidly changing Canadian seed sector presents a big opportunity The post Why CSGA’s New President Says Now is the Time to Get Involved appeared first on Seed World .
-
-- **[Seed Sector 2045: Cover Crops Offer Regenerative Opportunity for Seed](../../items/seedworld/2026/08/https_www.seedworld.com_p_126751.md)**
-  - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126751.md) · [원문](https://www.seedworld.com/europe/2026/08/07/cover-crops-regenerative-agriculture-seed-sector/)
-  - Cover crops are emerging as a practical link between regenerative agriculture and the seed sector. As farmers focus more on soil health, rotations and input efficiency, seed companies may find new op…
-
-- **[Tomato Gene Could Help Boost Yields](../../items/seedworld/2026/08/https_www.seedworld.com_p_126775.md)**
-  - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126775.md) · [원문](https://www.seedworld.com/latam/2026/08/07/tomato-gene-boost-yields/)
-  - Researchers identified a tomato gene that helps plants respond to shade, regulate photosynthesis and maintain fruit production under high-density growing conditions. The SlBBX20 gene could give breed…
-
-- **[The Varieties Fade; The Impact Doesn’t](../../items/seedworld/2026/08/https_www.seedworld.com_p_126828.md)**
-  - 2026-08-07 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126828.md) · [원문](https://www.seedworld.com/us/2026/08/06/istvan-rajcan-plant-breeding-impact/)
-  - NAPB award recipient Istvan Rajcan explains why farmer adoption, research freedom and training future scientists define plant breeding impact. The post The Varieties Fade; The Impact Doesn’t appeared…
-
-- **[Xylella Research Advances Disease Control](../../items/seedworld/2026/08/https_www.seedworld.com_p_126748.md)**
-  - 2026-08-06 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126748.md) · [원문](https://www.seedworld.com/europe/2026/08/06/xylella-fastidiosa-disease-control/)
-  - Research on Xylella fastidiosa is advancing resistant olive cultivars, biological control, insect vector management and surveillance. Findings presented in Italy could support improved disease manage…
-
-- **[Gen del tomate podría impulsar el rendimiento](../../items/seedworld/2026/08/https_www.seedworld.com_p_126773.md)**
-  - 2026-08-06 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126773.md) · [원문](https://www.seedworld.com/latam/2026/08/06/gen-tomate-rendimiento/)
-  - Investigadores del CONICET identificaron un gen del tomate que ayuda a las plantas a responder a la sombra, regular la fotosíntesis y mantener la producción de frutos. El hallazgo podría apoyar el de…
-
-- **[Why Plant Breeding, Leadership and Seed Policy Matter Together](../../items/seedworld/2026/08/https_www.seedworld.com_p_126847.md)**
-  - 2026-08-06 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126847.md) · [원문](https://www.seedworld.com/canada/2026/08/05/agricultural-innovation-strong-systems/)
-  - Innovation isn't simply the product of discovery. It's the product of relationships The post Why Plant Breeding, Leadership and Seed Policy Matter Together appeared first on Seed World .
-
-- **[Making The Case For VUA | On The Brink: Season 2 – Episode 13](../../items/seedworld/2026/08/https_www.seedworld.com_p_126790.md)**
-  - 2026-08-05 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126790.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/05/making-oats-case-for-vuas-on-the-brink-season-2-episode-13/)
-  - Jim Dyck is one of a handful of private oat breeders in Western Canada. A variety takes 10 to 15 years.
-
-- **[Global Soil Degradation Is Cutting Crop Yields](../../items/seedworld/2026/08/https_www.seedworld.com_p_126745.md)**
-  - 2026-08-05 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126745.md) · [원문](https://www.seedworld.com/europe/2026/08/05/global-soil-degradation-crop-yields/)
-  - University of Bonn researchers found that soil degradation is significantly reducing crop yields worldwide. Reversing human-caused degradation could increase production enough to feed approximately 7…

@@ -9,7 +9,7 @@ summary: "Ask Yue Yu what she wants to do in her career, and the answer is short
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # The Future of Plant Breeding Could Begin Before the Field Trial
 

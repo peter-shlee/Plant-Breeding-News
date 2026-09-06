@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/19/leaf-wax-signals-crop-disease/
 summary: "Researchers are investigating how fungal pathogens recognise plant surfaces, opening the door to crop-protection strategies that disrupt infection before it begins. The waxy surface of a crop leaf could hold […] The post Leaf Wax Signals"
 attachments: []
 tags: []
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # Leaf Wax Signals Could Help Fight Crop Disease
 

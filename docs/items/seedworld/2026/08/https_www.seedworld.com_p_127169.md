@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/28/canola-seed-treatments-crop-es
 summary: "Canadian farmers planted a record 23.4 million acres of canola in 2026, according to Statistics Canada. That number tells an important story about the scale of canola in Canadian agriculture."
 attachments: []
 tags: []
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # Advancing Better Canola: Before Canola Can Thrive, it Must Survive
 

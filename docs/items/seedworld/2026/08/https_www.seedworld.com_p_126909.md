@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/11/nitrogen-efficient-flax-reduce
 summary: "The discovery could eventually help breeders create crops that need less fertilizer and cost farmers less to grow The post Flax Could Hold an Answer to Farming’s Fertilizer Problem appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # Flax Could Hold an Answer to Farming’s Fertilizer Problem
 

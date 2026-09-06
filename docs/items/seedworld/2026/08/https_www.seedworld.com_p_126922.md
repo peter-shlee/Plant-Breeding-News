@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/13/public-plant-breeding-pbcc-support
 summary: "NAPB's Plant Breeding Coordinating Committee is sharpening its role as public breeders face funding, workforce and training pressures. The post Public Plant Breeders Need More Than Funding; They Need Support appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # Public Plant Breeders Need More Than Funding; They Need Support
 

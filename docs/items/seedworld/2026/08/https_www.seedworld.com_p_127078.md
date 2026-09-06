@@ -9,7 +9,7 @@ summary: "Lumisena Prime combines four fungicides and one insecticide in a singl
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # How Rigorous R&D Delivers Outstanding Soybean Yield and Operational Performance
 

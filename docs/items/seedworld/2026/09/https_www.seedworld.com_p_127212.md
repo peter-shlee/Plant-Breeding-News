@@ -9,7 +9,7 @@ summary: "Jord BioScience says its 9311 biostimulant delivered consistent soybea
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # The Proof is in the Product
 

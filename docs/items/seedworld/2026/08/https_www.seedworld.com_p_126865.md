@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/10/shannon-bieman-canadian-seed-s
 summary: "Shannon Bieman says a rapidly changing Canadian seed sector presents a big opportunity The post Why CSGA’s New President Says Now is the Time to Get Involved appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-09-04T08:29:11+09:00"
+fetched_at: "2026-09-07T08:01:51+09:00"
 ---
 # Why CSGA’s New President Says Now is the Time to Get Involved
 
