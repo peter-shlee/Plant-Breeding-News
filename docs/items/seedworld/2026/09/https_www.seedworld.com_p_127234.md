@@ -1,0 +1,19 @@
+---
+id: "f1a247be13c79c1f44b4ee23f602bf50b388c1088c3515cc06857d11cb44c71a"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=127234"
+published_at: "2026-09-08T02:30:03+09:00"
+url: "https://www.seedworld.com/europe/2026/09/07/crop-disease-resistance-plant-hormones/"
+summary: "Technical University of Munich researchers identified an epigenetic mechanism that regulates the trade-off between plant growth and immune defence, a finding that could support the development of resilient, high-yielding crop varieties."
+attachments: []
+tags: []
+fetched_at: "2026-09-11T08:22:12+09:00"
+---
+# Plant Hormones Reveal Crop Disease Resistance Pathway
+
+Technical University of Munich researchers identified an epigenetic mechanism that regulates the trade-off between plant growth and immune defence, a finding that could support the development of resilient, high-yielding crop varieties. When plants encounter pathogens, they activate their immune systems while slowing their growth. For crop producers, that natural trade-off can result in lower yields and presents a challenge when breeding disease-resistant varieties. “Plant breeders are trying to develop varieties that can effectively ward off pathogens without reducing their yield potential. In doing so, however, they encounter biological limits: an increased immunity often comes at the expense of growth,” explains Brigitte Poppenberger, professor for Biotechnology of Horticultural Crops at the Technical University of Munich (TUM). Poppenberger and her research team have now identified a mechanism that could help breeders push those biological limits. The researchers found that plant steroid hormones regulate a molecular switch that controls the immune response, according to a press release. Steroid Hormones Prioritize Plant Growth When pathogens are absent, plants suppress their immune responses and direct their resources toward growth. Steroid hormones contribute to this process by keeping the immune receptors needed to initiate a defence response inactive. The hormones act through transcription factors — proteins that bind to DNA and influence how genetic information is processed. These transcription factors alter the structure of immune receptors, keeping them inactive until the plant needs them and allowing more resources to be used for growth. Pathogen Exposure Activates Plant Defences When a plant encounters a pathogen, it requires functional receptors to initiate a defence response. The steroid hormone-regulated transcription factors are then inactivated, allowing the receptors to assemble correctly. This activates the plant’s immune response while reducing growth. The researchers demonstrated the process in the model plant Arabidopsis thaliana following infection with a powdery mildew pathogen. Epigenetic Mechanism Controls Receptor Variants According to TUM, the researchers are the first to identify this steroid hormone-controlled mechanism. They were particularly surprised by how the transcription factor influences immune receptors. “The transcription factor doesn’t simply turn receptor genes on or off,” explains Brigitte Poppenberger. “Through an epigenetic mechanism, it influences which receptor variant is produced by altering DNA modifications, thereby regulating the processing of the affected genes.” Discovery Could Inform Future Breeding Understanding how steroid hormones regulate plant immunity could provide breeders with another avenue for developing varieties that maintain yield while offering stronger disease resistance. “If future breeding programs succeed in harnessing this mechanism, high-yielding varieties could become more resilient to pathogens.”
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/europe/2026/09/07/crop-disease-resistance-plant-hormones/)

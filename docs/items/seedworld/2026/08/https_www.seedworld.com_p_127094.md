@@ -9,7 +9,7 @@ summary: "New research shows that severe water scarcity across major wheat-growi
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # Three Degrees Warmer, Three Times the Wheat Price?
 

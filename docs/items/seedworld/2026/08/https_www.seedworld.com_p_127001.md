@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/21/seed-labeling-regulations-database
 summary: "Seed labeling rules can change from state to state. The Oregon Seed Association’s Seed Labeling Database gives companies one place to compare requirements, catch errors and navigate compliance before seed ships."
 attachments: []
 tags: []
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # Inside The Hidden Bottleneck Slowing Seed Shipments Across America
 

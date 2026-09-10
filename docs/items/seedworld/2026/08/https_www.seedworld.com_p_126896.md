@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/12/crop-diversity-natural-pest-co
 summary: "A global meta-analysis of 149 field studies found that crop diversity can increase natural enemies of agricultural pests and improve plant performance. The findings highlight how more diverse farming systems may reduce reliance on chemical"
 attachments: []
 tags: []
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # Crop Diversity Strengthens Natural Pest Control
 

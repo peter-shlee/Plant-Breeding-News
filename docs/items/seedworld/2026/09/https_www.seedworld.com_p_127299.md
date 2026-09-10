@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/03/portal-acceso-digital-inase/"
 summary: "EXTRACTO: Los servicios digitales de INASE en Argentina pasarán a un portal de acceso único a partir del 7 de septiembre. Los usuarios necesitarán una Clave Fiscal ARCA válida para gestionar pagos, registros de lotes de semillas y otros trá"
 attachments: []
 tags: []
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # TÍTULO SEO:El portal de acceso digital de INASE se lanza el 7 de septiembre
 

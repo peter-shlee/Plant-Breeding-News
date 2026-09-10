@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/14/microbial-activator-technology-bey
 summary: "Microbial activator technology is reframing how seed and biological companies think about soil microbes. Jord’s ecology-first approach focuses on microbial partnerships that help organisms colonize roots, persist through the season and"
 attachments: []
 tags: []
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # Stop Deploying Microbes Like Chemistry
 

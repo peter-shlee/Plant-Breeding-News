@@ -11,25 +11,93 @@ source: "seedworld"
 
 ## 2026-09
 
+- **[The Slowest Part of Plant Breeding May No Longer Be Biology](../../items/seedworld/2026/09/https_www.seedworld.com_p_127390.md)**
+  - 2026-09-11 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127390.md) · [원문](https://www.seedworld.com/canada/2026/09/10/future-canadian-plant-breeding-learning-faster/)
+  - The countries that lead plant breeding will be those that connect data, people and investment quickly enough to respond to changing farm conditions. Our greatest competitive advantage may soon be the…
+
+- **[Alfalfa aumenta carbono del suelo en sistemas semiáridos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127322.md)**
+  - 2026-09-11 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127322.md) · [원문](https://www.seedworld.com/latam/2026/09/10/alfalfa-carbono-suelo-sistemas-semiaridos/)
+  - Investigaciones del INTA revelaron que los sistemas de producción que incorporan este cultivo perenne acumulan un 25 % más de carbono orgánico en el suelo que los sistemas de cultivo continuo.
+
+- **[Corn Genetic Diversity Warning Issued by Researchers](../../items/seedworld/2026/09/https_www.seedworld.com_p_127283.md)**
+  - 2026-09-11 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127283.md) · [원문](https://www.seedworld.com/us/2026/09/10/corn-genetic-diversity-warning/)
+  - Researchers found little genetic variation for grain yield among intermediate-maturity stiff-stalk lines, potentially limiting breeders’ ability to develop productive hybrids for future growing condi…
+
+- **[How Drought is Changing Canola’s Battle With Verticillium Stripe](../../items/seedworld/2026/09/https_www.seedworld.com_p_127378.md)**
+  - 2026-09-10 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127378.md) · [원문](https://www.seedworld.com/canada/2026/09/10/drought-disease-resistance-canola/)
+  - University of Manitoba researcher Shruti Kashyap is uncovering how water stress influences disease resistance — and what it could mean for future canola varieties. Meet the third in our 7 Future Buil…
+
+- **[AgRI 2040 Sets EU Agri-Food Innovation Priorities](../../items/seedworld/2026/09/https_www.seedworld.com_p_127375.md)**
+  - 2026-09-10 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127375.md) · [원문](https://www.seedworld.com/europe/2026/09/10/agri-2040-eu-agri-food-innovation-priorities/)
+  - The AgRI 2040 and Food 2040 frameworks will guide EU-funded research, innovation and market deployment across agriculture and food systems. The European Commission has adopted a new Strategic Approac…
+
+- **[Designed To Thrive | Welcome To On The Brink: Season 3](../../items/seedworld/2026/09/https_www.seedworld.com_p_127353.md)**
+  - 2026-09-10 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127353.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/09/future-of-canadian-plant-breeding-on-the-brink-season-3/)
+  - A conversation can map the pressures facing a sector. It cannot decide what the future of Canadian plant breeding will look like.
+
+- **[A Big Lesson from NAPB ’26: Technology Isn’t Enough](../../items/seedworld/2026/09/https_www.seedworld.com_p_127357.md)**
+  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127357.md) · [원문](https://www.seedworld.com/us/2026/09/09/napb-plant-breeding-technology-people/)
+  - Corn breeder Zachary Jones explains why communication, confidence and a commitment to rural communities still matter in the age of AI. Artificial intelligence dominated the official agenda when plant…
+
+- **[Why Plant Breeders’ Rights Matter More Than Ever](../../items/seedworld/2026/09/https_www.seedworld.com_p_127165.md)**
+  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127165.md) · [원문](https://www.seedworld.com/us/2026/09/09/plant-breeders-rights-matter/)
+  - As agriculture faces rapid technological change, the frameworks supporting innovation are evolving just as fast, notes the new president of the International Union for the Protection of New Varieties…
+
+- **[SUSTAINCrop to Measure Industrial Crop Footprints](../../items/seedworld/2026/09/https_www.seedworld.com_p_127319.md)**
+  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127319.md) · [원문](https://www.seedworld.com/latam/2026/09/09/sustaincrop-industrial-crop-footprints/)
+  - The international project will develop a digital tool to assess the environmental impacts of crops including corn, canola, soybeans, sugar cane, cotton and sunflower under real production conditions.
+
+- **[OP-ED: Why Canada’s Plant Breeding Advantage is No Longer Guaranteed](../../items/seedworld/2026/09/https_www.seedworld.com_p_127345.md)**
+  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127345.md) · [원문](https://www.seedworld.com/canada/2026/09/08/canadian-plant-breeding-investment/)
+  - Canada has been a global leader in crop production and plant breeding for a long time. But leadership is never permanent.
+
+- **[Açaí Nanofertilizer Boosts Corn and Sorghum Growth](../../items/seedworld/2026/09/https_www.seedworld.com_p_127313.md)**
+  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127313.md) · [원문](https://www.seedworld.com/latam/2026/09/08/acai-nanofertilizer-corn-sorghum-growth/)
+  - Experimental trials found that low doses of a nanofertilizer made from açaí processing waste increased plant growth and root development in short-season corn and sorghum varieties.
+
+- **[SUSTAINCrop medirá la huella ambiental de cultivos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127316.md)**
+  - 2026-09-08 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127316.md) · [원문](https://www.seedworld.com/latam/2026/09/08/sustaincrop-huella-ambiental-cultivos/)
+  - Este proyecto internacional desarrollará una herramienta digital para evaluar el impacto ambiental de cultivos como el maíz, la canola, la soja, la caña de azúcar, el algodón y el girasol en condicio…
+
+- **[Plant Hormones Reveal Crop Disease Resistance Pathway](../../items/seedworld/2026/09/https_www.seedworld.com_p_127234.md)**
+  - 2026-09-08 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127234.md) · [원문](https://www.seedworld.com/europe/2026/09/07/crop-disease-resistance-plant-hormones/)
+  - Technical University of Munich researchers identified an epigenetic mechanism that regulates the trade-off between plant growth and immune defence, a finding that could support the development of res…
+
+- **[AI Crop Breeding Project Targets Stronger Cereals](../../items/seedworld/2026/09/https_www.seedworld.com_p_127279.md)**
+  - 2026-09-08 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127279.md) · [원문](https://www.seedworld.com/us/2026/09/07/ai-crop-breeding-stronger-cereals/)
+  - University of Idaho researchers are developing harvest-integrated sensors and predictive models to help breeders identify wheat, corn and sorghum plants that can better withstand stalk lodging.
+
+- **[Nanofertilizante de açaí impulsa maíz y sorgo](../../items/seedworld/2026/09/https_www.seedworld.com_p_127310.md)**
+  - 2026-09-07 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127310.md) · [원문](https://www.seedworld.com/latam/2026/09/07/nanofertilizante-acai-maiz-sorgo/)
+  - En ensayos experimentales se observó que bajas dosis de un nanofertilizante elaborado a partir de los residuos del procesamiento del açaí incrementaron el crecimiento de las plantas y el desarrollo r…
+
+- **[How Plant ETP Supports Plant Breeding Innovation](../../items/seedworld/2026/09/https_www.seedworld.com_p_127240.md)**
+  - 2026-09-07 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127240.md) · [원문](https://www.seedworld.com/europe/2026/09/07/plant-etp-plant-breeding-innovation/)
+  - From NGT implementation and future EU research funding to COLiBRI and climate resilience, Plant ETP is working to align priorities across Europe’s plant breeding and seed sector Europe does not suffe…
+
 - **[AgroENSO Maps El Niño Impacts on Argentina Crops](../../items/seedworld/2026/09/https_www.seedworld.com_p_127307.md)**
   - 2026-09-06 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127307.md) · [원문](https://www.seedworld.com/latam/2026/09/05/agroenso-el-nino-argentina-crops/)
-  - The free interactive platform uses 35 years of climate and yield data to show how El Niño and La Niña conditions have affected corn, soybean, wheat, barley and sunflower production across Argentina.
+  - AgroENSO is a free platform developed by CONICET and INTA scientists to show how El Niño and La Niña have affected corn, soybeans, wheat, barley and sunflower yields across Argentina.
 
 - **[AgroENSO mide el impacto de El Niño en cultivos argentinos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127304.md)**
   - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127304.md) · [원문](https://www.seedworld.com/latam/2026/09/04/agroenso-impacto-el-nino-cultivos-argentina/)
-  - Esta plataforma interactiva gratuita utiliza 35 años de datos climáticos y de rendimiento para mostrar cómo las condiciones de El Niño y La Niña han afectado la producción de maíz, soja, trigo, cebad…
+  - AgroENSO es una plataforma gratuita desarrollada por científicos del CONICET y del INTA para analizar cómo El Niño y La Niña han afectado el rendimiento de maíz, soja, trigo, cebada y girasol en Arge…
 
 - **[INASE Digital Access Portal Launches September 7](../../items/seedworld/2026/09/https_www.seedworld.com_p_127301.md)**
   - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127301.md) · [원문](https://www.seedworld.com/latam/2026/09/04/inase-digital-access-portal/)
-  - Beginning Sept. 7, users will access payments, seed lot registrations and other INASE services through a single portal using an ARCA Fiscal Key.
+  - INASE digital services in Argentina will move to a single access portal beginning Sept. 7.
 
 - **[Plant Breeding Investment Needs Faster Decisions](../../items/seedworld/2026/09/https_www.seedworld.com_p_127157.md)**
   - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127157.md) · [원문](https://www.seedworld.com/us/2026/09/04/plant-breeding-investment-faster-decisions/)
   - Canada has been a global leader in crop production and plant breeding for a long time. But leadership is never permanent.
 
-- **[CO₂ Fertilisation and Crop Yield Policy Blind Spots](../../items/seedworld/2026/09/https_www.seedworld.com_p_127162.md)**
+- **[What This New Partnership Could Mean for Every Wheat and Barley Farmer](../../items/seedworld/2026/09/https_www.seedworld.com_p_127398.md)**
+  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127398.md) · [원문](https://www.seedworld.com/canada/2026/09/03/wheat-barley-breeding-partnership-canada/)
+  - The CWRC and CBRC have formalized a partnership aimed at building a more innovative, resilient breeding system for Canadian farmers. Two producer-led research coalitions are combining their efforts t…
+
+- **[CO₂ Fertilization and Crop Yield Policy Blind Spots](../../items/seedworld/2026/09/https_www.seedworld.com_p_127162.md)**
   - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127162.md) · [원문](https://www.seedworld.com/us/2026/09/03/co2-fertilisation-crop-yield-policy/)
-  - What satellite data reveal about productivity, plant biology and the blind spots in climate policy. For decades, agricultural productivity has followed a reassuring narrative.
+  - CO₂ fertilisation may be an overlooked factor in crop yield growth, according to recent NBER research using satellite data. Marcel Bruins explores what the findings could mean for plant breeding, pro…
 
 - **[Molecular Switch Helps Crops Handle Heat Stress](../../items/seedworld/2026/09/https_www.seedworld.com_p_127231.md)**
   - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127231.md) · [원문](https://www.seedworld.com/europe/2026/09/03/crop-heat-stress-molecular-switch/)
@@ -301,35 +369,3 @@ source: "seedworld"
 - **[From Students To Scientists | On The Brink: Season 2 – Episode 14](../../items/seedworld/2026/08/https_www.seedworld.com_p_126788.md)**
   - 2026-08-12 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126788.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/12/public-private-plant-breeding-funding-on-the-brink-season-2-episode-14/)
   - Ask Canada's most decorated soybean breeder his favourite part of the job and he doesn't name a variety. He names the students.
-
-- **[The Hard Economics of Climate-Friendly Grains](../../items/seedworld/2026/08/https_www.seedworld.com_p_126872.md)**
-  - 2026-08-12 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126872.md) · [원문](https://www.seedworld.com/us/2026/08/11/climate-friendly-grains-kernza-market/)
-  - Consumers may pay more for climate-friendly bread, but Kernza and other perennial grains still face hurdles in breeding, yield, taste and supply chains. The post The Hard Economics of Climate-Friendl…
-
-- **[Flax Could Hold an Answer to Farming’s Fertilizer Problem](../../items/seedworld/2026/08/https_www.seedworld.com_p_126909.md)**
-  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126909.md) · [원문](https://www.seedworld.com/canada/2026/08/11/nitrogen-efficient-flax-reduce-fertilizer-use/)
-  - The discovery could eventually help breeders create crops that need less fertilizer and cost farmers less to grow The post Flax Could Hold an Answer to Farming’s Fertilizer Problem appeared first on…
-
-- **[RF3 Canola Quality B. juncea Deemed Safe by EFSA](../../items/seedworld/2026/08/https_www.seedworld.com_p_126894.md)**
-  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126894.md) · [원문](https://www.seedworld.com/europe/2026/08/11/rf3-canola-quality-b-juncea-efsa-safe/)
-  - EFSA’s GMO Panel concluded that RF3 Canola Quality B. juncea is as safe and nutritionally equivalent as conventional counterparts.
-
-- **[The Future Belongs to Predictive Breeding](../../items/seedworld/2026/08/https_www.seedworld.com_p_126887.md)**
-  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126887.md) · [원문](https://www.seedworld.com/latam/2026/08/11/predictive-breeding-plant-breeding-future/)
-  - Predictive breeding is changing how breeders design crosses, prioritize evaluations and make decisions. Enid Perez-Lara of Agronomix Software explains why artificial intelligence rewards organization…
-
-- **[Breeding 4.0: Por qué la ia no premia al que compra la herramienta, sino al que construye la base](../../items/seedworld/2026/08/https_www.seedworld.com_p_126884.md)**
-  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126884.md) · [원문](https://www.seedworld.com/latam/2026/08/11/breeding-4-0-ia-datos-mejoramiento-vegetal/)
-  - Breeding 4.0 está transformando el mejoramiento vegetal al integrar inteligencia artificial, selección genómica y datos ambientales. El artículo explica por qué el verdadero valor no está en comprar…
-
-- **[The Way I See It… There’s More Seed in the Farm Bill Than You Think](../../items/seedworld/2026/08/https_www.seedworld.com_p_126881.md)**
-  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126881.md) · [원문](https://www.seedworld.com/us/2026/08/10/farm-bill-seed-research-innovation/)
-  - The latest Farm Bill fight is about much more than SNAP. For the seed industry, research, innovation, technology and the next generation of crops are also waiting on Congress.
-
-- **[How One Seed Plant Upgrade Improved Flax Cleaning — and Much More](../../items/seedworld/2026/08/https_www.seedworld.com_p_126875.md)**
-  - 2026-08-11 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126875.md) · [원문](https://www.seedworld.com/canada/2026/08/10/seed-cleaning-equipment-flax-throughput/)
-  - A Saskatchewan operation upgraded its seed and grain cleaner to boost flax throughput, but the added flexibility is now improving efficiency across multiple crops The post How One Seed Plant Upgrade…
-
-- **[Why CSGA’s New President Says Now is the Time to Get Involved](../../items/seedworld/2026/08/https_www.seedworld.com_p_126865.md)**
-  - 2026-08-10 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126865.md) · [원문](https://www.seedworld.com/canada/2026/08/10/shannon-bieman-canadian-seed-sector/)
-  - Shannon Bieman says a rapidly changing Canadian seed sector presents a big opportunity The post Why CSGA’s New President Says Now is the Time to Get Involved appeared first on Seed World .

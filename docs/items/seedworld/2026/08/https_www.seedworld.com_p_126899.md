@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/13/china-edv-system-first-10-crop
 summary: "China EDV system implementation has begun with MARA publishing the country’s first agricultural plant EDV catalogue. The framework covers 10 crops and includes determination guidelines, crop-specific thresholds and recommended testing"
 attachments: []
 tags: []
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # China EDV System Begins With First 10 Crops
 

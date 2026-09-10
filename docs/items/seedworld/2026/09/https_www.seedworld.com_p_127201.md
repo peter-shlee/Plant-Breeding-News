@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/01/plant-breeding-investment-cana
 summary: "Creating a sustainable environment for public and private plant breeding investment will be essential to delivering the genetics farmers need, says the president of Seeds Canada The post Canada’s Next Crop Varieties Depend on What Happens"
 attachments: []
 tags: []
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # Canada’s Next Crop Varieties Depend on What Happens Now: Curt Baldwin
 

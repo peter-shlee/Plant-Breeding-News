@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/08/25/aafc-indian-head-
 summary: "The closure of the Indian Head Research Farm drew objections from across the sector in January. None of them changed the outcome."
 attachments: []
 tags: []
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # When Action is the Only Option | On The Brink: Season 2 – Episode 16
 

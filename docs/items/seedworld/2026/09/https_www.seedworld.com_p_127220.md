@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/01/eu-ppwr-seed-companies-packagi
 summary: "The EU PPWR now applies to packaging used across the seed sector. Seed companies and exporters need to understand their roles, EPR duties, recyclability rules, recycled content requirements and possible future reuse obligations for seed"
 attachments: []
 tags: []
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # EU PPWR: What Seed Companies Need to Do Now
 

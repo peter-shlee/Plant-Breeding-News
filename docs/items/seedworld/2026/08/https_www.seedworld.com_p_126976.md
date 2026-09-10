@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "phenotyping"
   - "토마토"
-fetched_at: "2026-09-07T08:01:51+09:00"
+fetched_at: "2026-09-11T08:22:16+09:00"
 ---
 # Tomato Gene Could Improve Crop Drought Recovery
 
