@@ -9,7 +9,7 @@ summary: "Genomic prediction can help identify promising plants before breeders 
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:37+09:00"
 ---
 # Can Genomics Speed Up the Journey From Breeder to Farmer?
 

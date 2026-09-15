@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/17/crop-impacts-one-third-farmlan
 summary: "Crop impacts on biodiversity loss and natural carbon storage are highly concentrated, according to new global mapping that links environmental pressure to specific crops, livestock products and regions where targeted action could deliver"
 attachments: []
 tags: []
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:38+09:00"
 ---
 # Crop Impacts Concentrated on One-Third of Farmland
 

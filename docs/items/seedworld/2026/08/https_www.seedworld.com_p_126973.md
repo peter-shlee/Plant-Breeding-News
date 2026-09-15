@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/08/20/gene-discovery-hidden-crop-tra
 summary: "Crop traits for disease resistance, yield and climate resilience may become easier for breeders to access after researchers identified three genes that suppress recombination in chromosome regions where useful genetic variation has often"
 attachments: []
 tags: []
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:37+09:00"
 ---
 # Gene Discovery Could Unlock Hidden Crop Traits
 

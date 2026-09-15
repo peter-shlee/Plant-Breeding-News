@@ -11,6 +11,15 @@ source: "nics"
 
 ## 2026-09
 
+- **[농촌진흥청, 농식품 기능성 연구 이끌 미래 인재 키워](../../items/nics/2026/09/944506.md)**
+  - 2026-09-11 · [읽기](../../items/nics/2026/09/944506.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944506)
+
+- **[농촌진흥청, 제8차 ‘치유농업 포럼’ 개최… 치유음식 산업적 가치와 소비 기반...](../../items/nics/2026/09/944505.md)**
+  - 2026-09-11 · [읽기](../../items/nics/2026/09/944505.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944505)
+
+- **[국산 여름딸기 ‘미하’, 키르기스스탄 현지 사용료 계약 체결](../../items/nics/2026/09/944504.md)**
+  - 2026-09-11 · [읽기](../../items/nics/2026/09/944504.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944504)
+
 - **[우리 쌀 가공식품, 전북 지역 26개 고속도로 휴게소에서 판매 시작](../../items/nics/2026/09/944501.md)**
   - 2026-09-10 · [읽기](../../items/nics/2026/09/944501.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944501)
 
@@ -31,15 +40,3 @@ source: "nics"
 
 - **[지속 가능한 고랭지 배추 농사, 미생물 다양성이 열쇠](../../items/nics/2026/09/944480.md)**
   - 2026-09-03 · [읽기](../../items/nics/2026/09/944480.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944480)
-
-- **[‘도토리 가공부산물’ 기능성 소재로 탈바꿈…산업체 기술이전](../../items/nics/2026/09/944479.md)**
-  - 2026-09-03 · [읽기](../../items/nics/2026/09/944479.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944479)
-
-- **[농촌진흥청, 논 재배 배수기술 및 참깨 기계수확 연시회 열어](../../items/nics/2026/09/944478.md)**
-  - 2026-09-03 · [읽기](../../items/nics/2026/09/944478.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944478)
-
-
-## 2026-08
-
-- **[국산 귀리 하루 70g, 식후 혈당·콜레스테롤 동시 관리](../../items/nics/2026/08/944466.md)**
-  - 2026-08-31 · [읽기](../../items/nics/2026/08/944466.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944466)

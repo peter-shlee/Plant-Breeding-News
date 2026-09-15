@@ -9,7 +9,7 @@ summary: "Advances in genomics are accelerating breeding while raising new quest
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:37+09:00"
 ---
 # Faster Plant Breeding Puts Canada’s Seed System to the Test
 

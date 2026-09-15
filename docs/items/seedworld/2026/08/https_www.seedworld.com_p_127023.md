@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/08/19/canadian-plant-br
 summary: "Dan Wright says there is no master plan for Canadian plant breeding. It is an ecosystem."
 attachments: []
 tags: []
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:37+09:00"
 ---
 # Building an Ecosystem Instead of a Blueprint | On The Brink: Season 2 – Episode 15
 

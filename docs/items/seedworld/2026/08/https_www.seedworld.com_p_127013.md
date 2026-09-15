@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/18/satec-equipment-kleinwort/"
 summary: "SATEC Equipment’s new managing director Robin Kleinwort is carrying forward the company’s customer-first culture while focusing on intentional growth, expanded global partnerships and continued innovation in seed coating, pelleting and"
 attachments: []
 tags: []
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:38+09:00"
 ---
 # Built on Trust, Ready to Grow
 

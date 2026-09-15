@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "gene-editing"
   - "옥수수"
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:37+09:00"
 ---
 # Vylor Corn Roadmap Shows Corteva’s Seed Strategy
 

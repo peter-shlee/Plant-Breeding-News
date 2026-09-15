@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/02/the-economics-of-climate-friendly-
 summary: "Climate-friendly grains such as intermediate wheatgrass may attract consumers willing to pay more for sustainable bread. New Cornell research suggests demand exists, but taste, yield, processing infrastructure and supply chain coordination"
 attachments: []
 tags: []
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:37+09:00"
 ---
 # The Economics of Climate-Friendly Grains
 

@@ -9,7 +9,7 @@ summary: "“Innovation in agriculture depends on Plant Breeders’ Rights.” T
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-09-11T08:22:16+09:00"
+fetched_at: "2026-09-16T08:37:37+09:00"
 ---
 # Plant Varieties, A Heritage to be Protected
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/04/inase-digital-access-portal/"
 summary: "INASE digital services in Argentina will move to a single access portal beginning Sept. 7."
 attachments: []
 tags: []
-fetched_at: "2026-09-11T08:22:15+09:00"
+fetched_at: "2026-09-16T08:37:37+09:00"
 ---
 # INASE Digital Access Portal Launches September 7
 
