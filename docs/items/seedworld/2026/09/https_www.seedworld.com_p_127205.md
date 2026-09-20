@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/01/field-crop-seed-convention-returns
 summary: "The Field Crop Seed Convention will return to Chicago Dec. 7-10, 2026, after three years in Orlando."
 attachments: []
 tags: []
-fetched_at: "2026-09-16T08:37:37+09:00"
+fetched_at: "2026-09-21T08:24:34+09:00"
 ---
 # ASTA Field Crop Seed Convention Returns to Chicago
 

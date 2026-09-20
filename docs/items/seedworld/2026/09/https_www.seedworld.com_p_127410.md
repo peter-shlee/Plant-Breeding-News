@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/11/canadian-seed-innovation-webin
 summary: "Todd Hyra, Mark Keating and Greg Stamp discuss changing customer demands and what they mean for plant breeding, seed retailers and Canadian varieties. Register now The post The Farm Gate is Sending Canada’s Seed Sector a Message appeared"
 attachments: []
 tags: []
-fetched_at: "2026-09-16T08:37:28+09:00"
+fetched_at: "2026-09-21T08:24:34+09:00"
 ---
 # The Farm Gate is Sending Canada’s Seed Sector a Message
 

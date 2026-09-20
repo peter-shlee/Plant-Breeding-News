@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/02/wolfson-foundation-plant-resea
 summary: "The Wolfson Foundation is investing £1.6 million in plant research facilities at the John Innes Centre and The Sainsbury Laboratory. The funding will support LED lighting for a new glasshouse, insectary and horticultural research facility"
 attachments: []
 tags: []
-fetched_at: "2026-09-16T08:37:37+09:00"
+fetched_at: "2026-09-21T08:24:34+09:00"
 ---
 # Wolfson Foundation Funds Plant Research Facilities
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/27/biological-seed-treatments-see
 summary: "Biological seed treatments are becoming a practical option for commercial seed treaters looking to support crop establishment, nutrient use and crop resilience. Product fit depends on viability, crop positioning, storage needs and"
 attachments: []
 tags: []
-fetched_at: "2026-09-16T08:37:37+09:00"
+fetched_at: "2026-09-21T08:24:34+09:00"
 ---
 # Biological Seed Treatments Made Simple
 
