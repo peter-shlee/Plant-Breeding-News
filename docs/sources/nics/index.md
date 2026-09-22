@@ -11,6 +11,18 @@ source: "nics"
 
 ## 2026-09
 
+- **[두뇌 건강 돕는 국산 ‘K-참·들기름’, 프리미엄 시장 공략한다](../../items/nics/2026/09/944527.md)**
+  - 2026-09-21 · [읽기](../../items/nics/2026/09/944527.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944527)
+
+- **[‘수량 많고 가격 부담 적고’ 국산 사료용 옥수수 종자 신청하세요](../../items/nics/2026/09/944526.md)**
+  - 2026-09-21 · [읽기](../../items/nics/2026/09/944526.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944526)
+
+- **[‘국립식량과학원-세계김치연구소’ 협력, 김치산업 세계화 앞당긴다](../../items/nics/2026/09/944525.md)**
+  - 2026-09-21 · [읽기](../../items/nics/2026/09/944525.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944525)
+
+- **[가을 쌀귀리 파종 전, 미리 배수로 정비하세요](../../items/nics/2026/09/944524.md)**
+  - 2026-09-21 · [읽기](../../items/nics/2026/09/944524.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944524)
+
 - **[농촌진흥청, 농식품 기능성 연구 이끌 미래 인재 키워](../../items/nics/2026/09/944506.md)**
   - 2026-09-11 · [읽기](../../items/nics/2026/09/944506.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944506)
 
@@ -28,15 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, ‘무인 예찰 포획 장치(AI트랩)’ 구축 현황 살펴](../../items/nics/2026/09/944499.md)**
   - 2026-09-10 · [읽기](../../items/nics/2026/09/944499.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944499)
-
-- **[봉평 메밀꽃 축제에서 ‘국산 메밀 삼총사’ 만나요](../../items/nics/2026/09/944498.md)**
-  - 2026-09-10 · [읽기](../../items/nics/2026/09/944498.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944498)
-
-- **[농촌진흥청, 콩 생육 후기 병해충 방제 철저 당부](../../items/nics/2026/09/944492.md)**
-  - 2026-09-07 · [읽기](../../items/nics/2026/09/944492.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944492)
-
-- **[수량 많고 품질 좋은 우리 사료맥류 종자 신청하세요](../../items/nics/2026/09/944481.md)**
-  - 2026-09-03 · [읽기](../../items/nics/2026/09/944481.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944481)
-
-- **[지속 가능한 고랭지 배추 농사, 미생물 다양성이 열쇠](../../items/nics/2026/09/944480.md)**
-  - 2026-09-03 · [읽기](../../items/nics/2026/09/944480.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944480)

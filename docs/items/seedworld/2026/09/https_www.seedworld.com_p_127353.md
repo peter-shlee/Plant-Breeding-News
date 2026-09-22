@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/09/09/future-of-canadia
 summary: "Canadian plant breeding is at a tipping point. Shawn Brook says it is time to move from possibility to action."
 attachments: []
 tags: []
-fetched_at: "2026-09-21T08:24:34+09:00"
+fetched_at: "2026-09-23T08:44:29+09:00"
 ---
 # Designed To Thrive | Welcome To On The Brink: Season 3
 

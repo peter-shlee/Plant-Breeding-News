@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/11/prediccion-genomica-ventaja-mej
 summary: "La predicción genómica, el aprendizaje automático y la inteligencia artificial están transformando el mejoramiento vegetal. Para mantenerse competitivos, los mejoradores deben comprender los datos, fortalecer la trazabilidad, colaborar"
 attachments: []
 tags: []
-fetched_at: "2026-09-21T08:24:34+09:00"
+fetched_at: "2026-09-23T08:44:29+09:00"
 ---
 # Los mejoradores que abracen el futuro tendrán la ventaja
 

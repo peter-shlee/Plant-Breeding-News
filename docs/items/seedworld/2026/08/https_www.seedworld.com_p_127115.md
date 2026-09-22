@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/27/ai-sales-garbage-in-garbage-ou
 summary: "AI and sales can create real opportunity, but only when organizations have reliable CRM data, clear sales processes and strong human expertise. Shawn Brook argues that AI will not fix weak systems."
 attachments: []
 tags: []
-fetched_at: "2026-09-21T08:24:34+09:00"
+fetched_at: "2026-09-23T08:44:29+09:00"
 ---
 # AI and Sales: Why Garbage in Still Means Garbage Out
 

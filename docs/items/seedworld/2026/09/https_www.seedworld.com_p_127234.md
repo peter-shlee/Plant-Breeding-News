@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/07/crop-disease-resistance-plant-
 summary: "Technical University of Munich researchers have identified a hormone-controlled mechanism that regulates the trade-off between plant growth and crop disease resistance."
 attachments: []
 tags: []
-fetched_at: "2026-09-21T08:24:34+09:00"
+fetched_at: "2026-09-23T08:44:29+09:00"
 ---
 # Plant Hormones Reveal Crop Disease Resistance Pathway
 

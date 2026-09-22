@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/31/future-seed-certification-cana
 summary: "Shannon Bieman takes on the CSGA presidency as seed certification continues to evolve, bringing her perspective on the people, technology and priorities shaping its future The post Seed Certification Was Built for Trust."
 attachments: []
 tags: []
-fetched_at: "2026-09-21T08:24:34+09:00"
+fetched_at: "2026-09-23T08:44:29+09:00"
 ---
 # Seed Certification Was Built for Trust. It Has to Be Built for Change, Too
 

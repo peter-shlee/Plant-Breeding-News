@@ -11,45 +11,69 @@ source: "seedworld"
 
 ## 2026-09
 
+- **[The Next Soybean Breakthrough May Be Underground](../../items/seedworld/2026/09/https_www.seedworld.com_p_127567.md)**
+  - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127567.md) · [원문](https://www.seedworld.com/europe/2026/09/22/deeper-rooted-soybeans-field-trials/)
+  - Researchers are testing deeper rooted soybeans designed to reach water during drought and store more carbon below ground, but the real test will be whether the traits deliver in farmers’ fields.
+
+- **[What Global Fertilizer Data Could Mean for U.S. Crops](../../items/seedworld/2026/09/https_www.seedworld.com_p_127557.md)**
+  - 2026-09-22 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127557.md) · [원문](https://www.seedworld.com/us/2026/09/22/us-fertilizer-use-crops/)
+  - More than four decades of data highlight opportunities to improve crop yields by addressing nutrient shortages and reducing excessive fertilizer applications. A new global dataset from the University…
+
+- **[How Biotechnology Could Protect the Crops We Depend On](../../items/seedworld/2026/09/https_www.seedworld.com_p_127553.md)**
+  - 2026-09-22 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127553.md) · [원문](https://www.seedworld.com/us/2026/09/22/crop-biotechnology-protect-crops/)
+  - Bacterial banana wilt is threatening one of the world’s most beloved and important fruits. Scientists across the globe are fighting to stop it, and in doing so, they’re showing just how vital modern…
+
+- **[Precision Pollination Could Improve Fruit Crops](../../items/seedworld/2026/09/https_www.seedworld.com_p_127456.md)**
+  - 2026-09-22 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127456.md) · [원문](https://www.seedworld.com/europe/2026/09/22/precision-pollination-fruit-crops/)
+  - Researchers will use in-field sensors and artificial intelligence to connect pollinator activity with fruit set, marketable yield and quality. Researchers are developing a precision monitoring system…
+
+- **[SCN Continues to Overcome Widely Used Soybean Resistance](../../items/seedworld/2026/09/https_www.seedworld.com_p_127555.md)**
+  - 2026-09-21 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127555.md) · [원문](https://www.seedworld.com/us/2026/09/21/scn-resistance-soybean-pi-88788/)
+  - An Iowa State University analysis highlights the need to diversify resistance sources to protect soybean yields. Soybean cyst nematode (SCN) is reproducing more successfully on PI 88788, the most wid…
+
+- **[Seed Size Signal Could Support Bigger Crop Seeds](../../items/seedworld/2026/09/https_www.seedworld.com_p_127454.md)**
+  - 2026-09-21 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127454.md) · [원문](https://www.seedworld.com/europe/2026/09/21/seed-size-signal-bigger-crop-seeds/)
+  - A newly identified peptide signal coordinates communication between the embryo and endosperm, and boosting it has already produced larger seeds in a crop proof of concept.
+
 - **[A Farmer’s Most Important Assets Don’t Appear on a Yield Map](../../items/seedworld/2026/09/https_www.seedworld.com_p_127529.md)**
   - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127529.md) · [원문](https://www.seedworld.com/canada/2026/09/17/future-canadian-agriculture-soil-health-plant-breeding/)
-  - Living soils, the best genetics and capable plant scientists quietly determine the future of Canadian crop production. We’re very good at measuring what comes out the other end.
+  - Living soils, the best genetics and capable plant scientists quietly determine the future of Canadian crop production The post A Farmer’s Most Important Assets Don’t Appear on a Yield Map appeared fi…
 
 - **[The Case for One Digital Platform for Seed Retailers and Farmers](../../items/seedworld/2026/09/https_www.seedworld.com_p_127518.md)**
   - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127518.md) · [원문](https://www.seedworld.com/canada/2026/09/17/the-case-for-one-digital-platform-for-seed-retailers-and-farmers/)
-  - Canada’s seed industry has spent two decades building stewardship agreements, variety use agreements and royalty programs to support innovation. Now it’s asking a different question: what if managing…
+  - Canada has spent two decades building stewardship agreements, variety use agreements and royalty programs. What if managing them was as seamless The post The Case for One Digital Platform for Seed Re…
 
 - **[Could Research Cuts Push Canada’s Young Plant Breeders Elsewhere?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127511.md)**
   - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127511.md) · [원문](https://www.seedworld.com/canada/2026/09/17/future-plant-breeding-canada-ben-erickson/)
-  - With public agricultural research under pressure, emerging scientist Ben Erickson explains what Canada must do to keep young plant breeders—and their expertise—at home.
+  - With public research under pressure, emerging scientist Ben Erickson explains what Canada must do to keep young plant breeders at home The post Could Research Cuts Push Canada’s Young Plant Breeders…
 
 - **[Crop Side Streams Could Become Consumer Foods](../../items/seedworld/2026/09/https_www.seedworld.com_p_127451.md)**
   - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127451.md) · [원문](https://www.seedworld.com/europe/2026/09/17/crop-side-streams-consumer-foods/)
-  - A new €4 million research programme will explore how rapeseed, legumes and potato side streams can be transformed into ingredients people actually want to eat. Wageningen researchers are leading a si…
+  - Crop side streams from rapeseed, legumes and potatoes could become new foods for human consumption through the VASCO research project. Wageningen researchers will explore protein extraction, fermenta…
 
 - **[Embrapa Outlines Measures for Crop Climate Risks](../../items/seedworld/2026/09/https_www.seedworld.com_p_127338.md)**
   - 2026-09-17 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127338.md) · [원문](https://www.seedworld.com/latam/2026/09/17/embrapa-crop-climate-risks/)
-  - Developed in response to El Niño conditions expected during the 2026-27 growing season, the recommendations address risks including drought, excessive rainfall, heat, storms, frost and fire.
+  - Embrapa has outlined 163 measures to help Brazilian crop producers manage climate risks including drought, excessive rainfall, heat, storms, frost and fire. The recommendations were developed in resp…
 
 - **[Seed Sector 2045: The Future Seed Sector May Be More Layered Than Larger](../../items/seedworld/2026/09/https_www.seedworld.com_p_127381.md)**
   - 2026-09-17 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127381.md) · [원문](https://www.seedworld.com/europe/2026/09/17/seed-sector-2045-layered-larger/)
-  - How consolidation, specialist breeders, start-ups, public-private partnerships and technology platforms may change the future seed sector. For many years, discussions about the future of the seed sec…
+  - The seed sector of 2045 may be shaped less by size alone and more by layered innovation networks. Consolidation, specialist breeders, start-ups, public-private partnerships, IP frameworks and technol…
 
 - **[What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 2](../../items/seedworld/2026/09/https_www.seedworld.com_p_127462.md)**
   - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127462.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/16/wheat-pete-wheat-breeding-on-the-brink-s3-e2/)
-  - Wheat Pete on Wheat Breeding and Canadian Agriculture “We have always done it this way.” For Wheat Pete, these are the most dangerous words in agriculture. Peter Johnson, better known as Wheat Pete,…
+  - Wheat Pete (Peter Johnson) explores the potential of wheat breeding, the lessons growers can learn through Great Lakes YEN, and why Canadian agriculture moves forward when we’re willing to try new th…
 
 - **[AI in Agriculture Brief Highlights Crop Production](../../items/seedworld/2026/09/https_www.seedworld.com_p_127437.md)**
   - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127437.md) · [원문](https://www.seedworld.com/us/2026/09/16/ai-agriculture-crop-production/)
-  - The report highlights applications in seed selection, autonomous weed control and precision agriculture while calling for stronger federal support for rural infrastructure, research and workforce dev…
+  - AI in agriculture is moving from research into commercial crop production, according to a new CAST policy brief. The report highlights applications in seed selection, autonomous weed control and prec…
 
 - **[Embrapa presenta 163 medidas ante riesgos climáticos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127334.md)**
   - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127334.md) · [원문](https://www.seedworld.com/latam/2026/09/16/embrapa-medidas-riesgos-climaticos/)
-  - Desarrolladas en respuesta a las condiciones de El Niño previstas para la temporada agrícola 2026-27, las recomendaciones abordan riesgos como la sequía, las lluvias excesivas, el calor, las tormenta…
+  - Embrapa presentó una nota técnica con 163 medidas para reducir pérdidas agrícolas vinculadas a riesgos climáticos en Brasil. Las recomendaciones abordan sequía, lluvias excesivas, calor, tormentas, h…
 
 - **[18% More Maize, 27% Less Nitrogen Loss?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127448.md)**
   - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127448.md) · [원문](https://www.seedworld.com/europe/2026/09/16/ge-maize-yields-nitrogen-loss/)
-  - Researchers have mapped the genetics behind higher yielding, resource efficient maize and estimate substantial global gains if the best trait combinations can reach farmers at scale.
+  - G&E maize varieties could help increase global maize production while reducing reactive nitrogen losses, according to new research. The study maps priority genomic regions and highlights the need to…
 
 - **[Construidos sobre la confianza, listos para crecer](../../items/seedworld/2026/09/https_www.seedworld.com_p_127469.md)**
   - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127469.md) · [원문](https://www.seedworld.com/latam/2026/09/15/construidos-sobre-la-confianza-listos-para-crecer/)

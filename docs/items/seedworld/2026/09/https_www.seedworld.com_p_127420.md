@@ -9,7 +9,7 @@ summary: "Genomic prediction, machine learning and artificial intelligence are r
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-09-21T08:24:34+09:00"
+fetched_at: "2026-09-23T08:44:29+09:00"
 ---
 # Breeders Who Embrace the Future Will Have the Edge
 

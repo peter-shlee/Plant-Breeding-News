@@ -9,7 +9,7 @@ summary: "Sunshine tomato, a precision-bred crop enriched with pro-vitamin D3, h
 attachments: []
 tags:
   - "토마토"
-fetched_at: "2026-09-21T08:24:34+09:00"
+fetched_at: "2026-09-23T08:44:29+09:00"
 ---
 # One Tomato. Two Eggs’ Worth of Vitamin D?
 
