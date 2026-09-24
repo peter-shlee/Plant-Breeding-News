@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/10/alfalfa-carbono-suelo-sistemas-
 summary: "La alfalfa podría ayudar a mejorar el almacenamiento de carbono en suelos semiáridos de Argentina. Investigaciones del INTA San Luis revelaron que los sistemas con este cultivo perenne acumulan un 25 % más de carbono orgánico que la"
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # Alfalfa aumenta carbono del suelo en sistemas semiáridos
 

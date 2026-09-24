@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/03/co2-fertilisation-crop-yield-polic
 summary: "CO₂ fertilisation may be an overlooked factor in crop yield growth, according to recent NBER research using satellite data. Marcel Bruins explores what the findings could mean for plant breeding, productivity modelling and climate policy."
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # CO₂ Fertilization and Crop Yield Policy Blind Spots
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/14/kentucky-rye-could-create-new-mark
 summary: "Kentucky rye research could help farmers turn a cover crop into a cash crop. University of Kentucky researchers are developing open-pollinated winter rye varieties adapted to local growing conditions and potential seed, grain, baking,"
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # Kentucky Rye Could Create New Markets for Farmers
 

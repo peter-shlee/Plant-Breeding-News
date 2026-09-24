@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/08/31/ai-lentil-breeding-luke-dojack
 summary: "A University of Saskatchewan PhD student is combining field experience, genetics and AI to build faster, more practical tools for lentil breeding The post Why the New Plant Breeder is Part Geneticist and Part Data Scientist appeared first"
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # Why the New Plant Breeder is Part Geneticist and Part Data Scientist
 

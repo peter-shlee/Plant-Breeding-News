@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-09-23 08:47 (KST)**  
-- 커버리지(최근 섹션): **2026-09-16 ~ 2026-09-23** (최근 7일)
+- 마지막 업데이트: **2026-09-25 08:58 (KST)**  
+- 커버리지(최근 섹션): **2026-09-18 ~ 2026-09-25** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 
 <a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-09-16~2026-09-23)
+## 30초 주간 브리핑 (2026-09-18~2026-09-25)
 
-> 기후 위기 대응을 위한 작물 육종 혁신과 스마트 농업 기술의 현장 적용이 가속화되고 있습니다.
+> 식물 육종의 미래를 위한 기술 혁신과 현장 중심의 정책적 지원이 가속화되고 있습니다.
 
 ### 1) 정책/규제
 
-- 농촌진흥청이 스마트농업 기술의 체계적인 발전을 위해 기술심의회를 공식 출범했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813075&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 브라질 농업연구청(Embrapa)이 엘니뇨 등 기후 변화에 따른 작물 재배 위험 관리를 위해 163개 대응 지침을 발표했습니다. ([원문](https://www.seedworld.com/latam/2026/09/17/embrapa-crop-climate-risks/))
+- 유럽연합이 550만 유로를 투입해 수입 단백질 사료를 대체할 자국산 단백질 작물 생산 및 공급망 강화 프로젝트를 시작합니다. ([원문](https://www.seedworld.com/europe/2026/09/23/european-protein-crops-livestock-feed/))
+- 농촌진흥청이 스마트농업 기술의 체계적인 도입과 확산을 위해 스마트농업 기술심의회를 새롭게 출범했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813075&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 ### 2) 연구/기술
 
-- 솔크 연구소는 가뭄 저항성과 탄소 저장 능력을 높인 심근성 대두 품종의 현장 시험을 진행 중입니다. ([원문](https://www.seedworld.com/europe/2026/09/22/deeper-rooted-soybeans-field-trials/))
-- 연구진이 작물의 배아와 배유 간 분자 신호 체계를 규명해 종자 크기를 키울 수 있는 새로운 육종 가능성을 확인했습니다. ([원문](https://www.seedworld.com/europe/2026/09/21/seed-size-signal-bigger-crop-seeds/))
+- UC 데이비스 연구진이 유전자 편집을 통해 종자의 발아 품질을 개선하고 다양한 환경에서 초기 생육을 강화하는 연구를 진행 중입니다. ([원문](https://www.seedworld.com/canada/2026/09/24/reagan-reed-gene-editing-better-seeds/))
+- 종자 발달 과정에서 배아와 배유 간의 통신을 조절하는 펩타이드 신호를 발견하여, 이를 활용한 작물 종자 크기 확대 가능성을 확인했습니다. ([원문](https://www.seedworld.com/europe/2026/09/21/seed-size-signal-bigger-crop-seeds/))
 
 ### 3) 유통/시장/현장
 
-- 아이오와 주립대 분석 결과, 기존 대두 낭선충 저항성 품종의 효과가 감소하고 있어 새로운 저항성원 확보가 시급해졌습니다. ([원문](https://www.seedworld.com/us/2026/09/21/scn-resistance-soybean-pi-88788/))
-- 국산 참기름과 들기름이 두뇌 건강 효능을 앞세워 프리미엄 시장 점유율 확대를 추진합니다. ([원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944527))
+- 국립식량과학원이 수량이 많고 경제성이 뛰어난 국산 사료용 옥수수 종자의 보급을 위해 농가 대상 신청을 접수합니다. ([원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944526))
+- 농촌진흥청이 생산 및 유통 현장의 의견을 수렴하여 참외 품질 선별 기술을 고도화하고 현장 적용을 추진합니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813072&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -47,48 +47,52 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
-- **[국산 포도 신품종 재배 현장 찾아 수출 기반 확대 모색](items/nihhs/2026/09/100000813029.md)**
-  - 2026-09-17 · `nihhs` · [읽기](items/nihhs/2026/09/100000813029.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813029&mc=MN0000000136)
+- **[Can Cabbage Genetics Help Breeders Develop Better Canola Hybrids?](items/seedworld/2026/09/https_www.seedworld.com_p_127566.md)**
+  - 2026-09-23 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127566.md) · [원문](https://www.seedworld.com/canada/2026/09/23/anubhav-tripathi-crop-breeding/)
+  - University of Alberta student Anubhav Tripathi is studying whether genetic material from Brassica oleracea influences hybrid vigour and seed yield. When Anubhav Tripathi began studying drought tolera…
 
 - **[How Biotechnology Could Protect the Crops We Depend On](items/seedworld/2026/09/https_www.seedworld.com_p_127553.md)**
   - 2026-09-22 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127553.md) · [원문](https://www.seedworld.com/us/2026/09/22/crop-biotechnology-protect-crops/)
-  - Bacterial banana wilt is threatening one of the world’s most beloved and important fruits. Scientists across the globe are fighting to stop it, and in doing so, they’re showing just how vital modern…
+  - Crop biotechnology could help protect essential food crops from disease, pests and climate stress. Efforts to combat Banana Xanthomonas Wilt show how genetic engineering and genome editing may help s…
+
+- **[The Next Great Crop May Begin as an Uncertain Bet](items/seedworld/2026/09/https_www.seedworld.com_p_127608.md)**
+  - 2026-09-25 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127608.md) · [원문](https://www.seedworld.com/canada/2026/09/24/farming-future-uncertainty/)
+  - Breeders, researchers and farmers have to make decisions years before they know which ideas will succeed. A farmer can’t plant potential.
+
+- **[Can Gene Editing Give Seeds a Stronger Start?](items/seedworld/2026/09/https_www.seedworld.com_p_127602.md)**
+  - 2026-09-25 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127602.md) · [원문](https://www.seedworld.com/canada/2026/09/24/reagan-reed-gene-editing-better-seeds/)
+  - At UC Davis, Reagan Reed is testing how genes work together to influence germination and seed quality. Reagan Reed has a way of describing his research that might make a plant breeder pause.
+
+- **[What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 3](items/seedworld/2026/09/https_www.seedworld.com_p_127560.md)**
+  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127560.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/23/winter-wheat-breeding-quebec-on-the-brink-s3-e3/)
+  - Why Winter Wheat Breeding in Quebec Needs Long-Term Investment Plant breeders make decisions today that farmers may not see in the field for another five to 10 years. For Michel McElroy, a plant bree…
 
 - **[The Next Soybean Breakthrough May Be Underground](items/seedworld/2026/09/https_www.seedworld.com_p_127567.md)**
   - 2026-09-23 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127567.md) · [원문](https://www.seedworld.com/europe/2026/09/22/deeper-rooted-soybeans-field-trials/)
-  - Researchers are testing deeper rooted soybeans designed to reach water during drought and store more carbon below ground, but the real test will be whether the traits deliver in farmers’ fields.
-
-- **[Seed Size Signal Could Support Bigger Crop Seeds](items/seedworld/2026/09/https_www.seedworld.com_p_127454.md)**
-  - 2026-09-21 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127454.md) · [원문](https://www.seedworld.com/europe/2026/09/21/seed-size-signal-bigger-crop-seeds/)
-  - A newly identified peptide signal coordinates communication between the embryo and endosperm, and boosting it has already produced larger seeds in a crop proof of concept.
-
-- **[Embrapa Outlines Measures for Crop Climate Risks](items/seedworld/2026/09/https_www.seedworld.com_p_127338.md)**
-  - 2026-09-17 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127338.md) · [원문](https://www.seedworld.com/latam/2026/09/17/embrapa-crop-climate-risks/)
-  - Embrapa has outlined 163 measures to help Brazilian crop producers manage climate risks including drought, excessive rainfall, heat, storms, frost and fire. The recommendations were developed in resp…
-
-- **[18% More Maize, 27% Less Nitrogen Loss?](items/seedworld/2026/09/https_www.seedworld.com_p_127448.md)**
-  - 2026-09-16 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127448.md) · [원문](https://www.seedworld.com/europe/2026/09/16/ge-maize-yields-nitrogen-loss/)
-  - G&E maize varieties could help increase global maize production while reducing reactive nitrogen losses, according to new research. The study maps priority genomic regions and highlights the need to…
+  - Deeper-rooted soybeans are being tested to determine whether they can improve drought resilience and store more carbon underground. Field trials will also examine yields, nutrient capture and the pot…
 
 - **[‘수량 많고 가격 부담 적고’ 국산 사료용 옥수수 종자 신청하세요](items/nics/2026/09/944526.md)**
   - 2026-09-21 · `nics` · [읽기](items/nics/2026/09/944526.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944526)
 
-- **[첫 국산 홍차 품종 ‘홍설’ 등 보급 확대 … 차(茶) 시장 활기 불어넣어](items/rda/2026/09/100000813043.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813043.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813043&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Why Is Europe Still Importing So Much of Its Livestock Protein?](items/seedworld/2026/09/https_www.seedworld.com_p_127570.md)**
+  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127570.md) · [원문](https://www.seedworld.com/europe/2026/09/23/european-protein-crops-livestock-feed/)
+  - A new €5.5 million Horizon Europe project aims to strengthen farm resilience by expanding home grown protein crops and building viable local routes from field to feed. A new €5.5 million research pro…
 
-- **[‘수량 많고 가격 부담 적고’ 국산 사료용 옥수수 종자 신청하세요](items/rda/2026/09/100000813042.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813042.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813042&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[Albaugh Seed Treatments: Right from the Start.](items/seedworld/2026/09/https_www.seedworld.com_p_127594.md)**
+  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127594.md) · [원문](https://www.seedworld.com/us/2026/09/23/albaugh-seed-treatments-right-from-the-start/)
+  - When Iowa farmer Dennis Albaugh founded the company in 1979, it was more than a business venture. It was a response to a challenge he knew firsthand.
 
-- **[첫 국산 홍차 품종 ‘홍설’ 등 보급 확대 … 차(茶) 시장 활기 불어넣어](items/nihhs/2026/09/100000813043.md)**
-  - 2026-09-17 · `nihhs` · [읽기](items/nihhs/2026/09/100000813043.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813043&mc=MN0000000136)
+- **[How Saskatchewan Can Grow Canada’s Bioeconomy](items/seedworld/2026/09/https_www.seedworld.com_p_127582.md)**
+  - 2026-09-23 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127582.md) · [원문](https://www.seedworld.com/canada/2026/09/23/canada-new-crops-new-markets/)
+  - Darcy Pawlik sees a way to connect farmers and researchers with the investment, expertise and customers needed to commercialize new ideas. One of the great strengths is our ability to produce high-qu…
 
 - **[What Global Fertilizer Data Could Mean for U.S. Crops](items/seedworld/2026/09/https_www.seedworld.com_p_127557.md)**
   - 2026-09-22 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127557.md) · [원문](https://www.seedworld.com/us/2026/09/22/us-fertilizer-use-crops/)
-  - More than four decades of data highlight opportunities to improve crop yields by addressing nutrient shortages and reducing excessive fertilizer applications. A new global dataset from the University…
+  - A new global fertilizer dataset covering 156 crops provides a detailed look at how nutrient applications have changed since 1980. For U.S.
 
 - **[Precision Pollination Could Improve Fruit Crops](items/seedworld/2026/09/https_www.seedworld.com_p_127456.md)**
   - 2026-09-22 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127456.md) · [원문](https://www.seedworld.com/europe/2026/09/22/precision-pollination-fruit-crops/)
-  - Researchers will use in-field sensors and artificial intelligence to connect pollinator activity with fruit set, marketable yield and quality. Researchers are developing a precision monitoring system…
+  - Precision pollination research led by the James Hutton Institute and AgriSound will use in-field sensors and artificial intelligence to monitor pollinator activity across fruit crops.
 
 
 <a id="news-feed"></a>
@@ -97,29 +101,57 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
+- **[The Next Great Crop May Begin as an Uncertain Bet](items/seedworld/2026/09/https_www.seedworld.com_p_127608.md)**
+  - 2026-09-25 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127608.md) · [원문](https://www.seedworld.com/canada/2026/09/24/farming-future-uncertainty/)
+  - Breeders, researchers and farmers have to make decisions years before they know which ideas will succeed. A farmer can’t plant potential.
+
+- **[Can Gene Editing Give Seeds a Stronger Start?](items/seedworld/2026/09/https_www.seedworld.com_p_127602.md)**
+  - 2026-09-25 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127602.md) · [원문](https://www.seedworld.com/canada/2026/09/24/reagan-reed-gene-editing-better-seeds/)
+  - At UC Davis, Reagan Reed is testing how genes work together to influence germination and seed quality. Reagan Reed has a way of describing his research that might make a plant breeder pause.
+
+- **[Why Is Europe Still Importing So Much of Its Livestock Protein?](items/seedworld/2026/09/https_www.seedworld.com_p_127570.md)**
+  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127570.md) · [원문](https://www.seedworld.com/europe/2026/09/23/european-protein-crops-livestock-feed/)
+  - A new €5.5 million Horizon Europe project aims to strengthen farm resilience by expanding home grown protein crops and building viable local routes from field to feed. A new €5.5 million research pro…
+
+- **[Albaugh Seed Treatments: Right from the Start.](items/seedworld/2026/09/https_www.seedworld.com_p_127594.md)**
+  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127594.md) · [원문](https://www.seedworld.com/us/2026/09/23/albaugh-seed-treatments-right-from-the-start/)
+  - When Iowa farmer Dennis Albaugh founded the company in 1979, it was more than a business venture. It was a response to a challenge he knew firsthand.
+
+- **[What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 3](items/seedworld/2026/09/https_www.seedworld.com_p_127560.md)**
+  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127560.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/23/winter-wheat-breeding-quebec-on-the-brink-s3-e3/)
+  - Why Winter Wheat Breeding in Quebec Needs Long-Term Investment Plant breeders make decisions today that farmers may not see in the field for another five to 10 years. For Michel McElroy, a plant bree…
+
+- **[How Saskatchewan Can Grow Canada’s Bioeconomy](items/seedworld/2026/09/https_www.seedworld.com_p_127582.md)**
+  - 2026-09-23 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127582.md) · [원문](https://www.seedworld.com/canada/2026/09/23/canada-new-crops-new-markets/)
+  - Darcy Pawlik sees a way to connect farmers and researchers with the investment, expertise and customers needed to commercialize new ideas. One of the great strengths is our ability to produce high-qu…
+
+- **[Can Cabbage Genetics Help Breeders Develop Better Canola Hybrids?](items/seedworld/2026/09/https_www.seedworld.com_p_127566.md)**
+  - 2026-09-23 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127566.md) · [원문](https://www.seedworld.com/canada/2026/09/23/anubhav-tripathi-crop-breeding/)
+  - University of Alberta student Anubhav Tripathi is studying whether genetic material from Brassica oleracea influences hybrid vigour and seed yield. When Anubhav Tripathi began studying drought tolera…
+
 - **[The Next Soybean Breakthrough May Be Underground](items/seedworld/2026/09/https_www.seedworld.com_p_127567.md)**
   - 2026-09-23 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127567.md) · [원문](https://www.seedworld.com/europe/2026/09/22/deeper-rooted-soybeans-field-trials/)
-  - Researchers are testing deeper rooted soybeans designed to reach water during drought and store more carbon below ground, but the real test will be whether the traits deliver in farmers’ fields.
+  - Deeper-rooted soybeans are being tested to determine whether they can improve drought resilience and store more carbon underground. Field trials will also examine yields, nutrient capture and the pot…
 
 - **[What Global Fertilizer Data Could Mean for U.S. Crops](items/seedworld/2026/09/https_www.seedworld.com_p_127557.md)**
   - 2026-09-22 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127557.md) · [원문](https://www.seedworld.com/us/2026/09/22/us-fertilizer-use-crops/)
-  - More than four decades of data highlight opportunities to improve crop yields by addressing nutrient shortages and reducing excessive fertilizer applications. A new global dataset from the University…
+  - A new global fertilizer dataset covering 156 crops provides a detailed look at how nutrient applications have changed since 1980. For U.S.
 
 - **[How Biotechnology Could Protect the Crops We Depend On](items/seedworld/2026/09/https_www.seedworld.com_p_127553.md)**
   - 2026-09-22 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127553.md) · [원문](https://www.seedworld.com/us/2026/09/22/crop-biotechnology-protect-crops/)
-  - Bacterial banana wilt is threatening one of the world’s most beloved and important fruits. Scientists across the globe are fighting to stop it, and in doing so, they’re showing just how vital modern…
+  - Crop biotechnology could help protect essential food crops from disease, pests and climate stress. Efforts to combat Banana Xanthomonas Wilt show how genetic engineering and genome editing may help s…
 
 - **[Precision Pollination Could Improve Fruit Crops](items/seedworld/2026/09/https_www.seedworld.com_p_127456.md)**
   - 2026-09-22 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127456.md) · [원문](https://www.seedworld.com/europe/2026/09/22/precision-pollination-fruit-crops/)
-  - Researchers will use in-field sensors and artificial intelligence to connect pollinator activity with fruit set, marketable yield and quality. Researchers are developing a precision monitoring system…
+  - Precision pollination research led by the James Hutton Institute and AgriSound will use in-field sensors and artificial intelligence to monitor pollinator activity across fruit crops.
 
 - **[SCN Continues to Overcome Widely Used Soybean Resistance](items/seedworld/2026/09/https_www.seedworld.com_p_127555.md)**
   - 2026-09-21 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127555.md) · [원문](https://www.seedworld.com/us/2026/09/21/scn-resistance-soybean-pi-88788/)
-  - An Iowa State University analysis highlights the need to diversify resistance sources to protect soybean yields. Soybean cyst nematode (SCN) is reproducing more successfully on PI 88788, the most wid…
+  - SCN resistance from PI 88788 is becoming less effective as soybean cyst nematode populations adapt, according to an Iowa State University analysis. Researchers say diversifying resistance sources and…
 
 - **[Seed Size Signal Could Support Bigger Crop Seeds](items/seedworld/2026/09/https_www.seedworld.com_p_127454.md)**
   - 2026-09-21 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127454.md) · [원문](https://www.seedworld.com/europe/2026/09/21/seed-size-signal-bigger-crop-seeds/)
-  - A newly identified peptide signal coordinates communication between the embryo and endosperm, and boosting it has already produced larger seeds in a crop proof of concept.
+  - Seed size research has identified a peptide signal that helps coordinate communication between the embryo and endosperm during seed development. Early crop proof-of-concept work suggests boosting the…
 
 - **[두뇌 건강 돕는 국산 ‘K-참·들기름’, 프리미엄 시장 공략한다](items/nics/2026/09/944527.md)**
   - 2026-09-21 · `nics` · [읽기](items/nics/2026/09/944527.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944527)
@@ -154,51 +186,6 @@ title: "식물 육종 뉴스"
 - **[명절 전 요리 3선 소개, ‘버섯’으로 더 가볍고 맛있게](items/nihhs/2026/09/100000813073.md)**
   - 2026-09-20 · `nihhs` · [읽기](items/nihhs/2026/09/100000813073.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813073&mc=MN0000000136)
 
-- **[A Farmer’s Most Important Assets Don’t Appear on a Yield Map](items/seedworld/2026/09/https_www.seedworld.com_p_127529.md)**
-  - 2026-09-18 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127529.md) · [원문](https://www.seedworld.com/canada/2026/09/17/future-canadian-agriculture-soil-health-plant-breeding/)
-  - Living soils, the best genetics and capable plant scientists quietly determine the future of Canadian crop production The post A Farmer’s Most Important Assets Don’t Appear on a Yield Map appeared fi…
-
-- **[The Case for One Digital Platform for Seed Retailers and Farmers](items/seedworld/2026/09/https_www.seedworld.com_p_127518.md)**
-  - 2026-09-18 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127518.md) · [원문](https://www.seedworld.com/canada/2026/09/17/the-case-for-one-digital-platform-for-seed-retailers-and-farmers/)
-  - Canada has spent two decades building stewardship agreements, variety use agreements and royalty programs. What if managing them was as seamless The post The Case for One Digital Platform for Seed Re…
-
-- **[Could Research Cuts Push Canada’s Young Plant Breeders Elsewhere?](items/seedworld/2026/09/https_www.seedworld.com_p_127511.md)**
-  - 2026-09-18 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127511.md) · [원문](https://www.seedworld.com/canada/2026/09/17/future-plant-breeding-canada-ben-erickson/)
-  - With public research under pressure, emerging scientist Ben Erickson explains what Canada must do to keep young plant breeders at home The post Could Research Cuts Push Canada’s Young Plant Breeders…
-
-- **[Crop Side Streams Could Become Consumer Foods](items/seedworld/2026/09/https_www.seedworld.com_p_127451.md)**
-  - 2026-09-18 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127451.md) · [원문](https://www.seedworld.com/europe/2026/09/17/crop-side-streams-consumer-foods/)
-  - Crop side streams from rapeseed, legumes and potatoes could become new foods for human consumption through the VASCO research project. Wageningen researchers will explore protein extraction, fermenta…
-
-- **[Embrapa Outlines Measures for Crop Climate Risks](items/seedworld/2026/09/https_www.seedworld.com_p_127338.md)**
-  - 2026-09-17 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127338.md) · [원문](https://www.seedworld.com/latam/2026/09/17/embrapa-crop-climate-risks/)
-  - Embrapa has outlined 163 measures to help Brazilian crop producers manage climate risks including drought, excessive rainfall, heat, storms, frost and fire. The recommendations were developed in resp…
-
-- **[Seed Sector 2045: The Future Seed Sector May Be More Layered Than Larger](items/seedworld/2026/09/https_www.seedworld.com_p_127381.md)**
-  - 2026-09-17 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127381.md) · [원문](https://www.seedworld.com/europe/2026/09/17/seed-sector-2045-layered-larger/)
-  - The seed sector of 2045 may be shaped less by size alone and more by layered innovation networks. Consolidation, specialist breeders, start-ups, public-private partnerships, IP frameworks and technol…
-
-- **[“농업기계 사고 상황, 119로 직접 전달” 신속한 구조 대응체계 구축](items/rda/2026/09/100000813058.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813058.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813058&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 적극 행정 실천 직원 15명 선정·특별 포상](items/rda/2026/09/100000813056.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813056.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813056&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 미래 농업 이끌 인재 양성…학계와 머리 맞대](items/rda/2026/09/100000813054.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813054.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813054&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[분야별 유기적 협력으로, 농업 인공지능 플랫폼 구축 앞당긴다](items/rda/2026/09/100000813053.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813053.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813053&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“대량 양파도 뚝딱” 맞춤형 수확후관리로 품질‧저장성 향상](items/rda/2026/09/100000813052.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813052.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813052&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[두뇌 건강 돕는 국산 ‘K-참·들기름’, 프리미엄 시장 공략한다](items/rda/2026/09/100000813051.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813051.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813051&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[케이지별 산란량 한눈에…인공지능 정밀관리 기술 현장 점검](items/rda/2026/09/100000813047.md)**
-  - 2026-09-17 · `rda` · [읽기](items/rda/2026/09/100000813047.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813047&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
 
 <a id="podcast"></a>
 ## AI 팟캐스트
@@ -213,6 +200,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-09-25](weekly/2026-09-25.md)
 - [2026-09-23](weekly/2026-09-23.md)
 - [2026-09-21](weekly/2026-09-21.md)
 - [2026-09-16](weekly/2026-09-16.md)

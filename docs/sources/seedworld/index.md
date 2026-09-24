@@ -11,29 +11,57 @@ source: "seedworld"
 
 ## 2026-09
 
+- **[The Next Great Crop May Begin as an Uncertain Bet](../../items/seedworld/2026/09/https_www.seedworld.com_p_127608.md)**
+  - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127608.md) · [원문](https://www.seedworld.com/canada/2026/09/24/farming-future-uncertainty/)
+  - Breeders, researchers and farmers have to make decisions years before they know which ideas will succeed. A farmer can’t plant potential.
+
+- **[Can Gene Editing Give Seeds a Stronger Start?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127602.md)**
+  - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127602.md) · [원문](https://www.seedworld.com/canada/2026/09/24/reagan-reed-gene-editing-better-seeds/)
+  - At UC Davis, Reagan Reed is testing how genes work together to influence germination and seed quality. Reagan Reed has a way of describing his research that might make a plant breeder pause.
+
+- **[Why Is Europe Still Importing So Much of Its Livestock Protein?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127570.md)**
+  - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127570.md) · [원문](https://www.seedworld.com/europe/2026/09/23/european-protein-crops-livestock-feed/)
+  - A new €5.5 million Horizon Europe project aims to strengthen farm resilience by expanding home grown protein crops and building viable local routes from field to feed. A new €5.5 million research pro…
+
+- **[Albaugh Seed Treatments: Right from the Start.](../../items/seedworld/2026/09/https_www.seedworld.com_p_127594.md)**
+  - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127594.md) · [원문](https://www.seedworld.com/us/2026/09/23/albaugh-seed-treatments-right-from-the-start/)
+  - When Iowa farmer Dennis Albaugh founded the company in 1979, it was more than a business venture. It was a response to a challenge he knew firsthand.
+
+- **[What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 3](../../items/seedworld/2026/09/https_www.seedworld.com_p_127560.md)**
+  - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127560.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/23/winter-wheat-breeding-quebec-on-the-brink-s3-e3/)
+  - Why Winter Wheat Breeding in Quebec Needs Long-Term Investment Plant breeders make decisions today that farmers may not see in the field for another five to 10 years. For Michel McElroy, a plant bree…
+
+- **[How Saskatchewan Can Grow Canada’s Bioeconomy](../../items/seedworld/2026/09/https_www.seedworld.com_p_127582.md)**
+  - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127582.md) · [원문](https://www.seedworld.com/canada/2026/09/23/canada-new-crops-new-markets/)
+  - Darcy Pawlik sees a way to connect farmers and researchers with the investment, expertise and customers needed to commercialize new ideas. One of the great strengths is our ability to produce high-qu…
+
+- **[Can Cabbage Genetics Help Breeders Develop Better Canola Hybrids?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127566.md)**
+  - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127566.md) · [원문](https://www.seedworld.com/canada/2026/09/23/anubhav-tripathi-crop-breeding/)
+  - University of Alberta student Anubhav Tripathi is studying whether genetic material from Brassica oleracea influences hybrid vigour and seed yield. When Anubhav Tripathi began studying drought tolera…
+
 - **[The Next Soybean Breakthrough May Be Underground](../../items/seedworld/2026/09/https_www.seedworld.com_p_127567.md)**
   - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127567.md) · [원문](https://www.seedworld.com/europe/2026/09/22/deeper-rooted-soybeans-field-trials/)
-  - Researchers are testing deeper rooted soybeans designed to reach water during drought and store more carbon below ground, but the real test will be whether the traits deliver in farmers’ fields.
+  - Deeper-rooted soybeans are being tested to determine whether they can improve drought resilience and store more carbon underground. Field trials will also examine yields, nutrient capture and the pot…
 
 - **[What Global Fertilizer Data Could Mean for U.S. Crops](../../items/seedworld/2026/09/https_www.seedworld.com_p_127557.md)**
   - 2026-09-22 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127557.md) · [원문](https://www.seedworld.com/us/2026/09/22/us-fertilizer-use-crops/)
-  - More than four decades of data highlight opportunities to improve crop yields by addressing nutrient shortages and reducing excessive fertilizer applications. A new global dataset from the University…
+  - A new global fertilizer dataset covering 156 crops provides a detailed look at how nutrient applications have changed since 1980. For U.S.
 
 - **[How Biotechnology Could Protect the Crops We Depend On](../../items/seedworld/2026/09/https_www.seedworld.com_p_127553.md)**
   - 2026-09-22 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127553.md) · [원문](https://www.seedworld.com/us/2026/09/22/crop-biotechnology-protect-crops/)
-  - Bacterial banana wilt is threatening one of the world’s most beloved and important fruits. Scientists across the globe are fighting to stop it, and in doing so, they’re showing just how vital modern…
+  - Crop biotechnology could help protect essential food crops from disease, pests and climate stress. Efforts to combat Banana Xanthomonas Wilt show how genetic engineering and genome editing may help s…
 
 - **[Precision Pollination Could Improve Fruit Crops](../../items/seedworld/2026/09/https_www.seedworld.com_p_127456.md)**
   - 2026-09-22 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127456.md) · [원문](https://www.seedworld.com/europe/2026/09/22/precision-pollination-fruit-crops/)
-  - Researchers will use in-field sensors and artificial intelligence to connect pollinator activity with fruit set, marketable yield and quality. Researchers are developing a precision monitoring system…
+  - Precision pollination research led by the James Hutton Institute and AgriSound will use in-field sensors and artificial intelligence to monitor pollinator activity across fruit crops.
 
 - **[SCN Continues to Overcome Widely Used Soybean Resistance](../../items/seedworld/2026/09/https_www.seedworld.com_p_127555.md)**
   - 2026-09-21 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127555.md) · [원문](https://www.seedworld.com/us/2026/09/21/scn-resistance-soybean-pi-88788/)
-  - An Iowa State University analysis highlights the need to diversify resistance sources to protect soybean yields. Soybean cyst nematode (SCN) is reproducing more successfully on PI 88788, the most wid…
+  - SCN resistance from PI 88788 is becoming less effective as soybean cyst nematode populations adapt, according to an Iowa State University analysis. Researchers say diversifying resistance sources and…
 
 - **[Seed Size Signal Could Support Bigger Crop Seeds](../../items/seedworld/2026/09/https_www.seedworld.com_p_127454.md)**
   - 2026-09-21 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127454.md) · [원문](https://www.seedworld.com/europe/2026/09/21/seed-size-signal-bigger-crop-seeds/)
-  - A newly identified peptide signal coordinates communication between the embryo and endosperm, and boosting it has already produced larger seeds in a crop proof of concept.
+  - Seed size research has identified a peptide signal that helps coordinate communication between the embryo and endosperm during seed development. Early crop proof-of-concept work suggests boosting the…
 
 - **[A Farmer’s Most Important Assets Don’t Appear on a Yield Map](../../items/seedworld/2026/09/https_www.seedworld.com_p_127529.md)**
   - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127529.md) · [원문](https://www.seedworld.com/canada/2026/09/17/future-canadian-agriculture-soil-health-plant-breeding/)
@@ -345,23 +373,3 @@ source: "seedworld"
 - **[What We Carry Forward](../../items/seedworld/2026/08/https_www.seedworld.com_p_127000.md)**
   - 2026-08-26 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127000.md) · [원문](https://www.seedworld.com/us/2026/08/26/what-we-carry-forward-future-seed-industry/)
   - Innovation may move faster than ever, but bringing it into the real world still takes experience, relationships and attention to the details that make progress possible.
-
-- **[Can AI Help Plant Breeders Outrun Climate Change?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127087.md)**
-  - 2026-08-26 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127087.md) · [원문](https://www.seedworld.com/europe/2026/08/25/ai-partnership-climate-resilient-potatoes/)
-  - A new global research partnership, GAIN-RT, will combine artificial intelligence, genomics, gene editing and field research to accelerate the development of climate resilient potatoes and other root…
-
-- **[When Action is the Only Option | On The Brink: Season 2 – Episode 16](../../items/seedworld/2026/08/https_www.seedworld.com_p_127101.md)**
-  - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127101.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/08/25/aafc-indian-head-research-farm-on-the-brink-season-2-episode-16/)
-  - The closure of the Indian Head Research Farm drew objections from across the sector in January. None of them changed the outcome.
-
-- **[AI is Changing The Way Breeders Make Decisions](../../items/seedworld/2026/08/https_www.seedworld.com_p_126997.md)**
-  - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126997.md) · [원문](https://www.seedworld.com/us/2026/08/25/ai-crop-breeding-breeder-decisions/)
-  - AI in crop breeding is helping researchers analyze germplasm, predict crosses, select genes and make faster breeding decisions. See where the technology is headed.
-
-- **[Is Canada’s Variety Registration System Slowing Seed Innovation?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127081.md)**
-  - 2026-08-25 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127081.md) · [원문](https://www.seedworld.com/canada/2026/08/24/canada-variety-registration-system-innovation/)
-  - Canada’s variety registration system helped build confidence in Canadian seed. But breeders, farmers and seed companies say parts of it may now be slowing genetic progress The post Is Canada’s Variet…
-
-- **[How Rigorous R&D Delivers Outstanding Soybean Yield and Operational Performance](../../items/seedworld/2026/08/https_www.seedworld.com_p_127078.md)**
-  - 2026-08-24 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127078.md) · [원문](https://www.seedworld.com/us/2026/08/24/lumisena-prime-soybean-seedling-protection/)
-  - Lumisena Prime combines four fungicides and one insecticide in a single premix designed to protect soybean seedlings from early-season threats. Corteva says the treatment also improves dry-down, plan…

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/04/plant-breeding-investment-faster-d
 summary: "Canada has been a global leader in crop production and plant breeding for a long time. But leadership is never permanent."
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # Plant Breeding Investment Needs Faster Decisions
 

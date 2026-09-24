@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/09/plant-breeders-rights-matter/"
 summary: "As agriculture faces rapid technological change, the frameworks supporting innovation are evolving just as fast, notes the new president of the International Union for the Protection of New Varieties of […] The post Why Plant Breeders’"
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # Why Plant Breeders’ Rights Matter More Than Ever
 

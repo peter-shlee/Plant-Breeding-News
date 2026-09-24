@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/07/plant-etp-plant-breeding-innov
 summary: "Plant ETP connects researchers, breeders, farmers and seed sector stakeholders to align priorities for European plant breeding innovation. Its work spans NGT implementation, future EU research funding, COLiBRI, climate resilience, skills"
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # How Plant ETP Supports Plant Breeding Innovation
 

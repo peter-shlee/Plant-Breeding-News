@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/16/ai-agriculture-crop-production/"
 summary: "AI in agriculture is moving from research into commercial crop production, according to a new CAST policy brief. The report highlights applications in seed selection, autonomous weed control and precision agriculture while calling for"
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # AI in Agriculture Brief Highlights Crop Production
 

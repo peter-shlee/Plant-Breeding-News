@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/08/26/what-we-carry-forward-future-seed-
 summary: "Innovation may move faster than ever, but bringing it into the real world still takes experience, relationships and attention to the details that make progress possible."
 attachments: []
 tags: []
-fetched_at: "2026-09-23T08:44:29+09:00"
+fetched_at: "2026-09-25T08:58:37+09:00"
 ---
 # What We Carry Forward
 
