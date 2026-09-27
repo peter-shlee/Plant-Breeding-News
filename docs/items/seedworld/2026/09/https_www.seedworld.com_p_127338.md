@@ -9,7 +9,7 @@ summary: "Embrapa has outlined 163 measures to help Brazilian crop producers man
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # Embrapa Outlines Measures for Crop Climate Risks
 

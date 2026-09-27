@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/16/embrapa-medidas-riesgos-climati
 summary: "Embrapa presentó una nota técnica con 163 medidas para reducir pérdidas agrícolas vinculadas a riesgos climáticos en Brasil. Las recomendaciones abordan sequía, lluvias excesivas, calor, tormentas, heladas e incendios durante la temporada"
 attachments: []
 tags: []
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # Embrapa presenta 163 medidas ante riesgos climáticos
 

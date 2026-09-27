@@ -11,33 +11,45 @@ source: "seedworld"
 
 ## 2026-09
 
+- **[What Could Slow the Next Great Seed Variety?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127616.md)**
+  - 2026-09-26 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127616.md) · [원문](https://www.seedworld.com/canada/2026/09/25/can-canada-deliver-seed-farmers-need-next/)
+  - From variety trials to seed increase, four industry leaders identify the weak points between a breeding breakthrough and the farm gate. “What’s better than what I’m growing now?” After more than 30 y…
+
+- **[From Treatment to Planting: Protecting Rhizobium Viability in Pulses](../../items/seedworld/2026/09/https_www.seedworld.com_p_127612.md)**
+  - 2026-09-26 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127612.md) · [원문](https://www.seedworld.com/canada/2026/09/25/from-treatment-to-planting-protecting-rhizobium-viability-in-pulses/)
+  - For pea and lentil seed treaters, applying an inoculant is only one part of the job. A key question is whether the rhizobium bacteria will still be viable when the seed reaches the soil.
+
+- **[Early Heat Hurts Wheat Most but Could Build Resilience](../../items/seedworld/2026/09/https_www.seedworld.com_p_127573.md)**
+  - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127573.md) · [원문](https://www.seedworld.com/europe/2026/09/25/wheat-heat-stress-before-flowering/)
+  - Field experiments show that heat before flowering causes the greatest yield losses, but can also prime wheat to withstand a second heat wave later in the season. Wheat is more vulnerable to yield los…
+
 - **[The Next Great Crop May Begin as an Uncertain Bet](../../items/seedworld/2026/09/https_www.seedworld.com_p_127608.md)**
   - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127608.md) · [원문](https://www.seedworld.com/canada/2026/09/24/farming-future-uncertainty/)
-  - Breeders, researchers and farmers have to make decisions years before they know which ideas will succeed. A farmer can’t plant potential.
+  - Breeders, researchers and farmers have to make decisions years before they know which ideas will succeed The post The Next Great Crop May Begin as an Uncertain Bet appeared first on Seed World .
 
 - **[Can Gene Editing Give Seeds a Stronger Start?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127602.md)**
   - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127602.md) · [원문](https://www.seedworld.com/canada/2026/09/24/reagan-reed-gene-editing-better-seeds/)
-  - At UC Davis, Reagan Reed is testing how genes work together to influence germination and seed quality. Reagan Reed has a way of describing his research that might make a plant breeder pause.
+  - At UC Davis, Reagan Reed is testing how genes work together to influence germination and seed quality The post Can Gene Editing Give Seeds a Stronger Start? appeared first on Seed World .
 
 - **[Why Is Europe Still Importing So Much of Its Livestock Protein?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127570.md)**
   - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127570.md) · [원문](https://www.seedworld.com/europe/2026/09/23/european-protein-crops-livestock-feed/)
-  - A new €5.5 million Horizon Europe project aims to strengthen farm resilience by expanding home grown protein crops and building viable local routes from field to feed. A new €5.5 million research pro…
+  - European protein crops are the focus of a new €5.5 million Horizon Europe project aimed at reducing reliance on imported livestock feed. PROCEED will connect growers, processors and livestock farmers…
 
 - **[Albaugh Seed Treatments: Right from the Start.](../../items/seedworld/2026/09/https_www.seedworld.com_p_127594.md)**
   - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127594.md) · [원문](https://www.seedworld.com/us/2026/09/23/albaugh-seed-treatments-right-from-the-start/)
-  - When Iowa farmer Dennis Albaugh founded the company in 1979, it was more than a business venture. It was a response to a challenge he knew firsthand.
+  - Albaugh seed treatment solutions reflect the company's farmer-founded approach to crop protection, offering traditional chemistries, newer active ingredients and biological options.
 
 - **[What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 3](../../items/seedworld/2026/09/https_www.seedworld.com_p_127560.md)**
   - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127560.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/23/winter-wheat-breeding-quebec-on-the-brink-s3-e3/)
-  - Why Winter Wheat Breeding in Quebec Needs Long-Term Investment Plant breeders make decisions today that farmers may not see in the field for another five to 10 years. For Michel McElroy, a plant bree…
+  - Michel McElroy of CÉROM explains how genomics is accelerating winter wheat breeding in Quebec, why growers want another crop in the rotation and why sustained public investment remains essential to v…
 
 - **[How Saskatchewan Can Grow Canada’s Bioeconomy](../../items/seedworld/2026/09/https_www.seedworld.com_p_127582.md)**
   - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127582.md) · [원문](https://www.seedworld.com/canada/2026/09/23/canada-new-crops-new-markets/)
-  - Darcy Pawlik sees a way to connect farmers and researchers with the investment, expertise and customers needed to commercialize new ideas. One of the great strengths is our ability to produce high-qu…
+  - Darcy Pawlik sees a way to connect farmers and researchers with the investment, expertise and customers needed to commercialize new ideas The post How Saskatchewan Can Grow Canada’s Bioeconomy appear…
 
 - **[Can Cabbage Genetics Help Breeders Develop Better Canola Hybrids?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127566.md)**
   - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127566.md) · [원문](https://www.seedworld.com/canada/2026/09/23/anubhav-tripathi-crop-breeding/)
-  - University of Alberta student Anubhav Tripathi is studying whether genetic material from Brassica oleracea influences hybrid vigour and seed yield. When Anubhav Tripathi began studying drought tolera…
+  - Farmers need more resilient and productive crops, and genetic diversity may hold some of the answers The post Can Cabbage Genetics Help Breeders Develop Better Canola Hybrids?
 
 - **[The Next Soybean Breakthrough May Be Underground](../../items/seedworld/2026/09/https_www.seedworld.com_p_127567.md)**
   - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127567.md) · [원문](https://www.seedworld.com/europe/2026/09/22/deeper-rooted-soybeans-field-trials/)
@@ -321,55 +333,3 @@ source: "seedworld"
 - **[Finding Your Competitive Advantage in a Crowded Seed Market](../../items/seedworld/2026/08/https_www.seedworld.com_p_127147.md)**
   - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127147.md) · [원문](https://www.seedworld.com/us/2026/08/31/competitive-advantage-seed-market/)
   - Competitive advantage is not always found in products, pricing or scale. This article explains how seed companies can identify why customers choose them and turn that difference into a repeatable bus…
-
-- **[Advancing Better Canola: Before Canola Can Thrive, it Must Survive](../../items/seedworld/2026/08/https_www.seedworld.com_p_127169.md)**
-  - 2026-08-29 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127169.md) · [원문](https://www.seedworld.com/canada/2026/08/28/canola-seed-treatments-crop-establishment/)
-  - Canadian farmers planted a record 23.4 million acres of canola in 2026, according to Statistics Canada. That number tells an important story about the scale of canola in Canadian agriculture.
-
-- **[One Rye Chromosome Has Already Changed Wheat. What Else Is Hiding There?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127097.md)**
-  - 2026-08-29 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127097.md) · [원문](https://www.seedworld.com/europe/2026/08/28/new-rye-genome-wheat-breeding-potential/)
-  - A new high quality rye reference genome reveals far greater diversity in a chromosome region already used to improve disease resistance, stress tolerance and yield in wheat.
-
-- **[The Next Generation of Plant Breeders Is Here](../../items/seedworld/2026/08/https_www.seedworld.com_p_126993.md)**
-  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_126993.md) · [원문](https://www.seedworld.com/us/2026/08/27/next-generation-plant-breeders-karlee-klemm/)
-  - Borlaug Scholar Karlee Klemm shares how technology, agriculture and a drive to make an impact are shaping the next generation of plant breeders. The post The Next Generation of Plant Breeders Is Here…
-
-- **[Three Degrees Warmer, Three Times the Wheat Price?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127094.md)**
-  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127094.md) · [원문](https://www.seedworld.com/europe/2026/08/27/drought-global-wheat-prices/)
-  - New research shows that severe water scarcity across major wheat-growing regions is closely linked to global wheat prices, with climate models suggesting that worsening compound droughts could create…
-
-- **[Plant Varieties, A Heritage to be Protected](../../items/seedworld/2026/08/https_www.seedworld.com_p_127135.md)**
-  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127135.md) · [원문](https://www.seedworld.com/europe/2026/08/27/plant-breeders-rights-seed-innovation/)
-  - “Innovation in agriculture depends on Plant Breeders’ Rights.” This was stated by Anthony Parker, the new president of UPOV, the Geneva-based intergovernmental organization that promotes the protecti…
-
-- **[Faster Plant Breeding Puts Canada’s Seed System to the Test](../../items/seedworld/2026/08/https_www.seedworld.com_p_127134.md)**
-  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127134.md) · [원문](https://www.seedworld.com/canada/2026/08/27/plant-breeding-speed-canada-seed-system/)
-  - Advances in genomics are accelerating breeding while raising new questions about variety registration, research infrastructure and speed to market. Three new stories graced the home page of Seed Worl…
-
-- **[Biological Seed Treatments Made Simple](../../items/seedworld/2026/08/https_www.seedworld.com_p_127126.md)**
-  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127126.md) · [원문](https://www.seedworld.com/canada/2026/08/27/biological-seed-treatments-seed-treaters/)
-  - Biological seed treatments are becoming a practical option for commercial seed treaters looking to support crop establishment, nutrient use and crop resilience. Product fit depends on viability, crop…
-
-- **[Can Genomics Speed Up the Journey From Breeder to Farmer?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127125.md)**
-  - 2026-08-28 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127125.md) · [원문](https://www.seedworld.com/canada/2026/08/27/plant-breeding-speed-genomics/)
-  - Genomic prediction can help identify promising plants before breeders spend years evaluating them. But there’s a catch: breeding faster doesn’t mean farmers get it faster The post Can Genomics Speed…
-
-- **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127121.md)**
-  - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127121.md) · [원문](https://www.seedworld.com/us/2026/08/27/ai-and-sales-why-garbage-in-still-means-garbage-out-2/)
-  - AI and sales can create real opportunity, but only when organizations have reliable CRM data, clear sales processes and strong human expertise. Shawn Brook argues that AI will not fix weak systems.
-
-- **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127118.md)**
-  - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127118.md) · [원문](https://www.seedworld.com/europe/2026/08/27/ai-and-sales-why-garbage-in-still-means-garbage-out/)
-  - AI and sales can create real opportunity, but only when organizations have reliable CRM data, clear sales processes and strong human expertise. Shawn Brook argues that AI will not fix weak systems.
-
-- **[AI and Sales: Why Garbage in Still Means Garbage Out](../../items/seedworld/2026/08/https_www.seedworld.com_p_127115.md)**
-  - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127115.md) · [원문](https://www.seedworld.com/canada/2026/08/27/ai-sales-garbage-in-garbage-out/)
-  - AI and sales can create real opportunity, but only when organizations have reliable CRM data, clear sales processes and strong human expertise. Shawn Brook argues that AI will not fix weak systems.
-
-- **[Tomatoes Have a ‘Golden Hour’. Could Breeders Use It?](../../items/seedworld/2026/08/https_www.seedworld.com_p_127091.md)**
-  - 2026-08-27 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127091.md) · [원문](https://www.seedworld.com/europe/2026/08/26/tomato-golden-hour-drought-resilient-tomatoes/)
-  - New research from the Hebrew University of Jerusalem suggests that an early-morning “golden hour” in stomatal activity could help breeders identify drought resilient tomatoes that combine strong yiel…
-
-- **[What We Carry Forward](../../items/seedworld/2026/08/https_www.seedworld.com_p_127000.md)**
-  - 2026-08-26 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127000.md) · [원문](https://www.seedworld.com/us/2026/08/26/what-we-carry-forward-future-seed-industry/)
-  - Innovation may move faster than ever, but bringing it into the real world still takes experience, relationships and attention to the details that make progress possible.

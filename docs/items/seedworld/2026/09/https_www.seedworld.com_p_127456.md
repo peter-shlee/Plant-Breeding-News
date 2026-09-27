@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/22/precision-pollination-fruit-cr
 summary: "Precision pollination research led by the James Hutton Institute and AgriSound will use in-field sensors and artificial intelligence to monitor pollinator activity across fruit crops."
 attachments: []
 tags: []
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # Precision Pollination Could Improve Fruit Crops
 

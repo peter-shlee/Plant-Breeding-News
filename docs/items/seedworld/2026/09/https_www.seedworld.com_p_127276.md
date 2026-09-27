@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/03/ag-economy-barometer-farm-outlook-
 summary: "The Ag Economy Barometer climbed in August as U.S. farmers expressed stronger confidence in future financial performance and agricultural exports."
 attachments: []
 tags: []
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # Ag Economy Barometer Rises as Farm Outlook Improves
 

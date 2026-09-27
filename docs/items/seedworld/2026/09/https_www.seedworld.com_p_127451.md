@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/17/crop-side-streams-consumer-foo
 summary: "Crop side streams from rapeseed, legumes and potatoes could become new foods for human consumption through the VASCO research project. Wageningen researchers will explore protein extraction, fermentation and supply chain barriers to bring"
 attachments: []
 tags: []
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # Crop Side Streams Could Become Consumer Foods
 

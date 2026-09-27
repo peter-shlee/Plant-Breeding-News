@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/17/the-case-for-one-digital-platf
 summary: "Canada has spent two decades building stewardship agreements, variety use agreements and royalty programs. What if managing them was as seamless The post The Case for One Digital Platform for Seed Retailers and Farmers appeared first on"
 attachments: []
 tags: []
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # The Case for One Digital Platform for Seed Retailers and Farmers
 

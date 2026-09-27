@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/02/canada-smarter-seed-system/"
 summary: "Breeding, registration and seed certification can no longer operate as isolated steps in an era of continuous data and rapid innovation The post Why the “Plant Breeding Pipeline” is the Wrong Model for Canada appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # Why the “Plant Breeding Pipeline” is the Wrong Model for Canada
 

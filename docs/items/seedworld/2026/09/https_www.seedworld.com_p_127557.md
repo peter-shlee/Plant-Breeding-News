@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/22/us-fertilizer-use-crops/"
 summary: "A new global fertilizer dataset covering 156 crops provides a detailed look at how nutrient applications have changed since 1980. For U.S."
 attachments: []
 tags: []
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # What Global Fertilizer Data Could Mean for U.S. Crops
 

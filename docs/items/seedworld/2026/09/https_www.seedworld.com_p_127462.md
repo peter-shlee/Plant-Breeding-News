@@ -9,7 +9,7 @@ summary: "Wheat Pete (Peter Johnson) explores the potential of wheat breeding, t
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 2
 

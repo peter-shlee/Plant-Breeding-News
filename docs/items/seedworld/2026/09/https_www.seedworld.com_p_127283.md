@@ -9,7 +9,7 @@ summary: "A new study warns that corn genetic diversity is critically low for gr
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-09-25T08:58:37+09:00"
+fetched_at: "2026-09-28T08:53:43+09:00"
 ---
 # Corn Genetic Diversity Warning Issued by Researchers
 
