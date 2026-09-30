@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/02/15-year-bet-canadian-plant-bre
 summary: "Technology lets breeders evaluate tens of thousands of candidates, but Brian Rossnagel says efficiency cannot replace scientific talent and competing ways of thinking The post You Can Process More Lines."
 attachments: []
 tags: []
-fetched_at: "2026-09-28T08:53:43+09:00"
+fetched_at: "2026-09-30T09:42:36+09:00"
 ---
 # You Can Process More Lines. You Can’t Automate Better Ideas.
 

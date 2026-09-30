@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/09/salt-stress-germination-system
 summary: "Researchers at the Hebrew University of Jerusalem identified a salt stress germination system that helps seeds retain potassium while limiting sodium buildup. The finding could support future work on crop establishment in saline soils."
 attachments: []
 tags: []
-fetched_at: "2026-09-28T08:53:43+09:00"
+fetched_at: "2026-09-30T09:42:36+09:00"
 ---
 # Salt Stress Germination System Identified in Seeds
 

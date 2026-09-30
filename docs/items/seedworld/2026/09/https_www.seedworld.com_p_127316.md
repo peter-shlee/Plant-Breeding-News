@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/08/sustaincrop-huella-ambiental-cu
 summary: "SUSTAINCrop es un proyecto internacional financiado por la Unión Europea que desarrollará una herramienta digital para evaluar la huella ambiental de cultivos industriales como maíz, canola, soja, caña de azúcar, algodón y girasol."
 attachments: []
 tags: []
-fetched_at: "2026-09-28T08:53:43+09:00"
+fetched_at: "2026-09-30T09:42:36+09:00"
 ---
 # SUSTAINCrop medirá la huella ambiental de cultivos
 

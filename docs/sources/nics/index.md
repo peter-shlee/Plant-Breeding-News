@@ -11,6 +11,15 @@ source: "nics"
 
 ## 2026-09
 
+- **[사람 대신 영상과 인공지능(AI)으로 벼 생육 살핀다](../../items/nics/2026/09/944532.md)**
+  - 2026-09-30 · [읽기](../../items/nics/2026/09/944532.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944532)
+
+- **[우리 품종 맛보기 … ‘한 달, 한 품종–동행 밥상’ 뜬다](../../items/nics/2026/09/944531.md)**
+  - 2026-09-30 · [읽기](../../items/nics/2026/09/944531.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944531)
+
+- **[농촌진흥청, 전북 식품 연구 기관과 손잡고 지역 농식품 산업 키운다](../../items/nics/2026/09/944530.md)**
+  - 2026-09-30 · [읽기](../../items/nics/2026/09/944530.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944530)
+
 - **[두뇌 건강 돕는 국산 ‘K-참·들기름’, 프리미엄 시장 공략한다](../../items/nics/2026/09/944527.md)**
   - 2026-09-21 · [읽기](../../items/nics/2026/09/944527.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944527)
 
@@ -31,12 +40,3 @@ source: "nics"
 
 - **[국산 여름딸기 ‘미하’, 키르기스스탄 현지 사용료 계약 체결](../../items/nics/2026/09/944504.md)**
   - 2026-09-11 · [읽기](../../items/nics/2026/09/944504.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944504)
-
-- **[우리 쌀 가공식품, 전북 지역 26개 고속도로 휴게소에서 판매 시작](../../items/nics/2026/09/944501.md)**
-  - 2026-09-10 · [읽기](../../items/nics/2026/09/944501.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944501)
-
-- **[‘찰진 밥맛·긴 쌀알’ 신품종 ‘케이롱’을 소개합니다](../../items/nics/2026/09/944500.md)**
-  - 2026-09-10 · [읽기](../../items/nics/2026/09/944500.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944500)
-
-- **[농촌진흥청, ‘무인 예찰 포획 장치(AI트랩)’ 구축 현황 살펴](../../items/nics/2026/09/944499.md)**
-  - 2026-09-10 · [읽기](../../items/nics/2026/09/944499.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944499)

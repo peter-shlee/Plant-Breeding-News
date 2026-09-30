@@ -11,17 +11,45 @@ source: "seedworld"
 
 ## 2026-09
 
+- **[From Data to the Field: How Innovation Becomes Performance](../../items/seedworld/2026/09/https_www.seedworld.com_p_127648.md)**
+  - 2026-09-30 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127648.md) · [원문](https://www.seedworld.com/europe/2026/09/29/mas-seeds-breeding-innovation-performance/)
+  - Inside Mas Seeds’ R&D engine, where climate modelling, genomics and advanced phenotyping are helping breeders anticipate what farmers will need next. Innovation in plant breeding is no longer simply…
+
+- **[Where Should We Place Our Bets? Breeding for the Bottom Line | On The Brink: Season 3, Episode 4](../../items/seedworld/2026/09/https_www.seedworld.com_p_127640.md)**
+  - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127640.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/29/making-plant-breeding-pay-farm-needs/)
+  - Every new variety asks someone to take a risk. A farmer commits land, inputs, time, and a growing season when trying something new.
+
+- **[Vegetable Trials Target Organic Seed Production Yield Gaps](../../items/seedworld/2026/09/https_www.seedworld.com_p_127628.md)**
+  - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127628.md) · [원문](https://www.seedworld.com/us/2026/09/29/vegetable-trials-target-organic-seed-production-yield-gaps/)
+  - Researchers are studying irrigation and crop management to help organic vegetable seed growers estimate yields and improve production decisions. Trials in broccoli, lettuce, squash and tomato are hel…
+
+- **[The Value of a Relationship That Goes Beyond Business](../../items/seedworld/2026/09/https_www.seedworld.com_p_127634.md)**
+  - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127634.md) · [원문](https://www.seedworld.com/us/2026/09/28/customer-relationships-shared-learning/)
+  - In the seed industry, we tend to measure customer relationships commercially. We know the size of the account, its growth and its future potential.
+
+- **[Bluemuda Turfgrass Could Reduce Sports Field Irrigation](../../items/seedworld/2026/09/https_www.seedworld.com_p_127625.md)**
+  - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127625.md) · [원문](https://www.seedworld.com/us/2026/09/28/bluemuda-turfgrass-reduce-sports-field-irrigation/)
+  - Researchers are testing 60 combinations of bermudagrass and Kentucky bluegrass to evaluate their potential to maintain year-round turf quality and reduce irrigation and overseeding costs.
+
+- **[8 AI Players to Watch in Crop Breeding](../../items/seedworld/2026/09/https_www.seedworld.com_p_127622.md)**
+  - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127622.md) · [원문](https://www.seedworld.com/us/2026/09/28/ai-crop-breeding-players-watch/)
+  - Companies and research organizations are using AI to predict plant performance, target complex traits and speed breeding decisions, while academic teams test what could come next.
+
+- **[Could 240 Million Smallholders Feed the World’s Next 1.5 Billion People?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127576.md)**
+  - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127576.md) · [원문](https://www.seedworld.com/europe/2026/09/28/smallholder-farmers-regenerative-agriculture/)
+  - A new book argues that helping half of the Global South’s smallholder farmers adopt regenerative agriculture could meet the additional food demand to 2050 while restoring soils, biodiversity and rura…
+
 - **[What Could Slow the Next Great Seed Variety?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127616.md)**
   - 2026-09-26 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127616.md) · [원문](https://www.seedworld.com/canada/2026/09/25/can-canada-deliver-seed-farmers-need-next/)
-  - From variety trials to seed increase, four industry leaders identify the weak points between a breeding breakthrough and the farm gate. “What’s better than what I’m growing now?” After more than 30 y…
+  - From variety trials to seed increase, four industry leaders identify the weak points between a breeding breakthrough and the farm gate The post What Could Slow the Next Great Seed Variety?
 
 - **[From Treatment to Planting: Protecting Rhizobium Viability in Pulses](../../items/seedworld/2026/09/https_www.seedworld.com_p_127612.md)**
   - 2026-09-26 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127612.md) · [원문](https://www.seedworld.com/canada/2026/09/25/from-treatment-to-planting-protecting-rhizobium-viability-in-pulses/)
-  - For pea and lentil seed treaters, applying an inoculant is only one part of the job. A key question is whether the rhizobium bacteria will still be viable when the seed reaches the soil.
+  - On-seed viability is an important consideration for pea and lentil seed treaters using rhizobium inoculants. Treatment timing, storage temperature, product compatibility and planting schedules all af…
 
 - **[Early Heat Hurts Wheat Most but Could Build Resilience](../../items/seedworld/2026/09/https_www.seedworld.com_p_127573.md)**
   - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127573.md) · [원문](https://www.seedworld.com/europe/2026/09/25/wheat-heat-stress-before-flowering/)
-  - Field experiments show that heat before flowering causes the greatest yield losses, but can also prime wheat to withstand a second heat wave later in the season. Wheat is more vulnerable to yield los…
+  - Wheat heat stress causes the greatest yield losses when heat waves strike before flowering, field experiments show. However, early exposure may also prime wheat to better withstand a second heat wave…
 
 - **[The Next Great Crop May Begin as an Uncertain Bet](../../items/seedworld/2026/09/https_www.seedworld.com_p_127608.md)**
   - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127608.md) · [원문](https://www.seedworld.com/canada/2026/09/24/farming-future-uncertainty/)

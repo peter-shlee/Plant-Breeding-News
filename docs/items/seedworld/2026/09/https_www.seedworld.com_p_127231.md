@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/03/crop-heat-stress-molecular-swi
 summary: "Researchers have identified a molecular mechanism that could support crop heat stress resilience by keeping stomata open during high temperatures. The discovery offers new insight into plant cooling, heat resilience and future crop"
 attachments: []
 tags: []
-fetched_at: "2026-09-28T08:53:43+09:00"
+fetched_at: "2026-09-30T09:42:36+09:00"
 ---
 # Molecular Switch Helps Crops Handle Heat Stress
 

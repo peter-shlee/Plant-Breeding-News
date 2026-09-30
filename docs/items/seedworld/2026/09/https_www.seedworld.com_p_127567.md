@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "phenotyping"
   - "콩"
-fetched_at: "2026-09-28T08:53:43+09:00"
+fetched_at: "2026-09-30T09:42:36+09:00"
 ---
 # The Next Soybean Breakthrough May Be Underground
 
