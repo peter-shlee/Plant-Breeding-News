@@ -11,81 +11,84 @@ source: "rda"
 
 ## 2026-09
 
+- **[농촌진흥청, 염소산업 발전 방향 모색…산·학·관·연 학술 토론회 개최](../../items/rda/2026/09/100000813248.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813248.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813248&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 9월 29일 국립축산과학원 가축유전자원센터에서 ‘염소산업 활성화 학술 토론회(심포지엄)’를 개최했다. 올해로 3회째를 맞은 이번 학술 토론회에서는 염소 산업 현안과 정책·연구 방향을 공유하고, 농업인과 생산자단체, 학계, 연구 기관, 정부가 산업 발전을 위한 협력 방안을 논의했다.
+
+- **[“우리 땅에서 자란 한국형 장립종 쌀”… 해남 간척지서 현장 평가](../../items/rda/2026/09/100000813247.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813247.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813247&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 9월 29일 전남 해남군 장립종 생산실증단지(땅끝황토친환경영농조합법인)에서 ‘수출용 케이(K)-장립종 현장연시회’를 열고 국산 장립종 벼 우량계통의 재배 가능성과 가공 특성을 평가했다. ‘수출용 케이(K)-장립종’은 해외 가공밥 시장을 겨냥해 개발하고 있는 한국형 장립종 벼*다.
+
+- **[“마늘‧양파” 생산-수확후관리 현장 적용형 기술 보급 주력](../../items/rda/2026/09/100000813246.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813246.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813246&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립농업과학원 성제훈 원장은 9월 29일 전남 무안의 마늘‧양파 생산과 수확후관리 현장을 둘러보고, 농업인과 현장 관계자 의견을 들었다. 이날 성제훈 원장은 무안 해제사업소와 현경사업소 풀필먼트 시설* 등을 차례로 방문해 마늘‧양파 수확 이후 예건‧아물이처리(큐어링)와 저장 과정 효율화 기술의 현장 적용 상황을 살폈다.
+
+- **[농촌진흥청, 2025년도 농산물 소득 조사 결과 발표](../../items/rda/2026/09/100000813245.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813245.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813245&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 2025년도에 생산된 51개 농산물에 대한 농산물 소득 조사 결과를 발표했다. 농산물소득조사는 농산물의 생산량과 수취 가격, 농자재·노동 투입 비용 등을 조사해 농가의 경영 성과를 파악하는 통계이다.
+
+- **[‘딸기꽃 피기 전’ 화분 매개용 벌부터 점검하세요!](../../items/rda/2026/09/100000813244.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813244.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813244&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 딸기꽃이 본격적으로 피기 시작하는 10월을 앞두고 딸기 시설재배 농가에 화분 매개용 벌*인 꿀벌과 뒤영벌을 미리 준비할 것을 당부했다. * 화분 매개용 벌: 꽃가루를 암술에 옮겨 농작물의 열매 맺음을 돕는 벌 딸기는 화분 매개가 원활하지 않으면 과실 모양이 불량해지는 등 상품성이 떨어질 우려가 있다.
+
+- **[농촌진흥청, K-딸기 수직농장 중동 수출 기반 넓힌다](../../items/rda/2026/09/100000813243.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813243.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813243&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 한국형 딸기 수직농장의 중동시장 진출을 지원하기 위해 ‘수직농장 기술수출추진단’을 운영하고, 연구개발(R&D) 성과와 기업 현장 기술지원을 연계한 패키지형 지원을 강화한다고 밝혔다. 수직농장은 외부 환경의 영향을 줄이면서 온도와 습도, 빛, 양분 등을 정밀하게 조절할 수 있지만, 해외 현지에서 안정적으로 고품질 농산물을 생산하기…
+
+- **[‘반려식물’과의 교감 순간 ‘시와 그림’으로…시화 작품 공모](../../items/rda/2026/09/100000813241.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813241.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813241&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립원예특작과학원은 ‘식물에 시(詩)를 심자, 마음속 꽃(花)이 피어나다’ 주제 아래 ‘제2회 반려식물 시화작품 경진대회’ 출품작을 오는 10월 12일까지 받는다고 밝혔다. 이번 대회는 일상에서 식물과 함께하며 느낀 즐거움과 치유의 가치를 공유하고, 반려식물 문화에 대한 공감대를 확산하기 위해 마련했다.
+
+- **[플라스틱 대체할 버섯 균사체 소재 산업화, 지역과 손잡고 속도 낸다](../../items/rda/2026/09/100000813240.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813240.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813240&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 국립원예특작과학원 인삼특작부와 장흥군버섯산업연구원이 9월 28일 장흥군버섯산업연구원에서 ‘버섯 균사체 기반 소재화 연구 협력 강화’를 위한 업무협약(MOU)을 체결했다고 밝혔다. 버섯 균사체는 버섯의 영양생장 조직으로, 실 모양의 균사가 촘촘히 얽혀 형성된다.
+
+- **[“딸기 중소형 스마트팜 생산성 향상 기술” 현장 적용성 살핀다](../../items/rda/2026/09/100000813239.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813239.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813239&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립농업과학원은 ‘딸기 단동형 스마트팜 생산성 향상 융합 모형’을 개발해 현장 실증 연구를 추진 중이다. 이는 스마트팜 구축 비용 증가와 농가 간 생산성 차이 등에 대응해 기존 시설을 최대한 활용하면서 농업인이 필요한 기술을 선택해 적용하는 기술이다.
+
+- **[사과 과수원 누비는 농업용 로봇, 현장 실증으로 완성도 높인다!](../../items/rda/2026/09/100000813237.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813237.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813237&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 이승돈 농촌진흥청장은 9월 28일 오후 경상북도 포항시 죽장면에 있는 사과 재배단지를 방문해 방제, 운반, 예찰 등 농업용 로봇의 활용 현황을 살피고, 농업인과 관계자 의견을 청취했다. 농업용 로봇 실증 지원사업은 농촌진흥청이 개발한 농업용 로봇(방제·운반·예찰) 3종의 현장 적용성 및 농작업 효율성을 검증하기 위해 2023년부터 추진되고 있다.
+
+- **[“꽃 매력은 올리고 재배 부담 낮추고” 차세대 ‘거베라’ 공개](../../items/rda/2026/09/100000813234.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813234.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813234&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 최근 거베라 시장은 화환용 큰 꽃(대륜*) 중심에서 벗어나 급격한 변화를 맞고 있다. 대륜 이외 소형이나 특이한 꽃 모양(특이화형) 수요는 2017년 7.7%에서 2023년 71.7%로** 10배 넘게 증가했다.
+
+- **[‘마늘‧양파 저장시설 소음 저감’ 기반 기술 마련한다](../../items/rda/2026/09/100000813233.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813233.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813233&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 마늘‧양파 저장시설에서 예건과 아물이처리(큐어링)*을 위해 사용하는 배풍팬** 소음을 측정하고, 팬과의 거리에 따라 소음 차이가 얼마나 나는지 분석했다. * 아물이처리(큐어링): 수확하면서 생긴 작은 상처를 아물게 하는 과정 ** 배풍팬: 저장시설 안의 공기를 밖으로 뽑아내 바깥 공기가 들어오게 하는 송풍장치 마늘‧양파는 수확…
+
+- **[농촌진흥청, 코피아센터 파견 연구원 17명 공개 채용 - 일반·통역연구원 아시아 대륙 7명, 아프리카 8명, 중남미 2명 모집 - 9월 28일∼10월 8일까지 응시 원서 온라인 접수](../../items/rda/2026/09/100000813232.md)**
+  - 2026-09-30 · [읽기](../../items/rda/2026/09/100000813232.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813232&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)이 2027년도 코피아(KOPIA)* 센터 파견연구원 채용 계획을 공고한다. * 해외농업기술개발사업(KOPIA; Korea Partnership for Innovation of Agriculture): 농촌진흥청이 주관하는 국제개발 협력사업.
+
 - **[농업과 우주기술의 만남… 농촌진흥청, ‘제1회 알디에이 인사이트 데이’ 연다](../../items/rda/2026/09/100000813218.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813218.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813218&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 한국농식품생명과학협회, 식량과기후와 함께 9월 30일 농업과학도서관 오디토리움에서 ‘제1회 RDA 인사이트 데이’를 연다. ‘RDA 인사이트 데이’는 빠르게 변화하는 농업과학 분야의 최신 연구·정책·산업 동향을 공유하고, 이를 농업 연구개발(R&D)의 새로운 아이디어로 연결하기 위해 마련한 개방형 지식 교류의 장이다.
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813218.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813218&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[사람 대신 영상과 인공지능(AI)으로 벼 생육 살핀다](../../items/rda/2026/09/100000813216.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813216.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813216&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 벼 생육 조사에 영상과 인공지능(AI)을 적용한 ‘인공지능 벼 생육 모니터링 시스템’을 구축하고, 현장 적용성과 효과를 검증하고 있다고 밝혔다. 벼 생육 상태를 주기적으로 살펴보는 것은 농업인의 재배 관리뿐만 아니라 농업연구와 정책 수립에도 중요한 기초 자료로 활용된다.
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813216.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813216&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[“추석 선물용 약초, 받는 이 취향 따라 고르세요”](../../items/rda/2026/09/100000813214.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813214.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813214&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 추석을 맞아 인삼, 도라지, 오미자, 황기, 참당귀 등 우리나라에서 오랫동안 식품과 약용 소재로 이용해 온 약용작물 5종을 소개하고, 받는 이의 취향에 맞는 선물 선택법과 일상에서 간편하게 즐기는 방법을 제안했다. △익숙하고 품격 있는 선물로 ‘인삼’= 면역력 증진과 피로 개선에 도움을 주는 대표 약용작물로, 명절 선물로 꾸준히…
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813214.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813214&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[농촌진흥청 32개 누리집, AI 더 쉽고 빠르게 검색](../../items/rda/2026/09/100000813213.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813213.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813213&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 본청과 소속·산하기관 32개 누리집에 흩어진 농업·행정정보를 한곳에서 쉽고 빠르게 확인할 수 있도록, 생성형 인공지능(AI)을 활용한 '지능형 통합검색 서비스'를 시작한다고 밝혔다. 그동안 이용자는 원하는 정보를 얻으려면 어느 기관이 해당 자료를 제공하는지부터 확인한 뒤, 그 기관의 누리집으로 이동해 다시 검색하는 절차를 거쳐야…
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813213.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813213&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[우리 품종 맛보기 … ‘한 달, 한 품종–동행 밥상’ 뜬다](../../items/rda/2026/09/100000813212.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813212.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813212&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)이 자체 개발한 우수 품종 한 가지를 매달 선정해 구내식당에서 제공하는 ‘한 달, 한 품종–동행 밥상’이 신선한 관심을 끌고 있다. ‘한 달, 한 품종–동행밥상’은 동일한 방식으로 진행되던 기존 ‘한 달, 한 품종’ 프로그램을 현장 소통형 행사로 확대한 것이다.
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813212.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813212&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[고소애, ‘근력 유지’ 건강기능식품 기능성 원료 인정](../../items/rda/2026/09/100000813211.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813211.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813211&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 고소애(갈색거저리 애벌레) 가수분해물*이 ‘노화로 인해 감소할 수 있는 근력 유지에 도움을 줄 수 있음’을 식품의약품안전처로부터 인정받아 건강기능식품 기능성 원료로 등록됐다고 밝혔다. * 가수분해물: 단백질을 효소 등을 이용해 작은 펩타이드나 아미노산으로 분해한 것 농촌진흥청은 지난 2016년 3월 식품공전에 고소애를 일반식품…
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813211.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813211&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[농촌진흥청, 치매관리시행계획 평가 2년 연속 ‘우수기관’](../../items/rda/2026/09/100000813209.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813209.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813209&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 '2026년 치매관리시행계획 결과 평가'에서 치매 관리 정책 발전에 기여한 공로를 인정받아 보건복지부 장관 표창을 수상했다고 밝혔다. 이번 수상으로 농촌진흥청은 지난해에 이어 2년 연속 우수기관에 선정되는 성과를 거뒀다.
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813209.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813209&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[폭염·폭우 겪은 약용작물 재배지, 내년 생육 위해 토양 점검](../../items/rda/2026/09/100000813207.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813207.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813207&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 더덕, 도라지, 황기처럼 몇 해에 걸쳐 재배하는 여러해살이 약용작물은 그해의 토양 환경 변화가 이듬해까지 이어질 수 있다. 농촌진흥청(청장 이승돈)은 여름철 폭염과 가뭄, 집중호우를 겪은 약용작물의 안정적 생육을 위해 철저한 토양 환경 관리를 당부했다.
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813207.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813207&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[추석 사과 시장, 우리 품종이 이끈다](../../items/rda/2026/09/100000813206.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813206.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813206&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 추석 사과 시장에서 국내 육성 품종의 존재감이 커지고 있다. 농촌진흥청(청장 이승돈)은 대표적인 추석 사과 품종인 ‘홍로’에 이어 ‘아리수’, ‘이지플’까지 농촌진흥청 개발 품종이 잇따라 보급되면서 추석 사과 시장을 이끄는 우리 품종의 기반이 넓어지고 있다고 밝혔다.
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813206.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813206&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
 - **[국산 배 대목묘 생산에 ‘배 유전자원 보존 기술’ 활용한다](../../items/rda/2026/09/100000813205.md)**
-  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813205.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813205&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 배 유전자원의 보존‧재생을 위해 개발한 기내 발근(시험관 내 뿌리내림) 기술을 현장 적용에 적합하도록 개선했다. ‘기내 발근’은 배양 용기 안에서 기른 식물체에 뿌리가 나도록 유도하는 과정이다.
-
-- **[‘그린빈’ 재배 애로, ‘현장ON’으로 잇고 맞춤형 해법 찾는다](../../items/rda/2026/09/100000813078.md)**
-  - 2026-09-20 · [읽기](../../items/rda/2026/09/100000813078.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813078&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[치유농업 전문가 의견 폭넓게 수렴, 산업화 실행 전략 보완](../../items/rda/2026/09/100000813077.md)**
-  - 2026-09-20 · [읽기](../../items/rda/2026/09/100000813077.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813077&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[밭농업 기계·기술 확산, 현장에서 답 찾다…우수 기술 연·전시회 성료](../../items/rda/2026/09/100000813076.md)**
-  - 2026-09-20 · [읽기](../../items/rda/2026/09/100000813076.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813076&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 스마트농업 기술심의회 출범](../../items/rda/2026/09/100000813075.md)**
-  - 2026-09-20 · [읽기](../../items/rda/2026/09/100000813075.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813075&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[명절 전 요리 3선 소개, ‘버섯’으로 더 가볍고 맛있게](../../items/rda/2026/09/100000813073.md)**
-  - 2026-09-20 · [읽기](../../items/rda/2026/09/100000813073.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813073&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[생산‧유통 현장 목소리 듣고 ‘참외 품질 선별 기술’ 고도화](../../items/rda/2026/09/100000813072.md)**
-  - 2026-09-20 · [읽기](../../items/rda/2026/09/100000813072.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813072&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“농업기계 사고 상황, 119로 직접 전달” 신속한 구조 대응체계 구축](../../items/rda/2026/09/100000813058.md)**
-  - 2026-09-17 · [읽기](../../items/rda/2026/09/100000813058.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813058&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 적극 행정 실천 직원 15명 선정·특별 포상](../../items/rda/2026/09/100000813056.md)**
-  - 2026-09-17 · [읽기](../../items/rda/2026/09/100000813056.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813056&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 미래 농업 이끌 인재 양성…학계와 머리 맞대](../../items/rda/2026/09/100000813054.md)**
-  - 2026-09-17 · [읽기](../../items/rda/2026/09/100000813054.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813054&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[분야별 유기적 협력으로, 농업 인공지능 플랫폼 구축 앞당긴다](../../items/rda/2026/09/100000813053.md)**
-  - 2026-09-17 · [읽기](../../items/rda/2026/09/100000813053.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813053&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“대량 양파도 뚝딱” 맞춤형 수확후관리로 품질‧저장성 향상](../../items/rda/2026/09/100000813052.md)**
-  - 2026-09-17 · [읽기](../../items/rda/2026/09/100000813052.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813052&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[두뇌 건강 돕는 국산 ‘K-참·들기름’, 프리미엄 시장 공략한다](../../items/rda/2026/09/100000813051.md)**
-  - 2026-09-17 · [읽기](../../items/rda/2026/09/100000813051.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813051&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[케이지별 산란량 한눈에…인공지능 정밀관리 기술 현장 점검](../../items/rda/2026/09/100000813047.md)**
-  - 2026-09-17 · [읽기](../../items/rda/2026/09/100000813047.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813047&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 2026-09-29 · [읽기](../../items/rda/2026/09/100000813205.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813205&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)

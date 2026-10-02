@@ -1,0 +1,21 @@
+---
+id: "eee2c4fc5ec4127646b58c35aef3b24695610314fbc17524e5138c27154836e4"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=127684"
+published_at: "2026-10-01T23:54:31+09:00"
+url: "https://www.seedworld.com/us/2026/10/01/seed-companies-biologicals/"
+summary: "I spend a lot of time talking with seed companies about biologicals. Those conversations rarely start with microbial ecology or modes of action."
+attachments: []
+tags:
+  - "genomics"
+  - "콩"
+fetched_at: "2026-10-02T10:03:18+09:00"
+---
+# What Seed Companies Really Need Biologicals to Do
+
+I spend a lot of time talking with seed companies about biologicals. Those conversations rarely start with microbial ecology or modes of action. They usually start with practical questions: How quickly can we get this to market? Will it work with what’s already on our seed? And will it consistently deliver enough value for the grower? Great science is the starting point. But it only matters if it performs in the field and a commercial partner can confidently put it behind its brand. How Fast Can You Get Me There? Partners rarely come to us with a problem that has no deadline. There’s a portfolio gap, an existing product that needs a lift, or a need for differentiation. We don’t start from zero. SignalSelect, Jord’s proprietary discovery and development platform, puts microbial activator technology to work on more than 6,500 microbial isolates collected through three decades of research at the University of Minnesota. That strong foundation, combined with our microbial genomic prediction tools, helps us identify the right microbes faster, shortening the path from “we need something that does this” to “let’s prove it in the field.” Will It Work With What’s Already On My Seed? A partner’s seed already carries their genetics, their chemistry and, ultimately, their brand. A biological isn’t useful if everything else has to change around it. That’s why we test the way our partners will use the product: on commercially relevant varieties and on top of existing commercial seed treatment packages, not just untreated “naked” seed or outdated genetics. We test across real field environments and evaluate the full dataset, not just favorable locations. The question isn’t simply what a microbe can do in isolation. It’s whether the biology can consistently add value to systems already performing in the market. That’s how we’ve approached 9311 , Jord’s first commercial produc t. Across multiple years and environments, and on top of elite soybean genetics and treatment programs, 9311 has demonstrated a 79% win rate using our defined performance threshold of at least 0.5 bushel per acre above the elite comparison treatment. That reflects the full dataset, not a selected subset of favorable trials. One big result in a good year makes a nice infographic on a website. Consistency is what gets a product reordered. What’s the ROI? A seed company’s return ultimately starts on the farmer’s acre. If a product doesn’t create value there, it’s difficult to create sustainable value anywhere else in the chain. Across our multi-year dataset, the average yield response has been approximately 2.6 bushels per acre, representing roughly $20 to $30 per acre in additional crop value depending on soybean prices. But ROI isn’t only about the average. Growers and seed companies need confidence that a product can perform across the growing season, and across fields, environments and seasons. Earn a Place on the Seed At Jord, we start partner conversations with the problem, not the product. The market doesn’t need more products simply for the sake of having more products. It needs solutions built around real gaps in the market and clear opportunities to improve crop performance. The goal isn’t to find a home for something we already have. It’s to understand what the partner needs the biology to do, find the right solution and prove it in the field. The biologicals that succeed will solve real problems, fit into existing systems, perform consistently and create enough value that growers want them back the following season. That’s the standard biologicals need to meet .
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/us/2026/10/01/seed-companies-biologicals/)

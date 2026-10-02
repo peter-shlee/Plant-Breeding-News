@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-09-30 09:45 (KST)**  
-- 커버리지(최근 섹션): **2026-09-23 ~ 2026-09-30** (최근 7일)
+- 마지막 업데이트: **2026-10-02 10:03 (KST)**  
+- 커버리지(최근 섹션): **2026-09-25 ~ 2026-10-02** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 
 <a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-09-23~2026-09-30)
+## 30초 주간 브리핑 (2026-09-25~2026-10-02)
 
-> AI 기반 육종 기술 고도화와 현장 맞춤형 품종 개발의 가속화
+> 육종 기술의 고도화와 함께 인프라 구축 및 협력 네트워크의 중요성이 강조된 한 주였습니다.
 
 ### 1) 정책/규제
 
-- 고소애 가수분해물이 식약처로부터 근력 유지에 도움을 주는 건강기능식품 기능성 원료로 공식 인정받았습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813211&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 농촌진흥청이 치유농업 프로그램을 지역 치매안심센터와 연계해 확산한 공로를 인정받아 2년 연속 우수기관으로 선정되었습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813209&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 캐나다 종자 재배자들은 연구 역량 감소에 대응하여 품종 시험 및 종자 순도 검사 체계를 보호해야 한다고 강조했습니다. ([원문](https://www.seedworld.com/canada/2026/10/01/alberta-seed-growers-regional-variety-testing/))
+- 유럽 내 차세대 육종 기술 도입은 질병 저항성 품종 개발을 가속화할 수 있는 중요한 진전으로 평가받고 있습니다. ([원문](https://www.seedworld.com/europe/2026/10/01/new-genomic-techniques-european-plant-breeding/))
 
 ### 2) 연구/기술
 
-- 농촌진흥청이 영상과 인공지능(AI)을 활용해 벼 생육 상태를 정밀하게 모니터링하고 현장 적용 효과를 검증하고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813216&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 작물 육종 분야에서 AI를 활용해 형질을 예측하고 유전자 편집을 가속화하는 8개 주요 기업 및 연구 조직이 주목받고 있습니다. ([원문](https://www.seedworld.com/us/2026/09/28/ai-crop-breeding-players-watch/))
+- 캐나다 맥류 육종의 핵심은 유전체 선택 기술 자체보다 이를 실행할 연구자 및 기관 간의 협력 네트워크 구축에 있습니다. ([원문](https://www.seedworld.com/canada/2026/10/01/canadian-pulse-breeding-genomic-selection/))
+- 농촌진흥청과 장흥군버섯산업연구원은 생분해성 친환경 소재인 버섯 균사체 산업화를 위해 연구 협력을 강화하기로 했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813240&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 ### 3) 유통/시장/현장
 
-- OSPREY 프로젝트가 유기농 채소 종자 생산의 수율 격차를 줄이기 위해 데이터베이스 구축과 경제적 의사결정 도구를 개발 중입니다. ([원문](https://www.seedworld.com/us/2026/09/29/vegetable-trials-target-organic-seed-production-yield-gaps/))
-- 추석 사과 시장에서 ‘홍로’, ‘아리수’, ‘이지플’ 등 국내 육성 품종의 보급이 확대되며 시장 점유율을 높이고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813206&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 현대 카놀라 육종은 단순 수량 증대를 넘어 수확 효율성과 병 저항성 등 농가 현장의 편의성을 높이는 방향으로 변화하고 있습니다. ([원문](https://www.seedworld.com/canada/2026/10/01/canola-breeding-harvest-efficiency/))
+- 농촌진흥청은 한국형 딸기 수직농장의 중동 시장 진출을 위해 품종부터 재배 기술까지 패키지형 지원을 확대합니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813243&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -49,49 +49,50 @@ title: "식물 육종 뉴스"
 
 - **[8 AI Players to Watch in Crop Breeding](items/seedworld/2026/09/https_www.seedworld.com_p_127622.md)**
   - 2026-09-28 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127622.md) · [원문](https://www.seedworld.com/us/2026/09/28/ai-crop-breeding-players-watch/)
-  - Companies and research organizations are using AI to predict plant performance, target complex traits and speed breeding decisions, while academic teams test what could come next.
+  - Eight companies and research organizations are advancing AI crop breeding through predictive genomics, crop modeling, gene editing and automated marker analysis. Public researchers are also testing a…
+
+- **[Europe’s Embrace of Next Generation Technology a Huge Step Forward](items/seedworld/2026/10/https_www.seedworld.com_p_127652.md)**
+  - 2026-10-01 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127652.md) · [원문](https://www.seedworld.com/europe/2026/10/01/new-genomic-techniques-european-plant-breeding/)
+  - I have defended genetically modified crops since I was a student, when people first warned me that large transnational companies would take over and make food more expensive.
 
 - **[From Data to the Field: How Innovation Becomes Performance](items/seedworld/2026/09/https_www.seedworld.com_p_127648.md)**
   - 2026-09-30 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127648.md) · [원문](https://www.seedworld.com/europe/2026/09/29/mas-seeds-breeding-innovation-performance/)
-  - Inside Mas Seeds’ R&D engine, where climate modelling, genomics and advanced phenotyping are helping breeders anticipate what farmers will need next. Innovation in plant breeding is no longer simply…
+  - MAS Seeds breeding combines climate modelling, genomics, advanced phenotyping and field testing to anticipate future growing conditions. The approach aims to deliver maize and sunflower hybrids with…
 
-- **[추석 사과 시장, 우리 품종이 이끈다](items/nihhs/2026/09/100000813206.md)**
-  - 2026-09-29 · `nihhs` · [읽기](items/nihhs/2026/09/100000813206.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813206&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 추석 사과 시장, 우리 품종이 이끈다 부서 사과연구…
+- **[“꽃 매력은 올리고 재배 부담 낮추고” 차세대 ‘거베라’ 공개](items/nihhs/2026/09/100000813234.md)**
+  - 2026-09-30 · `nihhs` · [읽기](items/nihhs/2026/09/100000813234.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813234&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 “꽃 매력은 올리고 재배 부담 낮추고” 차세대 ‘거…
 
-- **[Can Gene Editing Give Seeds a Stronger Start?](items/seedworld/2026/09/https_www.seedworld.com_p_127602.md)**
-  - 2026-09-25 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127602.md) · [원문](https://www.seedworld.com/canada/2026/09/24/reagan-reed-gene-editing-better-seeds/)
-  - At UC Davis, Reagan Reed is testing how genes work together to influence germination and seed quality The post Can Gene Editing Give Seeds a Stronger Start? appeared first on Seed World .
+- **[“꽃 매력은 올리고 재배 부담 낮추고” 차세대 ‘거베라’ 공개](items/rda/2026/09/100000813234.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813234.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813234&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 최근 거베라 시장은 화환용 큰 꽃(대륜*) 중심에서 벗어나 급격한 변화를 맞고 있다. 대륜 이외 소형이나 특이한 꽃 모양(특이화형) 수요는 2017년 7.7%에서 2023년 71.7%로** 10배 넘게 증가했다.
 
-- **[What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 3](items/seedworld/2026/09/https_www.seedworld.com_p_127560.md)**
-  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127560.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/23/winter-wheat-breeding-quebec-on-the-brink-s3-e3/)
-  - Michel McElroy of CÉROM explains how genomics is accelerating winter wheat breeding in Quebec, why growers want another crop in the rotation and why sustained public investment remains essential to v…
+- **[Better Genetics Are Running Into an Infrastructure Problem](items/seedworld/2026/10/https_www.seedworld.com_p_127702.md)**
+  - 2026-10-02 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127702.md) · [원문](https://www.seedworld.com/canada/2026/10/01/better-genetics-are-running-into-an-infrastructure-problem/)
+  - As breeding tools become more powerful, Canada’s testing, delivery and funding systems are becoming just as important as the science itself. For a long time, the easiest way to talk about plant breed…
+
+- **[The Most Important Innovation in Pulse Breeding May Be the Network](items/seedworld/2026/10/https_www.seedworld.com_p_127693.md)**
+  - 2026-10-02 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127693.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canadian-pulse-breeding-genomic-selection/)
+  - Genomics gets the attention, but collaboration among breeders, researchers, producers and seed companies could determine how quickly the technology delivers. For years, Canadian pulse breeders have w…
+
+- **[What Seed Companies Really Need Biologicals to Do](items/seedworld/2026/10/https_www.seedworld.com_p_127684.md)**
+  - 2026-10-01 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127684.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-companies-biologicals/)
+  - I spend a lot of time talking with seed companies about biologicals. Those conversations rarely start with microbial ecology or modes of action.
+
+- **[Plant and Bacterial Genetics: The Two Parts of Europe’s Soybean Story](items/seedworld/2026/10/https_www.seedworld.com_p_127537.md)**
+  - 2026-10-01 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127537.md) · [원문](https://www.seedworld.com/europe/2026/10/01/soybean-inoculant-europe-production/)
+  - Plant genetics unlocked soybean’s potential in Europe. Protealis believes bacterial genetics could unlock what comes next.
+
+- **[“우리 땅에서 자란 한국형 장립종 쌀”… 해남 간척지서 현장 평가](items/rda/2026/09/100000813247.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813247.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813247&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 9월 29일 전남 해남군 장립종 생산실증단지(땅끝황토친환경영농조합법인)에서 ‘수출용 케이(K)-장립종 현장연시회’를 열고 국산 장립종 벼 우량계통의 재배 가능성과 가공 특성을 평가했다. ‘수출용 케이(K)-장립종’은 해외 가공밥 시장을 겨냥해 개발하고 있는 한국형 장립종 벼*다.
+
+- **[농촌진흥청, K-딸기 수직농장 중동 수출 기반 넓힌다](items/rda/2026/09/100000813243.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813243.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813243&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 한국형 딸기 수직농장의 중동시장 진출을 지원하기 위해 ‘수직농장 기술수출추진단’을 운영하고, 연구개발(R&D) 성과와 기업 현장 기술지원을 연계한 패키지형 지원을 강화한다고 밝혔다. 수직농장은 외부 환경의 영향을 줄이면서 온도와 습도, 빛, 양분 등을 정밀하게 조절할 수 있지만, 해외 현지에서 안정적으로 고품질 농산물을 생산하기…
 
 - **[우리 품종 맛보기 … ‘한 달, 한 품종–동행 밥상’ 뜬다](items/nics/2026/09/944531.md)**
   - 2026-09-30 · `nics` · [읽기](items/nics/2026/09/944531.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944531)
-
-- **[추석 사과 시장, 우리 품종이 이끈다](items/rda/2026/09/100000813206.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813206.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813206&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 추석 사과 시장에서 국내 육성 품종의 존재감이 커지고 있다. 농촌진흥청(청장 이승돈)은 대표적인 추석 사과 품종인 ‘홍로’에 이어 ‘아리수’, ‘이지플’까지 농촌진흥청 개발 품종이 잇따라 보급되면서 추석 사과 시장을 이끄는 우리 품종의 기반이 넓어지고 있다고 밝혔다.
-
-- **[국산 배 대목묘 생산에 ‘배 유전자원 보존 기술’ 활용한다](items/rda/2026/09/100000813205.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813205.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813205&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 배 유전자원의 보존‧재생을 위해 개발한 기내 발근(시험관 내 뿌리내림) 기술을 현장 적용에 적합하도록 개선했다. ‘기내 발근’은 배양 용기 안에서 기른 식물체에 뿌리가 나도록 유도하는 과정이다.
-
-- **[우리 품종 맛보기 … ‘한 달, 한 품종–동행 밥상’ 뜬다](items/rda/2026/09/100000813212.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813212.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813212&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)이 자체 개발한 우수 품종 한 가지를 매달 선정해 구내식당에서 제공하는 ‘한 달, 한 품종–동행 밥상’이 신선한 관심을 끌고 있다. ‘한 달, 한 품종–동행밥상’은 동일한 방식으로 진행되던 기존 ‘한 달, 한 품종’ 프로그램을 현장 소통형 행사로 확대한 것이다.
-
-- **[“추석 선물용 약초, 받는 이 취향 따라 고르세요”](items/nihhs/2026/09/100000813214.md)**
-  - 2026-09-29 · `nihhs` · [읽기](items/nihhs/2026/09/100000813214.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813214&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 “추석 선물용 약초, 받는 이 취향 따라 고르세요”…
-
-- **[고소애, ‘근력 유지’ 건강기능식품 기능성 원료 인정](items/rda/2026/09/100000813211.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813211.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813211&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 고소애(갈색거저리 애벌레) 가수분해물*이 ‘노화로 인해 감소할 수 있는 근력 유지에 도움을 줄 수 있음’을 식품의약품안전처로부터 인정받아 건강기능식품 기능성 원료로 등록됐다고 밝혔다. * 가수분해물: 단백질을 효소 등을 이용해 작은 펩타이드나 아미노산으로 분해한 것 농촌진흥청은 지난 2016년 3월 식품공전에 고소애를 일반식품…
-
-- **[사람 대신 영상과 인공지능(AI)으로 벼 생육 살핀다](items/nics/2026/09/944532.md)**
-  - 2026-09-30 · `nics` · [읽기](items/nics/2026/09/944532.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944532)
 
 
 <a id="news-feed"></a>
@@ -100,9 +101,100 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
+- **[Better Genetics Are Running Into an Infrastructure Problem](items/seedworld/2026/10/https_www.seedworld.com_p_127702.md)**
+  - 2026-10-02 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127702.md) · [원문](https://www.seedworld.com/canada/2026/10/01/better-genetics-are-running-into-an-infrastructure-problem/)
+  - As breeding tools become more powerful, Canada’s testing, delivery and funding systems are becoming just as important as the science itself. For a long time, the easiest way to talk about plant breed…
+
+- **[Canola Breeding Has Changed. So Has the Meaning of a Better Hybrid](items/seedworld/2026/10/https_www.seedworld.com_p_127696.md)**
+  - 2026-10-02 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127696.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canola-breeding-harvest-efficiency/)
+  - Yield remains critical, but modern canola breeding is increasingly focused on harvestability, disease resistance and getting valuable traits to growers faster. Canola has changed significantly in the…
+
+- **[The Most Important Innovation in Pulse Breeding May Be the Network](items/seedworld/2026/10/https_www.seedworld.com_p_127693.md)**
+  - 2026-10-02 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127693.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canadian-pulse-breeding-genomic-selection/)
+  - Genomics gets the attention, but collaboration among breeders, researchers, producers and seed companies could determine how quickly the technology delivers. For years, Canadian pulse breeders have w…
+
+- **[Alberta Seed Growers Push to Protect Variety Testing as Research Capacity Shrinks](items/seedworld/2026/10/https_www.seedworld.com_p_127689.md)**
+  - 2026-10-02 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127689.md) · [원문](https://www.seedworld.com/canada/2026/10/01/alberta-seed-growers-regional-variety-testing/)
+  - President Sarah Weigum says reliable regional trials and seed purity testing are essential to reducing risk and getting improved genetics into farmers’ fields faster. The Alberta-British Columbia See…
+
+- **[The Best Seed Coating Service is the One You Don’t Have to Worry About](items/seedworld/2026/10/https_www.seedworld.com_p_127686.md)**
+  - 2026-10-02 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127686.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-coating-service-dont-worry-about/)
+  - Our company has been serving the seed industry since 1956, and over the decades we’ve gained a wealth of experience in pretty much everything from packaging and logistics to quality assurance and imp…
+
+- **[What Seed Companies Really Need Biologicals to Do](items/seedworld/2026/10/https_www.seedworld.com_p_127684.md)**
+  - 2026-10-01 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127684.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-companies-biologicals/)
+  - I spend a lot of time talking with seed companies about biologicals. Those conversations rarely start with microbial ecology or modes of action.
+
+- **[Leonardo Costa, on Corteva’s Seed Applied Technologies (SAT) Next Chapter in EMEA](items/seedworld/2026/10/https_www.seedworld.com_p_127674.md)**
+  - 2026-10-01 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127674.md) · [원문](https://www.seedworld.com/europe/2026/10/01/leonardo-costa-on-cortevas-seed-applied-technologies-sat-next-chapter-in-emea/)
+  - At a moment of change for Corteva, Leonardo Costa talks about the future of Seed Applied Technologies, the products coming through the pipeline and the team he believes will make the difference.
+
+- **[Plant and Bacterial Genetics: The Two Parts of Europe’s Soybean Story](items/seedworld/2026/10/https_www.seedworld.com_p_127537.md)**
+  - 2026-10-01 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127537.md) · [원문](https://www.seedworld.com/europe/2026/10/01/soybean-inoculant-europe-production/)
+  - Plant genetics unlocked soybean’s potential in Europe. Protealis believes bacterial genetics could unlock what comes next.
+
+- **[Europe’s Embrace of Next Generation Technology a Huge Step Forward](items/seedworld/2026/10/https_www.seedworld.com_p_127652.md)**
+  - 2026-10-01 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127652.md) · [원문](https://www.seedworld.com/europe/2026/10/01/new-genomic-techniques-european-plant-breeding/)
+  - I have defended genetically modified crops since I was a student, when people first warned me that large transnational companies would take over and make food more expensive.
+
 - **[From Data to the Field: How Innovation Becomes Performance](items/seedworld/2026/09/https_www.seedworld.com_p_127648.md)**
   - 2026-09-30 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127648.md) · [원문](https://www.seedworld.com/europe/2026/09/29/mas-seeds-breeding-innovation-performance/)
-  - Inside Mas Seeds’ R&D engine, where climate modelling, genomics and advanced phenotyping are helping breeders anticipate what farmers will need next. Innovation in plant breeding is no longer simply…
+  - MAS Seeds breeding combines climate modelling, genomics, advanced phenotyping and field testing to anticipate future growing conditions. The approach aims to deliver maize and sunflower hybrids with…
+
+- **[농촌진흥청, 염소산업 발전 방향 모색…산·학·관·연 학술 토론회 개최](items/rda/2026/09/100000813248.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813248.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813248&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 9월 29일 국립축산과학원 가축유전자원센터에서 ‘염소산업 활성화 학술 토론회(심포지엄)’를 개최했다. 올해로 3회째를 맞은 이번 학술 토론회에서는 염소 산업 현안과 정책·연구 방향을 공유하고, 농업인과 생산자단체, 학계, 연구 기관, 정부가 산업 발전을 위한 협력 방안을 논의했다.
+
+- **[“우리 땅에서 자란 한국형 장립종 쌀”… 해남 간척지서 현장 평가](items/rda/2026/09/100000813247.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813247.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813247&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 9월 29일 전남 해남군 장립종 생산실증단지(땅끝황토친환경영농조합법인)에서 ‘수출용 케이(K)-장립종 현장연시회’를 열고 국산 장립종 벼 우량계통의 재배 가능성과 가공 특성을 평가했다. ‘수출용 케이(K)-장립종’은 해외 가공밥 시장을 겨냥해 개발하고 있는 한국형 장립종 벼*다.
+
+- **[“마늘‧양파” 생산-수확후관리 현장 적용형 기술 보급 주력](items/rda/2026/09/100000813246.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813246.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813246&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립농업과학원 성제훈 원장은 9월 29일 전남 무안의 마늘‧양파 생산과 수확후관리 현장을 둘러보고, 농업인과 현장 관계자 의견을 들었다. 이날 성제훈 원장은 무안 해제사업소와 현경사업소 풀필먼트 시설* 등을 차례로 방문해 마늘‧양파 수확 이후 예건‧아물이처리(큐어링)와 저장 과정 효율화 기술의 현장 적용 상황을 살폈다.
+
+- **[농촌진흥청, 2025년도 농산물 소득 조사 결과 발표](items/rda/2026/09/100000813245.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813245.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813245&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 2025년도에 생산된 51개 농산물에 대한 농산물 소득 조사 결과를 발표했다. 농산물소득조사는 농산물의 생산량과 수취 가격, 농자재·노동 투입 비용 등을 조사해 농가의 경영 성과를 파악하는 통계이다.
+
+- **[‘딸기꽃 피기 전’ 화분 매개용 벌부터 점검하세요!](items/rda/2026/09/100000813244.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813244.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813244&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 딸기꽃이 본격적으로 피기 시작하는 10월을 앞두고 딸기 시설재배 농가에 화분 매개용 벌*인 꿀벌과 뒤영벌을 미리 준비할 것을 당부했다. * 화분 매개용 벌: 꽃가루를 암술에 옮겨 농작물의 열매 맺음을 돕는 벌 딸기는 화분 매개가 원활하지 않으면 과실 모양이 불량해지는 등 상품성이 떨어질 우려가 있다.
+
+- **[농촌진흥청, K-딸기 수직농장 중동 수출 기반 넓힌다](items/rda/2026/09/100000813243.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813243.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813243&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 한국형 딸기 수직농장의 중동시장 진출을 지원하기 위해 ‘수직농장 기술수출추진단’을 운영하고, 연구개발(R&D) 성과와 기업 현장 기술지원을 연계한 패키지형 지원을 강화한다고 밝혔다. 수직농장은 외부 환경의 영향을 줄이면서 온도와 습도, 빛, 양분 등을 정밀하게 조절할 수 있지만, 해외 현지에서 안정적으로 고품질 농산물을 생산하기…
+
+- **[‘반려식물’과의 교감 순간 ‘시와 그림’으로…시화 작품 공모](items/rda/2026/09/100000813241.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813241.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813241&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립원예특작과학원은 ‘식물에 시(詩)를 심자, 마음속 꽃(花)이 피어나다’ 주제 아래 ‘제2회 반려식물 시화작품 경진대회’ 출품작을 오는 10월 12일까지 받는다고 밝혔다. 이번 대회는 일상에서 식물과 함께하며 느낀 즐거움과 치유의 가치를 공유하고, 반려식물 문화에 대한 공감대를 확산하기 위해 마련했다.
+
+- **[플라스틱 대체할 버섯 균사체 소재 산업화, 지역과 손잡고 속도 낸다](items/rda/2026/09/100000813240.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813240.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813240&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 국립원예특작과학원 인삼특작부와 장흥군버섯산업연구원이 9월 28일 장흥군버섯산업연구원에서 ‘버섯 균사체 기반 소재화 연구 협력 강화’를 위한 업무협약(MOU)을 체결했다고 밝혔다. 버섯 균사체는 버섯의 영양생장 조직으로, 실 모양의 균사가 촘촘히 얽혀 형성된다.
+
+- **[“딸기 중소형 스마트팜 생산성 향상 기술” 현장 적용성 살핀다](items/rda/2026/09/100000813239.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813239.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813239&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립농업과학원은 ‘딸기 단동형 스마트팜 생산성 향상 융합 모형’을 개발해 현장 실증 연구를 추진 중이다. 이는 스마트팜 구축 비용 증가와 농가 간 생산성 차이 등에 대응해 기존 시설을 최대한 활용하면서 농업인이 필요한 기술을 선택해 적용하는 기술이다.
+
+- **[사과 과수원 누비는 농업용 로봇, 현장 실증으로 완성도 높인다!](items/rda/2026/09/100000813237.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813237.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813237&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 이승돈 농촌진흥청장은 9월 28일 오후 경상북도 포항시 죽장면에 있는 사과 재배단지를 방문해 방제, 운반, 예찰 등 농업용 로봇의 활용 현황을 살피고, 농업인과 관계자 의견을 청취했다. 농업용 로봇 실증 지원사업은 농촌진흥청이 개발한 농업용 로봇(방제·운반·예찰) 3종의 현장 적용성 및 농작업 효율성을 검증하기 위해 2023년부터 추진되고 있다.
+
+- **[“꽃 매력은 올리고 재배 부담 낮추고” 차세대 ‘거베라’ 공개](items/rda/2026/09/100000813234.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813234.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813234&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 최근 거베라 시장은 화환용 큰 꽃(대륜*) 중심에서 벗어나 급격한 변화를 맞고 있다. 대륜 이외 소형이나 특이한 꽃 모양(특이화형) 수요는 2017년 7.7%에서 2023년 71.7%로** 10배 넘게 증가했다.
+
+- **[‘마늘‧양파 저장시설 소음 저감’ 기반 기술 마련한다](items/rda/2026/09/100000813233.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813233.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813233&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 마늘‧양파 저장시설에서 예건과 아물이처리(큐어링)*을 위해 사용하는 배풍팬** 소음을 측정하고, 팬과의 거리에 따라 소음 차이가 얼마나 나는지 분석했다. * 아물이처리(큐어링): 수확하면서 생긴 작은 상처를 아물게 하는 과정 ** 배풍팬: 저장시설 안의 공기를 밖으로 뽑아내 바깥 공기가 들어오게 하는 송풍장치 마늘‧양파는 수확…
+
+- **[농촌진흥청, 코피아센터 파견 연구원 17명 공개 채용 - 일반·통역연구원 아시아 대륙 7명, 아프리카 8명, 중남미 2명 모집 - 9월 28일∼10월 8일까지 응시 원서 온라인 접수](items/rda/2026/09/100000813232.md)**
+  - 2026-09-30 · `rda` · [읽기](items/rda/2026/09/100000813232.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813232&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)이 2027년도 코피아(KOPIA)* 센터 파견연구원 채용 계획을 공고한다. * 해외농업기술개발사업(KOPIA; Korea Partnership for Innovation of Agriculture): 농촌진흥청이 주관하는 국제개발 협력사업.
+
+- **[“우리 땅에서 자란 한국형 장립종 쌀”… 해남 간척지서 현장 평가](items/nics/2026/09/944534.md)**
+  - 2026-09-30 · `nics` · [읽기](items/nics/2026/09/944534.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944534)
 
 - **[사람 대신 영상과 인공지능(AI)으로 벼 생육 살핀다](items/nics/2026/09/944532.md)**
   - 2026-09-30 · `nics` · [읽기](items/nics/2026/09/944532.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944532)
@@ -113,109 +205,17 @@ title: "식물 육종 뉴스"
 - **[농촌진흥청, 전북 식품 연구 기관과 손잡고 지역 농식품 산업 키운다](items/nics/2026/09/944530.md)**
   - 2026-09-30 · `nics` · [읽기](items/nics/2026/09/944530.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944530)
 
-- **[Where Should We Place Our Bets? Breeding for the Bottom Line | On The Brink: Season 3, Episode 4](items/seedworld/2026/09/https_www.seedworld.com_p_127640.md)**
-  - 2026-09-29 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127640.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/29/making-plant-breeding-pay-farm-needs/)
-  - Every new variety asks someone to take a risk. A farmer commits land, inputs, time, and a growing season when trying something new.
+- **[‘반려식물’과의 교감 순간 ‘시와 그림’으로…시화 작품 공모](items/nihhs/2026/09/100000813241.md)**
+  - 2026-09-30 · `nihhs` · [읽기](items/nihhs/2026/09/100000813241.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813241&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 ‘반려식물’과의 교감 순간 ‘시와 그림’으로…시화…
 
-- **[Vegetable Trials Target Organic Seed Production Yield Gaps](items/seedworld/2026/09/https_www.seedworld.com_p_127628.md)**
-  - 2026-09-29 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127628.md) · [원문](https://www.seedworld.com/us/2026/09/29/vegetable-trials-target-organic-seed-production-yield-gaps/)
-  - Researchers are studying irrigation and crop management to help organic vegetable seed growers estimate yields and improve production decisions. Trials in broccoli, lettuce, squash and tomato are hel…
+- **[플라스틱 대체할 버섯 균사체 소재 산업화, 지역과 손잡고 속도 낸다](items/nihhs/2026/09/100000813240.md)**
+  - 2026-09-30 · `nihhs` · [읽기](items/nihhs/2026/09/100000813240.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813240&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 플라스틱 대체할 버섯 균사체 소재 산업화, 지역과…
 
-- **[The Value of a Relationship That Goes Beyond Business](items/seedworld/2026/09/https_www.seedworld.com_p_127634.md)**
-  - 2026-09-29 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127634.md) · [원문](https://www.seedworld.com/us/2026/09/28/customer-relationships-shared-learning/)
-  - In the seed industry, we tend to measure customer relationships commercially. We know the size of the account, its growth and its future potential.
-
-- **[농업과 우주기술의 만남… 농촌진흥청, ‘제1회 알디에이 인사이트 데이’ 연다](items/rda/2026/09/100000813218.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813218.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813218&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 한국농식품생명과학협회, 식량과기후와 함께 9월 30일 농업과학도서관 오디토리움에서 ‘제1회 RDA 인사이트 데이’를 연다. ‘RDA 인사이트 데이’는 빠르게 변화하는 농업과학 분야의 최신 연구·정책·산업 동향을 공유하고, 이를 농업 연구개발(R&D)의 새로운 아이디어로 연결하기 위해 마련한 개방형 지식 교류의 장이다.
-
-- **[사람 대신 영상과 인공지능(AI)으로 벼 생육 살핀다](items/rda/2026/09/100000813216.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813216.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813216&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 벼 생육 조사에 영상과 인공지능(AI)을 적용한 ‘인공지능 벼 생육 모니터링 시스템’을 구축하고, 현장 적용성과 효과를 검증하고 있다고 밝혔다. 벼 생육 상태를 주기적으로 살펴보는 것은 농업인의 재배 관리뿐만 아니라 농업연구와 정책 수립에도 중요한 기초 자료로 활용된다.
-
-- **[“추석 선물용 약초, 받는 이 취향 따라 고르세요”](items/rda/2026/09/100000813214.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813214.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813214&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 추석을 맞아 인삼, 도라지, 오미자, 황기, 참당귀 등 우리나라에서 오랫동안 식품과 약용 소재로 이용해 온 약용작물 5종을 소개하고, 받는 이의 취향에 맞는 선물 선택법과 일상에서 간편하게 즐기는 방법을 제안했다. △익숙하고 품격 있는 선물로 ‘인삼’= 면역력 증진과 피로 개선에 도움을 주는 대표 약용작물로, 명절 선물로 꾸준히…
-
-- **[농촌진흥청 32개 누리집, AI 더 쉽고 빠르게 검색](items/rda/2026/09/100000813213.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813213.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813213&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 본청과 소속·산하기관 32개 누리집에 흩어진 농업·행정정보를 한곳에서 쉽고 빠르게 확인할 수 있도록, 생성형 인공지능(AI)을 활용한 '지능형 통합검색 서비스'를 시작한다고 밝혔다. 그동안 이용자는 원하는 정보를 얻으려면 어느 기관이 해당 자료를 제공하는지부터 확인한 뒤, 그 기관의 누리집으로 이동해 다시 검색하는 절차를 거쳐야…
-
-- **[우리 품종 맛보기 … ‘한 달, 한 품종–동행 밥상’ 뜬다](items/rda/2026/09/100000813212.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813212.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813212&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)이 자체 개발한 우수 품종 한 가지를 매달 선정해 구내식당에서 제공하는 ‘한 달, 한 품종–동행 밥상’이 신선한 관심을 끌고 있다. ‘한 달, 한 품종–동행밥상’은 동일한 방식으로 진행되던 기존 ‘한 달, 한 품종’ 프로그램을 현장 소통형 행사로 확대한 것이다.
-
-- **[고소애, ‘근력 유지’ 건강기능식품 기능성 원료 인정](items/rda/2026/09/100000813211.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813211.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813211&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 고소애(갈색거저리 애벌레) 가수분해물*이 ‘노화로 인해 감소할 수 있는 근력 유지에 도움을 줄 수 있음’을 식품의약품안전처로부터 인정받아 건강기능식품 기능성 원료로 등록됐다고 밝혔다. * 가수분해물: 단백질을 효소 등을 이용해 작은 펩타이드나 아미노산으로 분해한 것 농촌진흥청은 지난 2016년 3월 식품공전에 고소애를 일반식품…
-
-- **[농촌진흥청, 치매관리시행계획 평가 2년 연속 ‘우수기관’](items/rda/2026/09/100000813209.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813209.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813209&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 '2026년 치매관리시행계획 결과 평가'에서 치매 관리 정책 발전에 기여한 공로를 인정받아 보건복지부 장관 표창을 수상했다고 밝혔다. 이번 수상으로 농촌진흥청은 지난해에 이어 2년 연속 우수기관에 선정되는 성과를 거뒀다.
-
-- **[폭염·폭우 겪은 약용작물 재배지, 내년 생육 위해 토양 점검](items/rda/2026/09/100000813207.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813207.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813207&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 더덕, 도라지, 황기처럼 몇 해에 걸쳐 재배하는 여러해살이 약용작물은 그해의 토양 환경 변화가 이듬해까지 이어질 수 있다. 농촌진흥청(청장 이승돈)은 여름철 폭염과 가뭄, 집중호우를 겪은 약용작물의 안정적 생육을 위해 철저한 토양 환경 관리를 당부했다.
-
-- **[추석 사과 시장, 우리 품종이 이끈다](items/rda/2026/09/100000813206.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813206.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813206&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 추석 사과 시장에서 국내 육성 품종의 존재감이 커지고 있다. 농촌진흥청(청장 이승돈)은 대표적인 추석 사과 품종인 ‘홍로’에 이어 ‘아리수’, ‘이지플’까지 농촌진흥청 개발 품종이 잇따라 보급되면서 추석 사과 시장을 이끄는 우리 품종의 기반이 넓어지고 있다고 밝혔다.
-
-- **[국산 배 대목묘 생산에 ‘배 유전자원 보존 기술’ 활용한다](items/rda/2026/09/100000813205.md)**
-  - 2026-09-29 · `rda` · [읽기](items/rda/2026/09/100000813205.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813205&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-  - 농촌진흥청(청장 이승돈)은 배 유전자원의 보존‧재생을 위해 개발한 기내 발근(시험관 내 뿌리내림) 기술을 현장 적용에 적합하도록 개선했다. ‘기내 발근’은 배양 용기 안에서 기른 식물체에 뿌리가 나도록 유도하는 과정이다.
-
-- **[“추석 선물용 약초, 받는 이 취향 따라 고르세요”](items/nihhs/2026/09/100000813214.md)**
-  - 2026-09-29 · `nihhs` · [읽기](items/nihhs/2026/09/100000813214.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813214&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 “추석 선물용 약초, 받는 이 취향 따라 고르세요”…
-
-- **[폭염·폭우 겪은 약용작물 재배지, 내년 생육 위해 토양 점검](items/nihhs/2026/09/100000813207.md)**
-  - 2026-09-29 · `nihhs` · [읽기](items/nihhs/2026/09/100000813207.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813207&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 폭염·폭우 겪은 약용작물 재배지, 내년 생육 위해…
-
-- **[추석 사과 시장, 우리 품종이 이끈다](items/nihhs/2026/09/100000813206.md)**
-  - 2026-09-29 · `nihhs` · [읽기](items/nihhs/2026/09/100000813206.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813206&mc=MN0000000136)
-  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 추석 사과 시장, 우리 품종이 이끈다 부서 사과연구…
-
-- **[Bluemuda Turfgrass Could Reduce Sports Field Irrigation](items/seedworld/2026/09/https_www.seedworld.com_p_127625.md)**
-  - 2026-09-28 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127625.md) · [원문](https://www.seedworld.com/us/2026/09/28/bluemuda-turfgrass-reduce-sports-field-irrigation/)
-  - Researchers are testing 60 combinations of bermudagrass and Kentucky bluegrass to evaluate their potential to maintain year-round turf quality and reduce irrigation and overseeding costs.
-
-- **[8 AI Players to Watch in Crop Breeding](items/seedworld/2026/09/https_www.seedworld.com_p_127622.md)**
-  - 2026-09-28 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127622.md) · [원문](https://www.seedworld.com/us/2026/09/28/ai-crop-breeding-players-watch/)
-  - Companies and research organizations are using AI to predict plant performance, target complex traits and speed breeding decisions, while academic teams test what could come next.
-
-- **[Could 240 Million Smallholders Feed the World’s Next 1.5 Billion People?](items/seedworld/2026/09/https_www.seedworld.com_p_127576.md)**
-  - 2026-09-28 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127576.md) · [원문](https://www.seedworld.com/europe/2026/09/28/smallholder-farmers-regenerative-agriculture/)
-  - A new book argues that helping half of the Global South’s smallholder farmers adopt regenerative agriculture could meet the additional food demand to 2050 while restoring soils, biodiversity and rura…
-
-- **[What Could Slow the Next Great Seed Variety?](items/seedworld/2026/09/https_www.seedworld.com_p_127616.md)**
-  - 2026-09-26 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127616.md) · [원문](https://www.seedworld.com/canada/2026/09/25/can-canada-deliver-seed-farmers-need-next/)
-  - From variety trials to seed increase, four industry leaders identify the weak points between a breeding breakthrough and the farm gate The post What Could Slow the Next Great Seed Variety?
-
-- **[From Treatment to Planting: Protecting Rhizobium Viability in Pulses](items/seedworld/2026/09/https_www.seedworld.com_p_127612.md)**
-  - 2026-09-26 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127612.md) · [원문](https://www.seedworld.com/canada/2026/09/25/from-treatment-to-planting-protecting-rhizobium-viability-in-pulses/)
-  - On-seed viability is an important consideration for pea and lentil seed treaters using rhizobium inoculants. Treatment timing, storage temperature, product compatibility and planting schedules all af…
-
-- **[Early Heat Hurts Wheat Most but Could Build Resilience](items/seedworld/2026/09/https_www.seedworld.com_p_127573.md)**
-  - 2026-09-25 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127573.md) · [원문](https://www.seedworld.com/europe/2026/09/25/wheat-heat-stress-before-flowering/)
-  - Wheat heat stress causes the greatest yield losses when heat waves strike before flowering, field experiments show. However, early exposure may also prime wheat to better withstand a second heat wave…
-
-- **[The Next Great Crop May Begin as an Uncertain Bet](items/seedworld/2026/09/https_www.seedworld.com_p_127608.md)**
-  - 2026-09-25 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127608.md) · [원문](https://www.seedworld.com/canada/2026/09/24/farming-future-uncertainty/)
-  - Breeders, researchers and farmers have to make decisions years before they know which ideas will succeed The post The Next Great Crop May Begin as an Uncertain Bet appeared first on Seed World .
-
-- **[Can Gene Editing Give Seeds a Stronger Start?](items/seedworld/2026/09/https_www.seedworld.com_p_127602.md)**
-  - 2026-09-25 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127602.md) · [원문](https://www.seedworld.com/canada/2026/09/24/reagan-reed-gene-editing-better-seeds/)
-  - At UC Davis, Reagan Reed is testing how genes work together to influence germination and seed quality The post Can Gene Editing Give Seeds a Stronger Start? appeared first on Seed World .
-
-- **[Why Is Europe Still Importing So Much of Its Livestock Protein?](items/seedworld/2026/09/https_www.seedworld.com_p_127570.md)**
-  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127570.md) · [원문](https://www.seedworld.com/europe/2026/09/23/european-protein-crops-livestock-feed/)
-  - European protein crops are the focus of a new €5.5 million Horizon Europe project aimed at reducing reliance on imported livestock feed. PROCEED will connect growers, processors and livestock farmers…
-
-- **[Albaugh Seed Treatments: Right from the Start.](items/seedworld/2026/09/https_www.seedworld.com_p_127594.md)**
-  - 2026-09-24 · `seedworld` · [읽기](items/seedworld/2026/09/https_www.seedworld.com_p_127594.md) · [원문](https://www.seedworld.com/us/2026/09/23/albaugh-seed-treatments-right-from-the-start/)
-  - Albaugh seed treatment solutions reflect the company's farmer-founded approach to crop protection, offering traditional chemistries, newer active ingredients and biological options.
+- **[“꽃 매력은 올리고 재배 부담 낮추고” 차세대 ‘거베라’ 공개](items/nihhs/2026/09/100000813234.md)**
+  - 2026-09-30 · `nihhs` · [읽기](items/nihhs/2026/09/100000813234.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813234&mc=MN0000000136)
+  - 홈 기관소개 정보공개 기술활용 연구성과 치유·도시농업 민원/행정 기관소개 길라잡이 과학원소식 과학원소개 과학원소식 우장춘박사 직원검색 견학/체험 활동 신청 보도자료 공지사항 보도자료 카드뉴스 행사앨범 홍보동영상 일반자료실 보도자료 제목, 부서, 조회수, 첨부파일, 내용 안내로 구성된 보도자료 글보기 제목 “꽃 매력은 올리고 재배 부담 낮추고” 차세대 ‘거…
 
 
 <a id="podcast"></a>
@@ -231,6 +231,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-10-02](weekly/2026-10-02.md)
 - [2026-09-30](weekly/2026-09-30.md)
 - [2026-09-28](weekly/2026-09-28.md)
 - [2026-09-25](weekly/2026-09-25.md)

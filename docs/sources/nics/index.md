@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-09
 
+- **[“우리 땅에서 자란 한국형 장립종 쌀”… 해남 간척지서 현장 평가](../../items/nics/2026/09/944534.md)**
+  - 2026-09-30 · [읽기](../../items/nics/2026/09/944534.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944534)
+
 - **[사람 대신 영상과 인공지능(AI)으로 벼 생육 살핀다](../../items/nics/2026/09/944532.md)**
   - 2026-09-30 · [읽기](../../items/nics/2026/09/944532.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944532)
 
@@ -37,6 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 제8차 ‘치유농업 포럼’ 개최… 치유음식 산업적 가치와 소비 기반...](../../items/nics/2026/09/944505.md)**
   - 2026-09-11 · [읽기](../../items/nics/2026/09/944505.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944505)
-
-- **[국산 여름딸기 ‘미하’, 키르기스스탄 현지 사용료 계약 체결](../../items/nics/2026/09/944504.md)**
-  - 2026-09-11 · [읽기](../../items/nics/2026/09/944504.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944504)

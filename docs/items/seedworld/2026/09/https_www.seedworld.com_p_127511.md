@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/17/future-plant-breeding-canada-b
 summary: "With public research under pressure, emerging scientist Ben Erickson explains what Canada must do to keep young plant breeders at home The post Could Research Cuts Push Canada’s Young Plant Breeders Elsewhere?"
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # Could Research Cuts Push Canada’s Young Plant Breeders Elsewhere?
 

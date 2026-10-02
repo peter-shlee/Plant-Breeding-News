@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/17/seed-sector-2045-layered-large
 summary: "The seed sector of 2045 may be shaped less by size alone and more by layered innovation networks. Consolidation, specialist breeders, start-ups, public-private partnerships, IP frameworks and technology platforms could all influence how"
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # Seed Sector 2045: The Future Seed Sector May Be More Layered Than Larger
 

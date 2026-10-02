@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/14/red-regional-soja-variedades-am
 summary: "La red regional de soja RRECSO-Américas evaluará variedades en más de 180 ambientes de Argentina, Uruguay, Paraguay, Colombia y Perú. El proyecto busca generar datos comparables para productores, empresas de semillas y asesores agrícolas."
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # Red regional de soja evaluará variedades en América
 

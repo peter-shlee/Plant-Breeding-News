@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/03/europe-plant-breeding-innovati
 summary: "Europe has strong plant breeding talent, public research and seed systems, but plant breeding innovation depends on more than ambition. NGT regulation, PRM reform, research funding, intellectual property and policy coherence will shape"
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # Seed Sector 2045: Is Europe Competitive for Plant Breeding Innovation?
 

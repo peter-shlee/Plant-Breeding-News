@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/23/european-protein-crops-livesto
 summary: "European protein crops are the focus of a new €5.5 million Horizon Europe project aimed at reducing reliance on imported livestock feed. PROCEED will connect growers, processors and livestock farmers to develop viable local routes from"
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:35+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # Why Is Europe Still Importing So Much of Its Livestock Protein?
 

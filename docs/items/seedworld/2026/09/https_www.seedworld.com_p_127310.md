@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/07/nanofertilizante-acai-maiz-sorg
 summary: "Un nanofertilizante elaborado a partir de semillas de açaí desechadas estimuló el crecimiento del maíz y el sorgo en ensayos de Embrapa y la Universidad Federal de Ceará."
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # Nanofertilizante de açaí impulsa maíz y sorgo
 

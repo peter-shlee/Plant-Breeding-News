@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/08/canadian-plant-breeding-invest
 summary: "Kenny Piecharka of KWS says conversations that once happened in the hallway are finally happening in the room. That’s progress."
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # OP-ED: Why Canada’s Plant Breeding Advantage is No Longer Guaranteed
 

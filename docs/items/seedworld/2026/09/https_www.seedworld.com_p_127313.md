@@ -9,7 +9,7 @@ summary: "Açaí nanofertilizer developed by Embrapa and the Federal University 
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # Açaí Nanofertilizer Boosts Corn and Sorghum Growth
 

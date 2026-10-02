@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/15/construidos-sobre-la-confianza-
 summary: "Hace más de una década, el ingeniero mecánico conoció al fundador de SATEC, Jens Hacklaender, a través de un grupo de cuernos de caza compartido en Alemania. Con el paso de los años, las conversaciones informales sobre el negocio"
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # Construidos sobre la confianza, listos para crecer
 

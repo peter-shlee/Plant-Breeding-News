@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/04/agroenso-impacto-el-nino-cultiv
 summary: "AgroENSO es una plataforma gratuita desarrollada por científicos del CONICET y del INTA para analizar cómo El Niño y La Niña han afectado el rendimiento de maíz, soja, trigo, cebada y girasol en Argentina."
 attachments: []
 tags: []
-fetched_at: "2026-09-30T09:42:36+09:00"
+fetched_at: "2026-10-02T10:03:22+09:00"
 ---
 # AgroENSO mide el impacto de El Niño en cultivos argentinos
 

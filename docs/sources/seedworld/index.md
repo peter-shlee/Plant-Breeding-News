@@ -9,35 +9,74 @@ source: "seedworld"
 
 - [홈으로](../../index.md)
 
+## 2026-10
+
+- **[Better Genetics Are Running Into an Infrastructure Problem](../../items/seedworld/2026/10/https_www.seedworld.com_p_127702.md)**
+  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127702.md) · [원문](https://www.seedworld.com/canada/2026/10/01/better-genetics-are-running-into-an-infrastructure-problem/)
+  - As breeding tools become more powerful, Canada’s testing, delivery and funding systems are becoming just as important as the science itself. For a long time, the easiest way to talk about plant breed…
+
+- **[Canola Breeding Has Changed. So Has the Meaning of a Better Hybrid](../../items/seedworld/2026/10/https_www.seedworld.com_p_127696.md)**
+  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127696.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canola-breeding-harvest-efficiency/)
+  - Yield remains critical, but modern canola breeding is increasingly focused on harvestability, disease resistance and getting valuable traits to growers faster. Canola has changed significantly in the…
+
+- **[The Most Important Innovation in Pulse Breeding May Be the Network](../../items/seedworld/2026/10/https_www.seedworld.com_p_127693.md)**
+  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127693.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canadian-pulse-breeding-genomic-selection/)
+  - Genomics gets the attention, but collaboration among breeders, researchers, producers and seed companies could determine how quickly the technology delivers. For years, Canadian pulse breeders have w…
+
+- **[Alberta Seed Growers Push to Protect Variety Testing as Research Capacity Shrinks](../../items/seedworld/2026/10/https_www.seedworld.com_p_127689.md)**
+  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127689.md) · [원문](https://www.seedworld.com/canada/2026/10/01/alberta-seed-growers-regional-variety-testing/)
+  - President Sarah Weigum says reliable regional trials and seed purity testing are essential to reducing risk and getting improved genetics into farmers’ fields faster. The Alberta-British Columbia See…
+
+- **[The Best Seed Coating Service is the One You Don’t Have to Worry About](../../items/seedworld/2026/10/https_www.seedworld.com_p_127686.md)**
+  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127686.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-coating-service-dont-worry-about/)
+  - Our company has been serving the seed industry since 1956, and over the decades we’ve gained a wealth of experience in pretty much everything from packaging and logistics to quality assurance and imp…
+
+- **[What Seed Companies Really Need Biologicals to Do](../../items/seedworld/2026/10/https_www.seedworld.com_p_127684.md)**
+  - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127684.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-companies-biologicals/)
+  - I spend a lot of time talking with seed companies about biologicals. Those conversations rarely start with microbial ecology or modes of action.
+
+- **[Leonardo Costa, on Corteva’s Seed Applied Technologies (SAT) Next Chapter in EMEA](../../items/seedworld/2026/10/https_www.seedworld.com_p_127674.md)**
+  - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127674.md) · [원문](https://www.seedworld.com/europe/2026/10/01/leonardo-costa-on-cortevas-seed-applied-technologies-sat-next-chapter-in-emea/)
+  - At a moment of change for Corteva, Leonardo Costa talks about the future of Seed Applied Technologies, the products coming through the pipeline and the team he believes will make the difference.
+
+- **[Plant and Bacterial Genetics: The Two Parts of Europe’s Soybean Story](../../items/seedworld/2026/10/https_www.seedworld.com_p_127537.md)**
+  - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127537.md) · [원문](https://www.seedworld.com/europe/2026/10/01/soybean-inoculant-europe-production/)
+  - Plant genetics unlocked soybean’s potential in Europe. Protealis believes bacterial genetics could unlock what comes next.
+
+- **[Europe’s Embrace of Next Generation Technology a Huge Step Forward](../../items/seedworld/2026/10/https_www.seedworld.com_p_127652.md)**
+  - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127652.md) · [원문](https://www.seedworld.com/europe/2026/10/01/new-genomic-techniques-european-plant-breeding/)
+  - I have defended genetically modified crops since I was a student, when people first warned me that large transnational companies would take over and make food more expensive.
+
+
 ## 2026-09
 
 - **[From Data to the Field: How Innovation Becomes Performance](../../items/seedworld/2026/09/https_www.seedworld.com_p_127648.md)**
   - 2026-09-30 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127648.md) · [원문](https://www.seedworld.com/europe/2026/09/29/mas-seeds-breeding-innovation-performance/)
-  - Inside Mas Seeds’ R&D engine, where climate modelling, genomics and advanced phenotyping are helping breeders anticipate what farmers will need next. Innovation in plant breeding is no longer simply…
+  - MAS Seeds breeding combines climate modelling, genomics, advanced phenotyping and field testing to anticipate future growing conditions. The approach aims to deliver maize and sunflower hybrids with…
 
 - **[Where Should We Place Our Bets? Breeding for the Bottom Line | On The Brink: Season 3, Episode 4](../../items/seedworld/2026/09/https_www.seedworld.com_p_127640.md)**
   - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127640.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/29/making-plant-breeding-pay-farm-needs/)
-  - Every new variety asks someone to take a risk. A farmer commits land, inputs, time, and a growing season when trying something new.
+  - Seed grower and RDAR director Kelly Barany calls for breeding priorities shaped by farm needs, shorter timelines, and funding that sustains useful varieties. The post Where Should We Place Our Bets?
 
 - **[Vegetable Trials Target Organic Seed Production Yield Gaps](../../items/seedworld/2026/09/https_www.seedworld.com_p_127628.md)**
   - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127628.md) · [원문](https://www.seedworld.com/us/2026/09/29/vegetable-trials-target-organic-seed-production-yield-gaps/)
-  - Researchers are studying irrigation and crop management to help organic vegetable seed growers estimate yields and improve production decisions. Trials in broccoli, lettuce, squash and tomato are hel…
+  - Broccoli, lettuce, squash and tomato trials are helping researchers fill data gaps in organic seed production. The OSPREY project is studying irrigation, crop management and grower records to improve…
 
 - **[The Value of a Relationship That Goes Beyond Business](../../items/seedworld/2026/09/https_www.seedworld.com_p_127634.md)**
   - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127634.md) · [원문](https://www.seedworld.com/us/2026/09/28/customer-relationships-shared-learning/)
-  - In the seed industry, we tend to measure customer relationships commercially. We know the size of the account, its growth and its future potential.
+  - In the seed industry, the value of customer relationships extends beyond sales. Ahern’s four-decade partnership with Rancho Los Pinos shows how trust, candid feedback and shared learning can help bot…
 
 - **[Bluemuda Turfgrass Could Reduce Sports Field Irrigation](../../items/seedworld/2026/09/https_www.seedworld.com_p_127625.md)**
   - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127625.md) · [원문](https://www.seedworld.com/us/2026/09/28/bluemuda-turfgrass-reduce-sports-field-irrigation/)
-  - Researchers are testing 60 combinations of bermudagrass and Kentucky bluegrass to evaluate their potential to maintain year-round turf quality and reduce irrigation and overseeding costs.
+  - Researchers at Oklahoma State University and Mississippi State University are testing 60 bluemuda turfgrass combinations to determine whether pairing bermudagrass and Kentucky bluegrass can maintain…
 
 - **[8 AI Players to Watch in Crop Breeding](../../items/seedworld/2026/09/https_www.seedworld.com_p_127622.md)**
   - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127622.md) · [원문](https://www.seedworld.com/us/2026/09/28/ai-crop-breeding-players-watch/)
-  - Companies and research organizations are using AI to predict plant performance, target complex traits and speed breeding decisions, while academic teams test what could come next.
+  - Eight companies and research organizations are advancing AI crop breeding through predictive genomics, crop modeling, gene editing and automated marker analysis. Public researchers are also testing a…
 
 - **[Could 240 Million Smallholders Feed the World’s Next 1.5 Billion People?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127576.md)**
   - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127576.md) · [원문](https://www.seedworld.com/europe/2026/09/28/smallholder-farmers-regenerative-agriculture/)
-  - A new book argues that helping half of the Global South’s smallholder farmers adopt regenerative agriculture could meet the additional food demand to 2050 while restoring soils, biodiversity and rura…
+  - Smallholder farmers could help meet rising global food demand while restoring soils and strengthening rural livelihoods, a new book argues. Whole Earth Farming proposes helping 240 million farming fa…
 
 - **[What Could Slow the Next Great Seed Variety?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127616.md)**
   - 2026-09-26 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127616.md) · [원문](https://www.seedworld.com/canada/2026/09/25/can-canada-deliver-seed-farmers-need-next/)
@@ -322,42 +361,3 @@ source: "seedworld"
 - **[The Economics of Climate-Friendly Grains](../../items/seedworld/2026/09/https_www.seedworld.com_p_127150.md)**
   - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127150.md) · [원문](https://www.seedworld.com/us/2026/09/02/the-economics-of-climate-friendly-grains/)
   - Climate-friendly grains such as intermediate wheatgrass may attract consumers willing to pay more for sustainable bread. New Cornell research suggests demand exists, but taste, yield, processing infr…
-
-- **[EU PPWR: What Seed Companies Need to Do Now](../../items/seedworld/2026/09/https_www.seedworld.com_p_127220.md)**
-  - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127220.md) · [원문](https://www.seedworld.com/europe/2026/09/01/eu-ppwr-seed-companies-packaging/)
-  - The EU PPWR now applies to packaging used across the seed sector. Seed companies and exporters need to understand their roles, EPR duties, recyclability rules, recycled content requirements and possi…
-
-- **[The Proof is in the Product](../../items/seedworld/2026/09/https_www.seedworld.com_p_127212.md)**
-  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127212.md) · [원문](https://www.seedworld.com/us/2026/09/01/9311-biostimulant-soybean-yield-consistency/)
-  - Jord BioScience says its 9311 biostimulant delivered consistent soybean performance across multiple years of field trials, showing yield, biomass, emergence, nodulation and vigor benefits under varia…
-
-- **[Canada’s Next Crop Varieties Depend on What Happens Now: Curt Baldwin](../../items/seedworld/2026/09/https_www.seedworld.com_p_127201.md)**
-  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127201.md) · [원문](https://www.seedworld.com/canada/2026/09/01/plant-breeding-investment-canada/)
-  - Creating a sustainable environment for public and private plant breeding investment will be essential to delivering the genetics farmers need, says the president of Seeds Canada The post Canada’s Nex…
-
-- **[ASTA Field Crop Seed Convention Returns to Chicago](../../items/seedworld/2026/09/https_www.seedworld.com_p_127205.md)**
-  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127205.md) · [원문](https://www.seedworld.com/us/2026/09/01/field-crop-seed-convention-returns-chicago/)
-  - The Field Crop Seed Convention will return to Chicago Dec. 7-10, 2026, after three years in Orlando.
-
-- **[How Rigorous R&D Delivers Outstanding Soybean Yield and Operational Performance](../../items/seedworld/2026/09/https_www.seedworld.com_p_127112.md)**
-  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127112.md) · [원문](https://www.seedworld.com/us/2026/09/01/lumisena-prime-soybean-seed-treatment-performance/)
-  - Lumisena Prime combines fungicide and insecticide components in a single-jug soybean seed treatment designed to protect early-season plant health. Corteva says its R&D trials showed yield advantages,…
-
-- **[Why the New Plant Breeder is Part Geneticist and Part Data Scientist](../../items/seedworld/2026/09/https_www.seedworld.com_p_127189.md)**
-  - 2026-09-01 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127189.md) · [원문](https://www.seedworld.com/canada/2026/08/31/ai-lentil-breeding-luke-dojack/)
-  - A University of Saskatchewan PhD student is combining field experience, genetics and AI to build faster, more practical tools for lentil breeding The post Why the New Plant Breeder is Part Geneticist…
-
-
-## 2026-08
-
-- **[Seed Certification Was Built for Trust. It Has to Be Built for Change, Too](../../items/seedworld/2026/08/https_www.seedworld.com_p_127177.md)**
-  - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127177.md) · [원문](https://www.seedworld.com/canada/2026/08/31/future-seed-certification-canada/)
-  - Shannon Bieman takes on the CSGA presidency as seed certification continues to evolve, bringing her perspective on the people, technology and priorities shaping its future The post Seed Certification…
-
-- **[When Your Seed Expertise Becomes a Bridge to Recovery](../../items/seedworld/2026/08/https_www.seedworld.com_p_127181.md)**
-  - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127181.md) · [원문](https://www.seedworld.com/us/2026/08/31/seed-health-testing-jamaica-hurricane-recovery/)
-  - After Hurricane Melissa devastated farms in Jamaica, donated vegetable seed offered organic growers a path back to production. Seed health testing, regulatory cooperation and industry collaboration h…
-
-- **[Finding Your Competitive Advantage in a Crowded Seed Market](../../items/seedworld/2026/08/https_www.seedworld.com_p_127147.md)**
-  - 2026-08-31 · [읽기](../../items/seedworld/2026/08/https_www.seedworld.com_p_127147.md) · [원문](https://www.seedworld.com/us/2026/08/31/competitive-advantage-seed-market/)
-  - Competitive advantage is not always found in products, pricing or scale. This article explains how seed companies can identify why customers choose them and turn that difference into a repeatable bus…
