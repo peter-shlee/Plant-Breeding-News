@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/09/29/making-plant-bree
 summary: "Seed grower and RDAR director Kelly Barany calls for breeding priorities shaped by farm needs, shorter timelines, and funding that sustains useful varieties. The post Where Should We Place Our Bets?"
 attachments: []
 tags: []
-fetched_at: "2026-10-02T10:03:22+09:00"
+fetched_at: "2026-10-05T09:07:02+09:00"
 ---
 # Where Should We Place Our Bets? Breeding for the Bottom Line | On The Brink: Season 3, Episode 4
 

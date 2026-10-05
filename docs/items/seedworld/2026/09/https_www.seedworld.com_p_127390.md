@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/10/future-canadian-plant-breeding
 summary: "The countries that lead plant breeding will be those that connect data, people and investment quickly enough to respond to changing farm conditions The post The Slowest Part of Plant Breeding May No Longer Be Biology appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-10-02T10:03:22+09:00"
+fetched_at: "2026-10-05T09:07:02+09:00"
 ---
 # The Slowest Part of Plant Breeding May No Longer Be Biology
 

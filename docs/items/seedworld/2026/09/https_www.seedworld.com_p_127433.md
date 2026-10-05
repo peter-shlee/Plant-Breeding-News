@@ -11,7 +11,7 @@ tags:
   - "gene-editing"
   - "감귤"
   - "감자"
-fetched_at: "2026-10-02T10:03:22+09:00"
+fetched_at: "2026-10-05T09:07:02+09:00"
 ---
 # CRISPR-Combo Speeds Gene-Edited Crop Regeneration
 

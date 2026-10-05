@@ -11,9 +11,13 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[Euroseeds Urges Focus on Variety Performance in Organic Breeding Rules](../../items/seedworld/2026/10/https_www.seedworld.com_p_127708.md)**
+  - 2026-10-03 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127708.md) · [원문](https://www.seedworld.com/europe/2026/10/02/organic-breeding-rules-variety-choice/)
+  - The organisation says proposed breeding requirements could restrict variety choice and urges policymakers to prioritise certified organic seed availability. Euroseeds is calling on EU policymakers to…
+
 - **[Better Genetics Are Running Into an Infrastructure Problem](../../items/seedworld/2026/10/https_www.seedworld.com_p_127702.md)**
   - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127702.md) · [원문](https://www.seedworld.com/canada/2026/10/01/better-genetics-are-running-into-an-infrastructure-problem/)
-  - As breeding tools become more powerful, Canada’s testing, delivery and funding systems are becoming just as important as the science itself. For a long time, the easiest way to talk about plant breed…
+  - As breeding tools become more powerful, Canada’s testing, delivery and funding systems are becoming just as important as the science itself The post Better Genetics Are Running Into an Infrastructure…
 
 - **[Canola Breeding Has Changed. So Has the Meaning of a Better Hybrid](../../items/seedworld/2026/10/https_www.seedworld.com_p_127696.md)**
   - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127696.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canola-breeding-harvest-efficiency/)
@@ -21,31 +25,31 @@ source: "seedworld"
 
 - **[The Most Important Innovation in Pulse Breeding May Be the Network](../../items/seedworld/2026/10/https_www.seedworld.com_p_127693.md)**
   - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127693.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canadian-pulse-breeding-genomic-selection/)
-  - Genomics gets the attention, but collaboration among breeders, researchers, producers and seed companies could determine how quickly the technology delivers. For years, Canadian pulse breeders have w…
+  - Genomics gets the attention, but collaboration among breeders, researchers, producers and seed companies could determine how quickly the technology delivers The post The Most Important Innovation in…
 
 - **[Alberta Seed Growers Push to Protect Variety Testing as Research Capacity Shrinks](../../items/seedworld/2026/10/https_www.seedworld.com_p_127689.md)**
   - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127689.md) · [원문](https://www.seedworld.com/canada/2026/10/01/alberta-seed-growers-regional-variety-testing/)
-  - President Sarah Weigum says reliable regional trials and seed purity testing are essential to reducing risk and getting improved genetics into farmers’ fields faster. The Alberta-British Columbia See…
+  - President Sarah Weigum says reliable regional trials and seed purity testing are essential to reducing risk and getting improved genetics into farmers’ fields faster The post Alberta Seed Growers Pus…
 
 - **[The Best Seed Coating Service is the One You Don’t Have to Worry About](../../items/seedworld/2026/10/https_www.seedworld.com_p_127686.md)**
   - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127686.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-coating-service-dont-worry-about/)
-  - Our company has been serving the seed industry since 1956, and over the decades we’ve gained a wealth of experience in pretty much everything from packaging and logistics to quality assurance and imp…
+  - A dependable seed coating service can help seed companies manage tight timelines, custom coating needs and consistent product quality. Ryan Schrock of Seed Coating Solutions explains why communicatio…
 
 - **[What Seed Companies Really Need Biologicals to Do](../../items/seedworld/2026/10/https_www.seedworld.com_p_127684.md)**
   - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127684.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-companies-biologicals/)
-  - I spend a lot of time talking with seed companies about biologicals. Those conversations rarely start with microbial ecology or modes of action.
+  - Seed companies need biologicals that move quickly from discovery to field proof, fit existing seed treatment systems and deliver consistent grower value. Jord Bioscience says the standard is not just…
 
-- **[Leonardo Costa, on Corteva’s Seed Applied Technologies (SAT) Next Chapter in EMEA](../../items/seedworld/2026/10/https_www.seedworld.com_p_127674.md)**
+- **[Leonardo Costa on Corteva’s Seed Applied Technologies (SAT) Next Chapter in EMEA](../../items/seedworld/2026/10/https_www.seedworld.com_p_127674.md)**
   - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127674.md) · [원문](https://www.seedworld.com/europe/2026/10/01/leonardo-costa-on-cortevas-seed-applied-technologies-sat-next-chapter-in-emea/)
-  - At a moment of change for Corteva, Leonardo Costa talks about the future of Seed Applied Technologies, the products coming through the pipeline and the team he believes will make the difference.
+  - Leonardo Costa outlines Corteva SAT priorities in EMEA, including new seed treatment products, customer partnerships, sustainability, resistance management and the team behind the business during a p…
 
 - **[Plant and Bacterial Genetics: The Two Parts of Europe’s Soybean Story](../../items/seedworld/2026/10/https_www.seedworld.com_p_127537.md)**
   - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127537.md) · [원문](https://www.seedworld.com/europe/2026/10/01/soybean-inoculant-europe-production/)
-  - Plant genetics unlocked soybean’s potential in Europe. Protealis believes bacterial genetics could unlock what comes next.
+  - Protealis is pairing plant breeding with a soybean inoculant designed for European conditions. Its MagNfix technology aims to make pre-inoculated seed practical by maintaining bacterial viability for…
 
 - **[Europe’s Embrace of Next Generation Technology a Huge Step Forward](../../items/seedworld/2026/10/https_www.seedworld.com_p_127652.md)**
   - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127652.md) · [원문](https://www.seedworld.com/europe/2026/10/01/new-genomic-techniques-european-plant-breeding/)
-  - I have defended genetically modified crops since I was a student, when people first warned me that large transnational companies would take over and make food more expensive.
+  - Europe’s New Genomic Techniques framework opens new opportunities for plant breeders to develop improved crop varieties faster. Enid Perez-Lara argues that clear science communication will be essenti…
 
 
 ## 2026-09
@@ -305,59 +309,3 @@ source: "seedworld"
 - **[AgroENSO Maps El Niño Impacts on Argentina Crops](../../items/seedworld/2026/09/https_www.seedworld.com_p_127307.md)**
   - 2026-09-06 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127307.md) · [원문](https://www.seedworld.com/latam/2026/09/05/agroenso-el-nino-argentina-crops/)
   - AgroENSO is a free platform developed by CONICET and INTA scientists to show how El Niño and La Niña have affected corn, soybeans, wheat, barley and sunflower yields across Argentina.
-
-- **[AgroENSO mide el impacto de El Niño en cultivos argentinos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127304.md)**
-  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127304.md) · [원문](https://www.seedworld.com/latam/2026/09/04/agroenso-impacto-el-nino-cultivos-argentina/)
-  - AgroENSO es una plataforma gratuita desarrollada por científicos del CONICET y del INTA para analizar cómo El Niño y La Niña han afectado el rendimiento de maíz, soja, trigo, cebada y girasol en Arge…
-
-- **[INASE Digital Access Portal Launches September 7](../../items/seedworld/2026/09/https_www.seedworld.com_p_127301.md)**
-  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127301.md) · [원문](https://www.seedworld.com/latam/2026/09/04/inase-digital-access-portal/)
-  - INASE digital services in Argentina will move to a single access portal beginning Sept. 7.
-
-- **[Plant Breeding Investment Needs Faster Decisions](../../items/seedworld/2026/09/https_www.seedworld.com_p_127157.md)**
-  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127157.md) · [원문](https://www.seedworld.com/us/2026/09/04/plant-breeding-investment-faster-decisions/)
-  - Canada has been a global leader in crop production and plant breeding for a long time. But leadership is never permanent.
-
-- **[What This New Partnership Could Mean for Every Wheat and Barley Farmer](../../items/seedworld/2026/09/https_www.seedworld.com_p_127398.md)**
-  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127398.md) · [원문](https://www.seedworld.com/canada/2026/09/03/wheat-barley-breeding-partnership-canada/)
-  - The CWRC and CBRC have formalized a partnership aimed at building a more innovative, resilient breeding system for Canadian farmers The post What This New Partnership Could Mean for Every Wheat and B…
-
-- **[CO₂ Fertilization and Crop Yield Policy Blind Spots](../../items/seedworld/2026/09/https_www.seedworld.com_p_127162.md)**
-  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127162.md) · [원문](https://www.seedworld.com/us/2026/09/03/co2-fertilisation-crop-yield-policy/)
-  - CO₂ fertilisation may be an overlooked factor in crop yield growth, according to recent NBER research using satellite data. Marcel Bruins explores what the findings could mean for plant breeding, pro…
-
-- **[Molecular Switch Helps Crops Handle Heat Stress](../../items/seedworld/2026/09/https_www.seedworld.com_p_127231.md)**
-  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127231.md) · [원문](https://www.seedworld.com/europe/2026/09/03/crop-heat-stress-molecular-switch/)
-  - Researchers have identified a molecular mechanism that could support crop heat stress resilience by keeping stomata open during high temperatures. The discovery offers new insight into plant cooling,…
-
-- **[Ag Economy Barometer Rises as Farm Outlook Improves](../../items/seedworld/2026/09/https_www.seedworld.com_p_127276.md)**
-  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127276.md) · [원문](https://www.seedworld.com/us/2026/09/03/ag-economy-barometer-farm-outlook-improves/)
-  - The Ag Economy Barometer climbed in August as U.S. farmers expressed stronger confidence in future financial performance and agricultural exports.
-
-- **[TÍTULO SEO:El portal de acceso digital de INASE se lanza el 7 de septiembre](../../items/seedworld/2026/09/https_www.seedworld.com_p_127299.md)**
-  - 2026-09-04 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127299.md) · [원문](https://www.seedworld.com/latam/2026/09/03/portal-acceso-digital-inase/)
-  - EXTRACTO: Los servicios digitales de INASE en Argentina pasarán a un portal de acceso único a partir del 7 de septiembre. Los usuarios necesitarán una Clave Fiscal ARCA válida para gestionar pagos, r…
-
-- **[Seed Sector 2045: Is Europe Competitive for Plant Breeding Innovation?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127237.md)**
-  - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127237.md) · [원문](https://www.seedworld.com/europe/2026/09/03/europe-plant-breeding-innovation/)
-  - Europe has strong plant breeding talent, public research and seed systems, but plant breeding innovation depends on more than ambition. NGT regulation, PRM reform, research funding, intellectual prop…
-
-- **[Why the “Plant Breeding Pipeline” is the Wrong Model for Canada](../../items/seedworld/2026/09/https_www.seedworld.com_p_127292.md)**
-  - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127292.md) · [원문](https://www.seedworld.com/canada/2026/09/02/canada-smarter-seed-system/)
-  - Breeding, registration and seed certification can no longer operate as isolated steps in an era of continuous data and rapid innovation The post Why the “Plant Breeding Pipeline” is the Wrong Model f…
-
-- **[You Can Process More Lines. You Can’t Automate Better Ideas.](../../items/seedworld/2026/09/https_www.seedworld.com_p_127287.md)**
-  - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127287.md) · [원문](https://www.seedworld.com/canada/2026/09/02/15-year-bet-canadian-plant-breeding/)
-  - Technology lets breeders evaluate tens of thousands of candidates, but Brian Rossnagel says efficiency cannot replace scientific talent and competing ways of thinking The post You Can Process More Li…
-
-- **[Wolfson Foundation Funds Plant Research Facilities](../../items/seedworld/2026/09/https_www.seedworld.com_p_127228.md)**
-  - 2026-09-03 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127228.md) · [원문](https://www.seedworld.com/europe/2026/09/02/wolfson-foundation-plant-research-facilities/)
-  - The Wolfson Foundation is investing £1.6 million in plant research facilities at the John Innes Centre and The Sainsbury Laboratory. The funding will support LED lighting for a new glasshouse, insect…
-
-- **[Vylor Corn Roadmap Shows Corteva’s Seed Strategy](../../items/seedworld/2026/09/https_www.seedworld.com_p_127272.md)**
-  - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127272.md) · [원문](https://www.seedworld.com/us/2026/09/02/vylor-corn-roadmap-corteva-seed-strategy/)
-  - Corteva has released a Vylor corn roadmap that outlines the future seed and genetics company’s planned technology platforms through 2035, including yield traits, gene editing, insect control and lice…
-
-- **[The Economics of Climate-Friendly Grains](../../items/seedworld/2026/09/https_www.seedworld.com_p_127150.md)**
-  - 2026-09-02 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127150.md) · [원문](https://www.seedworld.com/us/2026/09/02/the-economics-of-climate-friendly-grains/)
-  - Climate-friendly grains such as intermediate wheatgrass may attract consumers willing to pay more for sustainable bread. New Cornell research suggests demand exists, but taste, yield, processing infr…

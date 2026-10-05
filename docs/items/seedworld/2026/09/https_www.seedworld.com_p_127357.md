@@ -9,7 +9,7 @@ summary: "Corn breeder Zachary Jones explains why communication, confidence and 
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-10-02T10:03:22+09:00"
+fetched_at: "2026-10-05T09:07:02+09:00"
 ---
 # A Big Lesson from NAPB ’26: Technology Isn’t Enough
 

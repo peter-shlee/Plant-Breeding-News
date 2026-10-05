@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "밀"
   - "옥수수"
-fetched_at: "2026-10-02T10:03:22+09:00"
+fetched_at: "2026-10-05T09:07:02+09:00"
 ---
 # AgroENSO Maps El Niño Impacts on Argentina Crops
 
