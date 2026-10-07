@@ -11,9 +11,37 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[What Genomic Prediction is Worth to Your Program](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md)**
+  - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md) · [원문](https://www.seedworld.com/us/2026/10/06/genomic-prediction-plant-breeding-cost/)
+  - Genomic prediction pricing has turned into a rumor market. The figures you hear at breeding conferences, and will hear in Valencia at Euroseeds, span two orders of magnitude — and both extremes can b…
+
+- **[USDA Invests $180 Million in National Plant Germplasm System](../../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md)**
+  - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md) · [원문](https://www.seedworld.com/us/2026/10/06/usda-invests-national-plant-germplasm-system/)
+  - Funding will support the preservation and use of plant genetic resources that underpin crop breeding and agricultural research. The American Seed Trade Association welcomed the U.S.
+
+- **[Seed Innovators Need a Clear Path to Market](../../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md)**
+  - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovators-path-market/)
+  - For seed innovators, winning investment means showing who will buy, what development will cost, and when the science can deliver a return. For seed innovators, attracting capital takes a credible pat…
+
+- **[Wheat Geneticist Jorge Dubcovsky Named 2026 World Agriculture Prize Laureate](../../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md)**
+  - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md) · [원문](https://www.seedworld.com/us/2026/10/05/jorge-dubcovsky-world-agriculture-prize-laureate/)
+  - The UC Davis researcher’s work has helped breeding programs develop wheat varieties with improved yield, disease resistance and adaptation to changing growing conditions.
+
+- **[Give Your Team an Hour to Grow](../../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md)**
+  - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md) · [원문](https://www.seedworld.com/us/2026/10/05/webinars-seed-teams-hour-grow/)
+  - You recognize your employees’ potential and want to help them grow, stay updated, and bring new ideas to the company. But when you look at the training budget, conferences can mean registration fees,…
+
+- **[The Corteva-Inari Case Is Settled… But the Bigger Questions Aren’t.](../../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md)**
+  - 2026-10-05 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovation-ip-questions/)
+  - We’re just at the start of figuring out how to balance protecting investment with furthering innovation. In my three decades in the business of seeds, I’ve seen very few topics complicate a conversat…
+
+- **[Vylor Is Open for Business: What Changes for Europe’s Seed Sector](../../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md)**
+  - 2026-10-05 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md) · [원문](https://www.seedworld.com/europe/2026/10/05/vylor-seed-genetics-europe/)
+  - Vylor, the new standalone advanced seed and genetics company, brings established brands, germplasm and global R&D scale. The more interesting story is how the company intends to use them.
+
 - **[Euroseeds Urges Focus on Variety Performance in Organic Breeding Rules](../../items/seedworld/2026/10/https_www.seedworld.com_p_127708.md)**
   - 2026-10-03 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127708.md) · [원문](https://www.seedworld.com/europe/2026/10/02/organic-breeding-rules-variety-choice/)
-  - The organisation says proposed breeding requirements could restrict variety choice and urges policymakers to prioritise certified organic seed availability. Euroseeds is calling on EU policymakers to…
+  - Euroseeds is urging EU policymakers to keep organic breeding rules focused on variety performance, warning that additional breeding-process requirements could raise costs, reduce genetic access and l…
 
 - **[Better Genetics Are Running Into an Infrastructure Problem](../../items/seedworld/2026/10/https_www.seedworld.com_p_127702.md)**
   - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127702.md) · [원문](https://www.seedworld.com/canada/2026/10/01/better-genetics-are-running-into-an-infrastructure-problem/)
@@ -305,7 +333,3 @@ source: "seedworld"
 - **[How Plant ETP Supports Plant Breeding Innovation](../../items/seedworld/2026/09/https_www.seedworld.com_p_127240.md)**
   - 2026-09-07 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127240.md) · [원문](https://www.seedworld.com/europe/2026/09/07/plant-etp-plant-breeding-innovation/)
   - Plant ETP connects researchers, breeders, farmers and seed sector stakeholders to align priorities for European plant breeding innovation. Its work spans NGT implementation, future EU research fundin…
-
-- **[AgroENSO Maps El Niño Impacts on Argentina Crops](../../items/seedworld/2026/09/https_www.seedworld.com_p_127307.md)**
-  - 2026-09-06 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127307.md) · [원문](https://www.seedworld.com/latam/2026/09/05/agroenso-el-nino-argentina-crops/)
-  - AgroENSO is a free platform developed by CONICET and INTA scientists to show how El Niño and La Niña have affected corn, soybeans, wheat, barley and sunflower yields across Argentina.

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/24/farming-future-uncertainty/"
 summary: "Breeders, researchers and farmers have to make decisions years before they know which ideas will succeed The post The Next Great Crop May Begin as an Uncertain Bet appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-10-05T09:07:02+09:00"
+fetched_at: "2026-10-07T09:57:19+09:00"
 ---
 # The Next Great Crop May Begin as an Uncertain Bet
 

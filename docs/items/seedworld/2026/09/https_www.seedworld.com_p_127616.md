@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/25/can-canada-deliver-seed-farmer
 summary: "From variety trials to seed increase, four industry leaders identify the weak points between a breeding breakthrough and the farm gate The post What Could Slow the Next Great Seed Variety?"
 attachments: []
 tags: []
-fetched_at: "2026-10-05T09:07:02+09:00"
+fetched_at: "2026-10-07T09:57:19+09:00"
 ---
 # What Could Slow the Next Great Seed Variety?
 

@@ -9,7 +9,7 @@ summary: "At UC Davis, Reagan Reed is testing how genes work together to influen
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-10-05T09:07:02+09:00"
+fetched_at: "2026-10-07T09:57:19+09:00"
 ---
 # Can Gene Editing Give Seeds a Stronger Start?
 

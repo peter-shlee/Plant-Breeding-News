@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/25/from-treatment-to-planting-pro
 summary: "On-seed viability is an important consideration for pea and lentil seed treaters using rhizobium inoculants. Treatment timing, storage temperature, product compatibility and planting schedules all affect whether viable bacteria reach the"
 attachments: []
 tags: []
-fetched_at: "2026-10-05T09:07:02+09:00"
+fetched_at: "2026-10-07T09:57:19+09:00"
 ---
 # From Treatment to Planting: Protecting Rhizobium Viability in Pulses
 

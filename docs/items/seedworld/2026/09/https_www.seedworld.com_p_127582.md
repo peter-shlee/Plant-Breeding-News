@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/23/canada-new-crops-new-markets/"
 summary: "Darcy Pawlik sees a way to connect farmers and researchers with the investment, expertise and customers needed to commercialize new ideas The post How Saskatchewan Can Grow Canada’s Bioeconomy appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-10-05T09:07:02+09:00"
+fetched_at: "2026-10-07T09:57:19+09:00"
 ---
 # How Saskatchewan Can Grow Canada’s Bioeconomy
 

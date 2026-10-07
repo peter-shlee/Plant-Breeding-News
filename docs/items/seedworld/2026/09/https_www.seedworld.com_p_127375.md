@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/10/agri-2040-eu-agri-food-innovat
 summary: "AgRI 2040 and Food 2040 will guide EU-funded research, innovation and market deployment across agriculture, forestry, rural areas and food systems, with Euroseeds calling for sustained investment in plant breeding and seed innovation."
 attachments: []
 tags: []
-fetched_at: "2026-10-05T09:07:02+09:00"
+fetched_at: "2026-10-07T09:57:19+09:00"
 ---
 # AgRI 2040 Sets EU Agri-Food Innovation Priorities
 

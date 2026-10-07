@@ -9,7 +9,7 @@ summary: "University of Manitoba researcher Shruti Kashyap is uncovering how wat
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-10-05T09:07:02+09:00"
+fetched_at: "2026-10-07T09:57:19+09:00"
 ---
 # How Drought is Changing Canola’s Battle With Verticillium Stripe
 
