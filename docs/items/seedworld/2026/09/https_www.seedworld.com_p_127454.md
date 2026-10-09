@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/21/seed-size-signal-bigger-crop-s
 summary: "Seed size research has identified a peptide signal that helps coordinate communication between the embryo and endosperm during seed development. Early crop proof-of-concept work suggests boosting the pathway could support larger seeds."
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Seed Size Signal Could Support Bigger Crop Seeds
 

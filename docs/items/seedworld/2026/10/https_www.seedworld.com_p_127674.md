@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/01/leonardo-costa-on-cortevas-see
 summary: "Leonardo Costa outlines Corteva SAT priorities in EMEA, including new seed treatment products, customer partnerships, sustainability, resistance management and the team behind the business during a period of major company change."
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Leonardo Costa on Corteva’s Seed Applied Technologies (SAT) Next Chapter in EMEA
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/23/albaugh-seed-treatments-right-from
 summary: "Albaugh seed treatment solutions reflect the company's farmer-founded approach to crop protection, offering traditional chemistries, newer active ingredients and biological options."
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Albaugh Seed Treatments: Right from the Start.
 

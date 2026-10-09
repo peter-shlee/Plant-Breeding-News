@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/01/better-genetics-are-running-in
 summary: "As breeding tools become more powerful, Canada’s testing, delivery and funding systems are becoming just as important as the science itself The post Better Genetics Are Running Into an Infrastructure Problem appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Better Genetics Are Running Into an Infrastructure Problem
 

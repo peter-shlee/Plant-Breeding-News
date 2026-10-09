@@ -9,7 +9,7 @@ summary: "Soybean cultivars will be evaluated through RRECSO-Americas, a regiona
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Soybean Cultivars to Be Tested Across the Americas
 

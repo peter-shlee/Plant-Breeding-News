@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/14/ukraine-gmo-law-seed-rules-eu-
 summary: "Ukraine GMO law will introduce a broader framework for genetic engineering, GMO registration, labelling, traceability and enforcement. For the seed sector, the reset raises practical questions about implementation, crop restrictions and"
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Ukraine’s New GMO Law: What It Means for the Seed Sector and EU Integration
 

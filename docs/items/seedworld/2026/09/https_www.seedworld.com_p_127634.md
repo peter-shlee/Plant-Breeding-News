@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/28/customer-relationships-shared-lear
 summary: "In the seed industry, the value of customer relationships extends beyond sales. Ahern’s four-decade partnership with Rancho Los Pinos shows how trust, candid feedback and shared learning can help both businesses make better decisions."
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # The Value of a Relationship That Goes Beyond Business
 

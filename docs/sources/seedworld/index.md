@@ -11,33 +11,73 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[The Most Expensive Word in Farming is “Almost”](../../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md)**
+  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md) · [원문](https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/)
+  - Canada invests heavily in plant breeding, seed certification and technology. But the real challenge may be turning that innovation into measurable value for farmers.
+
+- **[What CSGA’s New Executive Director Wants Farmers to Know](../../items/seedworld/2026/10/https_www.seedworld.com_p_127822.md)**
+  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127822.md) · [원문](https://www.seedworld.com/canada/2026/10/08/csga-future-seed-certification-canada/)
+  - C.J. Noble outlines her vision for certified seed, regulatory modernization and the importance of demonstrating real economic value to farmers.
+
+- **[Why Saskatchewan Seed Growers are Thinking Beyond Certified Seed](../../items/seedworld/2026/10/https_www.seedworld.com_p_127813.md)**
+  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127813.md) · [원문](https://www.seedworld.com/canada/2026/10/08/saskatchewan-seed-growers-beyond-certified-seed/)
+  - From defending research farms to tackling slow adoption, the Saskatchewan Seed Growers’ Association is making the case that seed growers are central to innovation. When the future of Agriculture and…
+
+- **[How to Track Your Seed from Field to Final Sale](../../items/seedworld/2026/10/https_www.seedworld.com_p_127791.md)**
+  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127791.md) · [원문](https://www.seedworld.com/canada/2026/10/08/seed-inventory-management-software-abs/)
+  - Seed doesn’t move through a business in a straight line. On the journey to a customer, it gets inspected, cleaned, dried, tested and packaged, and by the time it’s ready for shipping, it might look v…
+
+- **[Great Wheat Traits Are Being Found. Why Aren’t More Reaching Breeders?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127776.md)**
+  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127776.md) · [원문](https://www.seedworld.com/europe/2026/10/08/niab-wheat-pre-breeding-europe/)
+  - A new international pre breeding hub will move promising traits into elite European wheat backgrounds and put them directly into commercial breeder trials across Europe.
+
+- **[The Flavour Tomato Breeders Lost May Still Be Hiding in the Wild](../../items/seedworld/2026/10/https_www.seedworld.com_p_127756.md)**
+  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127756.md) · [원문](https://www.seedworld.com/europe/2026/10/08/wild-tomato-relatives-restore-flavour/)
+  - Researchers have mapped regulatory switches in wild tomato relatives that could help breeders recover flavour and nutritional traits without undoing decades of improvement in yield, size and shelf li…
+
 - **[What Genomic Prediction is Worth to Your Program](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md)**
-  - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md) · [원문](https://www.seedworld.com/us/2026/10/06/genomic-prediction-plant-breeding-cost/)
-  - Genomic prediction pricing has turned into a rumor market. The figures you hear at breeding conferences, and will hear in Valencia at Euroseeds, span two orders of magnitude — and both extremes can b…
+  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md) · [원문](https://www.seedworld.com/europe/2026/10/07/genomic-prediction-plant-breeding-cost/)
+  - Genomic prediction pricing has turned into a rumor market. The figures you hear at breeding conferences, and will hear in Valencia at Euroseeds, span two orders of magnitude — and […] The post What G…
+
+- **[Making a Case for End Point Royalties | On The Brink: Season 3, Episode 5](../../items/seedworld/2026/10/https_www.seedworld.com_p_127773.md)**
+  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127773.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/07/making-the-case-for-end-point-royalties-on-the-brink-season-3-episode-5/)
+  - Making a Case for End Point Royalties Could the varieties farmers choose help determine where future plant breeding investment goes? In On The Brink, Season 3, Episode 5, Sarah Weigum of Alect Seeds…
+
+- **[What Agricultural Innovation Looks Like Up Close](../../items/seedworld/2026/10/https_www.seedworld.com_p_127659.md)**
+  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127659.md) · [원문](https://www.seedworld.com/europe/2026/10/07/agricultural-innovation-reliability-uncertainty/)
+  - I have stood in fields on different continents and heard the same concern in many languages: agriculture is becoming harder to predict. Changing growing conditions, volatile weather and market forces…
+
+- **[Seed Sector 2045: Why Plant Breeding IP Matters for Europe’s Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_127740.md)**
+  - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127740.md) · [원문](https://www.seedworld.com/europe/2026/10/07/plant-breeding-ip-europe-future/)
+  - How plant breeders’ rights, patents, licensing platforms and patent transparency will shape seed innovation in Europe. In my experience, few topics in the seed sector create more debate than intellec…
+
+- **[What If Half the Wheat Diversity in the Catalogue Was Not Really Different?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md)**
+  - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md) · [원문](https://www.seedworld.com/europe/2026/10/07/glu-b1-catalogue-wheat-diversity/)
+  - A global review of GLU B1 shows that many supposedly distinct alleles were duplicates, prompting researchers to rebuild the resource around verified genetic diversity. Researchers at the University o…
 
 - **[USDA Invests $180 Million in National Plant Germplasm System](../../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md)**
   - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md) · [원문](https://www.seedworld.com/us/2026/10/06/usda-invests-national-plant-germplasm-system/)
-  - Funding will support the preservation and use of plant genetic resources that underpin crop breeding and agricultural research. The American Seed Trade Association welcomed the U.S.
+  - The National Plant Germplasm System will receive $180 million from USDA to strengthen seed banks, safeguard plant genetic resources and support crop breeding, research and future variety development.
 
 - **[Seed Innovators Need a Clear Path to Market](../../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md)**
   - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovators-path-market/)
-  - For seed innovators, winning investment means showing who will buy, what development will cost, and when the science can deliver a return. For seed innovators, attracting capital takes a credible pat…
+  - Seed innovators need more than scientific validation to attract capital. Paola de Almeida says credible commercialization depends on understanding the customer, matching financing to development mile…
 
 - **[Wheat Geneticist Jorge Dubcovsky Named 2026 World Agriculture Prize Laureate](../../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md)**
   - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md) · [원문](https://www.seedworld.com/us/2026/10/05/jorge-dubcovsky-world-agriculture-prize-laureate/)
-  - The UC Davis researcher’s work has helped breeding programs develop wheat varieties with improved yield, disease resistance and adaptation to changing growing conditions.
+  - Jorge Dubcovsky, a wheat geneticist at UC Davis, has been named the 2026 World Agriculture Prize Laureate for his contributions to wheat improvement, disease resistance, yield and global food securit…
 
 - **[Give Your Team an Hour to Grow](../../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md)**
   - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md) · [원문](https://www.seedworld.com/us/2026/10/05/webinars-seed-teams-hour-grow/)
-  - You recognize your employees’ potential and want to help them grow, stay updated, and bring new ideas to the company. But when you look at the training budget, conferences can mean registration fees,…
+  - Webinars offer seed businesses a practical way to support professional development when travel and conference costs are high. Giving employees an hour to learn can spark new ideas, better processes a…
 
 - **[The Corteva-Inari Case Is Settled… But the Bigger Questions Aren’t.](../../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md)**
   - 2026-10-05 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovation-ip-questions/)
-  - We’re just at the start of figuring out how to balance protecting investment with furthering innovation. In my three decades in the business of seeds, I’ve seen very few topics complicate a conversat…
+  - The Corteva-Inari settlement leaves larger questions unresolved about how seed innovation should balance intellectual property protection, access to biological material, licensing and freedom to oper…
 
 - **[Vylor Is Open for Business: What Changes for Europe’s Seed Sector](../../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md)**
   - 2026-10-05 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md) · [원문](https://www.seedworld.com/europe/2026/10/05/vylor-seed-genetics-europe/)
-  - Vylor, the new standalone advanced seed and genetics company, brings established brands, germplasm and global R&D scale. The more interesting story is how the company intends to use them.
+  - Vylor seed genetics enters Europe with established brands, breeding programs and global R&D scale. Its leadership sees future growth coming from gene editing, new crops and a larger role as a genetic…
 
 - **[Euroseeds Urges Focus on Variety Performance in Organic Breeding Rules](../../items/seedworld/2026/10/https_www.seedworld.com_p_127708.md)**
   - 2026-10-03 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127708.md) · [원문](https://www.seedworld.com/europe/2026/10/02/organic-breeding-rules-variety-choice/)
@@ -305,31 +345,3 @@ source: "seedworld"
 - **[SUSTAINCrop to Measure Industrial Crop Footprints](../../items/seedworld/2026/09/https_www.seedworld.com_p_127319.md)**
   - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127319.md) · [원문](https://www.seedworld.com/latam/2026/09/09/sustaincrop-industrial-crop-footprints/)
   - SUSTAINCrop is a European Union-funded project that will develop a digital tool to assess the environmental footprint of industrial crops such as corn, canola, soybeans, sugar cane, cotton and sunflo…
-
-- **[OP-ED: Why Canada’s Plant Breeding Advantage is No Longer Guaranteed](../../items/seedworld/2026/09/https_www.seedworld.com_p_127345.md)**
-  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127345.md) · [원문](https://www.seedworld.com/canada/2026/09/08/canadian-plant-breeding-investment/)
-  - Kenny Piecharka of KWS says conversations that once happened in the hallway are finally happening in the room. That’s progress.
-
-- **[Açaí Nanofertilizer Boosts Corn and Sorghum Growth](../../items/seedworld/2026/09/https_www.seedworld.com_p_127313.md)**
-  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127313.md) · [원문](https://www.seedworld.com/latam/2026/09/08/acai-nanofertilizer-corn-sorghum-growth/)
-  - Açaí nanofertilizer developed by Embrapa and the Federal University of Ceará increased plant growth and root volume in short-season corn and sorghum varieties. Researchers say the product could turn…
-
-- **[SUSTAINCrop medirá la huella ambiental de cultivos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127316.md)**
-  - 2026-09-08 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127316.md) · [원문](https://www.seedworld.com/latam/2026/09/08/sustaincrop-huella-ambiental-cultivos/)
-  - SUSTAINCrop es un proyecto internacional financiado por la Unión Europea que desarrollará una herramienta digital para evaluar la huella ambiental de cultivos industriales como maíz, canola, soja, ca…
-
-- **[Plant Hormones Reveal Crop Disease Resistance Pathway](../../items/seedworld/2026/09/https_www.seedworld.com_p_127234.md)**
-  - 2026-09-08 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127234.md) · [원문](https://www.seedworld.com/europe/2026/09/07/crop-disease-resistance-plant-hormones/)
-  - Technical University of Munich researchers have identified a hormone-controlled mechanism that regulates the trade-off between plant growth and crop disease resistance.
-
-- **[AI Crop Breeding Project Targets Stronger Cereals](../../items/seedworld/2026/09/https_www.seedworld.com_p_127279.md)**
-  - 2026-09-08 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127279.md) · [원문](https://www.seedworld.com/us/2026/09/07/ai-crop-breeding-stronger-cereals/)
-  - A $6 million AI crop breeding project led by University of Idaho researchers aims to help breeders develop stronger wheat, corn and sorghum plants. The work will combine harvest-integrated sensors, p…
-
-- **[Nanofertilizante de açaí impulsa maíz y sorgo](../../items/seedworld/2026/09/https_www.seedworld.com_p_127310.md)**
-  - 2026-09-07 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127310.md) · [원문](https://www.seedworld.com/latam/2026/09/07/nanofertilizante-acai-maiz-sorgo/)
-  - Un nanofertilizante elaborado a partir de semillas de açaí desechadas estimuló el crecimiento del maíz y el sorgo en ensayos de Embrapa y la Universidad Federal de Ceará.
-
-- **[How Plant ETP Supports Plant Breeding Innovation](../../items/seedworld/2026/09/https_www.seedworld.com_p_127240.md)**
-  - 2026-09-07 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127240.md) · [원문](https://www.seedworld.com/europe/2026/09/07/plant-etp-plant-breeding-innovation/)
-  - Plant ETP connects researchers, breeders, farmers and seed sector stakeholders to align priorities for European plant breeding innovation. Its work spans NGT implementation, future EU research fundin…

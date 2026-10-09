@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/09/28/bluemuda-turfgrass-reduce-sports-f
 summary: "Researchers at Oklahoma State University and Mississippi State University are testing 60 bluemuda turfgrass combinations to determine whether pairing bermudagrass and Kentucky bluegrass can maintain year-round playing surfaces while"
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Bluemuda Turfgrass Could Reduce Sports Field Irrigation
 

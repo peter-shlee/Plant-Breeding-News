@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/01/alberta-seed-growers-regional-
 summary: "President Sarah Weigum says reliable regional trials and seed purity testing are essential to reducing risk and getting improved genetics into farmers’ fields faster The post Alberta Seed Growers Push to Protect Variety Testing as Research"
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Alberta Seed Growers Push to Protect Variety Testing as Research Capacity Shrinks
 

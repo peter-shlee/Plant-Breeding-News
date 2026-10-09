@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/latam/2026/09/11/alfalfa-soil-carbon-semiarid-ar
 summary: "Alfalfa could help build soil carbon reserves in Argentina’s semiarid cropping systems. INTA research found that systems incorporating the perennial crop accumulated 25% more soil organic carbon than continuous cropping systems."
 attachments: []
 tags: []
-fetched_at: "2026-10-07T09:57:19+09:00"
+fetched_at: "2026-10-09T10:23:58+09:00"
 ---
 # Alfalfa Builds Soil Carbon in Semiarid Argentina
 
