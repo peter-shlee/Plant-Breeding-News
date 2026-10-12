@@ -9,7 +9,7 @@ summary: "Genomics gets the attention, but collaboration among breeders, researc
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-10-09T10:23:58+09:00"
+fetched_at: "2026-10-12T09:42:12+09:00"
 ---
 # The Most Important Innovation in Pulse Breeding May Be the Network
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/15/measure-soil-health-regenerati
 summary: "From shovel tests and earthworm counts to aggregate stability and Brix readings, these practical assessments reveal whether regenerative management is working The post 7 Simple On-Farm Tests for Measuring Soil Health appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-10-09T10:23:58+09:00"
+fetched_at: "2026-10-12T09:42:12+09:00"
 ---
 # 7 Simple On-Farm Tests for Measuring Soil Health
 

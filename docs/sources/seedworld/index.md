@@ -11,6 +11,14 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[Seed Coating Technologies: A Strategic Enabler of Innovation in a Rapidly Evolving Industry](../../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md)**
+  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md) · [원문](https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-treatment-era/)
+  - Seed treatment is entering a new era. Regulatory changes, rising sustainability expectations, and the emergence of increasingly complex seed treatment technologies are reshaping the requirements for…
+
+- **[Could AI Speed Up Pheromone Discovery for Emerging Crop Pests?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127759.md)**
+  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127759.md) · [원문](https://www.seedworld.com/europe/2026/10/09/ai-pheromone-discovery-crop-pests/)
+  - By starting with insect smell receptors rather than the pheromone itself, researchers have developed a reverse engineering approach that could accelerate monitoring and mating disruption tools for cr…
+
 - **[The Most Expensive Word in Farming is “Almost”](../../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md)**
   - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md) · [원문](https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/)
   - Canada invests heavily in plant breeding, seed certification and technology. But the real challenge may be turning that innovation into measurable value for farmers.
@@ -21,19 +29,19 @@ source: "seedworld"
 
 - **[Why Saskatchewan Seed Growers are Thinking Beyond Certified Seed](../../items/seedworld/2026/10/https_www.seedworld.com_p_127813.md)**
   - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127813.md) · [원문](https://www.seedworld.com/canada/2026/10/08/saskatchewan-seed-growers-beyond-certified-seed/)
-  - From defending research farms to tackling slow adoption, the Saskatchewan Seed Growers’ Association is making the case that seed growers are central to innovation. When the future of Agriculture and…
+  - From defending research farms to tackling slow adoption, the Saskatchewan Seed Growers' Association is making the case that seed growers are central to innovation The post Why Saskatchewan Seed Growe…
 
 - **[How to Track Your Seed from Field to Final Sale](../../items/seedworld/2026/10/https_www.seedworld.com_p_127791.md)**
   - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127791.md) · [원문](https://www.seedworld.com/canada/2026/10/08/seed-inventory-management-software-abs/)
-  - Seed doesn’t move through a business in a straight line. On the journey to a customer, it gets inspected, cleaned, dried, tested and packaged, and by the time it’s ready for shipping, it might look v…
+  - Seed doesn’t move through a business in a straight line. On the journey to a customer, it gets inspected, cleaned, dried, tested and packaged, and by the time it’s ready […] The post How to Track You…
 
 - **[Great Wheat Traits Are Being Found. Why Aren’t More Reaching Breeders?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127776.md)**
   - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127776.md) · [원문](https://www.seedworld.com/europe/2026/10/08/niab-wheat-pre-breeding-europe/)
-  - A new international pre breeding hub will move promising traits into elite European wheat backgrounds and put them directly into commercial breeder trials across Europe.
+  - Niab will lead a three-year wheat pre-breeding project funded by BBSRC to move promising traits into elite European winter wheat backgrounds. The work will involve commercial breeders and internation…
 
 - **[The Flavour Tomato Breeders Lost May Still Be Hiding in the Wild](../../items/seedworld/2026/10/https_www.seedworld.com_p_127756.md)**
   - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127756.md) · [원문](https://www.seedworld.com/europe/2026/10/08/wild-tomato-relatives-restore-flavour/)
-  - Researchers have mapped regulatory switches in wild tomato relatives that could help breeders recover flavour and nutritional traits without undoing decades of improvement in yield, size and shelf li…
+  - Research from the Boyce Thompson Institute shows how wild tomato relatives may help breeders recover flavour and nutritional traits without sacrificing yield, fruit size or shelf life.
 
 - **[What Genomic Prediction is Worth to Your Program](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md)**
   - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md) · [원문](https://www.seedworld.com/europe/2026/10/07/genomic-prediction-plant-breeding-cost/)
@@ -41,19 +49,19 @@ source: "seedworld"
 
 - **[Making a Case for End Point Royalties | On The Brink: Season 3, Episode 5](../../items/seedworld/2026/10/https_www.seedworld.com_p_127773.md)**
   - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127773.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/07/making-the-case-for-end-point-royalties-on-the-brink-season-3-episode-5/)
-  - Making a Case for End Point Royalties Could the varieties farmers choose help determine where future plant breeding investment goes? In On The Brink, Season 3, Episode 5, Sarah Weigum of Alect Seeds…
+  - Could farmers’ variety choices help direct breeding investment? On The Brink explores the case for end point royalties, clearer costs and a return for public and private variety developers.
 
 - **[What Agricultural Innovation Looks Like Up Close](../../items/seedworld/2026/10/https_www.seedworld.com_p_127659.md)**
   - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127659.md) · [원문](https://www.seedworld.com/europe/2026/10/07/agricultural-innovation-reliability-uncertainty/)
-  - I have stood in fields on different continents and heard the same concern in many languages: agriculture is becoming harder to predict. Changing growing conditions, volatile weather and market forces…
+  - Agricultural innovation cannot eliminate uncertainty, but it can help farmers manage it. A visit to Bayer’s Crop Science headquarters in Monheim shows how advances in plant breeding, crop protection…
 
 - **[Seed Sector 2045: Why Plant Breeding IP Matters for Europe’s Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_127740.md)**
   - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127740.md) · [원문](https://www.seedworld.com/europe/2026/10/07/plant-breeding-ip-europe-future/)
-  - How plant breeders’ rights, patents, licensing platforms and patent transparency will shape seed innovation in Europe. In my experience, few topics in the seed sector create more debate than intellec…
+  - Plant breeding IP is becoming central to Europe’s seed innovation debate. This article explains how plant breeders’ rights, patents, licensing platforms and transparency tools can support both invest…
 
 - **[What If Half the Wheat Diversity in the Catalogue Was Not Really Different?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md)**
   - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md) · [원문](https://www.seedworld.com/europe/2026/10/07/glu-b1-catalogue-wheat-diversity/)
-  - A global review of GLU B1 shows that many supposedly distinct alleles were duplicates, prompting researchers to rebuild the resource around verified genetic diversity. Researchers at the University o…
+  - A University of Córdoba review found GLU-B1 diversity in wheat was overstated, with many recorded alleles duplicated or triplicated. The team has built a verified germplasm collection to help breeder…
 
 - **[USDA Invests $180 Million in National Plant Germplasm System](../../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md)**
   - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md) · [원문](https://www.seedworld.com/us/2026/10/06/usda-invests-national-plant-germplasm-system/)
@@ -285,63 +293,3 @@ source: "seedworld"
 - **[Red regional de soja evaluará variedades en América](../../items/seedworld/2026/09/https_www.seedworld.com_p_127328.md)**
   - 2026-09-14 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127328.md) · [원문](https://www.seedworld.com/latam/2026/09/14/red-regional-soja-variedades-america/)
   - La red regional de soja RRECSO-Américas evaluará variedades en más de 180 ambientes de Argentina, Uruguay, Paraguay, Colombia y Perú. El proyecto busca generar datos comparables para productores, emp…
-
-- **[Breeders Who Embrace the Future Will Have the Edge](../../items/seedworld/2026/09/https_www.seedworld.com_p_127420.md)**
-  - 2026-09-12 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127420.md) · [원문](https://www.seedworld.com/latam/2026/09/11/genomic-prediction-plant-breeders-edge/)
-  - Genomic prediction, machine learning and artificial intelligence are reshaping plant breeding. To stay competitive, breeders need to understand data, improve traceability, collaborate across discipli…
-
-- **[Los mejoradores que abracen el futuro tendrán la ventaja](../../items/seedworld/2026/09/https_www.seedworld.com_p_127416.md)**
-  - 2026-09-12 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127416.md) · [원문](https://www.seedworld.com/latam/2026/09/11/prediccion-genomica-ventaja-mejoradores/)
-  - La predicción genómica, el aprendizaje automático y la inteligencia artificial están transformando el mejoramiento vegetal. Para mantenerse competitivos, los mejoradores deben comprender los datos, f…
-
-- **[The Farm Gate is Sending Canada’s Seed Sector a Message](../../items/seedworld/2026/09/https_www.seedworld.com_p_127410.md)**
-  - 2026-09-11 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127410.md) · [원문](https://www.seedworld.com/canada/2026/09/11/canadian-seed-innovation-webinar/)
-  - Todd Hyra, Mark Keating and Greg Stamp discuss changing customer demands and what they mean for plant breeding, seed retailers and Canadian varieties. Register now The post The Farm Gate is Sending C…
-
-- **[Alfalfa Builds Soil Carbon in Semiarid Argentina](../../items/seedworld/2026/09/https_www.seedworld.com_p_127325.md)**
-  - 2026-09-11 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127325.md) · [원문](https://www.seedworld.com/latam/2026/09/11/alfalfa-soil-carbon-semiarid-argentina/)
-  - Alfalfa could help build soil carbon reserves in Argentina’s semiarid cropping systems. INTA research found that systems incorporating the perennial crop accumulated 25% more soil organic carbon than…
-
-- **[The Slowest Part of Plant Breeding May No Longer Be Biology](../../items/seedworld/2026/09/https_www.seedworld.com_p_127390.md)**
-  - 2026-09-11 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127390.md) · [원문](https://www.seedworld.com/canada/2026/09/10/future-canadian-plant-breeding-learning-faster/)
-  - The countries that lead plant breeding will be those that connect data, people and investment quickly enough to respond to changing farm conditions The post The Slowest Part of Plant Breeding May No…
-
-- **[Alfalfa aumenta carbono del suelo en sistemas semiáridos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127322.md)**
-  - 2026-09-11 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127322.md) · [원문](https://www.seedworld.com/latam/2026/09/10/alfalfa-carbono-suelo-sistemas-semiaridos/)
-  - La alfalfa podría ayudar a mejorar el almacenamiento de carbono en suelos semiáridos de Argentina. Investigaciones del INTA San Luis revelaron que los sistemas con este cultivo perenne acumulan un 25…
-
-- **[Corn Genetic Diversity Warning Issued by Researchers](../../items/seedworld/2026/09/https_www.seedworld.com_p_127283.md)**
-  - 2026-09-11 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127283.md) · [원문](https://www.seedworld.com/us/2026/09/10/corn-genetic-diversity-warning/)
-  - A new study warns that corn genetic diversity is critically low for grain yield in intermediate-maturity stiff-stalk lines. Researchers say the finding could limit breeders’ ability to develop high-y…
-
-- **[How Drought is Changing Canola’s Battle With Verticillium Stripe](../../items/seedworld/2026/09/https_www.seedworld.com_p_127378.md)**
-  - 2026-09-10 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127378.md) · [원문](https://www.seedworld.com/canada/2026/09/10/drought-disease-resistance-canola/)
-  - University of Manitoba researcher Shruti Kashyap is uncovering how water stress influences disease resistance — and what it could mean for future canola varieties. Meet the third in our 7 […] The pos…
-
-- **[AgRI 2040 Sets EU Agri-Food Innovation Priorities](../../items/seedworld/2026/09/https_www.seedworld.com_p_127375.md)**
-  - 2026-09-10 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127375.md) · [원문](https://www.seedworld.com/europe/2026/09/10/agri-2040-eu-agri-food-innovation-priorities/)
-  - AgRI 2040 and Food 2040 will guide EU-funded research, innovation and market deployment across agriculture, forestry, rural areas and food systems, with Euroseeds calling for sustained investment in…
-
-- **[Millet Adoption Expanded Bronze Age Farmland](../../items/seedworld/2026/09/https_www.seedworld.com_p_127406.md)**
-  - 2026-09-10 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127406.md) · [원문](https://www.seedworld.com/europe/2026/09/10/millet-adoption-bronze-age-farmland/)
-  - New research led by Vilnius University found that millet adoption helped Bronze Age communities in Central Europe expand farming onto drier, poorer soils. The findings suggest the crop spread locally…
-
-- **[Designed To Thrive | Welcome To On The Brink: Season 3](../../items/seedworld/2026/09/https_www.seedworld.com_p_127353.md)**
-  - 2026-09-10 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127353.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/09/future-of-canadian-plant-breeding-on-the-brink-season-3/)
-  - Canadian plant breeding is at a tipping point. Shawn Brook says it is time to move from possibility to action.
-
-- **[A Big Lesson from NAPB ’26: Technology Isn’t Enough](../../items/seedworld/2026/09/https_www.seedworld.com_p_127357.md)**
-  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127357.md) · [원문](https://www.seedworld.com/us/2026/09/09/napb-plant-breeding-technology-people/)
-  - Corn breeder Zachary Jones explains why communication, confidence and a commitment to rural communities still matter in the age of AI The post A Big Lesson from NAPB ’26: Technology Isn’t Enough appe…
-
-- **[Salt Stress Germination System Identified in Seeds](../../items/seedworld/2026/09/https_www.seedworld.com_p_127403.md)**
-  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127403.md) · [원문](https://www.seedworld.com/europe/2026/09/09/salt-stress-germination-system-seeds/)
-  - Researchers at the Hebrew University of Jerusalem identified a salt stress germination system that helps seeds retain potassium while limiting sodium buildup. The finding could support future work on…
-
-- **[Why Plant Breeders’ Rights Matter More Than Ever](../../items/seedworld/2026/09/https_www.seedworld.com_p_127165.md)**
-  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127165.md) · [원문](https://www.seedworld.com/us/2026/09/09/plant-breeders-rights-matter/)
-  - As agriculture faces rapid technological change, the frameworks supporting innovation are evolving just as fast, notes the new president of the International Union for the Protection of New Varieties…
-
-- **[SUSTAINCrop to Measure Industrial Crop Footprints](../../items/seedworld/2026/09/https_www.seedworld.com_p_127319.md)**
-  - 2026-09-09 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127319.md) · [원문](https://www.seedworld.com/latam/2026/09/09/sustaincrop-industrial-crop-footprints/)
-  - SUSTAINCrop is a European Union-funded project that will develop a digital tool to assess the environmental footprint of industrial crops such as corn, canola, soybeans, sugar cane, cotton and sunflo…
