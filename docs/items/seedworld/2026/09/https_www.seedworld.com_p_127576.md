@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/09/28/smallholder-farmers-regenerati
 summary: "Smallholder farmers could help meet rising global food demand while restoring soils and strengthening rural livelihoods, a new book argues. Whole Earth Farming proposes helping 240 million farming families adopt regenerative agriculture"
 attachments: []
 tags: []
-fetched_at: "2026-10-12T09:42:12+09:00"
+fetched_at: "2026-10-14T09:30:55+09:00"
 ---
 # Could 240 Million Smallholders Feed the World’s Next 1.5 Billion People?
 

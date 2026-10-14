@@ -9,7 +9,7 @@ summary: "SCN resistance from PI 88788 is becoming less effective as soybean cys
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-10-12T09:42:12+09:00"
+fetched_at: "2026-10-14T09:30:55+09:00"
 ---
 # SCN Continues to Overcome Widely Used Soybean Resistance
 

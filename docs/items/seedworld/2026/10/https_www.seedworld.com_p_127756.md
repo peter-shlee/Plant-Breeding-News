@@ -9,7 +9,7 @@ summary: "Research from the Boyce Thompson Institute shows how wild tomato relat
 attachments: []
 tags:
   - "토마토"
-fetched_at: "2026-10-12T09:42:12+09:00"
+fetched_at: "2026-10-14T09:30:55+09:00"
 ---
 # The Flavour Tomato Breeders Lost May Still Be Hiding in the Wild
 

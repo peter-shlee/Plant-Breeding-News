@@ -1,20 +1,48 @@
 ---
 title: "주간 요약"
-range_start: "2026-10-05"
-range_end: "2026-10-12"
+range_start: "2026-10-07"
+range_end: "2026-10-14"
 ---
 
-# 주간 요약 (2026-10-05 ~ 2026-10-12)
+# 주간 요약 (2026-10-07 ~ 2026-10-14)
 
 ## Recent (last 7 days)
 
+- **[USDA Launches Seed Sovereignty Initiative to Strengthen Crop Genetic Resources](../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md)**
+  - 2026-10-14 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md) · [원문](https://www.seedworld.com/us/2026/10/13/usda-launches-seed-sovereignty-initiative-to-strengthen-crop-genetic-resources/)
+  - A $180 million investment will support sequencing of major crop collections, drawing support from the American Seed Trade Association. The U.S.
+
+- **[Protecting Crops from Growing Cybersecurity Threats](../items/seedworld/2026/10/https_www.seedworld.com_p_127949.md)**
+  - 2026-10-14 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127949.md) · [원문](https://www.seedworld.com/us/2026/10/13/agriculture-cybersecurity-consortium-proposed/)
+  - Washington State University researchers are helping lead a national effort to protect American agriculture from growing cyber threats, with a particular focus on safeguarding the crops, equipment and…
+
+- **[A More Unstable World Will Demand More from Seed](../items/seedworld/2026/10/https_www.seedworld.com_p_127938.md)**
+  - 2026-10-14 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127938.md) · [원문](https://www.seedworld.com/us/2026/10/13/geopolitical-instability-seed-industry-opportunity/)
+  - Geopolitical instability and rising food prices could define the next several years, putting the seed industry’s ability to innovate, adapt and produce more with fewer resources to the test.
+
+- **[A Faster Seed System Still Needs Trusted Data](../items/seedworld/2026/10/https_www.seedworld.com_p_127916.md)**
+  - 2026-10-13 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127916.md) · [원문](https://www.seedworld.com/canada/2026/10/13/manitoba-seed-growers-regulatory-modernization/)
+  - With combines winding down and major regulatory changes approaching, the Manitoba Seed Growers’ Association is preparing for decisions that could reshape the Canadian seed industry.
+
+- **[A New Phoma Threat Raises the Stakes for Oilseed Rape Breeders](../items/seedworld/2026/10/https_www.seedworld.com_p_127789.md)**
+  - 2026-10-13 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127789.md) · [원문](https://www.seedworld.com/europe/2026/10/13/sdhi-resistance-phoma-stem-canker-pathogen/)
+  - With 95% of UK P. biglobosus isolates resistant to two SDHI fungicides in laboratory tests, the discovery puts renewed focus on genetics, surveillance and fungicide stewardship working together to pr…
+
+- **[The Traits Sunflower Breeders Need May Already Be Growing in the Desert](../items/seedworld/2026/10/https_www.seedworld.com_p_127762.md)**
+  - 2026-10-12 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127762.md) · [원문](https://www.seedworld.com/europe/2026/10/12/drought-tolerant-sunflower-wild-traits/)
+  - The HelEx project is crossing drought tolerant wild sunflower material from arid regions into European breeding lines as researchers race to build hybrids for a hotter, drier climate.
+
+- **[Arevo: Can a Thin Red Coat Change How a Crop Uses Nitrogen](../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md)**
+  - 2026-10-12 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md) · [원문](https://www.seedworld.com/europe/2026/10/12/arginex-seed-treatment-nitrogen-efficiency/)
+  - How efficiently a crop accesses and uses nitrogen has consequences for both crop performance and input utilization. Arevo CEO Niklas Åström explains what researchers are learning about how plants tak…
+
 - **[Seed Coating Technologies: A Strategic Enabler of Innovation in a Rapidly Evolving Industry](../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md)**
   - 2026-10-09 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md) · [원문](https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-treatment-era/)
-  - Seed treatment is entering a new era. Regulatory changes, rising sustainability expectations, and the emergence of increasingly complex seed treatment technologies are reshaping the requirements for…
+  - Seed coating technologies are evolving as regulatory requirements, sustainability goals and more complex treatments reshape the industry. Syensqo is developing microplastic-free coatings and formulat…
 
 - **[Could AI Speed Up Pheromone Discovery for Emerging Crop Pests?](../items/seedworld/2026/10/https_www.seedworld.com_p_127759.md)**
   - 2026-10-09 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127759.md) · [원문](https://www.seedworld.com/europe/2026/10/09/ai-pheromone-discovery-crop-pests/)
-  - By starting with insect smell receptors rather than the pheromone itself, researchers have developed a reverse engineering approach that could accelerate monitoring and mating disruption tools for cr…
+  - Researchers identified the lily moth sex pheromone by starting with insect scent receptors rather than the pheromone itself. The AI-supported approach could help speed pheromone discovery for emergin…
 
 - **[The Most Expensive Word in Farming is “Almost”](../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md)**
   - 2026-10-09 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md) · [원문](https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/)
@@ -126,30 +154,6 @@ range_end: "2026-10-12"
   - 2026-10-07 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md) · [원문](https://www.seedworld.com/europe/2026/10/07/glu-b1-catalogue-wheat-diversity/)
   - A University of Córdoba review found GLU-B1 diversity in wheat was overstated, with many recorded alleles duplicated or triplicated. The team has built a verified germplasm collection to help breeder…
 
-- **[USDA Invests $180 Million in National Plant Germplasm System](../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md)**
-  - 2026-10-07 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md) · [원문](https://www.seedworld.com/us/2026/10/06/usda-invests-national-plant-germplasm-system/)
-  - The National Plant Germplasm System will receive $180 million from USDA to strengthen seed banks, safeguard plant genetic resources and support crop breeding, research and future variety development.
-
-- **[Seed Innovators Need a Clear Path to Market](../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md)**
-  - 2026-10-06 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovators-path-market/)
-  - Seed innovators need more than scientific validation to attract capital. Paola de Almeida says credible commercialization depends on understanding the customer, matching financing to development mile…
-
-- **[Wheat Geneticist Jorge Dubcovsky Named 2026 World Agriculture Prize Laureate](../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md)**
-  - 2026-10-06 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md) · [원문](https://www.seedworld.com/us/2026/10/05/jorge-dubcovsky-world-agriculture-prize-laureate/)
-  - Jorge Dubcovsky, a wheat geneticist at UC Davis, has been named the 2026 World Agriculture Prize Laureate for his contributions to wheat improvement, disease resistance, yield and global food securit…
-
-- **[Give Your Team an Hour to Grow](../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md)**
-  - 2026-10-06 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md) · [원문](https://www.seedworld.com/us/2026/10/05/webinars-seed-teams-hour-grow/)
-  - Webinars offer seed businesses a practical way to support professional development when travel and conference costs are high. Giving employees an hour to learn can spark new ideas, better processes a…
-
-- **[The Corteva-Inari Case Is Settled… But the Bigger Questions Aren’t.](../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md)**
-  - 2026-10-05 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovation-ip-questions/)
-  - The Corteva-Inari settlement leaves larger questions unresolved about how seed innovation should balance intellectual property protection, access to biological material, licensing and freedom to oper…
-
-- **[Vylor Is Open for Business: What Changes for Europe’s Seed Sector](../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md)**
-  - 2026-10-05 · `seedworld` · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md) · [원문](https://www.seedworld.com/europe/2026/10/05/vylor-seed-genetics-europe/)
-  - Vylor seed genetics enters Europe with established brands, breeding programs and global R&D scale. Its leadership sees future growth coming from gene editing, new crops and a larger role as a genetic…
-
 
 ## By source
 
@@ -230,13 +234,41 @@ range_end: "2026-10-12"
 
 ### seedworld
 
+- **[USDA Launches Seed Sovereignty Initiative to Strengthen Crop Genetic Resources](../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md)**
+  - 2026-10-14 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md) · [원문](https://www.seedworld.com/us/2026/10/13/usda-launches-seed-sovereignty-initiative-to-strengthen-crop-genetic-resources/)
+  - A $180 million investment will support sequencing of major crop collections, drawing support from the American Seed Trade Association. The U.S.
+
+- **[Protecting Crops from Growing Cybersecurity Threats](../items/seedworld/2026/10/https_www.seedworld.com_p_127949.md)**
+  - 2026-10-14 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127949.md) · [원문](https://www.seedworld.com/us/2026/10/13/agriculture-cybersecurity-consortium-proposed/)
+  - Washington State University researchers are helping lead a national effort to protect American agriculture from growing cyber threats, with a particular focus on safeguarding the crops, equipment and…
+
+- **[A More Unstable World Will Demand More from Seed](../items/seedworld/2026/10/https_www.seedworld.com_p_127938.md)**
+  - 2026-10-14 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127938.md) · [원문](https://www.seedworld.com/us/2026/10/13/geopolitical-instability-seed-industry-opportunity/)
+  - Geopolitical instability and rising food prices could define the next several years, putting the seed industry’s ability to innovate, adapt and produce more with fewer resources to the test.
+
+- **[A Faster Seed System Still Needs Trusted Data](../items/seedworld/2026/10/https_www.seedworld.com_p_127916.md)**
+  - 2026-10-13 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127916.md) · [원문](https://www.seedworld.com/canada/2026/10/13/manitoba-seed-growers-regulatory-modernization/)
+  - With combines winding down and major regulatory changes approaching, the Manitoba Seed Growers’ Association is preparing for decisions that could reshape the Canadian seed industry.
+
+- **[A New Phoma Threat Raises the Stakes for Oilseed Rape Breeders](../items/seedworld/2026/10/https_www.seedworld.com_p_127789.md)**
+  - 2026-10-13 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127789.md) · [원문](https://www.seedworld.com/europe/2026/10/13/sdhi-resistance-phoma-stem-canker-pathogen/)
+  - With 95% of UK P. biglobosus isolates resistant to two SDHI fungicides in laboratory tests, the discovery puts renewed focus on genetics, surveillance and fungicide stewardship working together to pr…
+
+- **[The Traits Sunflower Breeders Need May Already Be Growing in the Desert](../items/seedworld/2026/10/https_www.seedworld.com_p_127762.md)**
+  - 2026-10-12 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127762.md) · [원문](https://www.seedworld.com/europe/2026/10/12/drought-tolerant-sunflower-wild-traits/)
+  - The HelEx project is crossing drought tolerant wild sunflower material from arid regions into European breeding lines as researchers race to build hybrids for a hotter, drier climate.
+
+- **[Arevo: Can a Thin Red Coat Change How a Crop Uses Nitrogen](../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md)**
+  - 2026-10-12 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md) · [원문](https://www.seedworld.com/europe/2026/10/12/arginex-seed-treatment-nitrogen-efficiency/)
+  - How efficiently a crop accesses and uses nitrogen has consequences for both crop performance and input utilization. Arevo CEO Niklas Åström explains what researchers are learning about how plants tak…
+
 - **[Seed Coating Technologies: A Strategic Enabler of Innovation in a Rapidly Evolving Industry](../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md)**
   - 2026-10-09 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md) · [원문](https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-treatment-era/)
-  - Seed treatment is entering a new era. Regulatory changes, rising sustainability expectations, and the emergence of increasingly complex seed treatment technologies are reshaping the requirements for…
+  - Seed coating technologies are evolving as regulatory requirements, sustainability goals and more complex treatments reshape the industry. Syensqo is developing microplastic-free coatings and formulat…
 
 - **[Could AI Speed Up Pheromone Discovery for Emerging Crop Pests?](../items/seedworld/2026/10/https_www.seedworld.com_p_127759.md)**
   - 2026-10-09 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127759.md) · [원문](https://www.seedworld.com/europe/2026/10/09/ai-pheromone-discovery-crop-pests/)
-  - By starting with insect smell receptors rather than the pheromone itself, researchers have developed a reverse engineering approach that could accelerate monitoring and mating disruption tools for cr…
+  - Researchers identified the lily moth sex pheromone by starting with insect scent receptors rather than the pheromone itself. The AI-supported approach could help speed pheromone discovery for emergin…
 
 - **[The Most Expensive Word in Farming is “Almost”](../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md)**
   - 2026-10-09 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md) · [원문](https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/)
@@ -281,27 +313,3 @@ range_end: "2026-10-12"
 - **[What If Half the Wheat Diversity in the Catalogue Was Not Really Different?](../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md)**
   - 2026-10-07 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md) · [원문](https://www.seedworld.com/europe/2026/10/07/glu-b1-catalogue-wheat-diversity/)
   - A University of Córdoba review found GLU-B1 diversity in wheat was overstated, with many recorded alleles duplicated or triplicated. The team has built a verified germplasm collection to help breeder…
-
-- **[USDA Invests $180 Million in National Plant Germplasm System](../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md)**
-  - 2026-10-07 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md) · [원문](https://www.seedworld.com/us/2026/10/06/usda-invests-national-plant-germplasm-system/)
-  - The National Plant Germplasm System will receive $180 million from USDA to strengthen seed banks, safeguard plant genetic resources and support crop breeding, research and future variety development.
-
-- **[Seed Innovators Need a Clear Path to Market](../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md)**
-  - 2026-10-06 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovators-path-market/)
-  - Seed innovators need more than scientific validation to attract capital. Paola de Almeida says credible commercialization depends on understanding the customer, matching financing to development mile…
-
-- **[Wheat Geneticist Jorge Dubcovsky Named 2026 World Agriculture Prize Laureate](../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md)**
-  - 2026-10-06 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md) · [원문](https://www.seedworld.com/us/2026/10/05/jorge-dubcovsky-world-agriculture-prize-laureate/)
-  - Jorge Dubcovsky, a wheat geneticist at UC Davis, has been named the 2026 World Agriculture Prize Laureate for his contributions to wheat improvement, disease resistance, yield and global food securit…
-
-- **[Give Your Team an Hour to Grow](../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md)**
-  - 2026-10-06 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md) · [원문](https://www.seedworld.com/us/2026/10/05/webinars-seed-teams-hour-grow/)
-  - Webinars offer seed businesses a practical way to support professional development when travel and conference costs are high. Giving employees an hour to learn can spark new ideas, better processes a…
-
-- **[The Corteva-Inari Case Is Settled… But the Bigger Questions Aren’t.](../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md)**
-  - 2026-10-05 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovation-ip-questions/)
-  - The Corteva-Inari settlement leaves larger questions unresolved about how seed innovation should balance intellectual property protection, access to biological material, licensing and freedom to oper…
-
-- **[Vylor Is Open for Business: What Changes for Europe’s Seed Sector](../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md)**
-  - 2026-10-05 · [읽기](../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md) · [원문](https://www.seedworld.com/europe/2026/10/05/vylor-seed-genetics-europe/)
-  - Vylor seed genetics enters Europe with established brands, breeding programs and global R&D scale. Its leadership sees future growth coming from gene editing, new crops and a larger role as a genetic…

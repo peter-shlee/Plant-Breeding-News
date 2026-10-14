@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/05/seed-innovators-path-market/"
 summary: "Seed innovators need more than scientific validation to attract capital. Paola de Almeida says credible commercialization depends on understanding the customer, matching financing to development milestones, and proving how a technology"
 attachments: []
 tags: []
-fetched_at: "2026-10-12T09:42:12+09:00"
+fetched_at: "2026-10-14T09:30:55+09:00"
 ---
 # Seed Innovators Need a Clear Path to Market
 

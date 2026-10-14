@@ -9,7 +9,7 @@ summary: "Niab will lead a three-year wheat pre-breeding project funded by BBSRC
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-10-12T09:42:12+09:00"
+fetched_at: "2026-10-14T09:30:55+09:00"
 ---
 # Great Wheat Traits Are Being Found. Why Aren’t More Reaching Breeders?
 

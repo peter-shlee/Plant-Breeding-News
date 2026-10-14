@@ -8,8 +8,8 @@ title: "식물 육종 뉴스"
 
 > 이 페이지와 하위 문서는 스크립트로 자동 생성됩니다. 수동 편집하지 마세요.
 
-- 마지막 업데이트: **2026-10-12 09:42 (KST)**  
-- 커버리지(최근 섹션): **2026-10-05 ~ 2026-10-12** (최근 7일)
+- 마지막 업데이트: **2026-10-14 09:35 (KST)**  
+- 커버리지(최근 섹션): **2026-10-07 ~ 2026-10-14** (최근 7일)
 
 ## 목차
 
@@ -21,24 +21,24 @@ title: "식물 육종 뉴스"
 
 <a id="briefing"></a>
 <!-- AUTO_BRIEFING_START -->
-## 30초 주간 브리핑 (2026-10-05~2026-10-12)
+## 30초 주간 브리핑 (2026-10-07~2026-10-14)
 
-> 지속가능한 종자 기술과 디지털 육종 혁신이 농업 현장의 생산성 향상을 견인하고 있습니다.
+> 식물 육종의 미래를 위한 유전자원 확보와 디지털 혁신 가속화
 
 ### 1) 정책/규제
 
-- 유럽의 2028년 미세플라스틱 규제 강화에 따라 종자 코팅 업계가 친환경 전략으로 전환을 서두르고 있습니다. ([원문](https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-treatment-era/))
-- 캐나다 종자 인증 기관(CSGA)은 규제 현대화를 통해 농업 혁신 성과가 농가에 실질적인 경제적 가치로 이어지도록 노력하고 있습니다. ([원문](https://www.seedworld.com/canada/2026/10/08/csga-future-seed-certification-canada/))
+- 미국 농무부(USDA)가 농업 보안과 작물 육종 연구 강화를 위해 1억 8천만 달러 규모의 종자 주권 이니셔티브를 발표했습니다. 주요 작물 컬렉션의 유전체 서열을 분석하여 유용한 유전적 형질을 발굴하고 자원 격차를 해소할 계획입니다. ([원문](https://www.seedworld.com/us/2026/10/13/usda-launches-seed-sovereignty-initiative-to-strengthen-crop-genetic-resources/))
+- 워싱턴 주립대 연구진이 농업 기술과 식량 생산 시스템을 사이버 위협으로부터 보호하기 위해 '농업 사이버보안 컨소시엄(ACC)' 설립을 제안했습니다. 농업 현장과 연구 기관을 연결해 취약점을 식별하고 보안 체계를 강화하는 것이 목표입니다. ([원문](https://www.seedworld.com/us/2026/10/13/agriculture-cybersecurity-consortium-proposed/))
 
 ### 2) 연구/기술
 
-- 곤충의 후각 수용체를 활용한 역설계 방식이 페로몬 기반 해충 관리 도구 개발을 가속화할 것으로 기대됩니다. ([원문](https://www.seedworld.com/europe/2026/10/09/ai-pheromone-discovery-crop-pests/))
-- 농촌진흥청이 밀식 재배에 유리한 호박 품종 육종을 앞당길 수 있는 분자표지를 새롭게 개발했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813519&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 유채의 검은무늬병을 유발하는 병원균이 SDHI 살균제에 내성을 가진 사례가 세계 최초로 확인되었습니다. 이에 따라 유전적 저항성 육종과 살균제 관리 전략의 병행이 시급해졌습니다. ([원문](https://www.seedworld.com/europe/2026/10/13/sdhi-resistance-phoma-stem-canker-pathogen/))
+- 보이스 톰슨 연구소는 야생 토마토 종에서 맛과 영양 형질을 복원할 수 있는 유전자 조절 스위치를 발견했습니다. 이를 통해 수확량이나 과실 크기 손실 없이 고품질 품종 개발이 가능해질 전망입니다. ([원문](https://www.seedworld.com/europe/2026/10/08/wild-tomato-relatives-restore-flavour/))
 
 ### 3) 유통/시장/현장
 
-- 농촌진흥청과 국내 기업이 협력하여 브라질의 대규모 농자재 시장 진출에 성공했습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813517&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
-- 농촌진흥청이 수확기를 맞은 가루쌀 ‘바로미4’의 생육 상황을 점검하며 안정적인 생산과 보급을 지원하고 있습니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813523&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 농촌진흥청이 수확기가 빠른 신품종 감귤 '신흥조생'을 개발하고, 현장 평가를 통해 농가 보급 가능성을 점검했습니다. 조기 수확을 통한 시장 경쟁력 확보가 기대됩니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000813526&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
+- 농촌진흥청이 농생명 분야의 전문 지식을 학습한 인공지능 모델을 개발했습니다. 농업 연구와 현장 문제 해결을 지원하여 농업 혁신을 가속화할 것으로 보입니다. ([원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813524&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=))
 
 <!-- AUTO_BRIEFING_END -->
 
@@ -47,13 +47,21 @@ title: "식물 육종 뉴스"
 
 최근 7일 중에서 ‘육종/품종/종자’ 관련 키워드 신호가 강한 소식을 우선 정리했습니다.
 
+- **[The Traits Sunflower Breeders Need May Already Be Growing in the Desert](items/seedworld/2026/10/https_www.seedworld.com_p_127762.md)**
+  - 2026-10-12 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127762.md) · [원문](https://www.seedworld.com/europe/2026/10/12/drought-tolerant-sunflower-wild-traits/)
+  - The HelEx project is crossing drought tolerant wild sunflower material from arid regions into European breeding lines as researchers race to build hybrids for a hotter, drier climate.
+
+- **[USDA Launches Seed Sovereignty Initiative to Strengthen Crop Genetic Resources](items/seedworld/2026/10/https_www.seedworld.com_p_127958.md)**
+  - 2026-10-14 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127958.md) · [원문](https://www.seedworld.com/us/2026/10/13/usda-launches-seed-sovereignty-initiative-to-strengthen-crop-genetic-resources/)
+  - A $180 million investment will support sequencing of major crop collections, drawing support from the American Seed Trade Association. The U.S.
+
+- **[A More Unstable World Will Demand More from Seed](items/seedworld/2026/10/https_www.seedworld.com_p_127938.md)**
+  - 2026-10-14 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127938.md) · [원문](https://www.seedworld.com/us/2026/10/13/geopolitical-instability-seed-industry-opportunity/)
+  - Geopolitical instability and rising food prices could define the next several years, putting the seed industry’s ability to innovate, adapt and produce more with fewer resources to the test.
+
 - **[What Genomic Prediction is Worth to Your Program](items/seedworld/2026/10/https_www.seedworld.com_p_127738.md)**
   - 2026-10-08 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127738.md) · [원문](https://www.seedworld.com/europe/2026/10/07/genomic-prediction-plant-breeding-cost/)
   - Genomic prediction pricing has turned into a rumor market. The figures you hear at breeding conferences, and will hear in Valencia at Euroseeds, span two orders of magnitude — and […] The post What G…
-
-- **[Vylor Is Open for Business: What Changes for Europe’s Seed Sector](items/seedworld/2026/10/https_www.seedworld.com_p_127655.md)**
-  - 2026-10-05 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127655.md) · [원문](https://www.seedworld.com/europe/2026/10/05/vylor-seed-genetics-europe/)
-  - Vylor seed genetics enters Europe with established brands, breeding programs and global R&D scale. Its leadership sees future growth coming from gene editing, new crops and a larger role as a genetic…
 
 - **[“밀식 재배에 유리한 호박 육종 빨라진다” 관련 분자표지 개발](items/rda/2026/10/100000813519.md)**
   - 2026-10-08 · `rda` · [읽기](items/rda/2026/10/100000813519.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813519&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
@@ -61,37 +69,29 @@ title: "식물 육종 뉴스"
 - **[“밀식 재배에 유리한 호박 육종 빨라진다” 관련 분자표지 개발](items/nihhs/2026/10/100000813519.md)**
   - 2026-10-08 · `nihhs` · [읽기](items/nihhs/2026/10/100000813519.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813519&mc=MN0000000136)
 
+- **[Protecting Crops from Growing Cybersecurity Threats](items/seedworld/2026/10/https_www.seedworld.com_p_127949.md)**
+  - 2026-10-14 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127949.md) · [원문](https://www.seedworld.com/us/2026/10/13/agriculture-cybersecurity-consortium-proposed/)
+  - Washington State University researchers are helping lead a national effort to protect American agriculture from growing cyber threats, with a particular focus on safeguarding the crops, equipment and…
+
+- **[A Faster Seed System Still Needs Trusted Data](items/seedworld/2026/10/https_www.seedworld.com_p_127916.md)**
+  - 2026-10-13 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127916.md) · [원문](https://www.seedworld.com/canada/2026/10/13/manitoba-seed-growers-regulatory-modernization/)
+  - With combines winding down and major regulatory changes approaching, the Manitoba Seed Growers’ Association is preparing for decisions that could reshape the Canadian seed industry.
+
+- **[A New Phoma Threat Raises the Stakes for Oilseed Rape Breeders](items/seedworld/2026/10/https_www.seedworld.com_p_127789.md)**
+  - 2026-10-13 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127789.md) · [원문](https://www.seedworld.com/europe/2026/10/13/sdhi-resistance-phoma-stem-canker-pathogen/)
+  - With 95% of UK P. biglobosus isolates resistant to two SDHI fungicides in laboratory tests, the discovery puts renewed focus on genetics, surveillance and fungicide stewardship working together to pr…
+
+- **[Arevo: Can a Thin Red Coat Change How a Crop Uses Nitrogen](items/seedworld/2026/10/https_www.seedworld.com_p_127795.md)**
+  - 2026-10-12 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127795.md) · [원문](https://www.seedworld.com/europe/2026/10/12/arginex-seed-treatment-nitrogen-efficiency/)
+  - How efficiently a crop accesses and uses nitrogen has consequences for both crop performance and input utilization. Arevo CEO Niklas Åström explains what researchers are learning about how plants tak…
+
 - **[Seed Coating Technologies: A Strategic Enabler of Innovation in a Rapidly Evolving Industry](items/seedworld/2026/10/https_www.seedworld.com_p_127667.md)**
   - 2026-10-09 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127667.md) · [원문](https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-treatment-era/)
-  - Seed treatment is entering a new era. Regulatory changes, rising sustainability expectations, and the emergence of increasingly complex seed treatment technologies are reshaping the requirements for…
+  - Seed coating technologies are evolving as regulatory requirements, sustainability goals and more complex treatments reshape the industry. Syensqo is developing microplastic-free coatings and formulat…
 
 - **[Could AI Speed Up Pheromone Discovery for Emerging Crop Pests?](items/seedworld/2026/10/https_www.seedworld.com_p_127759.md)**
   - 2026-10-09 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127759.md) · [원문](https://www.seedworld.com/europe/2026/10/09/ai-pheromone-discovery-crop-pests/)
-  - By starting with insect smell receptors rather than the pheromone itself, researchers have developed a reverse engineering approach that could accelerate monitoring and mating disruption tools for cr…
-
-- **[The Most Expensive Word in Farming is “Almost”](items/seedworld/2026/10/https_www.seedworld.com_p_127825.md)**
-  - 2026-10-09 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127825.md) · [원문](https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/)
-  - Canada invests heavily in plant breeding, seed certification and technology. But the real challenge may be turning that innovation into measurable value for farmers.
-
-- **[What CSGA’s New Executive Director Wants Farmers to Know](items/seedworld/2026/10/https_www.seedworld.com_p_127822.md)**
-  - 2026-10-09 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127822.md) · [원문](https://www.seedworld.com/canada/2026/10/08/csga-future-seed-certification-canada/)
-  - C.J. Noble outlines her vision for certified seed, regulatory modernization and the importance of demonstrating real economic value to farmers.
-
-- **[Why Saskatchewan Seed Growers are Thinking Beyond Certified Seed](items/seedworld/2026/10/https_www.seedworld.com_p_127813.md)**
-  - 2026-10-09 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127813.md) · [원문](https://www.seedworld.com/canada/2026/10/08/saskatchewan-seed-growers-beyond-certified-seed/)
-  - From defending research farms to tackling slow adoption, the Saskatchewan Seed Growers' Association is making the case that seed growers are central to innovation The post Why Saskatchewan Seed Growe…
-
-- **[How to Track Your Seed from Field to Final Sale](items/seedworld/2026/10/https_www.seedworld.com_p_127791.md)**
-  - 2026-10-08 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127791.md) · [원문](https://www.seedworld.com/canada/2026/10/08/seed-inventory-management-software-abs/)
-  - Seed doesn’t move through a business in a straight line. On the journey to a customer, it gets inspected, cleaned, dried, tested and packaged, and by the time it’s ready […] The post How to Track You…
-
-- **[Great Wheat Traits Are Being Found. Why Aren’t More Reaching Breeders?](items/seedworld/2026/10/https_www.seedworld.com_p_127776.md)**
-  - 2026-10-08 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127776.md) · [원문](https://www.seedworld.com/europe/2026/10/08/niab-wheat-pre-breeding-europe/)
-  - Niab will lead a three-year wheat pre-breeding project funded by BBSRC to move promising traits into elite European winter wheat backgrounds. The work will involve commercial breeders and internation…
-
-- **[The Flavour Tomato Breeders Lost May Still Be Hiding in the Wild](items/seedworld/2026/10/https_www.seedworld.com_p_127756.md)**
-  - 2026-10-08 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127756.md) · [원문](https://www.seedworld.com/europe/2026/10/08/wild-tomato-relatives-restore-flavour/)
-  - Research from the Boyce Thompson Institute shows how wild tomato relatives may help breeders recover flavour and nutritional traits without sacrificing yield, fruit size or shelf life.
+  - Researchers identified the lily moth sex pheromone by starting with insect scent receptors rather than the pheromone itself. The AI-supported approach could help speed pheromone discovery for emergin…
 
 
 <a id="news-feed"></a>
@@ -100,13 +100,41 @@ title: "식물 육종 뉴스"
 
 최근 7일 이내에 수집된 소식을 최신순으로 보여줍니다.
 
+- **[USDA Launches Seed Sovereignty Initiative to Strengthen Crop Genetic Resources](items/seedworld/2026/10/https_www.seedworld.com_p_127958.md)**
+  - 2026-10-14 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127958.md) · [원문](https://www.seedworld.com/us/2026/10/13/usda-launches-seed-sovereignty-initiative-to-strengthen-crop-genetic-resources/)
+  - A $180 million investment will support sequencing of major crop collections, drawing support from the American Seed Trade Association. The U.S.
+
+- **[Protecting Crops from Growing Cybersecurity Threats](items/seedworld/2026/10/https_www.seedworld.com_p_127949.md)**
+  - 2026-10-14 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127949.md) · [원문](https://www.seedworld.com/us/2026/10/13/agriculture-cybersecurity-consortium-proposed/)
+  - Washington State University researchers are helping lead a national effort to protect American agriculture from growing cyber threats, with a particular focus on safeguarding the crops, equipment and…
+
+- **[A More Unstable World Will Demand More from Seed](items/seedworld/2026/10/https_www.seedworld.com_p_127938.md)**
+  - 2026-10-14 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127938.md) · [원문](https://www.seedworld.com/us/2026/10/13/geopolitical-instability-seed-industry-opportunity/)
+  - Geopolitical instability and rising food prices could define the next several years, putting the seed industry’s ability to innovate, adapt and produce more with fewer resources to the test.
+
+- **[A Faster Seed System Still Needs Trusted Data](items/seedworld/2026/10/https_www.seedworld.com_p_127916.md)**
+  - 2026-10-13 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127916.md) · [원문](https://www.seedworld.com/canada/2026/10/13/manitoba-seed-growers-regulatory-modernization/)
+  - With combines winding down and major regulatory changes approaching, the Manitoba Seed Growers’ Association is preparing for decisions that could reshape the Canadian seed industry.
+
+- **[A New Phoma Threat Raises the Stakes for Oilseed Rape Breeders](items/seedworld/2026/10/https_www.seedworld.com_p_127789.md)**
+  - 2026-10-13 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127789.md) · [원문](https://www.seedworld.com/europe/2026/10/13/sdhi-resistance-phoma-stem-canker-pathogen/)
+  - With 95% of UK P. biglobosus isolates resistant to two SDHI fungicides in laboratory tests, the discovery puts renewed focus on genetics, surveillance and fungicide stewardship working together to pr…
+
+- **[The Traits Sunflower Breeders Need May Already Be Growing in the Desert](items/seedworld/2026/10/https_www.seedworld.com_p_127762.md)**
+  - 2026-10-12 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127762.md) · [원문](https://www.seedworld.com/europe/2026/10/12/drought-tolerant-sunflower-wild-traits/)
+  - The HelEx project is crossing drought tolerant wild sunflower material from arid regions into European breeding lines as researchers race to build hybrids for a hotter, drier climate.
+
+- **[Arevo: Can a Thin Red Coat Change How a Crop Uses Nitrogen](items/seedworld/2026/10/https_www.seedworld.com_p_127795.md)**
+  - 2026-10-12 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127795.md) · [원문](https://www.seedworld.com/europe/2026/10/12/arginex-seed-treatment-nitrogen-efficiency/)
+  - How efficiently a crop accesses and uses nitrogen has consequences for both crop performance and input utilization. Arevo CEO Niklas Åström explains what researchers are learning about how plants tak…
+
 - **[Seed Coating Technologies: A Strategic Enabler of Innovation in a Rapidly Evolving Industry](items/seedworld/2026/10/https_www.seedworld.com_p_127667.md)**
   - 2026-10-09 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127667.md) · [원문](https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-treatment-era/)
-  - Seed treatment is entering a new era. Regulatory changes, rising sustainability expectations, and the emergence of increasingly complex seed treatment technologies are reshaping the requirements for…
+  - Seed coating technologies are evolving as regulatory requirements, sustainability goals and more complex treatments reshape the industry. Syensqo is developing microplastic-free coatings and formulat…
 
 - **[Could AI Speed Up Pheromone Discovery for Emerging Crop Pests?](items/seedworld/2026/10/https_www.seedworld.com_p_127759.md)**
   - 2026-10-09 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127759.md) · [원문](https://www.seedworld.com/europe/2026/10/09/ai-pheromone-discovery-crop-pests/)
-  - By starting with insect smell receptors rather than the pheromone itself, researchers have developed a reverse engineering approach that could accelerate monitoring and mating disruption tools for cr…
+  - Researchers identified the lily moth sex pheromone by starting with insect scent receptors rather than the pheromone itself. The AI-supported approach could help speed pheromone discovery for emergin…
 
 - **[The Most Expensive Word in Farming is “Almost”](items/seedworld/2026/10/https_www.seedworld.com_p_127825.md)**
   - 2026-10-09 · `seedworld` · [읽기](items/seedworld/2026/10/https_www.seedworld.com_p_127825.md) · [원문](https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/)
@@ -180,27 +208,6 @@ title: "식물 육종 뉴스"
 - **[“수천 배 확대한 꽃가루의 세계” 전자현미경 사진전 개최](items/rda/2026/10/100000813520.md)**
   - 2026-10-08 · `rda` · [읽기](items/rda/2026/10/100000813520.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813520&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
 
-- **[“밀식 재배에 유리한 호박 육종 빨라진다” 관련 분자표지 개발](items/rda/2026/10/100000813519.md)**
-  - 2026-10-08 · `rda` · [읽기](items/rda/2026/10/100000813519.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813519&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌치유 프로그램, ‘활동적 은퇴자’ 심신 활력 돕는다](items/rda/2026/10/100000813518.md)**
-  - 2026-10-08 · `rda` · [읽기](items/rda/2026/10/100000813518.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813518&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청-㈜누보, ‘원팀’ 브라질 초대형 농자재 시장 뚫었다](items/rda/2026/10/100000813517.md)**
-  - 2026-10-08 · `rda` · [읽기](items/rda/2026/10/100000813517.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813517&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[올해 콩 수확, 날짜보다 ‘재배지별 성숙 상태’ 확인해야](items/nics/2026/10/944559.md)**
-  - 2026-10-08 · `nics` · [읽기](items/nics/2026/10/944559.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944559)
-
-- **[농촌진흥청, 수확 앞둔 가루쌀 ‘바로미4’ 생육 상황 살펴](items/nics/2026/10/944558.md)**
-  - 2026-10-08 · `nics` · [읽기](items/nics/2026/10/944558.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944558)
-
-- **[이상기상 극복한 준고랭지 여름철 배추…농촌진흥청, 안정 공급 지원](items/nihhs/2026/10/100000813530.md)**
-  - 2026-10-08 · `nihhs` · [읽기](items/nihhs/2026/10/100000813530.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813530&mc=MN0000000136)
-
-- **[국산 감초 ‘원감·다감’ 산업화 속도 낸다… 민관 협력 강화](items/nihhs/2026/10/100000813527.md)**
-  - 2026-10-08 · `nihhs` · [읽기](items/nihhs/2026/10/100000813527.md) · [원문](https://www.nihhs.go.kr/usr/nihhs/news_Press_view.do?dataNo=100000813527&mc=MN0000000136)
-
 
 <a id="podcast"></a>
 ## AI 팟캐스트
@@ -215,6 +222,7 @@ title: "식물 육종 뉴스"
 
 주간 단위로 묶어둔 페이지입니다. (자동 생성)
 
+- [2026-10-14](weekly/2026-10-14.md)
 - [2026-10-12](weekly/2026-10-12.md)
 - [2026-10-09](weekly/2026-10-09.md)
 - [2026-10-07](weekly/2026-10-07.md)
