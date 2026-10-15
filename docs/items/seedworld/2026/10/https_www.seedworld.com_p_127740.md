@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/07/plant-breeding-ip-europe-futur
 summary: "Plant breeding IP is becoming central to Europe’s seed innovation debate. This article explains how plant breeders’ rights, patents, licensing platforms and transparency tools can support both investment incentives and practical access to"
 attachments: []
 tags: []
-fetched_at: "2026-10-14T09:30:55+09:00"
+fetched_at: "2026-10-16T08:46:59+09:00"
 ---
 # Seed Sector 2045: Why Plant Breeding IP Matters for Europe’s Future
 

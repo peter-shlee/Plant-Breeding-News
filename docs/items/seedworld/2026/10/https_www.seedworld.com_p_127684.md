@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/01/seed-companies-biologicals/"
 summary: "Seed companies need biologicals that move quickly from discovery to field proof, fit existing seed treatment systems and deliver consistent grower value. Jord Bioscience says the standard is not just strong science, but performance that"
 attachments: []
 tags: []
-fetched_at: "2026-10-14T09:30:55+09:00"
+fetched_at: "2026-10-16T08:46:59+09:00"
 ---
 # What Seed Companies Really Need Biologicals to Do
 

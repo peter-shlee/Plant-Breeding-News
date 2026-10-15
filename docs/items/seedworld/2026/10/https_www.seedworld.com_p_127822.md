@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/08/csga-future-seed-certification
 summary: "C.J. Noble outlines her vision for certified seed, regulatory modernization and the importance of demonstrating real economic value to farmers."
 attachments: []
 tags: []
-fetched_at: "2026-10-14T09:30:55+09:00"
+fetched_at: "2026-10-16T08:46:59+09:00"
 ---
 # What CSGA’s New Executive Director Wants Farmers to Know
 

@@ -1,0 +1,20 @@
+---
+id: "c3f32e33c3f2776e0164c3088ab9a089d4bddb28d0fdb03fbce9d1a8b144614d"
+source: "seedworld"
+org: "Seed World"
+site_id: "https://www.seedworld.com/?p=127964"
+published_at: "2026-10-14T12:59:31+09:00"
+url: "https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-independent-breeding-in-canada-on-the-brink-season-3-episode-6/"
+summary: "In 1976, a group of public plant breeders and institutions had a problem. They had Canadian genetics."
+attachments: []
+tags:
+  - "밀"
+fetched_at: "2026-10-16T08:46:59+09:00"
+---
+# Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 6
+
+In 1976, a group of public plant breeders and institutions had a problem. They had Canadian genetics. They needed a way to get them into farmers’ hands, quickly and fairly. Their answer was SeCan . Fifty years later, the people running it look different. “Today, it’s by independent seed companies, for independent seed companies,” Jeff Reid, SeCan’s longtime general manager, told Seed World last year. Those companies have built something big. Across SeCan’s membership, Reid says, they have about $1.7 billion invested in the infrastructure that gets improved varieties onto Canadian farms. That is the delivery system. The question Reid takes on in this episode of On The Brink is what goes into it. Breeding is slow. A new wheat variety takes 13 years on average to go from first cross to commercial release, according to a report from the Canadian Wheat Research Coalition. And on their own, Reid says, smaller seed companies don’t have the resources of the big multinational players. That makes funding plant breeding in Canada a hard problem for them. Smarter, not bigger Reid isn’t asking them to outspend anyone. “In the case of Canada, it’s not about being bigger than anyone else, it’s about investing smarter than the rest of the world does,” he says. His version of smarter is pooling. Independent seed companies and farmers combine their resources and build on the breeding programs Canada already has. Farmers, he points out, are already part of private investment in seed. It starts with the foundation. Reid wants a major breeding effort to protect Canada’s existing germplasm, the genetic material breeders build new varieties from. Then he wants a trusted system where companies can test their genetics at sites across Canada and move through screening and registration. That gives smaller companies, and new ones, something to build on. Better, not more For farmers, the test is simple. “They don’t necessarily want more choice, they want better choices, and they want better varieties,” Reid says. They want trusted data that shows how a new variety stacks up against what they already grow. The public side of the system is shifting at the same time. Seed World has reported that Agriculture and Agri-Food Canada intends to exit variety finishing, the last stage before a variety is ready for the field. AAFC varieties are planted on about 80 per cent of Canadian wheat fields, the coalition’s report says. SeCan was built to get new varieties to farmers. Reid’s pitch is that its members help pay for them too. Subscribe To On The Brink On the Brink is a cross-country storytelling project about plant breeding in Canada. The goal is to spark an open, multi-perspective, ongoing conversation about what’s possible, what’s at stake, and how to seize opportunities ahead. On the Brink releases new episodes every Wednesday. Watch Episode 6 featuring Andrew Campbell and subscribe to have future episodes delivered directly to your inbox. More Episodes Watch S3 E5 Coming Soon Be Part of this Conversation We need your help to grow and evolve this conversation! Nominate individuals you think should be part of the On the Brink video series . Know someone who would add to the conversation? Email us at OnTheBrink@seedworldgroup.com Help expand the conversation by liking and sharing weekly episodes across LinkedIn, Instagram, X, and Facebook.
+
+## Original
+
+- [원문 링크](https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-independent-breeding-in-canada-on-the-brink-season-3-episode-6/)

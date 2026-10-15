@@ -11,21 +11,45 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[Can Canada’s Seed Industry Afford to Tell Farmers the Truth?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128022.md)**
+  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128022.md) · [원문](https://www.seedworld.com/canada/2026/10/15/canadian-seed-industry-competition-variety-testing/)
+  - Independent variety trials help farmers separate meaningful genetic improvements from marketing claims. As seed regulations evolve, who will pay to keep that information available?
+
+- **[Study: European Agricultural Competitiveness Falls Behind Rivals](../../items/seedworld/2026/10/https_www.seedworld.com_p_128019.md)**
+  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128019.md) · [원문](https://www.seedworld.com/europe/2026/10/15/european-agricultural-competitiveness-innovation-gap/)
+  - A new study finds that crop production growth in the EU and UK has lagged behind major agricultural markets, raising concerns about farmers’ access to new technologies, climate resilience and long-te…
+
+- **[USDA Awards $86.6M in Specialty Crop Block Grants](../../items/seedworld/2026/10/https_www.seedworld.com_p_128013.md)**
+  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128013.md) · [원문](https://www.seedworld.com/us/2026/10/15/usda-specialty-crop-block-grants-2026/)
+  - Funding will support more than 600 projects across 56 states and territories, including research, seed variety development, pest management and marketing initiatives. The U.S.
+
+- **[How One Wild Peanut Changed Breeding Around the World](../../items/seedworld/2026/10/https_www.seedworld.com_p_127998.md)**
+  - 2026-10-15 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127998.md) · [원문](https://www.seedworld.com/europe/2026/10/15/wild-peanut-breeding-global-crop-improvement/)
+  - Researchers traced genes from a single Bolivian crop wild relative into 251 peanut lines and cultivars across 30 countries, revealing the long reach of genetic diversity, breeding and seed exchange S…
+
+- **[El Niño Seed Supply Risks: Is the Industry Prepared?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127994.md)**
+  - 2026-10-15 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127994.md) · [원문](https://www.seedworld.com/us/2026/10/15/el-nino-seed-supply-risks/)
+  - A powerful climate signal in the Pacific can’t predict the outcome of a single field. It can, however, expose where seed production, quality, and supply plans are carrying more risk than anyone reali…
+
+- **[Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 6](../../items/seedworld/2026/10/https_www.seedworld.com_p_127964.md)**
+  - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127964.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-independent-breeding-in-canada-on-the-brink-season-3-episode-6/)
+  - In 1976, a group of public plant breeders and institutions had a problem. They had Canadian genetics.
+
 - **[USDA Launches Seed Sovereignty Initiative to Strengthen Crop Genetic Resources](../../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md)**
   - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md) · [원문](https://www.seedworld.com/us/2026/10/13/usda-launches-seed-sovereignty-initiative-to-strengthen-crop-genetic-resources/)
   - A $180 million investment will support sequencing of major crop collections, drawing support from the American Seed Trade Association. The U.S.
 
 - **[Protecting Crops from Growing Cybersecurity Threats](../../items/seedworld/2026/10/https_www.seedworld.com_p_127949.md)**
   - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127949.md) · [원문](https://www.seedworld.com/us/2026/10/13/agriculture-cybersecurity-consortium-proposed/)
-  - Washington State University researchers are helping lead a national effort to protect American agriculture from growing cyber threats, with a particular focus on safeguarding the crops, equipment and…
+  - Researchers are calling for a national Agriculture Cybersecurity Consortium to help protect crops, farm equipment and digital systems from growing cyber threats. The proposed network would support re…
 
 - **[A More Unstable World Will Demand More from Seed](../../items/seedworld/2026/10/https_www.seedworld.com_p_127938.md)**
   - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127938.md) · [원문](https://www.seedworld.com/us/2026/10/13/geopolitical-instability-seed-industry-opportunity/)
-  - Geopolitical instability and rising food prices could define the next several years, putting the seed industry’s ability to innovate, adapt and produce more with fewer resources to the test.
+  - Geopolitical instability could raise food security concerns, disrupt agricultural trade and increase the value of seed genetics that improve productivity, resilience and efficiency.
 
 - **[A Faster Seed System Still Needs Trusted Data](../../items/seedworld/2026/10/https_www.seedworld.com_p_127916.md)**
   - 2026-10-13 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127916.md) · [원문](https://www.seedworld.com/canada/2026/10/13/manitoba-seed-growers-regulatory-modernization/)
-  - With combines winding down and major regulatory changes approaching, the Manitoba Seed Growers’ Association is preparing for decisions that could reshape the Canadian seed industry.
+  - With combines winding down and regulatory changes approaching, the Manitoba Seed Growers’ Association is preparing for decisions that could reshape the seed industry The post A Faster Seed System Sti…
 
 - **[A New Phoma Threat Raises the Stakes for Oilseed Rape Breeders](../../items/seedworld/2026/10/https_www.seedworld.com_p_127789.md)**
   - 2026-10-13 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127789.md) · [원문](https://www.seedworld.com/europe/2026/10/13/sdhi-resistance-phoma-stem-canker-pathogen/)
@@ -33,11 +57,11 @@ source: "seedworld"
 
 - **[The Traits Sunflower Breeders Need May Already Be Growing in the Desert](../../items/seedworld/2026/10/https_www.seedworld.com_p_127762.md)**
   - 2026-10-12 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127762.md) · [원문](https://www.seedworld.com/europe/2026/10/12/drought-tolerant-sunflower-wild-traits/)
-  - The HelEx project is crossing drought tolerant wild sunflower material from arid regions into European breeding lines as researchers race to build hybrids for a hotter, drier climate.
+  - The HelEx project is crossing wild sunflower material from arid regions into European breeding lines to develop drought tolerant sunflower varieties. Researchers are also targeting pollinator appeal…
 
 - **[Arevo: Can a Thin Red Coat Change How a Crop Uses Nitrogen](../../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md)**
   - 2026-10-12 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md) · [원문](https://www.seedworld.com/europe/2026/10/12/arginex-seed-treatment-nitrogen-efficiency/)
-  - How efficiently a crop accesses and uses nitrogen has consequences for both crop performance and input utilization. Arevo CEO Niklas Åström explains what researchers are learning about how plants tak…
+  - Arginex seed treatment is designed to deliver nitrogen from germination in a form plants can use directly. Arevo CEO Niklas Åström explains what trials in corn and wheat reveal about yield, nitrogen…
 
 - **[Seed Coating Technologies: A Strategic Enabler of Innovation in a Rapidly Evolving Industry](../../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md)**
   - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md) · [원문](https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-treatment-era/)
@@ -289,35 +313,3 @@ source: "seedworld"
 - **[18% More Maize, 27% Less Nitrogen Loss?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127448.md)**
   - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127448.md) · [원문](https://www.seedworld.com/europe/2026/09/16/ge-maize-yields-nitrogen-loss/)
   - G&E maize varieties could help increase global maize production while reducing reactive nitrogen losses, according to new research. The study maps priority genomic regions and highlights the need to…
-
-- **[Construidos sobre la confianza, listos para crecer](../../items/seedworld/2026/09/https_www.seedworld.com_p_127469.md)**
-  - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127469.md) · [원문](https://www.seedworld.com/latam/2026/09/15/construidos-sobre-la-confianza-listos-para-crecer/)
-  - Hace más de una década, el ingeniero mecánico conoció al fundador de SATEC, Jens Hacklaender, a través de un grupo de cuernos de caza compartido en Alemania. Con el paso de los años, las conversacion…
-
-- **[CRISPR-Combo Speeds Gene-Edited Crop Regeneration](../../items/seedworld/2026/09/https_www.seedworld.com_p_127433.md)**
-  - 2026-09-15 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127433.md) · [원문](https://www.seedworld.com/us/2026/09/15/crispr-combo-gene-edited-crop-regeneration/)
-  - CRISPR-Combo could help researchers overcome a major bottleneck in developing gene-edited crops. The system improved plant regeneration in potato, citrus, strawberry and poplar by activating plants’…
-
-- **[7 Simple On-Farm Tests for Measuring Soil Health](../../items/seedworld/2026/09/https_www.seedworld.com_p_127459.md)**
-  - 2026-09-15 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127459.md) · [원문](https://www.seedworld.com/canada/2026/09/15/measure-soil-health-regenerative-agriculture/)
-  - From shovel tests and earthworm counts to aggregate stability and Brix readings, these practical assessments reveal whether regenerative management is working The post 7 Simple On-Farm Tests for Meas…
-
-- **[Soybean Cultivars to Be Tested Across the Americas](../../items/seedworld/2026/09/https_www.seedworld.com_p_127331.md)**
-  - 2026-09-15 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127331.md) · [원문](https://www.seedworld.com/latam/2026/09/15/soybean-cultivars-tested-americas/)
-  - Soybean cultivars will be evaluated through RRECSO-Americas, a regional network involving Argentina, Uruguay, Paraguay, Colombia and Peru. The project will test maturity groups in more than 180 envir…
-
-- **[One Tomato. Two Eggs’ Worth of Vitamin D?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127445.md)**
-  - 2026-09-15 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127445.md) · [원문](https://www.seedworld.com/europe/2026/09/15/sunshine-tomato-market-england/)
-  - Sunshine tomato, a precision-bred crop enriched with pro-vitamin D3, has passed a key regulatory milestone in England. Researchers say the biofortified tomato could support public health while moving…
-
-- **[Ukraine’s New GMO Law: What It Means for the Seed Sector and EU Integration](../../items/seedworld/2026/09/https_www.seedworld.com_p_127440.md)**
-  - 2026-09-15 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127440.md) · [원문](https://www.seedworld.com/europe/2026/09/14/ukraine-gmo-law-seed-rules-eu-alignment/)
-  - Ukraine GMO law will introduce a broader framework for genetic engineering, GMO registration, labelling, traceability and enforcement. For the seed sector, the reset raises practical questions about…
-
-- **[Kentucky Rye Could Create New Markets for Farmers](../../items/seedworld/2026/09/https_www.seedworld.com_p_127425.md)**
-  - 2026-09-14 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127425.md) · [원문](https://www.seedworld.com/us/2026/09/14/kentucky-rye-could-create-new-markets-for-farmers/)
-  - Kentucky rye research could help farmers turn a cover crop into a cash crop. University of Kentucky researchers are developing open-pollinated winter rye varieties adapted to local growing conditions…
-
-- **[Red regional de soja evaluará variedades en América](../../items/seedworld/2026/09/https_www.seedworld.com_p_127328.md)**
-  - 2026-09-14 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127328.md) · [원문](https://www.seedworld.com/latam/2026/09/14/red-regional-soja-variedades-america/)
-  - La red regional de soja RRECSO-Américas evaluará variedades en más de 180 ambientes de Argentina, Uruguay, Paraguay, Colombia y Perú. El proyecto busca generar datos comparables para productores, emp…

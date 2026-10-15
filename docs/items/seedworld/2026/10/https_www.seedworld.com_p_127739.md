@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/06/usda-invests-national-plant-germpl
 summary: "The National Plant Germplasm System will receive $180 million from USDA to strengthen seed banks, safeguard plant genetic resources and support crop breeding, research and future variety development."
 attachments: []
 tags: []
-fetched_at: "2026-10-14T09:30:55+09:00"
+fetched_at: "2026-10-16T08:46:59+09:00"
 ---
 # USDA Invests $180 Million in National Plant Germplasm System
 

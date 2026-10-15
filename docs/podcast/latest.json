@@ -1,9 +1,9 @@
 {
-  "title": "식물 육종 기술의 미래: 데이터, 협력, 그리고 지식재산권의 균형",
-  "shortDescription": "유전체 예측의 실질적 가치부터 미국 정부의 대규모 유전자원 투자, 신생 농업 기업 바이러(Vylor)의 출범, 그리고 최근 합의된 코르테바와 이나리의 지식재산권 분쟁까지 최신 식물 육종 트렌드를 짚어봅니다.",
-  "releasedDate": "2026-10-07",
-  "rangeStart": "2026-09-30",
-  "rangeEnd": "2026-10-07",
+  "title": "야생 유전자원의 글로벌 유산과 캐나다 종자 육종 생태계의 도전",
+  "shortDescription": "볼리비아 야생 땅콩 유전자가 전 세계 품종에 미친 역사적 영향부터, 캐나다 독립 종자 산업의 공동 투자, 품종 검증 및 혁신 연결고리 완성의 필요성을 다룹니다.",
+  "releasedDate": "2026-10-16",
+  "rangeStart": "2026-10-09",
+  "rangeEnd": "2026-10-16",
   "staticRelease": true,
   "models": {
     "script": "gemini-3.5-flash",
@@ -14,113 +14,107 @@
     "audioStatus": "ok"
   },
   "audio": {
-    "url": "2026-10-07.mp3",
+    "url": "2026-10-16.mp3",
     "mimeType": "audio/mpeg",
-    "durationSeconds": 209.29,
-    "bytes": 1675053,
+    "durationSeconds": 233.36,
+    "bytes": 1867629,
     "synthesisMode": "multi_speaker",
-    "ttsModel": "gemini-2.5-flash-preview-tts",
-    "primaryTtsModel": "gemini-3.1-flash-tts-preview",
-    "modelFallbackReason": "gemini-3.1-flash-tts-preview: multi-speaker TTS failed: Gemini TTS HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n; single-line TTS fallback failed: single-line TTS failed at turn 4: Gemini TTS HTTP 503: {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporar"
+    "ttsModel": "gemini-3.1-flash-tts-preview"
   },
   "selectedItems": [
     {
       "idx": 1,
-      "date": "2026-10-07",
+      "date": "2026-10-15",
       "source": "seedworld",
-      "title": "What Genomic Prediction is Worth to Your Program",
-      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127738.md",
-      "originalUrl": "https://www.seedworld.com/us/2026/10/06/genomic-prediction-plant-breeding-cost/",
-      "reason": "유전체 예측 기술의 비용 효율성과 데이터 준비 상태의 중요성을 다룸."
+      "title": "How One Wild Peanut Changed Breeding Around the World",
+      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127998.md",
+      "originalUrl": "https://www.seedworld.com/europe/2026/10/15/wild-peanut-breeding-global-crop-improvement/",
+      "reason": "야생 땅콩 유전자가 전 세계 251개 품종에 영향을 미친 역사와 공유 가치를 조명함."
     },
     {
       "idx": 2,
-      "date": "2026-10-05",
+      "date": "2026-10-14",
       "source": "seedworld",
-      "title": "Vylor Is Open for Business: What Changes for Europe’s Seed Sector",
-      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127655.md",
-      "originalUrl": "https://www.seedworld.com/europe/2026/10/05/vylor-seed-genetics-europe/",
-      "reason": "코르테바에서 분사한 독립 유전학 기업 바이러(Vylor)의 출범과 전략 소개."
+      "title": "Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 6",
+      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127964.md",
+      "originalUrl": "https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-independent-breeding-in-canada-on-the-brink-season-3-episode-6/",
+      "reason": "캐나다 중소 종자기업들이 공동 투자를 통해 민간 육종 경쟁력을 높이는 방안을 제시함."
     },
     {
       "idx": 3,
-      "date": "2026-10-07",
+      "date": "2026-10-16",
       "source": "seedworld",
-      "title": "USDA Invests $180 Million in National Plant Germplasm System",
-      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127739.md",
-      "originalUrl": "https://www.seedworld.com/us/2026/10/06/usda-invests-national-plant-germplasm-system/",
-      "reason": "미국 농무부의 국가 식물 생식질 시스템에 대한 1억 8천만 달러 투자 소식."
+      "title": "Can Canada’s Seed Industry Afford to Tell Farmers the Truth?",
+      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_128022.md",
+      "originalUrl": "https://www.seedworld.com/canada/2026/10/15/canadian-seed-industry-competition-variety-testing/",
+      "reason": "품종 등록 규제 완화 속에서 독립적 성과 검증 데이터 확보를 위한 경제적 모델을 분석함."
     },
     {
-      "idx": 5,
-      "date": "2026-10-05",
+      "idx": 4,
+      "date": "2026-10-09",
       "source": "seedworld",
-      "title": "The Corteva-Inari Case Is Settled… But the Bigger Questions Aren’t.",
-      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127720.md",
-      "originalUrl": "https://www.seedworld.com/us/2026/10/05/seed-innovation-ip-questions/",
-      "reason": "코르테바와 이나리의 특허 분쟁 합의가 육종 업계 지식재산권에 미치는 영향 분석."
+      "title": "The Most Expensive Word in Farming is “Almost”",
+      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127825.md",
+      "originalUrl": "https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/",
+      "reason": "육종 연구부터 보급, 로열티 회수까지 기술 혁신의 마지막 연결고리 완성을 강조함."
     }
   ],
   "dialogue": [
     {
       "speaker": "재석",
-      "text": "여러분 안녕하세요! 식물 육종 뉴스의 재석입니다. 오늘은 미국 농무부가 국가 식물 생식질 시스템에 무려 1억 8천만 달러를 투자한다는 기쁜 소식으로 시작해 보려고 합니다. 민아 박사님, 이번 대규모 투자가 우리 육종 업계에 어떤 변화를 가져올까요?"
+      "text": "안녕하세요, 식물 육종 뉴스 팟캐스트입니다. 오늘은 야생 유전자원이 전 세계 농업에 미친 파급력부터 캐나다 종자 산업의 육종 재원 및 보급 생태계 재편 소식까지 준비했습니다. 전문가 민아 님과 함께 육종 현장의 깊이 있는 이야기 풀어보겠습니다."
     },
     {
       "speaker": "민아",
-      "text": "네, 재석 씨. 이번 투자는 전국의 종자 은행 시설을 강화하고 유전자원을 안전하게 보존하는 데 사용됩니다. 육종가들이 기후 변화에 강한 새로운 품종을 개발하려면 다양하고 풍부한 유전 소재가 필수적인데요, 이번 투자가 혁신의 든든한 발판이 될 것입니다."
+      "text": "안녕하세요. 먼저 볼리비아의 야생 땅콩에서 시작된 놀라운 유전체 추적 연구 소식을 소개해 드릴게요. 1959년 수집된 야생 종자에서 온 유전자 조각이 전 세계 30개국, 251개 땅콩 품종 및 계통에 침투해 있다는 사실이 최신 유전체 분석으로 밝혀졌습니다."
     },
     {
       "speaker": "재석",
-      "text": "기초 연구를 위한 공공 투자가 든든하게 뒷받침되는 느낌이네요. 한편, 민간 영역에서도 큰 변화가 있었습니다. 코르테바에서 분사한 새로운 독립 유전학 기업인 '바이러'가 공식 출범했다는 소식인데요, 어떤 전략을 가지고 있나요?"
+      "text": "60여 년 전에 수집된 야생 땅콩 하나가 전 세계 땅콩 재배지 상당수에 영향을 주고 있었다니 정말 놀라운데요. 당시에는 단순한 야생 유전자원이었지만, 잎 병해에 강한 내병성 형질의 근원이었던 셈이네요."
     },
     {
       "speaker": "민아",
-      "text": "바이러는 기존의 파이오니어 같은 강력한 브랜드를 유지하면서도, 다른 종자 기업들과의 기술 라이선싱과 협력에 집중할 계획입니다. 특히 유전자 교정 기술을 통한 가뭄 저항성 품종 개발과 2027년 출시 예정인 하이브리드 밀 개발을 핵심 성장 동력으로 삼고 있습니다."
+      "text": "맞습니다. 재배종 땅콩은 4배체이고 야생종은 2배체라 교배 장벽이 높지만, 노스캐롤라이나 주립대 연구진이 복합 교배로 이 장벽을 넘었습니다. 이후 국제건조지역작물연구소(ICRISAT) 등을 통해 전 세계로 종자가 공유되면서 오늘날의 강력한 내병성 계통들이 탄생할 수 있었습니다."
     },
     {
       "speaker": "재석",
-      "text": "대기업의 분사와 협력 모델이라니 업계 판도가 흥미진진해지겠네요. 그런데 이런 첨단 품종을 개발하려면 '유전체 예측' 기술이 필수적이잖아요? 최근 이 기술의 도입 비용을 두고 업계에서 소문이 무성하다고 들었습니다."
+      "text": "야생 자원의 발견과 무상 공유가 글로벌 육종에 얼마나 큰 유산을 남겼는지 보여주는 사례군요. 한편 북미 캐나다에서는 독립 종자 기업들이 모여 자원 투자를 효율화하는 새로운 움직임이 일고 있다고 들었습니다."
     },
     {
       "speaker": "민아",
-      "text": "맞습니다. 유전체 예측은 단순히 하나의 상품이 아니라 육종 프로그램 맞춤형으로 구축되어야 효과를 발휘합니다. 대규모 옥수수 육종에 맞춰진 모델을 토마토 육종에 그대로 쓸 수 없기 때문에, 가격 편차가 수십 배까지 나는 것이 당연합니다."
+      "text": "네, 캐나다의 종자 조직인 SeCan 측은 중소 종자회사들이 거대 다국적 기업과 경쟁하려면 스마트한 공동 투자가 필요하다고 강조합니다. 정부 기관인 캐나다 농무농식품부가 품종 상용화 마지막 단계에서 철수하는 추세라, 민간 기업들이 재원을 모아 육종과 검증망을 함께 구축하는 전략이 중요해졌습니다."
     },
     {
       "speaker": "재석",
-      "text": "그렇다면 중소 규모의 육종 회사들이 이 기술을 도입할 때 가장 먼저 고려해야 할 점은 무엇일까요? 무작정 비싼 알고리즘을 도입한다고 성공하는 건 아닐 텐데요."
+      "text": "중소 기업들이 힘을 합쳐 육종 기반을 다진다는 취지는 좋은데, 여기서 품종 성능을 독립적으로 검증하는 문제가 새로 떠올랐다고 하죠. 규제 완화로 사전 등록 검증이 자율화되면 독립적 성능 시험 재원은 누가 부담할 것인가의 역설입니다."
     },
     {
       "speaker": "민아",
-      "text": "가장 중요한 것은 데이터의 '준비 상태'입니다. 여러 시즌 동안 축적된 포장 시험 결과와 유전체 데이터가 체계적으로 연결되어 있지 않다면 아무리 좋은 알고리즘도 무용지물입니다. 데이터 정리에만 한 달이 걸린다면 기초 체력부터 먼저 다져야 합니다."
+      "text": "아주 정확한 지적입니다. 신품종의 객관적 성능 데이터는 모든 농가와 기업에 이롭지만, 시험 비용을 낸 기업이 오히려 경쟁사 홍보를 도와주는 무임승차 문제가 발생할 수 있습니다. 그래서 육종뿐만 아니라 점수판에 해당하는 객관적 데이터 검증망에도 공동 투자가 필수적이라는 분석이 나옵니다."
     },
     {
       "speaker": "재석",
-      "text": "결국 기본기가 튼튼해야 첨단 기술도 힘을 발휘하는군요. 기술이 발전하면서 지식재산권 분쟁도 뜨거워지고 있습니다. 최근 코르테바와 이나리의 특허 소송이 합의로 마무리되었다면서요?"
+      "text": "육종 기술 개발 못지않게 이를 농가에 제대로 전달하고 평가하는 시스템이 중요하다는 뜻이군요. 이번 주 캐나다 종자 전문매체에서는 농업 혁신이 거의 성공할 뻔했다가 마무리를 짓지 못하는 현상의 경제적 손실도 다루었습니다."
     },
     {
       "speaker": "민아",
-      "text": "네, 이나리가 특허 기탁 기관에서 코르테바의 종자를 확보해 유전자 교정에 사용한 것이 발단이었습니다. 이번 합의로 이나리는 해당 소재와 유도체를 폐기하고, 코르테바와 라이선스 계약을 협상하기로 했습니다."
+      "text": "그렇습니다. 새로운 우수 품종을 개발해도 농가가 실제로 채택하는 데 시간이 오래 걸리면 연간 수억 달러의 경제적 손실이 발생합니다. 또한 곡물 출하 시 로열티를 정산하는 최종 생산물 로열티 제도를 통해, 육종가가 성과에 따라 재투자 재원을 회수하는 선순환 구조를 만들어야 합니다."
     },
     {
       "speaker": "재석",
-      "text": "이 사건은 단순히 두 회사의 싸움을 넘어, 연구를 위한 유전자원 접근권과 특허 보호 사이의 균형이라는 큰 숙제를 던져준 것 같습니다. 미국 법무부도 이례적으로 의견서를 제출했다죠?"
+      "text": "우수한 유전자원을 만드는 것에서 끝나는 것이 아니라, 검증, 보증, 이력 관리, 그리고 재투자 로열티까지 하나의 사슬처럼 매끄럽게 연결되어야 농가가 실질적 이익을 얻는다는 말씀이시죠."
     },
     {
       "speaker": "민아",
-      "text": "그렇습니다. 법무부는 후속 혁신과 경쟁을 위해 특허된 생물학적 물질에 대한 대중의 접근성이 중요하다고 강조했습니다. 앞으로 유전자 교정 기술이 고도화될수록, 자원에 대한 합법적 접근을 보장하는 라이선싱 계약이 기업의 핵심 전략이 될 것입니다."
+      "text": "네, 정확합니다. 땅콩 사례에서 보듯 유전자원의 공유와 보급이 첫 번째 단추라면, 자율화된 시장에서 객관적 검증과 신속한 현장 보급, 유통 추적 기술이 뒷받침되어야 육종 혁신이 완성됩니다."
     },
     {
       "speaker": "재석",
-      "text": "오늘 이야기를 나누다 보니 유전자원 보존부터 데이터 기반 예측, 그리고 지식재산권 협력까지 육종 산업의 미래가 유기적으로 연결되어 있다는 생각이 듭니다. 결국 이 모든 기술의 지향점은 농민들의 안정적인 수확이겠죠?"
+      "text": "오늘 논의를 종합해 보면, 우수한 유전체의 발견부터 검증 체계와 재투자 모델의 정립까지 종자 생태계 전체의 협력이 얼마나 중요한지 잘 알 수 있었습니다. 민아 님, 오늘 명쾌한 설명 감사드립니다."
     },
     {
       "speaker": "민아",
-      "text": "정확한 지적이십니다. 아무리 정교한 알고리즘과 유전 도구가 있어도, 결국 밭에서 기후 변화와 병해충을 견뎌내는 강인한 품종을 만들어내지 못하면 의미가 없습니다. 기술 혁신이 농가의 실질적인 성과로 이어지도록 돕는 것이 우리 육종가들의 최종 목표입니다."
-    },
-    {
-      "speaker": "재석",
-      "text": "오늘도 깊이 있는 설명 감사드립니다, 민아 박사님. 청취자 여러분, 오늘 준비한 소식은 여기까지입니다. 다음 시간에도 육종 업계의 가장 뜨겁고 유익한 뉴스로 찾아뵙겠습니다. 감사합니다!"
+      "text": "청취자 여러분도 유용한 시간이 되셨기를 바랍니다. 다음 시간에는 글로벌 첨단 유전체 육종과 스마트 규제 동향을 알차게 정리해 드리겠습니다. 감사합니다."
     }
   ]
 }

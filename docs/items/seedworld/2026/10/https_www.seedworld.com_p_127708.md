@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/02/organic-breeding-rules-variety
 summary: "Euroseeds is urging EU policymakers to keep organic breeding rules focused on variety performance, warning that additional breeding-process requirements could raise costs, reduce genetic access and limit farmers’ variety choice."
 attachments: []
 tags: []
-fetched_at: "2026-10-14T09:30:55+09:00"
+fetched_at: "2026-10-16T08:46:59+09:00"
 ---
 # Euroseeds Urges Focus on Variety Performance in Organic Breeding Rules
 

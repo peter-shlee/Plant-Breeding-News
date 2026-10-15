@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/09/17/future-canadian-agriculture-so
 summary: "Living soils, the best genetics and capable plant scientists quietly determine the future of Canadian crop production The post A Farmer’s Most Important Assets Don’t Appear on a Yield Map appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-10-14T09:30:55+09:00"
+fetched_at: "2026-10-16T08:46:59+09:00"
 ---
 # A Farmer’s Most Important Assets Don’t Appear on a Yield Map
 

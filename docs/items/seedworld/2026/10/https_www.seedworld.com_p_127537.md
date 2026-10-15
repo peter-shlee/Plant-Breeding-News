@@ -9,7 +9,7 @@ summary: "Protealis is pairing plant breeding with a soybean inoculant designed 
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-10-14T09:30:55+09:00"
+fetched_at: "2026-10-16T08:46:59+09:00"
 ---
 # Plant and Bacterial Genetics: The Two Parts of Europe’s Soybean Story
 
