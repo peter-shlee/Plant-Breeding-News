@@ -11,6 +11,12 @@ source: "nics"
 
 ## 2026-10
 
+- **[농촌진흥청, 팥 신품종 기계 수확 연시회 개최](../../items/nics/2026/10/944583.md)**
+  - 2026-10-16 · [읽기](../../items/nics/2026/10/944583.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944583)
+
+- **[맥류 안정생산 첫걸음, 파종부터 꼼꼼하게](../../items/nics/2026/10/944582.md)**
+  - 2026-10-16 · [읽기](../../items/nics/2026/10/944582.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944582)
+
 - **[올해 콩 수확, 날짜보다 ‘재배지별 성숙 상태’ 확인해야](../../items/nics/2026/10/944559.md)**
   - 2026-10-08 · [읽기](../../items/nics/2026/10/944559.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944559)
 
@@ -34,9 +40,3 @@ source: "nics"
 
 - **[“어르신 건강 식생활 돕는다” 농촌진흥청이 찾은 핵심 연구 성과](../../items/nics/2026/10/944543.md)**
   - 2026-10-02 · [읽기](../../items/nics/2026/10/944543.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944543)
-
-- **[농촌진흥청, 벼 깨씨무늬병 저항성 계통 및 방제 기술 현장 평가회 열어](../../items/nics/2026/10/944541.md)**
-  - 2026-10-02 · [읽기](../../items/nics/2026/10/944541.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944541)
-
-- **[미나리, 비료 알맞게 줘야 기능 성분도 풍부해요!](../../items/nics/2026/10/944540.md)**
-  - 2026-10-02 · [읽기](../../items/nics/2026/10/944540.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944540)

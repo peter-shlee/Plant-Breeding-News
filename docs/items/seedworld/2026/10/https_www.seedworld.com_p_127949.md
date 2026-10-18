@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/13/agriculture-cybersecurity-consorti
 summary: "Researchers are calling for a national Agriculture Cybersecurity Consortium to help protect crops, farm equipment and digital systems from growing cyber threats. The proposed network would support research, testing and workforce training"
 attachments: []
 tags: []
-fetched_at: "2026-10-16T08:46:59+09:00"
+fetched_at: "2026-10-19T08:34:12+09:00"
 ---
 # Protecting Crops from Growing Cybersecurity Threats
 

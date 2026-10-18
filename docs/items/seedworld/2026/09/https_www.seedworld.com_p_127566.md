@@ -9,7 +9,7 @@ summary: "Farmers need more resilient and productive crops, and genetic diversit
 attachments: []
 tags:
   - "배추"
-fetched_at: "2026-10-16T08:46:59+09:00"
+fetched_at: "2026-10-19T08:34:12+09:00"
 ---
 # Can Cabbage Genetics Help Breeders Develop Better Canola Hybrids?
 

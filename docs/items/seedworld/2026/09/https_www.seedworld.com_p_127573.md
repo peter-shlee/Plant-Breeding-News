@@ -9,7 +9,7 @@ summary: "Wheat heat stress causes the greatest yield losses when heat waves str
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-10-16T08:46:59+09:00"
+fetched_at: "2026-10-19T08:34:12+09:00"
 ---
 # Early Heat Hurts Wheat Most but Could Build Resilience
 

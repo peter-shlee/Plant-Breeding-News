@@ -11,29 +11,41 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[Farmers Are Taking the Lead on the Future of Canadian Wheat Breeding](../../items/seedworld/2026/10/https_www.seedworld.com_p_128034.md)**
+  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128034.md) · [원문](https://www.seedworld.com/canada/2026/10/16/canadian-wheat-breeding-farmer-leadership/)
+  - With Canada’s wheat research system facing major changes, Canadian Wheat Research Coalition Chair Jocelyn Velestuk says farmers must do more than fund breeding programs.
+
+- **[Are Plant Genetics Only Half of Europe’s Soybean Story?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127805.md)**
+  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127805.md) · [원문](https://www.seedworld.com/europe/2026/10/16/soybean-inoculant-europe-protein-challenge/)
+  - Plant genetics have transformed soybean’s potential in Europe. Protealis believes another set of genetics may help determine how far the crop can go.
+
+- **[Biologicals’ Hardest Test Comes After Discovery](../../items/seedworld/2026/10/https_www.seedworld.com_p_127801.md)**
+  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127801.md) · [원문](https://www.seedworld.com/europe/2026/10/15/biological-seed-treatment-discipline/)
+  - A biological can deliver impressive results in the lab, greenhouse, and field trials and still never become a viable seed treatment product. The problem isn’t necessarily the extract, microorganism,…
+
 - **[Can Canada’s Seed Industry Afford to Tell Farmers the Truth?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128022.md)**
   - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128022.md) · [원문](https://www.seedworld.com/canada/2026/10/15/canadian-seed-industry-competition-variety-testing/)
   - Independent variety trials help farmers separate meaningful genetic improvements from marketing claims. As seed regulations evolve, who will pay to keep that information available?
 
 - **[Study: European Agricultural Competitiveness Falls Behind Rivals](../../items/seedworld/2026/10/https_www.seedworld.com_p_128019.md)**
   - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128019.md) · [원문](https://www.seedworld.com/europe/2026/10/15/european-agricultural-competitiveness-innovation-gap/)
-  - A new study finds that crop production growth in the EU and UK has lagged behind major agricultural markets, raising concerns about farmers’ access to new technologies, climate resilience and long-te…
+  - A new study finds that European agricultural competitiveness is under pressure as crop production growth trails major global markets. The research highlights climate-related losses, regulatory barrie…
 
 - **[USDA Awards $86.6M in Specialty Crop Block Grants](../../items/seedworld/2026/10/https_www.seedworld.com_p_128013.md)**
   - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128013.md) · [원문](https://www.seedworld.com/us/2026/10/15/usda-specialty-crop-block-grants-2026/)
-  - Funding will support more than 600 projects across 56 states and territories, including research, seed variety development, pest management and marketing initiatives. The U.S.
+  - USDA has awarded $86.6 million through its Specialty Crop Block Grant Program to support 609 projects across 56 states and territories. The specialty crop block grants will fund research, improved se…
 
 - **[How One Wild Peanut Changed Breeding Around the World](../../items/seedworld/2026/10/https_www.seedworld.com_p_127998.md)**
   - 2026-10-15 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127998.md) · [원문](https://www.seedworld.com/europe/2026/10/15/wild-peanut-breeding-global-crop-improvement/)
-  - Researchers traced genes from a single Bolivian crop wild relative into 251 peanut lines and cultivars across 30 countries, revealing the long reach of genetic diversity, breeding and seed exchange S…
+  - Wild peanut breeding has a remarkable global legacy. Researchers traced disease resistance from a single wild peanut collected in Bolivia in 1959 into 251 peanut lines and cultivars across 30 countri…
 
 - **[El Niño Seed Supply Risks: Is the Industry Prepared?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127994.md)**
   - 2026-10-15 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127994.md) · [원문](https://www.seedworld.com/us/2026/10/15/el-nino-seed-supply-risks/)
-  - A powerful climate signal in the Pacific can’t predict the outcome of a single field. It can, however, expose where seed production, quality, and supply plans are carrying more risk than anyone reali…
+  - El Niño seed supply risks extend beyond field yields. As a strong climate signal develops, U.S.
 
 - **[Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 6](../../items/seedworld/2026/10/https_www.seedworld.com_p_127964.md)**
   - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127964.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-independent-breeding-in-canada-on-the-brink-season-3-episode-6/)
-  - In 1976, a group of public plant breeders and institutions had a problem. They had Canadian genetics.
+  - Independent plant breeders have plenty of skin in the Canadian plant breeding game. SeCan’s Jeff Reid explains how independent seed companies and farmers can invest smarter together in Canadian plant…
 
 - **[USDA Launches Seed Sovereignty Initiative to Strengthen Crop Genetic Resources](../../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md)**
   - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md) · [원문](https://www.seedworld.com/us/2026/10/13/usda-launches-seed-sovereignty-initiative-to-strengthen-crop-genetic-resources/)
@@ -273,43 +285,3 @@ source: "seedworld"
 - **[Seed Size Signal Could Support Bigger Crop Seeds](../../items/seedworld/2026/09/https_www.seedworld.com_p_127454.md)**
   - 2026-09-21 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127454.md) · [원문](https://www.seedworld.com/europe/2026/09/21/seed-size-signal-bigger-crop-seeds/)
   - Seed size research has identified a peptide signal that helps coordinate communication between the embryo and endosperm during seed development. Early crop proof-of-concept work suggests boosting the…
-
-- **[A Farmer’s Most Important Assets Don’t Appear on a Yield Map](../../items/seedworld/2026/09/https_www.seedworld.com_p_127529.md)**
-  - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127529.md) · [원문](https://www.seedworld.com/canada/2026/09/17/future-canadian-agriculture-soil-health-plant-breeding/)
-  - Living soils, the best genetics and capable plant scientists quietly determine the future of Canadian crop production The post A Farmer’s Most Important Assets Don’t Appear on a Yield Map appeared fi…
-
-- **[The Case for One Digital Platform for Seed Retailers and Farmers](../../items/seedworld/2026/09/https_www.seedworld.com_p_127518.md)**
-  - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127518.md) · [원문](https://www.seedworld.com/canada/2026/09/17/the-case-for-one-digital-platform-for-seed-retailers-and-farmers/)
-  - Canada has spent two decades building stewardship agreements, variety use agreements and royalty programs. What if managing them was as seamless The post The Case for One Digital Platform for Seed Re…
-
-- **[Could Research Cuts Push Canada’s Young Plant Breeders Elsewhere?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127511.md)**
-  - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127511.md) · [원문](https://www.seedworld.com/canada/2026/09/17/future-plant-breeding-canada-ben-erickson/)
-  - With public research under pressure, emerging scientist Ben Erickson explains what Canada must do to keep young plant breeders at home The post Could Research Cuts Push Canada’s Young Plant Breeders…
-
-- **[Crop Side Streams Could Become Consumer Foods](../../items/seedworld/2026/09/https_www.seedworld.com_p_127451.md)**
-  - 2026-09-18 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127451.md) · [원문](https://www.seedworld.com/europe/2026/09/17/crop-side-streams-consumer-foods/)
-  - Crop side streams from rapeseed, legumes and potatoes could become new foods for human consumption through the VASCO research project. Wageningen researchers will explore protein extraction, fermenta…
-
-- **[Embrapa Outlines Measures for Crop Climate Risks](../../items/seedworld/2026/09/https_www.seedworld.com_p_127338.md)**
-  - 2026-09-17 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127338.md) · [원문](https://www.seedworld.com/latam/2026/09/17/embrapa-crop-climate-risks/)
-  - Embrapa has outlined 163 measures to help Brazilian crop producers manage climate risks including drought, excessive rainfall, heat, storms, frost and fire. The recommendations were developed in resp…
-
-- **[Seed Sector 2045: The Future Seed Sector May Be More Layered Than Larger](../../items/seedworld/2026/09/https_www.seedworld.com_p_127381.md)**
-  - 2026-09-17 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127381.md) · [원문](https://www.seedworld.com/europe/2026/09/17/seed-sector-2045-layered-larger/)
-  - The seed sector of 2045 may be shaped less by size alone and more by layered innovation networks. Consolidation, specialist breeders, start-ups, public-private partnerships, IP frameworks and technol…
-
-- **[What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 2](../../items/seedworld/2026/09/https_www.seedworld.com_p_127462.md)**
-  - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127462.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/16/wheat-pete-wheat-breeding-on-the-brink-s3-e2/)
-  - Wheat Pete (Peter Johnson) explores the potential of wheat breeding, the lessons growers can learn through Great Lakes YEN, and why Canadian agriculture moves forward when we’re willing to try new th…
-
-- **[AI in Agriculture Brief Highlights Crop Production](../../items/seedworld/2026/09/https_www.seedworld.com_p_127437.md)**
-  - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127437.md) · [원문](https://www.seedworld.com/us/2026/09/16/ai-agriculture-crop-production/)
-  - AI in agriculture is moving from research into commercial crop production, according to a new CAST policy brief. The report highlights applications in seed selection, autonomous weed control and prec…
-
-- **[Embrapa presenta 163 medidas ante riesgos climáticos](../../items/seedworld/2026/09/https_www.seedworld.com_p_127334.md)**
-  - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127334.md) · [원문](https://www.seedworld.com/latam/2026/09/16/embrapa-medidas-riesgos-climaticos/)
-  - Embrapa presentó una nota técnica con 163 medidas para reducir pérdidas agrícolas vinculadas a riesgos climáticos en Brasil. Las recomendaciones abordan sequía, lluvias excesivas, calor, tormentas, h…
-
-- **[18% More Maize, 27% Less Nitrogen Loss?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127448.md)**
-  - 2026-09-16 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127448.md) · [원문](https://www.seedworld.com/europe/2026/09/16/ge-maize-yields-nitrogen-loss/)
-  - G&E maize varieties could help increase global maize production while reducing reactive nitrogen losses, according to new research. The study maps priority genomic regions and highlights the need to…

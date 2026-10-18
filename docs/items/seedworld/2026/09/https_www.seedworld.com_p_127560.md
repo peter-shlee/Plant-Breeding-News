@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "밀"
-fetched_at: "2026-10-16T08:46:59+09:00"
+fetched_at: "2026-10-19T08:34:12+09:00"
 ---
 # What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 3
 
