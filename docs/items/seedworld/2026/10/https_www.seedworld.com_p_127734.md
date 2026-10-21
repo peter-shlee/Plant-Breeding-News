@@ -9,7 +9,7 @@ summary: "Jorge Dubcovsky, a wheat geneticist at UC Davis, has been named the 20
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-10-19T08:34:12+09:00"
+fetched_at: "2026-10-21T09:04:00+09:00"
 ---
 # Wheat Geneticist Jorge Dubcovsky Named 2026 World Agriculture Prize Laureate
 

@@ -11,17 +11,57 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[How ISTA is Preparing Seed Testing for the Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_128165.md)**
+  - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128165.md) · [원문](https://www.seedworld.com/canada/2026/10/20/ista-future-international-seed-testing-standards/)
+  - From approving the 2027 International Rules for Seed Testing to examining AI and digital imaging, ISTA’s annual meeting demonstrated the importance of scientific collaboration.
+
+- **[Why SeCan’s Next 50 Years Matter to Seed Retail](../../items/seedworld/2026/10/https_www.seedworld.com_p_128125.md)**
+  - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128125.md) · [원문](https://www.seedworld.com/canada/2026/10/20/secans-next-50-years-canadian-seed-webinar/)
+  - Register for our Nov. 3 webinar to understand what comes next The post Why SeCan’s Next 50 Years Matter to Seed Retail appeared first on Seed World .
+
+- **[Ontario Seed Growers Look to Protect the Future of Plant Breeding](../../items/seedworld/2026/10/https_www.seedworld.com_p_128122.md)**
+  - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128122.md) · [원문](https://www.seedworld.com/canada/2026/10/20/ontario-seed-growers-plant-breeding-research/)
+  - With public research under pressure, new Ontario Seed Growers’ Association president Phil Nadalin is focused on strengthening the partnerships that bring new crop varieties to farmers.
+
+- **[Euroseeds 2026: Global Seed Innovation and Collaboration](../../items/seedworld/2026/10/https_www.seedworld.com_p_128118.md)**
+  - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128118.md) · [원문](https://www.seedworld.com/europe/2026/10/20/euroseeds-2026-global-seed-innovation/)
+  - The Euroseeds 2026 Congress, taking place October 25–28 in Valencia, Spain, will bring together seed companies, plant breeders and innovators from around the world to discuss the challenges and oppor…
+
+- **[Better Nitrogen Management Could Cut Farm Carbon Emissions](../../items/seedworld/2026/10/https_www.seedworld.com_p_128064.md)**
+  - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128064.md) · [원문](https://www.seedworld.com/europe/2026/10/20/nitrogen-management-farm-carbon-emissions/)
+  - Research from Rothamsted Research suggests improved nitrogen management could reduce energy-related carbon emissions from English farms by up to 13%, while highlighting the potential of green ammonia…
+
+- **[Study Reveals Lasting Effects on Corn Stress Tolerance](../../items/seedworld/2026/10/https_www.seedworld.com_p_128016.md)**
+  - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128016.md) · [원문](https://www.seedworld.com/us/2026/10/19/corn-stress-tolerance-heat-drought-study/)
+  - Research involving 47 corn varieties reveals how early-season heat and drought can influence plant development and flowering, offering new insights for breeding more resilient crops.
+
+- **[Plant-based Proteins: An Opportunity for Farmers and the Seed Sector](../../items/seedworld/2026/10/https_www.seedworld.com_p_128112.md)**
+  - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128112.md) · [원문](https://www.seedworld.com/europe/2026/10/19/plant-based-proteins-europe-farmers-seed-sector/)
+  - Discussing protein goes beyond mere nutrition. The production of both animal and plant-based proteins involves significant organizational, economic, environmental, and — consequently — political cons…
+
+- **[Register for This Webinar and Discover the Missing Variable in Seed Performance](../../items/seedworld/2026/10/https_www.seedworld.com_p_128075.md)**
+  - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128075.md) · [원문](https://www.seedworld.com/us/2026/10/19/microbial-seed-treatments-crop-performance-webinar/)
+  - Seed companies have long worked to improve performance through genetics and a better understanding of the environments where crops grow. But a seed enters the field with another factor in play: micro…
+
+- **[Seed World Flower & Veg Difference Makers](../../items/seedworld/2026/10/https_www.seedworld.com_p_128078.md)**
+  - 2026-10-19 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128078.md) · [원문](https://www.seedworld.com/us/2026/10/19/2027-flower-veg-seed-difference-makers/)
+  - Who Deserves the Spotlight in Flower & Vegetable Seed? Think about the people you know in the U.S.
+
+- **[Thousands of Seed Samples Added to Svalbard Global Seed Vault](../../items/seedworld/2026/10/https_www.seedworld.com_p_128061.md)**
+  - 2026-10-19 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128061.md) · [원문](https://www.seedworld.com/europe/2026/10/19/svalbard-global-seed-vault-october-2026-deposit/)
+  - Genebanks from 21 institutions, including those in Ukraine and six CGIAR research centres, deposited thousands of seed samples in the Svalbard Global Seed Vault, strengthening efforts to safeguard cr…
+
 - **[Farmers Are Taking the Lead on the Future of Canadian Wheat Breeding](../../items/seedworld/2026/10/https_www.seedworld.com_p_128034.md)**
   - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128034.md) · [원문](https://www.seedworld.com/canada/2026/10/16/canadian-wheat-breeding-farmer-leadership/)
-  - With Canada’s wheat research system facing major changes, Canadian Wheat Research Coalition Chair Jocelyn Velestuk says farmers must do more than fund breeding programs.
+  - With Canada's wheat research system facing major changes, CWRC Chair Jocelyn Velestuk says farmers must do more than fund breeding programs The post Farmers Are Taking the Lead on the Future of Canad…
 
 - **[Are Plant Genetics Only Half of Europe’s Soybean Story?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127805.md)**
   - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127805.md) · [원문](https://www.seedworld.com/europe/2026/10/16/soybean-inoculant-europe-protein-challenge/)
-  - Plant genetics have transformed soybean’s potential in Europe. Protealis believes another set of genetics may help determine how far the crop can go.
+  - Europe’s soybean ambitions depend on more than plant genetics. Protealis CEO Benjamin Laga explains how soybean inoculant MagNfix is designed to support nodulation, nitrogen fixation and regional ada…
 
 - **[Biologicals’ Hardest Test Comes After Discovery](../../items/seedworld/2026/10/https_www.seedworld.com_p_127801.md)**
   - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127801.md) · [원문](https://www.seedworld.com/europe/2026/10/15/biological-seed-treatment-discipline/)
-  - A biological can deliver impressive results in the lab, greenhouse, and field trials and still never become a viable seed treatment product. The problem isn’t necessarily the extract, microorganism,…
+  - A biological seed treatment can show strong trial results and still fail commercially if it cannot survive formulation, storage, transport and application. Frontera CEO Matti Tiainen explains why suc…
 
 - **[Can Canada’s Seed Industry Afford to Tell Farmers the Truth?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128022.md)**
   - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128022.md) · [원문](https://www.seedworld.com/canada/2026/10/15/canadian-seed-industry-competition-variety-testing/)

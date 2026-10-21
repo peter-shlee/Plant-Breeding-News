@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/13/sdhi-resistance-phoma-stem-can
 summary: "With 95% of UK P. biglobosus isolates resistant to two SDHI fungicides in laboratory tests, the discovery puts renewed focus on genetics, surveillance and fungicide stewardship working together to protect oilseed rape yields."
 attachments: []
 tags: []
-fetched_at: "2026-10-19T08:34:12+09:00"
+fetched_at: "2026-10-21T09:04:00+09:00"
 ---
 # A New Phoma Threat Raises the Stakes for Oilseed Rape Breeders
 

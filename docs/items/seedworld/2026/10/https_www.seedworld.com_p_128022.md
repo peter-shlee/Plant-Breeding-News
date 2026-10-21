@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/15/canadian-seed-industry-competi
 summary: "Independent variety trials help farmers separate meaningful genetic improvements from marketing claims. As seed regulations evolve, who will pay to keep that information available?"
 attachments: []
 tags: []
-fetched_at: "2026-10-19T08:34:12+09:00"
+fetched_at: "2026-10-21T09:04:00+09:00"
 ---
 # Can Canada’s Seed Industry Afford to Tell Farmers the Truth?
 

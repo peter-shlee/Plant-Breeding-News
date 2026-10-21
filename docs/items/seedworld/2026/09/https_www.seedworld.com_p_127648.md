@@ -11,7 +11,7 @@ tags:
   - "genomics"
   - "phenotyping"
   - "옥수수"
-fetched_at: "2026-10-19T08:34:12+09:00"
+fetched_at: "2026-10-21T09:04:00+09:00"
 ---
 # From Data to the Field: How Innovation Becomes Performance
 

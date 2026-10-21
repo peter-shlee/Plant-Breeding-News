@@ -9,7 +9,7 @@ summary: "Europe’s New Genomic Techniques framework opens new opportunities fo
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-10-19T08:34:12+09:00"
+fetched_at: "2026-10-21T09:04:00+09:00"
 ---
 # Europe’s Embrace of Next Generation Technology a Huge Step Forward
 

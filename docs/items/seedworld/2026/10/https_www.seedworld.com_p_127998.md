@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/15/wild-peanut-breeding-global-cr
 summary: "Wild peanut breeding has a remarkable global legacy. Researchers traced disease resistance from a single wild peanut collected in Bolivia in 1959 into 251 peanut lines and cultivars across 30 countries, revealing the enduring value of crop"
 attachments: []
 tags: []
-fetched_at: "2026-10-19T08:34:12+09:00"
+fetched_at: "2026-10-21T09:04:00+09:00"
 ---
 # How One Wild Peanut Changed Breeding Around the World
 
