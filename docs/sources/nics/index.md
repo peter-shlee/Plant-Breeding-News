@@ -11,6 +11,21 @@ source: "nics"
 
 ## 2026-10
 
+- **[농촌진흥청, 어린이 대상 ‘벼 수확 체험 행사’ 열어](../../items/nics/2026/10/944609.md)**
+  - 2026-10-22 · [읽기](../../items/nics/2026/10/944609.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944609)
+
+- **[농촌진흥청, 한국프로바이오틱스·마이크로바이옴학회 ‘2026 추계학술대회’ 공동 ...](../../items/nics/2026/10/944608.md)**
+  - 2026-10-22 · [읽기](../../items/nics/2026/10/944608.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944608)
+
+- **[국립식량과학원, ’스타연구원 특별관’ 개설…온라인 소통 행사](../../items/nics/2026/10/944607.md)**
+  - 2026-10-22 · [읽기](../../items/nics/2026/10/944607.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944607)
+
+- **[흙 속 보물, 고구마를 찾아라!](../../items/nics/2026/10/944585.md)**
+  - 2026-10-21 · [읽기](../../items/nics/2026/10/944585.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944585)
+
+- **[농촌진흥청, 고기능성 수수 신품종 개발·재배 기계화 박차](../../items/nics/2026/10/944584.md)**
+  - 2026-10-21 · [읽기](../../items/nics/2026/10/944584.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944584)
+
 - **[농촌진흥청, 팥 신품종 기계 수확 연시회 개최](../../items/nics/2026/10/944583.md)**
   - 2026-10-16 · [읽기](../../items/nics/2026/10/944583.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944583)
 
@@ -25,18 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 전북 김제·부안 벼 생육 후기 현장 점검](../../items/nics/2026/10/944549.md)**
   - 2026-10-02 · [읽기](../../items/nics/2026/10/944549.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944549)
-
-- **[‘디지털 영상 연구 기반 활용’ 활성화 산‧학‧연 협력 나서](../../items/nics/2026/10/944548.md)**
-  - 2026-10-02 · [읽기](../../items/nics/2026/10/944548.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944548)
-
-- **[중부 지역 트리티케일 파종은 10월 중순이 적기!](../../items/nics/2026/10/944547.md)**
-  - 2026-10-02 · [읽기](../../items/nics/2026/10/944547.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944547)
-
-- **[녹두 논 재배 전 과정 기계화 기술 정립…재배 확산·기술 보급 박차](../../items/nics/2026/10/944546.md)**
-  - 2026-10-02 · [읽기](../../items/nics/2026/10/944546.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944546)
-
-- **[농촌진흥청, 몽골 현지 벼 수확 시연…한국산 콤바인 첫 시동](../../items/nics/2026/10/944545.md)**
-  - 2026-10-02 · [읽기](../../items/nics/2026/10/944545.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944545)
-
-- **[“어르신 건강 식생활 돕는다” 농촌진흥청이 찾은 핵심 연구 성과](../../items/nics/2026/10/944543.md)**
-  - 2026-10-02 · [읽기](../../items/nics/2026/10/944543.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944543)

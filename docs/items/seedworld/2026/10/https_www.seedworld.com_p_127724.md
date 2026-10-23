@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/05/webinars-seed-teams-hour-grow/"
 summary: "Webinars offer seed businesses a practical way to support professional development when travel and conference costs are high. Giving employees an hour to learn can spark new ideas, better processes and shared team growth."
 attachments: []
 tags: []
-fetched_at: "2026-10-21T09:04:00+09:00"
+fetched_at: "2026-10-23T09:06:13+09:00"
 ---
 # Give Your Team an Hour to Grow
 

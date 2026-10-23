@@ -9,7 +9,7 @@ summary: "With Canada's wheat research system facing major changes, CWRC Chair J
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-10-21T09:04:00+09:00"
+fetched_at: "2026-10-23T09:06:12+09:00"
 ---
 # Farmers Are Taking the Lead on the Future of Canadian Wheat Breeding
 

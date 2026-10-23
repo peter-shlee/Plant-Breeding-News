@@ -9,7 +9,7 @@ summary: "Vylor seed genetics enters Europe with established brands, breeding pr
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-10-21T09:04:00+09:00"
+fetched_at: "2026-10-23T09:06:13+09:00"
 ---
 # Vylor Is Open for Business: What Changes for Europe’s Seed Sector
 

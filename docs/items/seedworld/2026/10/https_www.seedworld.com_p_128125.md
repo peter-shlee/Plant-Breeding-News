@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/20/secans-next-50-years-canadian-
 summary: "Register for our Nov. 3 webinar to understand what comes next The post Why SeCan’s Next 50 Years Matter to Seed Retail appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-10-21T09:03:47+09:00"
+fetched_at: "2026-10-23T09:06:12+09:00"
 ---
 # Why SeCan’s Next 50 Years Matter to Seed Retail
 

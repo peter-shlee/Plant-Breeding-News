@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/13/manitoba-seed-growers-regulato
 summary: "With combines winding down and regulatory changes approaching, the Manitoba Seed Growers’ Association is preparing for decisions that could reshape the seed industry The post A Faster Seed System Still Needs Trusted Data appeared first on"
 attachments: []
 tags: []
-fetched_at: "2026-10-21T09:04:00+09:00"
+fetched_at: "2026-10-23T09:06:13+09:00"
 ---
 # A Faster Seed System Still Needs Trusted Data
 
