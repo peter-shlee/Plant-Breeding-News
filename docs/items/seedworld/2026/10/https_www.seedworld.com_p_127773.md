@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/10/07/making-the-case-f
 summary: "Could farmers’ variety choices help direct breeding investment? On The Brink explores the case for end point royalties, clearer costs and a return for public and private variety developers."
 attachments: []
 tags: []
-fetched_at: "2026-10-23T09:06:13+09:00"
+fetched_at: "2026-10-26T08:28:24+09:00"
 ---
 # Making a Case for End Point Royalties | On The Brink: Season 3, Episode 5
 

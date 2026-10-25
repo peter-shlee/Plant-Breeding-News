@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/01/seed-coating-service-dont-worry-ab
 summary: "A dependable seed coating service can help seed companies manage tight timelines, custom coating needs and consistent product quality. Ryan Schrock of Seed Coating Solutions explains why communication, flexibility and reliability matter"
 attachments: []
 tags: []
-fetched_at: "2026-10-23T09:06:13+09:00"
+fetched_at: "2026-10-26T08:28:24+09:00"
 ---
 # The Best Seed Coating Service is the One You Don’t Have to Worry About
 

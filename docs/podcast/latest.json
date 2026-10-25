@@ -1,9 +1,9 @@
 {
-  "title": "야생 유전자원의 글로벌 유산과 캐나다 종자 육종 생태계의 도전",
-  "shortDescription": "볼리비아 야생 땅콩 유전자가 전 세계 품종에 미친 역사적 영향부터, 캐나다 독립 종자 산업의 공동 투자, 품종 검증 및 혁신 연결고리 완성의 필요성을 다룹니다.",
-  "releasedDate": "2026-10-16",
-  "rangeStart": "2026-10-09",
-  "rangeEnd": "2026-10-16",
+  "title": "기후변화 시대의 식물 육종 혁신과 지식재산권의 미래",
+  "shortDescription": "스페인의 기후 대응 육종 전략부터 유전자 교정 시대의 EDV 이슈, 캐나다의 공공-민간 육종 협력과 스타트업 도전까지 최신 육종 동향을 짚어봅니다.",
+  "releasedDate": "2026-10-26",
+  "rangeStart": "2026-10-19",
+  "rangeEnd": "2026-10-26",
   "staticRelease": true,
   "models": {
     "script": "gemini-3.5-flash",
@@ -14,107 +14,115 @@
     "audioStatus": "ok"
   },
   "audio": {
-    "url": "2026-10-16.mp3",
+    "url": "2026-10-26.mp3",
     "mimeType": "audio/mpeg",
-    "durationSeconds": 233.36,
-    "bytes": 1867629,
+    "durationSeconds": 241.04,
+    "bytes": 1929069,
     "synthesisMode": "multi_speaker",
     "ttsModel": "gemini-3.1-flash-tts-preview"
   },
   "selectedItems": [
     {
       "idx": 1,
-      "date": "2026-10-15",
+      "date": "2026-10-23",
       "source": "seedworld",
-      "title": "How One Wild Peanut Changed Breeding Around the World",
-      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127998.md",
-      "originalUrl": "https://www.seedworld.com/europe/2026/10/15/wild-peanut-breeding-global-crop-improvement/",
-      "reason": "야생 땅콩 유전자가 전 세계 251개 품종에 영향을 미친 역사와 공유 가치를 조명함."
+      "title": "Antonio Villarroel on Spain’s Plant Breeding Future",
+      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_128239.md",
+      "originalUrl": "https://www.seedworld.com/europe/2026/10/23/antonio-villarroel-spain-plant-breeding/",
+      "reason": "기후변화 대응과 신유전체기술(NGT) 규제 완화 등 스페인 종자 산업의 혁신 사례를 다룸"
     },
     {
       "idx": 2,
-      "date": "2026-10-14",
+      "date": "2026-10-22",
       "source": "seedworld",
-      "title": "Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 6",
-      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127964.md",
-      "originalUrl": "https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-independent-breeding-in-canada-on-the-brink-season-3-episode-6/",
-      "reason": "캐나다 중소 종자기업들이 공동 투자를 통해 민간 육종 경쟁력을 높이는 방안을 제시함."
+      "title": "Seed Sector 2045: Why NGTs Make the EDV Question More Important Than Ever",
+      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_128180.md",
+      "originalUrl": "https://www.seedworld.com/europe/2026/10/22/essentially-derived-varieties-ngts-breeders-rights/",
+      "reason": "유전자 교정 기술 발달에 따른 실질적 도출품종(EDV) 개념과 육종가 권리 보호 이슈 조명"
     },
     {
       "idx": 3,
-      "date": "2026-10-16",
+      "date": "2026-10-20",
       "source": "seedworld",
-      "title": "Can Canada’s Seed Industry Afford to Tell Farmers the Truth?",
-      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_128022.md",
-      "originalUrl": "https://www.seedworld.com/canada/2026/10/15/canadian-seed-industry-competition-variety-testing/",
-      "reason": "품종 등록 규제 완화 속에서 독립적 성과 검증 데이터 확보를 위한 경제적 모델을 분석함."
+      "title": "Ontario Seed Growers Look to Protect the Future of Plant Breeding",
+      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_128122.md",
+      "originalUrl": "https://www.seedworld.com/canada/2026/10/20/ontario-seed-growers-plant-breeding-research/",
+      "reason": "공공 연구 축소에 맞선 캐나다 온타리오 종자 재배자들의 공공-민간 협력 모델 소개"
     },
     {
-      "idx": 4,
-      "date": "2026-10-09",
+      "idx": 5,
+      "date": "2026-10-21",
       "source": "seedworld",
-      "title": "The Most Expensive Word in Farming is “Almost”",
-      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_127825.md",
-      "originalUrl": "https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/",
-      "reason": "육종 연구부터 보급, 로열티 회수까지 기술 혁신의 마지막 연결고리 완성을 강조함."
+      "title": "Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 7",
+      "itemPath": "items/seedworld/2026/10/https_www.seedworld.com_p_128146.md",
+      "originalUrl": "https://www.seedworld.com/canada/on-the-brink/2026/10/21/private-plant-breeding-potential-on-the-brink-season-3-episode-7/",
+      "reason": "민간 육종 기업이 겪는 장기 투자 장벽과 종자 산업의 지속가능한 자금 조달 방안 제시"
     }
   ],
   "dialogue": [
     {
       "speaker": "재석",
-      "text": "안녕하세요, 식물 육종 뉴스 팟캐스트입니다. 오늘은 야생 유전자원이 전 세계 농업에 미친 파급력부터 캐나다 종자 산업의 육종 재원 및 보급 생태계 재편 소식까지 준비했습니다. 전문가 민아 님과 함께 육종 현장의 깊이 있는 이야기 풀어보겠습니다."
+      "text": "안녕하세요! 최신 식물 육종 기술과 종자 산업의 흐름을 짚어보는 식물 육종 뉴스 팟캐스트입니다. 오늘도 육종 전문가 민아 님과 함께 글로벌 종자 현장의 뜨거운 이슈들을 풀어보겠습니다."
     },
     {
       "speaker": "민아",
-      "text": "안녕하세요. 먼저 볼리비아의 야생 땅콩에서 시작된 놀라운 유전체 추적 연구 소식을 소개해 드릴게요. 1959년 수집된 야생 종자에서 온 유전자 조각이 전 세계 30개국, 251개 땅콩 품종 및 계통에 침투해 있다는 사실이 최신 유전체 분석으로 밝혀졌습니다."
+      "text": "네, 반가운 청취자 여러분 안녕하세요. 최근 발렌시아에서 열린 유로시드 2026 행사를 계기로 유럽 종자 산업의 중심지인 스페인의 육종 현황이 주목받고 있습니다."
     },
     {
       "speaker": "재석",
-      "text": "60여 년 전에 수집된 야생 땅콩 하나가 전 세계 땅콩 재배지 상당수에 영향을 주고 있었다니 정말 놀라운데요. 당시에는 단순한 야생 유전자원이었지만, 잎 병해에 강한 내병성 형질의 근원이었던 셈이네요."
+      "text": "스페인 국립육종가협회의 안토니오 비야로엘 사무총장 인터뷰를 보면 스페인이 기후변화 대응의 시험대가 되고 있다는 점을 강조하더라고요. 현장에서 어떤 도전과제들이 논의되었나요?"
     },
     {
       "speaker": "민아",
-      "text": "맞습니다. 재배종 땅콩은 4배체이고 야생종은 2배체라 교배 장벽이 높지만, 노스캐롤라이나 주립대 연구진이 복합 교배로 이 장벽을 넘었습니다. 이후 국제건조지역작물연구소(ICRISAT) 등을 통해 전 세계로 종자가 공유되면서 오늘날의 강력한 내병성 계통들이 탄생할 수 있었습니다."
+      "text": "스페인은 극심한 가뭄과 고온, 변종 병해충에 직면해 있어 신속한 품종 개량이 절실한 상황입니다. 그래서 크리스퍼 같은 신유전체기술, 즉 NGT의 도입과 더불어 예측 가능한 지식재산권 규제 마련을 강하게 요구하고 있습니다."
     },
     {
       "speaker": "재석",
-      "text": "야생 자원의 발견과 무상 공유가 글로벌 육종에 얼마나 큰 유산을 남겼는지 보여주는 사례군요. 한편 북미 캐나다에서는 독립 종자 기업들이 모여 자원 투자를 효율화하는 새로운 움직임이 일고 있다고 들었습니다."
+      "text": "기술 발전 속도에 맞춰 지식재산권 제도가 정비되어야 한다는 점이 핵심이군요. 유전자 교정 기술이 보편화되면서 실질적 도출품종, 즉 EDV 제도에 대한 관심도 높아지고 있다면서요?"
     },
     {
       "speaker": "민아",
-      "text": "네, 캐나다의 종자 조직인 SeCan 측은 중소 종자회사들이 거대 다국적 기업과 경쟁하려면 스마트한 공동 투자가 필요하다고 강조합니다. 정부 기관인 캐나다 농무농식품부가 품종 상용화 마지막 단계에서 철수하는 추세라, 민간 기업들이 재원을 모아 육종과 검증망을 함께 구축하는 전략이 중요해졌습니다."
+      "text": "맞습니다. EDV는 UPOV 1991 협약에 도입된 개념으로, 기존 우수 품종의 유전적 기반을 거의 그대로 둔 채 특정 유전자 하나만 수정했을 때 발생하는 상업적 권리를 다룹니다. 기존 육종가의 수년에 걸친 투자를 보호하면서도 새로운 육종 시도를 장려하기 위해 만들어진 안전장치입니다."
     },
     {
       "speaker": "재석",
-      "text": "중소 기업들이 힘을 합쳐 육종 기반을 다진다는 취지는 좋은데, 여기서 품종 성능을 독립적으로 검증하는 문제가 새로 떠올랐다고 하죠. 규제 완화로 사전 등록 검증이 자율화되면 독립적 성능 시험 재원은 누가 부담할 것인가의 역설입니다."
+      "text": "기존에는 10년 넘게 걸려 개발한 품종을 단번에 살짝 바꿔서 상업화하면 원 육종가가 억울할 수밖에 없겠네요. 유전자 교정으로 신품종 개발이 쉬워질수록 EDV의 중요성이 더 커지겠어요."
     },
     {
       "speaker": "민아",
-      "text": "아주 정확한 지적입니다. 신품종의 객관적 성능 데이터는 모든 농가와 기업에 이롭지만, 시험 비용을 낸 기업이 오히려 경쟁사 홍보를 도와주는 무임승차 문제가 발생할 수 있습니다. 그래서 육종뿐만 아니라 점수판에 해당하는 객관적 데이터 검증망에도 공동 투자가 필수적이라는 분석이 나옵니다."
+      "text": "정확합니다. 단일 부모 품종만을 활용한 유전자 교정 품종이 늘어남에 따라 UPOV에서도 해석 지침 개정을 활발히 논의 중입니다. 자원 접근성은 보장하되 상업적 이용 시 원래 육종가의 승인을 받도록 하여 공정한 육종 생태계를 유지하려는 것이죠."
     },
     {
       "speaker": "재석",
-      "text": "육종 기술 개발 못지않게 이를 농가에 제대로 전달하고 평가하는 시스템이 중요하다는 뜻이군요. 이번 주 캐나다 종자 전문매체에서는 농업 혁신이 거의 성공할 뻔했다가 마무리를 짓지 못하는 현상의 경제적 손실도 다루었습니다."
+      "text": "기술 혁신만큼 제도적 정비가 중요하다는 게 잘 느껴집니다. 한편 북미에서는 공공 연구 인프라 축소로 인한 육종 현장의 어려움도 보고되고 있죠?"
     },
     {
       "speaker": "민아",
-      "text": "그렇습니다. 새로운 우수 품종을 개발해도 농가가 실제로 채택하는 데 시간이 오래 걸리면 연간 수억 달러의 경제적 손실이 발생합니다. 또한 곡물 출하 시 로열티를 정산하는 최종 생산물 로열티 제도를 통해, 육종가가 성과에 따라 재투자 재원을 회수하는 선순환 구조를 만들어야 합니다."
+      "text": "네, 캐나다 온타리오 종자재배자협회의 필 나달린 신임 회장이 공공 연구소 폐쇄 여파에 대응해 민간과 공공의 협력을 강조하고 있습니다. 원종 공급 등 국가 전체 육종 체계가 유기적으로 연결되어 있어 연구소 폐쇄는 지역을 넘어 전국적인 영향을 미칩니다."
     },
     {
       "speaker": "재석",
-      "text": "우수한 유전자원을 만드는 것에서 끝나는 것이 아니라, 검증, 보증, 이력 관리, 그리고 재투자 로열티까지 하나의 사슬처럼 매끄럽게 연결되어야 농가가 실질적 이익을 얻는다는 말씀이시죠."
+      "text": "그래서 종자 재배자들과 기업, 대학 연구진이 힘을 합쳐 정치권과 지방정부를 설득하는 대관 활동까지 나선 거군요. 공공 육종이 줄어들면 독립적인 민간 육종가들이 그 자리를 채워야 할 텐데, 그쪽 사정은 어떤가요?"
     },
     {
       "speaker": "민아",
-      "text": "네, 정확합니다. 땅콩 사례에서 보듯 유전자원의 공유와 보급이 첫 번째 단추라면, 자율화된 시장에서 객관적 검증과 신속한 현장 보급, 유통 추적 기술이 뒷받침되어야 육종 혁신이 완성됩니다."
+      "text": "캐나다의 민간 육종 기업 J4 Agri-Science의 조디 수터 박사 사례를 보면 민간 육종의 높은 진입장벽을 실감할 수 있습니다. 품종 개발부터 첫 매출이 발생하기까지 10년에서 12년이나 걸리지만, 장기적 운영비를 지원하는 자금 조달 구조는 턱없이 부족한 실정입니다."
     },
     {
       "speaker": "재석",
-      "text": "오늘 논의를 종합해 보면, 우수한 유전체의 발견부터 검증 체계와 재투자 모델의 정립까지 종자 생태계 전체의 협력이 얼마나 중요한지 잘 알 수 있었습니다. 민아 님, 오늘 명쾌한 설명 감사드립니다."
+      "text": "첫 수익을 내기까지 10년 이상 견뎌야 한다니 웬만한 신념 없이는 시작하기 힘들겠어요. 하지만 장기적 투자를 단행하는 긍정적인 파트너십 사례도 나타나고 있다죠?"
     },
     {
       "speaker": "민아",
-      "text": "청취자 여러분도 유용한 시간이 되셨기를 바랍니다. 다음 시간에는 글로벌 첨단 유전체 육종과 스마트 규제 동향을 알차게 정리해 드리겠습니다. 감사합니다."
+      "text": "그렇습니다. FP 제네틱스나 사스카추완 콩 재배자 협회가 조기 숙성 및 병해충 저항성 품종 개발을 위해 지속적인 연구 자금을 대고 신품종 우선권을 확보하는 장기 협약을 체결했습니다. 이러한 협력 모델이 활성화되어야 민간 육종의 혁신 역량이 지속될 수 있습니다."
+    },
+    {
+      "speaker": "재석",
+      "text": "오늘 대화를 나눠보니 기후위기 대응을 위한 NGT 기술 활용부터 EDV 같은 지식재산권 보호, 그리고 민간과 공공의 장기적 투자가 톱니바퀴처럼 맞물려 돌아가야 한다는 점을 깊이 이해하게 되었습니다."
+    },
+    {
+      "speaker": "민아",
+      "text": "네, 글로벌 육종 산업이 지속가능성을 확보하려면 다각적인 협력이 필수적입니다. 함께해 주신 청취자 여러분께 감사드리며, 다음 시간에도 현장의 생생하고 알찬 육종 정보로 다시 찾아뵙겠습니다. 감사합니다!"
     }
   ]
 }

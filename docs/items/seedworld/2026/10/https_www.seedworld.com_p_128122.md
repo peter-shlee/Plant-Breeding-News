@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/20/ontario-seed-growers-plant-bre
 summary: "With public research under pressure, new Ontario Seed Growers’ Association president Phil Nadalin is focused on strengthening the partnerships that bring new crop varieties to farmers The post Ontario Seed Growers Look to Protect the"
 attachments: []
 tags: []
-fetched_at: "2026-10-23T09:06:12+09:00"
+fetched_at: "2026-10-26T08:28:24+09:00"
 ---
 # Ontario Seed Growers Look to Protect the Future of Plant Breeding
 

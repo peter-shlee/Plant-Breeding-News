@@ -11,25 +11,33 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[Antonio Villarroel on Spain’s Plant Breeding Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_128239.md)**
+  - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128239.md) · [원문](https://www.seedworld.com/europe/2026/10/23/antonio-villarroel-spain-plant-breeding/)
+  - As climate pressures intensify and the demand for innovation accelerates, Europe’s plant breeders face a critical challenge: how to develop more resilient, productive varieties faster while navigatin…
+
+- **[More Genetics, More Markets: Agri Obtentions Looks Beyond France](../../items/seedworld/2026/10/https_www.seedworld.com_p_127969.md)**
+  - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127969.md) · [원문](https://www.seedworld.com/europe/2026/10/23/agri-obtentions-european-genetics-access/)
+  - New opportunities are opening for European seed companies to access Agri Obtentions’ genetics as the French breeder looks beyond France for its next stage of growth. The INRAE subsidiary is expanding…
+
 - **[The Most Important Farmer in Canada Hasn’t Planted a Crop Yet](../../items/seedworld/2026/10/https_www.seedworld.com_p_128221.md)**
   - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128221.md) · [원문](https://www.seedworld.com/canada/2026/10/22/future-canadian-plant-breeding-farmers-2040/)
-  - Canada’s seed industry is making decisions whose consequences won’t be felt for another decade. Are we giving tomorrow’s farmers a voice in those decisions?
+  - Canada’s seed industry is making decisions whose consequences won't be felt for another decade. Are we giving tomorrow’s farmers a voice in those decisions?
 
 - **[Seed Treatment in Europe: Regulation and Innovation](../../items/seedworld/2026/10/https_www.seedworld.com_p_128215.md)**
   - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128215.md) · [원문](https://www.seedworld.com/europe/2026/10/22/seed-treatment-europe-regulation-innovation/)
-  - Could restrictions on seed treatment for export markets push seed production outside the EU? And where is innovation taking seed-applied technologies next?
+  - Seed treatment regulations are creating challenges for European seed companies serving international markets. Euroseeds' Amalia Kafka discusses the risk of production shifting outside the EU, the nee…
 
 - **[Sorghum Could Help European Farming Adapt to Climate Change](../../items/seedworld/2026/10/https_www.seedworld.com_p_128071.md)**
   - 2026-10-22 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128071.md) · [원문](https://www.seedworld.com/europe/2026/10/22/sorghum-europe-climate-change-adaptation/)
-  - New research suggests sorghum could become an increasingly important alternative to maize in European livestock feed, with climate projections indicating higher yields and expanded growing areas as t…
+  - Sorghum could become an increasingly important crop in European agriculture as climate change alters growing conditions. New research from INRAE projects higher sorghum yields and expanded suitable g…
 
 - **[Seed Sector 2045: Why NGTs Make the EDV Question More Important Than Ever](../../items/seedworld/2026/10/https_www.seedworld.com_p_128180.md)**
   - 2026-10-22 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128180.md) · [원문](https://www.seedworld.com/europe/2026/10/22/essentially-derived-varieties-ngts-breeders-rights/)
-  - As genome editing allows breeders to make precise changes while retaining almost the entire genetic foundation of successful varieties, the boundary between an independent variety and an essentially…
+  - As genome editing transforms plant breeding, essentially derived varieties are becoming a critical intellectual property issue. From UPOV's EDV rules to the 2026 Nadorcott ruling, this Seed Sector 20…
 
 - **[What Vylor Needs From Policy to Meet its Innovation Ambition](../../items/seedworld/2026/10/https_www.seedworld.com_p_128098.md)**
   - 2026-10-22 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128098.md) · [원문](https://www.seedworld.com/europe/2026/10/22/vylor-gene-editing-eu-seed-policy/)
-  - Corteva’s seed and genetics spin-off, Vylor, enters the market with significant ambitions for genetics, from gene editing to new approaches to biofuel feedstocks. But bringing those innovations to fa…
+  - Vylor is putting gene editing at the centre of its regulatory strategy as the company prepares to operate independently from Corteva. Teresa Babuscio, Head of Government and Industry Affairs for EMEA…
 
 - **[Think Like a Seed: The Agronomy Behind a Strong Start](../../items/seedworld/2026/10/https_www.seedworld.com_p_128174.md)**
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128174.md) · [원문](https://www.seedworld.com/canada/2026/10/21/think-like-a-seed-the-agronomy-behind-a-strong-start/)
@@ -37,23 +45,23 @@ source: "seedworld"
 
 - **[Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 7](../../items/seedworld/2026/10/https_www.seedworld.com_p_128146.md)**
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128146.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/21/private-plant-breeding-potential-on-the-brink-season-3-episode-7/)
-  - Starting a business is a risk. Starting one knowing the first revenue could be 10 to 12 years away takes a different level of commitment.
+  - Independent plant breeders can face a 10- to 12-year wait for their first revenue. Jodi Souter of J4 Agri-Science explains the funding, grower support and changes in perception needed to unlock Canad…
 
 - **[Field Beans Before Barley Could Cut Environmental Impacts](../../items/seedworld/2026/10/https_www.seedworld.com_p_128067.md)**
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128067.md) · [원문](https://www.seedworld.com/europe/2026/10/21/field-beans-before-barley-could-cut-environmental-impact/)
-  - Long-term research from Scotland found that including field beans in cereal rotations could reduce environmental impacts by about 25%, lower nitrogen fertiliser requirements and improve barley yields…
+  - Growing field beans before spring barley could reduce environmental impacts by approximately 25%, according to long-term Scottish research. The study found that bean–barley rotations reduced nitrogen…
 
 - **[How Pieter van Kesteren’s Career Traces the Transformation of Vegetable Seeds](../../items/seedworld/2026/10/https_www.seedworld.com_p_128136.md)**
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128136.md) · [원문](https://www.seedworld.com/europe/2026/10/21/pieter-van-kesteren-vegetable-seed-industry/)
-  - From Cold War markets and early China to California seed enhancement and global crop teams, one career crossed more than four decades of change. In 1962, international vegetable seed business still d…
+  - Pieter van Kesteren spent more than four decades helping shape the international vegetable seed industry. From Cold War markets and early trade with China to California seed enhancement and the rise…
 
 - **[Building Vylor: An Inside Conversation on What Comes Next](../../items/seedworld/2026/10/https_www.seedworld.com_p_128081.md)**
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128081.md) · [원문](https://www.seedworld.com/europe/2026/10/21/building-vylor-jean-philippe-riffat-interview/)
-  - Jean-Philippe Riffat, President, EMEA-APAC, Vylor, on the experience of building something new, the opportunities ahead, and what he hopes to be able to say about Vylor five years from now.
+  - Jean-Philippe Riffat, President, EMEA-APAC at Vylor, reflects on building an independent seed company, the opportunities emerging in genetics and gene editing, and what success should look like for V…
 
 - **[BIOCRAFT Project Uses AI to Develop Resilient Crops](../../items/seedworld/2026/10/https_www.seedworld.com_p_128155.md)**
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128155.md) · [원문](https://www.seedworld.com/europe/2026/10/21/biocraft-project-ai-climate-resilient-crops-copy/)
-  - The four-year BIOCRAFT project will focus on improving potato and rice varieties through artificial intelligence, biotechnology and soil microbiome research, while exploring new opportunities for pla…
+  - The EU-funded BIOCRAFT project will combine artificial intelligence, biotechnology and soil microbiome research to develop more resilient potato and rice varieties. The four-year, €3.81 million initi…
 
 - **[How ISTA is Preparing Seed Testing for the Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_128165.md)**
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128165.md) · [원문](https://www.seedworld.com/canada/2026/10/20/ista-future-international-seed-testing-standards/)
@@ -305,43 +313,3 @@ source: "seedworld"
 - **[Could 240 Million Smallholders Feed the World’s Next 1.5 Billion People?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127576.md)**
   - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127576.md) · [원문](https://www.seedworld.com/europe/2026/09/28/smallholder-farmers-regenerative-agriculture/)
   - Smallholder farmers could help meet rising global food demand while restoring soils and strengthening rural livelihoods, a new book argues. Whole Earth Farming proposes helping 240 million farming fa…
-
-- **[What Could Slow the Next Great Seed Variety?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127616.md)**
-  - 2026-09-26 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127616.md) · [원문](https://www.seedworld.com/canada/2026/09/25/can-canada-deliver-seed-farmers-need-next/)
-  - From variety trials to seed increase, four industry leaders identify the weak points between a breeding breakthrough and the farm gate The post What Could Slow the Next Great Seed Variety?
-
-- **[From Treatment to Planting: Protecting Rhizobium Viability in Pulses](../../items/seedworld/2026/09/https_www.seedworld.com_p_127612.md)**
-  - 2026-09-26 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127612.md) · [원문](https://www.seedworld.com/canada/2026/09/25/from-treatment-to-planting-protecting-rhizobium-viability-in-pulses/)
-  - On-seed viability is an important consideration for pea and lentil seed treaters using rhizobium inoculants. Treatment timing, storage temperature, product compatibility and planting schedules all af…
-
-- **[Early Heat Hurts Wheat Most but Could Build Resilience](../../items/seedworld/2026/09/https_www.seedworld.com_p_127573.md)**
-  - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127573.md) · [원문](https://www.seedworld.com/europe/2026/09/25/wheat-heat-stress-before-flowering/)
-  - Wheat heat stress causes the greatest yield losses when heat waves strike before flowering, field experiments show. However, early exposure may also prime wheat to better withstand a second heat wave…
-
-- **[The Next Great Crop May Begin as an Uncertain Bet](../../items/seedworld/2026/09/https_www.seedworld.com_p_127608.md)**
-  - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127608.md) · [원문](https://www.seedworld.com/canada/2026/09/24/farming-future-uncertainty/)
-  - Breeders, researchers and farmers have to make decisions years before they know which ideas will succeed The post The Next Great Crop May Begin as an Uncertain Bet appeared first on Seed World .
-
-- **[Can Gene Editing Give Seeds a Stronger Start?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127602.md)**
-  - 2026-09-25 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127602.md) · [원문](https://www.seedworld.com/canada/2026/09/24/reagan-reed-gene-editing-better-seeds/)
-  - At UC Davis, Reagan Reed is testing how genes work together to influence germination and seed quality The post Can Gene Editing Give Seeds a Stronger Start? appeared first on Seed World .
-
-- **[Why Is Europe Still Importing So Much of Its Livestock Protein?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127570.md)**
-  - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127570.md) · [원문](https://www.seedworld.com/europe/2026/09/23/european-protein-crops-livestock-feed/)
-  - European protein crops are the focus of a new €5.5 million Horizon Europe project aimed at reducing reliance on imported livestock feed. PROCEED will connect growers, processors and livestock farmers…
-
-- **[Albaugh Seed Treatments: Right from the Start.](../../items/seedworld/2026/09/https_www.seedworld.com_p_127594.md)**
-  - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127594.md) · [원문](https://www.seedworld.com/us/2026/09/23/albaugh-seed-treatments-right-from-the-start/)
-  - Albaugh seed treatment solutions reflect the company's farmer-founded approach to crop protection, offering traditional chemistries, newer active ingredients and biological options.
-
-- **[What Got Us Here Won’t Get Us There | On The Brink: Season 3, Episode 3](../../items/seedworld/2026/09/https_www.seedworld.com_p_127560.md)**
-  - 2026-09-24 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127560.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/23/winter-wheat-breeding-quebec-on-the-brink-s3-e3/)
-  - Michel McElroy of CÉROM explains how genomics is accelerating winter wheat breeding in Quebec, why growers want another crop in the rotation and why sustained public investment remains essential to v…
-
-- **[How Saskatchewan Can Grow Canada’s Bioeconomy](../../items/seedworld/2026/09/https_www.seedworld.com_p_127582.md)**
-  - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127582.md) · [원문](https://www.seedworld.com/canada/2026/09/23/canada-new-crops-new-markets/)
-  - Darcy Pawlik sees a way to connect farmers and researchers with the investment, expertise and customers needed to commercialize new ideas The post How Saskatchewan Can Grow Canada’s Bioeconomy appear…
-
-- **[Can Cabbage Genetics Help Breeders Develop Better Canola Hybrids?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127566.md)**
-  - 2026-09-23 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127566.md) · [원문](https://www.seedworld.com/canada/2026/09/23/anubhav-tripathi-crop-breeding/)
-  - Farmers need more resilient and productive crops, and genetic diversity may hold some of the answers The post Can Cabbage Genetics Help Breeders Develop Better Canola Hybrids?

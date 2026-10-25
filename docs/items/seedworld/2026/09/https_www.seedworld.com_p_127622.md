@@ -11,7 +11,7 @@ tags:
   - "genomics"
   - "marker"
   - "gene-editing"
-fetched_at: "2026-10-23T09:06:13+09:00"
+fetched_at: "2026-10-26T08:28:24+09:00"
 ---
 # 8 AI Players to Watch in Crop Breeding
 

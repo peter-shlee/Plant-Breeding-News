@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/19/plant-based-proteins-europe-fa
 summary: "Plant-based proteins could create new opportunities for European farmers and the seed sector as the EU works to reduce its dependence on imported animal feed. A new European protein strategy aims to boost domestic production, support"
 attachments: []
 tags: []
-fetched_at: "2026-10-23T09:06:12+09:00"
+fetched_at: "2026-10-26T08:28:24+09:00"
 ---
 # Plant-based Proteins: An Opportunity for Farmers and the Seed Sector
 

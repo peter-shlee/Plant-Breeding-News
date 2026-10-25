@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/07/agricultural-innovation-reliab
 summary: "Agricultural innovation cannot eliminate uncertainty, but it can help farmers manage it. A visit to Bayer’s Crop Science headquarters in Monheim shows how advances in plant breeding, crop protection and biologicals are being developed with"
 attachments: []
 tags: []
-fetched_at: "2026-10-23T09:06:13+09:00"
+fetched_at: "2026-10-26T08:28:24+09:00"
 ---
 # What Agricultural Innovation Looks Like Up Close
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/19/microbial-seed-treatments-crop-per
 summary: "Seed companies have long worked to improve performance through genetics. But a seed enters the field with another factor in play: microbes The post Register for This Webinar and Discover the Missing Variable in Seed Performance appeared"
 attachments: []
 tags: []
-fetched_at: "2026-10-23T09:06:12+09:00"
+fetched_at: "2026-10-26T08:28:24+09:00"
 ---
 # Register for This Webinar and Discover the Missing Variable in Seed Performance
 
