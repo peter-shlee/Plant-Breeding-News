@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/22/seed-treatment-europe-regulati
 summary: "Seed treatment regulations are creating challenges for European seed companies serving international markets. Euroseeds' Amalia Kafka discusses the risk of production shifting outside the EU, the need for pragmatic legislation and emerging"
 attachments: []
 tags: []
-fetched_at: "2026-10-26T08:28:24+09:00"
+fetched_at: "2026-10-28T09:41:31+09:00"
 ---
 # Seed Treatment in Europe: Regulation and Innovation
 

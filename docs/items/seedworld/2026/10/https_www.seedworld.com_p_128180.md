@@ -11,7 +11,7 @@ tags:
   - "genomics"
   - "gene-editing"
   - "IP-policy"
-fetched_at: "2026-10-26T08:28:24+09:00"
+fetched_at: "2026-10-28T09:41:31+09:00"
 ---
 # Seed Sector 2045: Why NGTs Make the EDV Question More Important Than Ever
 

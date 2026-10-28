@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/21/field-beans-before-barley-coul
 summary: "Growing field beans before spring barley could reduce environmental impacts by approximately 25%, according to long-term Scottish research. The study found that bean–barley rotations reduced nitrogen fertiliser requirements and improved"
 attachments: []
 tags: []
-fetched_at: "2026-10-26T08:28:24+09:00"
+fetched_at: "2026-10-28T09:41:31+09:00"
 ---
 # Field Beans Before Barley Could Cut Environmental Impacts
 

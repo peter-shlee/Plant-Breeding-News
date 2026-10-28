@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/05/seed-innovation-ip-questions/"
 summary: "The Corteva-Inari settlement leaves larger questions unresolved about how seed innovation should balance intellectual property protection, access to biological material, licensing and freedom to operate in an era of faster gene-editing"
 attachments: []
 tags: []
-fetched_at: "2026-10-26T08:28:24+09:00"
+fetched_at: "2026-10-28T09:41:31+09:00"
 ---
 # The Corteva-Inari Case Is Settled… But the Bigger Questions Aren’t.
 

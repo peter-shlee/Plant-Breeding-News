@@ -11,13 +11,73 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[What Happens When Seed Genetics and Microbes Work Together? Watch Our New Innovation Series Webinar](../../items/seedworld/2026/10/https_www.seedworld.com_p_128344.md)**
+  - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128344.md) · [원문](https://www.seedworld.com/us/2026/10/27/microbial-seed-treatments-crop-performance-webinar-2/)
+  - Seed companies have long worked to improve performance through genetics and a better understanding of the environments where crops grow. But a seed enters the field with another factor in play: micro…
+
+- **[Live at Euroseeds: What’s Ahead for Vylor?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128334.md)**
+  - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128334.md) · [원문](https://www.seedworld.com/europe/2026/10/27/vylor-independence-seed-innovation/)
+  - Vylor may be a new name, but its genetics, brands and people are already familiar to Europe’s seed industry. So what’s actually changing now that the company is independent?
+
+- **[Alexander Döring on Breeding Better Protein for Feed](../../items/seedworld/2026/10/https_www.seedworld.com_p_128322.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128322.md) · [원문](https://www.seedworld.com/europe/2026/10/27/alexander-doring-breeding-better-protein-feed/)
+  - What if plant breeders are focusing on the right traits for the field but overlooking what animal feed manufacturers actually need? At the Euroseeds Congress 2026 in Valencia, Seed World Europe spoke…
+
+- **[Euroseeds Congress 2026: Different Challenges, One Common Question](../../items/seedworld/2026/10/https_www.seedworld.com_p_128192.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128192.md) · [원문](https://www.seedworld.com/europe/2026/10/26/euroseeds-congress-2026-breeding-patents-policy/)
+  - On the ground at Euroseeds 2026: A Note from the Editor Yesterday was one of those wonderfully varied days at Euroseeds. I had the pleasure of doing some video interviews, having our annual meeting o…
+
+- **[Quebec Seed Growers Navigate Growth, Regulation and Research Cuts](../../items/seedworld/2026/10/https_www.seedworld.com_p_128299.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128299.md) · [원문](https://www.seedworld.com/canada/2026/10/26/quebec-seed-sector-growth-research-certified-seed/)
+  - The Producteurs de semences du Quebec is balancing a growing provincial seed sector with efforts to preserve certified seed incentives and defend public agricultural research.
+
+- **[Is Keeping Up With Technology Taking Too Much Time From Plant Breeding?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128295.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128295.md) · [원문](https://www.seedworld.com/europe/2026/10/26/plant-breeding-technology-time-breeders/)
+  - Plant breeders have more powerful tools at their fingertips than ever before. AI, genomic data and advanced technologies are opening new possibilities for breeding programs.
+
+- **[Seed World Europe is Live From Euroseeds](../../items/seedworld/2026/10/https_www.seedworld.com_p_128285.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128285.md) · [원문](https://www.seedworld.com/europe/2026/10/26/seed-world-europe-is-live-from-euroseeds/)
+  - The post Seed World Europe is Live From Euroseeds appeared first on Seed World .
+
+- **[Is New Technology Making Plant Breeding Better… or Just More Complicated?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128282.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128282.md) · [원문](https://www.seedworld.com/us/2026/10/26/plant-breeding-technology-better-tools-smarter-choices/)
+  - Plant breeders have never had more technology at their disposal. Genotyping, increasingly sophisticated data tools and now AI is changing what breeding programs can see, predict and act on.
+
+- **[When Competitors Become Partners: Inside Vylor’s Commercial Shift](../../items/seedworld/2026/10/https_www.seedworld.com_p_128094.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128094.md) · [원문](https://www.seedworld.com/europe/2026/10/26/vylor-commercial-shift-new-partnerships/)
+  - André Negreiros, Vylor’s Southern Europe Commercial Unit Leader, on why becoming a pure seed company changes the competitive map, where he sees room for growth, and the power of innovation in agricul…
+
+- **[Malin Nilsson on Sweden’s Seed Sector and Its Strengths](../../items/seedworld/2026/10/https_www.seedworld.com_p_128276.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128276.md) · [원문](https://www.seedworld.com/europe/2026/10/26/malin-nilsson-sweden-seed-sector/)
+  - Swedish Seed Trade Association Secretary General Malin Nilsson discusses collaboration, innovation and her priorities for the country’s seed industry. Sweden’s seed sector may be relatively small, bu…
+
+- **[Uruguay and Europe: Strengthening Seed Sector Cooperation and Innovation](../../items/seedworld/2026/10/https_www.seedworld.com_p_128268.md)**
+  - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128268.md) · [원문](https://www.seedworld.com/europe/2026/10/26/uruguay-seed-sector-european-breeders/)
+  - Uruguay is looking to strengthen its relationship with Europe’s seed sector, building on longstanding commercial ties to encourage greater cooperation and knowledge exchange.
+
+- **[Breeding for Automation](../../items/seedworld/2026/10/https_www.seedworld.com_p_128261.md)**
+  - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128261.md) · [원문](https://www.seedworld.com/europe/2026/10/26/vegetable-harvesting-automation-plant-breeding/)
+  - How genetics are shaping the future of vegetable harvesting. Labour shortages, rising production costs and the rapid advancement of artificial intelligence are transforming vegetable production world…
+
+- **[Local Expertise, Growing Alongside You](../../items/seedworld/2026/10/https_www.seedworld.com_p_128258.md)**
+  - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128258.md) · [원문](https://www.seedworld.com/canada/2026/10/26/seednet-seed-varieties-western-canadian-growers/)
+  - At SeedNet, we are committed to providing farmers with high-quality seed and crop inputs that help support success in your fields. Our retail seed farms have hands-on experience with the varieties we…
+
+- **[Concepts for Your Seeds](../../items/seedworld/2026/10/https_www.seedworld.com_p_121426.md)**
+  - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_121426.md) · [원문](https://www.seedworld.com/canada/2026/10/25/concepts-for-your-seeds-6/)
+  - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds, ensuring their high quality. You get specific and individual […] The…
+
+- **[Euroseeds Congress 2026: Beyond the Official Programme](../../items/seedworld/2026/10/https_www.seedworld.com_p_128187.md)**
+  - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128187.md) · [원문](https://www.seedworld.com/europe/2026/10/25/euroseeds-congress-2026-beyond-programme/)
+  - On the ground at Euroseeds 2026: A Note from the Editor There is a moment at every Euroseeds Congress that I particularly enjoy. You turn a corner, spot a familiar face, and suddenly the next ten min…
+
 - **[Antonio Villarroel on Spain’s Plant Breeding Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_128239.md)**
   - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128239.md) · [원문](https://www.seedworld.com/europe/2026/10/23/antonio-villarroel-spain-plant-breeding/)
-  - As climate pressures intensify and the demand for innovation accelerates, Europe’s plant breeders face a critical challenge: how to develop more resilient, productive varieties faster while navigatin…
+  - Ahead of Euroseeds 2026 in Valencia, ANOVE Director General Antonio Villarroel discusses how Spain's plant breeding sector is responding to climate pressures, rising research costs and regulatory cha…
 
 - **[More Genetics, More Markets: Agri Obtentions Looks Beyond France](../../items/seedworld/2026/10/https_www.seedworld.com_p_127969.md)**
   - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127969.md) · [원문](https://www.seedworld.com/europe/2026/10/23/agri-obtentions-european-genetics-access/)
-  - New opportunities are opening for European seed companies to access Agri Obtentions’ genetics as the French breeder looks beyond France for its next stage of growth. The INRAE subsidiary is expanding…
+  - Agri Obtentions is looking beyond France for its next stage of growth, opening new European opportunities for seed companies to access its field-crop genetics through local partnerships.
 
 - **[The Most Important Farmer in Canada Hasn’t Planted a Crop Yet](../../items/seedworld/2026/10/https_www.seedworld.com_p_128221.md)**
   - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128221.md) · [원문](https://www.seedworld.com/canada/2026/10/22/future-canadian-plant-breeding-farmers-2040/)
@@ -90,10 +150,6 @@ source: "seedworld"
 - **[Plant-based Proteins: An Opportunity for Farmers and the Seed Sector](../../items/seedworld/2026/10/https_www.seedworld.com_p_128112.md)**
   - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128112.md) · [원문](https://www.seedworld.com/europe/2026/10/19/plant-based-proteins-europe-farmers-seed-sector/)
   - Plant-based proteins could create new opportunities for European farmers and the seed sector as the EU works to reduce its dependence on imported animal feed. A new European protein strategy aims to…
-
-- **[Register for This Webinar and Discover the Missing Variable in Seed Performance](../../items/seedworld/2026/10/https_www.seedworld.com_p_128075.md)**
-  - 2026-10-20 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128075.md) · [원문](https://www.seedworld.com/us/2026/10/19/microbial-seed-treatments-crop-performance-webinar/)
-  - Seed companies have long worked to improve performance through genetics. But a seed enters the field with another factor in play: microbes The post Register for This Webinar and Discover the Missing…
 
 - **[Seed World Flower & Veg Difference Makers](../../items/seedworld/2026/10/https_www.seedworld.com_p_128078.md)**
   - 2026-10-19 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128078.md) · [원문](https://www.seedworld.com/us/2026/10/19/2027-flower-veg-seed-difference-makers/)

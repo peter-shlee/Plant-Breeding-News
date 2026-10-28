@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/21/pieter-van-kesteren-vegetable-
 summary: "Pieter van Kesteren spent more than four decades helping shape the international vegetable seed industry. From Cold War markets and early trade with China to California seed enhancement and the rise of global breeding companies, his"
 attachments: []
 tags: []
-fetched_at: "2026-10-26T08:28:24+09:00"
+fetched_at: "2026-10-28T09:41:31+09:00"
 ---
 # How Pieter van Kesteren’s Career Traces the Transformation of Vegetable Seeds
 
