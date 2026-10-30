@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-ind
 summary: "Independent plant breeders have plenty of skin in the Canadian plant breeding game. SeCan’s Jeff Reid explains how independent seed companies and farmers can invest smarter together in Canadian plant breeding to deliver better varieties."
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 6
 

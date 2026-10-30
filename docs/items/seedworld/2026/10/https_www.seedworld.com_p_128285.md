@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/26/seed-world-europe-is-live-from
 summary: "The post Seed World Europe is Live From Euroseeds appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:20+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Seed World Europe is Live From Euroseeds
 

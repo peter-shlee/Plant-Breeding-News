@@ -9,7 +9,7 @@ summary: "A University of Córdoba review found GLU-B1 diversity in wheat was ov
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # What If Half the Wheat Diversity in the Catalogue Was Not Really Different?
 

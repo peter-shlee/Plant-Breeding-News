@@ -5,15 +5,15 @@ org: "Seed World"
 site_id: "https://www.seedworld.com/?p=128258"
 published_at: "2026-10-26T21:42:04+09:00"
 url: "https://www.seedworld.com/canada/2026/10/26/seednet-seed-varieties-western-canadian-growers/"
-summary: "At SeedNet, we are committed to providing farmers with high-quality seed and crop inputs that help support success in your fields. Our retail seed farms have hands-on experience with the varieties we offer, so every recommendation is"
+summary: "SeedNet seed varieties offer Western Canadian growers high-performing options for barley, wheat and yellow peas. Backed by decades of experience in seed production, cleaning and quality assurance, SeedNet's exclusive lineup includes AB"
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-10-28T09:41:29+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Local Expertise, Growing Alongside You
 
-At SeedNet, we are committed to providing farmers with high-quality seed and crop inputs that help support success in your fields. Our retail seed farms have hands-on experience with the varieties we offer, so every recommendation is backed by practical knowledge and proven results. With decades of expertise in growing, cleaning, and quality assurance, we deliver high-performing seed designed to help you get the most from every acre. Our exclusive seed lineup features exciting varieties for Western Canadian growers, helping support strong performance in the field. AB Dram Malt Barley, the first non-GN barley bred in Canada, offers CDC Copeland-level yields and early maturity. AAC Galore VB Soft Wheat combines medium height, high yields, and strong resistance to stripe and stem rust, providing added field confidence in the field. SeedNet also offers two great choices for yellow pea varieties: AAC Planet, with high yields, strong protein potential, and lodging scores, and CDC Citrine, a top performer in 2021 MCVET trials with strong standability, protein potential and great yields. Explore SeedNet’s full lineup of exclusive, high-performing seed varieties at www.seednet.ca .
+SeedNet seed varieties offer Western Canadian growers high-performing options for barley, wheat and yellow peas. Backed by decades of experience in seed production, cleaning and quality assurance, SeedNet's exclusive lineup includes AB Dram, AAC Galore VB, AAC Planet and CDC Citrine. The post Local Expertise, Growing Alongside You appeared first on Seed World .
 
 ## Original
 

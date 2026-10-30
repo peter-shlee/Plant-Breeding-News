@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/22/future-canadian-plant-breeding
 summary: "Canada’s seed industry is making decisions whose consequences won't be felt for another decade. Are we giving tomorrow’s farmers a voice in those decisions?"
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # The Most Important Farmer in Canada Hasn’t Planted a Crop Yet
 

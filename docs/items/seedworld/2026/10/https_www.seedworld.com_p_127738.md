@@ -9,7 +9,7 @@ summary: "Genomic prediction pricing has turned into a rumor market. The figures
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # What Genomic Prediction is Worth to Your Program
 

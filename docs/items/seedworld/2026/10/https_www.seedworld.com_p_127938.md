@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/13/geopolitical-instability-seed-indu
 summary: "Geopolitical instability could raise food security concerns, disrupt agricultural trade and increase the value of seed genetics that improve productivity, resilience and efficiency."
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # A More Unstable World Will Demand More from Seed
 

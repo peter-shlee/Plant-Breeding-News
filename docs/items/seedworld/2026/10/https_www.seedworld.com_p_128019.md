@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/15/european-agricultural-competit
 summary: "A new study finds that European agricultural competitiveness is under pressure as crop production growth trails major global markets. The research highlights climate-related losses, regulatory barriers and slower access to seed"
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Study: European Agricultural Competitiveness Falls Behind Rivals
 

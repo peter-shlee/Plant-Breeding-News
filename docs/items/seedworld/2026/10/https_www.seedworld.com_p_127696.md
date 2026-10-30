@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/01/canola-breeding-harvest-effici
 summary: "Yield remains critical, but modern canola breeding is increasingly focused on harvestability, disease resistance and getting valuable traits to growers faster. Canola has changed significantly in the 40 years since […] The post Canola"
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Canola Breeding Has Changed. So Has the Meaning of a Better Hybrid
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/15/biological-seed-treatment-disc
 summary: "A biological seed treatment can show strong trial results and still fail commercially if it cannot survive formulation, storage, transport and application. Frontera CEO Matti Tiainen explains why successful products must be built around"
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Biologicals’ Hardest Test Comes After Discovery
 

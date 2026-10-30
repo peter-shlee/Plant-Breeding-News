@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-trea
 summary: "Seed coating technologies are evolving as regulatory requirements, sustainability goals and more complex treatments reshape the industry. Syensqo is developing microplastic-free coatings and formulation solutions designed to support"
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Seed Coating Technologies: A Strategic Enabler of Innovation in a Rapidly Evolving Industry
 

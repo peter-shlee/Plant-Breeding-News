@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/19/svalbard-global-seed-vault-oct
 summary: "The Svalbard Global Seed Vault received thousands of seed samples from 21 institutions in October 2026, including Ukraine's national genebank, six CGIAR research centres and a first-time contributor from Italy."
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Thousands of Seed Samples Added to Svalbard Global Seed Vault
 

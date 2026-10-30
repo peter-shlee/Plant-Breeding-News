@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/19/2027-flower-veg-seed-difference-ma
 summary: "Seed World U.S. is accepting nominations for its 2027 Flower and Veg Seed Difference Makers, recognizing individuals driving innovation and meaningful progress in the U.S."
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Seed World Flower & Veg Difference Makers
 

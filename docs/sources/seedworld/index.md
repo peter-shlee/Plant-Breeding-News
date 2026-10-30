@@ -11,29 +11,53 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[The Real Cost of Innovation Isn’t Always What We Spend](../../items/seedworld/2026/10/https_www.seedworld.com_p_128372.md)**
+  - 2026-10-30 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128372.md) · [원문](https://www.seedworld.com/canada/2026/10/29/hidden-cost-agricultural-innovation-canada/)
+  - Canada’s seed industry spends a lot of time debating who should pay for plant breeding. I’m beginning to think we’re overlooking a more difficult question.
+
+- **[Can Washington Keep Up With the Seed Industry?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128362.md)**
+  - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128362.md) · [원문](https://www.seedworld.com/us/2026/10/29/janae-brady-seed-industry-policy-research/)
+  - The seed industry needs long-term thinking from Washington. Between uncertain funding, shifting regulations and decade-long breeding cycles, that’s proving complicated.
+
+- **[Could Better Market Intelligence Change How Seed Companies Choose Genetics?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128360.md)**
+  - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128360.md) · [원문](https://www.seedworld.com/us/2026/10/29/vegetable-seed-market-insights/)
+  - Seed companies have become highly sophisticated at understanding where and under what conditions genetics will perform well. At Ahern, we conduct trials across environments, evaluate traits under dif…
+
+- **[3 Game Changers: InnovAction Winners Announced](../../items/seedworld/2026/10/https_www.seedworld.com_p_128356.md)**
+  - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128356.md) · [원문](https://www.seedworld.com/europe/2026/10/29/euroseeds-2026-innovaction-pewas-winner/)
+  - Who took home the top prize at the Euroseeds 2026 InnovAction Stage? Ten finalists presented their technologies to an independent jury at the Euroseeds 2026 Congress in Valencia, Spain, showcasing in…
+
+- **[A New Generation, A New Vision | On The Brink: Season 3, Episode 8](../../items/seedworld/2026/10/https_www.seedworld.com_p_128198.md)**
+  - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128198.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/28/growers-pay-for-plant-breeding-on-the-brink-season-3-episode-8/)
+  - Lauren Benoit spent two years exploring how other countries move agricultural research from the lab to the field. As a Nuffield Canada scholar , she visited 11 countries on six continents to understa…
+
+- **[Euroseeds Congress 2026: What Will We Take Home from Valencia?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128195.md)**
+  - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128195.md) · [원문](https://www.seedworld.com/europe/2026/10/27/euroseeds-congress-2026-lessons-valencia/)
+  - On the ground at Euroseeds 2026: A Note from the Editor As Euroseeds approaches its final day, I always have the same two reactions. My feet are telling me it has been a busy few days, while my noteb…
+
 - **[What Happens When Seed Genetics and Microbes Work Together? Watch Our New Innovation Series Webinar](../../items/seedworld/2026/10/https_www.seedworld.com_p_128344.md)**
   - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128344.md) · [원문](https://www.seedworld.com/us/2026/10/27/microbial-seed-treatments-crop-performance-webinar-2/)
-  - Seed companies have long worked to improve performance through genetics and a better understanding of the environments where crops grow. But a seed enters the field with another factor in play: micro…
+  - Crop performance isn't determined by genetics alone. This webinar explores how microbial seed treatments interact with plant genetics and growing conditions to influence crop development The post Wha…
 
 - **[Live at Euroseeds: What’s Ahead for Vylor?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128334.md)**
   - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128334.md) · [원문](https://www.seedworld.com/europe/2026/10/27/vylor-independence-seed-innovation/)
-  - Vylor may be a new name, but its genetics, brands and people are already familiar to Europe’s seed industry. So what’s actually changing now that the company is independent?
+  - Vylor is entering a new chapter as an independent seed and genetics company. At Euroseeds 2026, Jean-Philippe Riffat discusses its ambitions for gene editing, hybrid wheat and industry partnerships,…
 
 - **[Alexander Döring on Breeding Better Protein for Feed](../../items/seedworld/2026/10/https_www.seedworld.com_p_128322.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128322.md) · [원문](https://www.seedworld.com/europe/2026/10/27/alexander-doring-breeding-better-protein-feed/)
-  - What if plant breeders are focusing on the right traits for the field but overlooking what animal feed manufacturers actually need? At the Euroseeds Congress 2026 in Valencia, Seed World Europe spoke…
+  - Alexander Döring, Secretary General of FEFAC, explains how plant breeding can better meet the nutritional needs of Europe's animal feed sector. Speaking at the Euroseeds Congress 2026, he highlights…
 
 - **[Euroseeds Congress 2026: Different Challenges, One Common Question](../../items/seedworld/2026/10/https_www.seedworld.com_p_128192.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128192.md) · [원문](https://www.seedworld.com/europe/2026/10/26/euroseeds-congress-2026-breeding-patents-policy/)
-  - On the ground at Euroseeds 2026: A Note from the Editor Yesterday was one of those wonderfully varied days at Euroseeds. I had the pleasure of doing some video interviews, having our annual meeting o…
+  - At Euroseeds Congress 2026, two very different discussions revealed a shared challenge for Europe's seed sector. From patent transparency and access to new genomic techniques to policy contradictions…
 
 - **[Quebec Seed Growers Navigate Growth, Regulation and Research Cuts](../../items/seedworld/2026/10/https_www.seedworld.com_p_128299.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128299.md) · [원문](https://www.seedworld.com/canada/2026/10/26/quebec-seed-sector-growth-research-certified-seed/)
-  - The Producteurs de semences du Quebec is balancing a growing provincial seed sector with efforts to preserve certified seed incentives and defend public agricultural research.
+  - The Producteurs de semences du Québec is balancing a growing provincial seed sector with efforts to preserve certified seed incentives and defend public agricultural research The post Quebec Seed Gro…
 
 - **[Is Keeping Up With Technology Taking Too Much Time From Plant Breeding?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128295.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128295.md) · [원문](https://www.seedworld.com/europe/2026/10/26/plant-breeding-technology-time-breeders/)
-  - Plant breeders have more powerful tools at their fingertips than ever before. AI, genomic data and advanced technologies are opening new possibilities for breeding programs.
+  - Plant breeding technology is advancing rapidly, but keeping up with AI, genomic data and new tools can strain breeding programs. Gene-G co-founder and CEO Dagan Mor explains how specialized technolog…
 
 - **[Seed World Europe is Live From Euroseeds](../../items/seedworld/2026/10/https_www.seedworld.com_p_128285.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128285.md) · [원문](https://www.seedworld.com/europe/2026/10/26/seed-world-europe-is-live-from-euroseeds/)
@@ -41,11 +65,11 @@ source: "seedworld"
 
 - **[Is New Technology Making Plant Breeding Better… or Just More Complicated?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128282.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128282.md) · [원문](https://www.seedworld.com/us/2026/10/26/plant-breeding-technology-better-tools-smarter-choices/)
-  - Plant breeders have never had more technology at their disposal. Genotyping, increasingly sophisticated data tools and now AI is changing what breeding programs can see, predict and act on.
+  - Plant breeding technology is transforming how breeders use genetic data, AI and predictive tools to make decisions. Gene-G's Dagan Mor explores where these advances are delivering real value, where r…
 
 - **[When Competitors Become Partners: Inside Vylor’s Commercial Shift](../../items/seedworld/2026/10/https_www.seedworld.com_p_128094.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128094.md) · [원문](https://www.seedworld.com/europe/2026/10/26/vylor-commercial-shift-new-partnerships/)
-  - André Negreiros, Vylor’s Southern Europe Commercial Unit Leader, on why becoming a pure seed company changes the competitive map, where he sees room for growth, and the power of innovation in agricul…
+  - Vylor is preparing to redraw its competitive boundaries as it becomes a standalone seed company. Southern Europe Commercial Unit Leader André Negreiros discusses new opportunities for licensing, part…
 
 - **[Malin Nilsson on Sweden’s Seed Sector and Its Strengths](../../items/seedworld/2026/10/https_www.seedworld.com_p_128276.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128276.md) · [원문](https://www.seedworld.com/europe/2026/10/26/malin-nilsson-sweden-seed-sector/)
@@ -53,15 +77,15 @@ source: "seedworld"
 
 - **[Uruguay and Europe: Strengthening Seed Sector Cooperation and Innovation](../../items/seedworld/2026/10/https_www.seedworld.com_p_128268.md)**
   - 2026-10-27 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128268.md) · [원문](https://www.seedworld.com/europe/2026/10/26/uruguay-seed-sector-european-breeders/)
-  - Uruguay is looking to strengthen its relationship with Europe’s seed sector, building on longstanding commercial ties to encourage greater cooperation and knowledge exchange.
+  - The Uruguay seed sector is seeking closer cooperation with European breeders as discussions around New Genomic Techniques, market access and intellectual property evolve.
 
 - **[Breeding for Automation](../../items/seedworld/2026/10/https_www.seedworld.com_p_128261.md)**
   - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128261.md) · [원문](https://www.seedworld.com/europe/2026/10/26/vegetable-harvesting-automation-plant-breeding/)
-  - How genetics are shaping the future of vegetable harvesting. Labour shortages, rising production costs and the rapid advancement of artificial intelligence are transforming vegetable production world…
+  - Vegetable harvesting automation is transforming how breeders develop crops for the future. Rijk Zwaan explains how genetics, artificial intelligence and collaboration with machinery developers are he…
 
 - **[Local Expertise, Growing Alongside You](../../items/seedworld/2026/10/https_www.seedworld.com_p_128258.md)**
   - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128258.md) · [원문](https://www.seedworld.com/canada/2026/10/26/seednet-seed-varieties-western-canadian-growers/)
-  - At SeedNet, we are committed to providing farmers with high-quality seed and crop inputs that help support success in your fields. Our retail seed farms have hands-on experience with the varieties we…
+  - SeedNet seed varieties offer Western Canadian growers high-performing options for barley, wheat and yellow peas. Backed by decades of experience in seed production, cleaning and quality assurance, Se…
 
 - **[Concepts for Your Seeds](../../items/seedworld/2026/10/https_www.seedworld.com_p_121426.md)**
   - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_121426.md) · [원문](https://www.seedworld.com/canada/2026/10/25/concepts-for-your-seeds-6/)
@@ -69,7 +93,7 @@ source: "seedworld"
 
 - **[Euroseeds Congress 2026: Beyond the Official Programme](../../items/seedworld/2026/10/https_www.seedworld.com_p_128187.md)**
   - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128187.md) · [원문](https://www.seedworld.com/europe/2026/10/25/euroseeds-congress-2026-beyond-programme/)
-  - On the ground at Euroseeds 2026: A Note from the Editor There is a moment at every Euroseeds Congress that I particularly enjoy. You turn a corner, spot a familiar face, and suddenly the next ten min…
+  - At Euroseeds Congress 2026 in Valencia, the conversations between sessions can be just as valuable as the official programme. From InnovAction Stage pitches to video interviews and informal meetings,…
 
 - **[Antonio Villarroel on Spain’s Plant Breeding Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_128239.md)**
   - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128239.md) · [원문](https://www.seedworld.com/europe/2026/10/23/antonio-villarroel-spain-plant-breeding/)
@@ -338,34 +362,3 @@ source: "seedworld"
 - **[Europe’s Embrace of Next Generation Technology a Huge Step Forward](../../items/seedworld/2026/10/https_www.seedworld.com_p_127652.md)**
   - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127652.md) · [원문](https://www.seedworld.com/europe/2026/10/01/new-genomic-techniques-european-plant-breeding/)
   - Europe’s New Genomic Techniques framework opens new opportunities for plant breeders to develop improved crop varieties faster. Enid Perez-Lara argues that clear science communication will be essenti…
-
-
-## 2026-09
-
-- **[From Data to the Field: How Innovation Becomes Performance](../../items/seedworld/2026/09/https_www.seedworld.com_p_127648.md)**
-  - 2026-09-30 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127648.md) · [원문](https://www.seedworld.com/europe/2026/09/29/mas-seeds-breeding-innovation-performance/)
-  - MAS Seeds breeding combines climate modelling, genomics, advanced phenotyping and field testing to anticipate future growing conditions. The approach aims to deliver maize and sunflower hybrids with…
-
-- **[Where Should We Place Our Bets? Breeding for the Bottom Line | On The Brink: Season 3, Episode 4](../../items/seedworld/2026/09/https_www.seedworld.com_p_127640.md)**
-  - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127640.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/09/29/making-plant-breeding-pay-farm-needs/)
-  - Seed grower and RDAR director Kelly Barany calls for breeding priorities shaped by farm needs, shorter timelines, and funding that sustains useful varieties. The post Where Should We Place Our Bets?
-
-- **[Vegetable Trials Target Organic Seed Production Yield Gaps](../../items/seedworld/2026/09/https_www.seedworld.com_p_127628.md)**
-  - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127628.md) · [원문](https://www.seedworld.com/us/2026/09/29/vegetable-trials-target-organic-seed-production-yield-gaps/)
-  - Broccoli, lettuce, squash and tomato trials are helping researchers fill data gaps in organic seed production. The OSPREY project is studying irrigation, crop management and grower records to improve…
-
-- **[The Value of a Relationship That Goes Beyond Business](../../items/seedworld/2026/09/https_www.seedworld.com_p_127634.md)**
-  - 2026-09-29 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127634.md) · [원문](https://www.seedworld.com/us/2026/09/28/customer-relationships-shared-learning/)
-  - In the seed industry, the value of customer relationships extends beyond sales. Ahern’s four-decade partnership with Rancho Los Pinos shows how trust, candid feedback and shared learning can help bot…
-
-- **[Bluemuda Turfgrass Could Reduce Sports Field Irrigation](../../items/seedworld/2026/09/https_www.seedworld.com_p_127625.md)**
-  - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127625.md) · [원문](https://www.seedworld.com/us/2026/09/28/bluemuda-turfgrass-reduce-sports-field-irrigation/)
-  - Researchers at Oklahoma State University and Mississippi State University are testing 60 bluemuda turfgrass combinations to determine whether pairing bermudagrass and Kentucky bluegrass can maintain…
-
-- **[8 AI Players to Watch in Crop Breeding](../../items/seedworld/2026/09/https_www.seedworld.com_p_127622.md)**
-  - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127622.md) · [원문](https://www.seedworld.com/us/2026/09/28/ai-crop-breeding-players-watch/)
-  - Eight companies and research organizations are advancing AI crop breeding through predictive genomics, crop modeling, gene editing and automated marker analysis. Public researchers are also testing a…
-
-- **[Could 240 Million Smallholders Feed the World’s Next 1.5 Billion People?](../../items/seedworld/2026/09/https_www.seedworld.com_p_127576.md)**
-  - 2026-09-28 · [읽기](../../items/seedworld/2026/09/https_www.seedworld.com_p_127576.md) · [원문](https://www.seedworld.com/europe/2026/09/28/smallholder-farmers-regenerative-agriculture/)
-  - Smallholder farmers could help meet rising global food demand while restoring soils and strengthening rural livelihoods, a new book argues. Whole Earth Farming proposes helping 240 million farming fa…

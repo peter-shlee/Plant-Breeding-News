@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/09/ai-pheromone-discovery-crop-pe
 summary: "Researchers identified the lily moth sex pheromone by starting with insect scent receptors rather than the pheromone itself. The AI-supported approach could help speed pheromone discovery for emerging and invasive crop pests."
 attachments: []
 tags: []
-fetched_at: "2026-10-28T09:41:31+09:00"
+fetched_at: "2026-10-30T10:16:59+09:00"
 ---
 # Could AI Speed Up Pheromone Discovery for Emerging Crop Pests?
 
