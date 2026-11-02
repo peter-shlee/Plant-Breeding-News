@@ -9,7 +9,7 @@ summary: "SeedNet seed varieties offer Western Canadian growers high-performing 
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-10-30T10:16:59+09:00"
+fetched_at: "2026-11-02T10:00:12+09:00"
 ---
 # Local Expertise, Growing Alongside You
 

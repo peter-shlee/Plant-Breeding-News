@@ -11,29 +11,37 @@ source: "seedworld"
 
 ## 2026-10
 
+- **[Scientists Target Photosynthesis Efficiency for Better Crops](../../items/seedworld/2026/10/https_www.seedworld.com_p_128395.md)**
+  - 2026-10-30 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128395.md) · [원문](https://www.seedworld.com/europe/2026/10/29/photosynthesis-efficiency-crop-improvement/)
+  - Swedish researchers have identified promising enzyme mutations that could help improve carbon dioxide uptake and support the development of more productive, climate-resilient crops.
+
 - **[The Real Cost of Innovation Isn’t Always What We Spend](../../items/seedworld/2026/10/https_www.seedworld.com_p_128372.md)**
   - 2026-10-30 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128372.md) · [원문](https://www.seedworld.com/canada/2026/10/29/hidden-cost-agricultural-innovation-canada/)
-  - Canada’s seed industry spends a lot of time debating who should pay for plant breeding. I’m beginning to think we’re overlooking a more difficult question.
+  - Canada's seed industry spends a lot of time debating who should pay for plant breeding. I'm beginning to think we're overlooking a more difficult question The post The Real Cost of Innovation Isn’t A…
+
+- **[Svalbard Seed Vault Prize to Protect At-Risk Collections](../../items/seedworld/2026/10/https_www.seedworld.com_p_128392.md)**
+  - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128392.md) · [원문](https://www.seedworld.com/europe/2026/10/29/svalbard-seed-vault-prize-at-risk-collections/)
+  - The €50,000 Princess of Asturias Award will help genebanks safeguard at-risk crop diversity, preserving valuable genetic resources for future plant breeding and food security .
 
 - **[Can Washington Keep Up With the Seed Industry?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128362.md)**
   - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128362.md) · [원문](https://www.seedworld.com/us/2026/10/29/janae-brady-seed-industry-policy-research/)
-  - The seed industry needs long-term thinking from Washington. Between uncertain funding, shifting regulations and decade-long breeding cycles, that’s proving complicated.
+  - Janae Brady of the American Seed Trade Association examines the challenges facing seed industry policy in Washington, from Farm Bill uncertainty and long-term research investments to plant germplasm…
 
-- **[Could Better Market Intelligence Change How Seed Companies Choose Genetics?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128360.md)**
+- **[Ahern, Beyond Genetics: A Comprehensive View of the Value Chain](../../items/seedworld/2026/10/https_www.seedworld.com_p_128360.md)**
   - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128360.md) · [원문](https://www.seedworld.com/us/2026/10/29/vegetable-seed-market-insights/)
-  - Seed companies have become highly sophisticated at understanding where and under what conditions genetics will perform well. At Ahern, we conduct trials across environments, evaluate traits under dif…
+  - Ahern is connecting vegetable seed market insights with genetic performance data to help seed companies and growers make better-informed decisions. Through extensive field trials, grower relationship…
 
 - **[3 Game Changers: InnovAction Winners Announced](../../items/seedworld/2026/10/https_www.seedworld.com_p_128356.md)**
   - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128356.md) · [원문](https://www.seedworld.com/europe/2026/10/29/euroseeds-2026-innovaction-pewas-winner/)
-  - Who took home the top prize at the Euroseeds 2026 InnovAction Stage? Ten finalists presented their technologies to an independent jury at the Euroseeds 2026 Congress in Valencia, Spain, showcasing in…
+  - PEWAS Innovative Chemistry claimed the top prize at the Euroseeds 2026 InnovAction Stage in Valencia, Spain, for its Aquaholder seed coating technology. SeedForward and Ensemo earned runner-up honour…
 
 - **[A New Generation, A New Vision | On The Brink: Season 3, Episode 8](../../items/seedworld/2026/10/https_www.seedworld.com_p_128198.md)**
   - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128198.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/28/growers-pay-for-plant-breeding-on-the-brink-season-3-episode-8/)
-  - Lauren Benoit spent two years exploring how other countries move agricultural research from the lab to the field. As a Nuffield Canada scholar , she visited 11 countries on six continents to understa…
+  - After visiting 11 countries on six continents, Lauren Benoit shares what Canada can learn about plant breeding, why we need our own solution and what waiting could cost growers.
 
 - **[Euroseeds Congress 2026: What Will We Take Home from Valencia?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128195.md)**
   - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128195.md) · [원문](https://www.seedworld.com/europe/2026/10/27/euroseeds-congress-2026-lessons-valencia/)
-  - On the ground at Euroseeds 2026: A Note from the Editor As Euroseeds approaches its final day, I always have the same two reactions. My feet are telling me it has been a busy few days, while my noteb…
+  - As Euroseeds Congress 2026 draws to a close in Valencia, the conversations point to challenges and opportunities that extend far beyond the event. From seed sector resilience and InnovAction finalist…
 
 - **[What Happens When Seed Genetics and Microbes Work Together? Watch Our New Innovation Series Webinar](../../items/seedworld/2026/10/https_www.seedworld.com_p_128344.md)**
   - 2026-10-28 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128344.md) · [원문](https://www.seedworld.com/us/2026/10/27/microbial-seed-treatments-crop-performance-webinar-2/)
@@ -127,7 +135,7 @@ source: "seedworld"
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128174.md) · [원문](https://www.seedworld.com/canada/2026/10/21/think-like-a-seed-the-agronomy-behind-a-strong-start/)
   - Why nutrition, biology and protection during the earliest stages of development can influence an entire growing season. Everything Begins Inside the Kernel Every wheat plant begins with a remarkably…
 
-- **[Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 7](../../items/seedworld/2026/10/https_www.seedworld.com_p_128146.md)**
+- **[Tapping Into Canada’s Private Plant Breeding Potential | On The Brink: Season 3, Episode 7](../../items/seedworld/2026/10/https_www.seedworld.com_p_128146.md)**
   - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128146.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/21/private-plant-breeding-potential-on-the-brink-season-3-episode-7/)
   - Independent plant breeders can face a 10- to 12-year wait for their first revenue. Jodi Souter of J4 Agri-Science explains the funding, grower support and changes in perception needed to unlock Canad…
 
@@ -322,43 +330,3 @@ source: "seedworld"
 - **[Vylor Is Open for Business: What Changes for Europe’s Seed Sector](../../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md)**
   - 2026-10-05 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md) · [원문](https://www.seedworld.com/europe/2026/10/05/vylor-seed-genetics-europe/)
   - Vylor seed genetics enters Europe with established brands, breeding programs and global R&D scale. Its leadership sees future growth coming from gene editing, new crops and a larger role as a genetic…
-
-- **[Euroseeds Urges Focus on Variety Performance in Organic Breeding Rules](../../items/seedworld/2026/10/https_www.seedworld.com_p_127708.md)**
-  - 2026-10-03 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127708.md) · [원문](https://www.seedworld.com/europe/2026/10/02/organic-breeding-rules-variety-choice/)
-  - Euroseeds is urging EU policymakers to keep organic breeding rules focused on variety performance, warning that additional breeding-process requirements could raise costs, reduce genetic access and l…
-
-- **[Better Genetics Are Running Into an Infrastructure Problem](../../items/seedworld/2026/10/https_www.seedworld.com_p_127702.md)**
-  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127702.md) · [원문](https://www.seedworld.com/canada/2026/10/01/better-genetics-are-running-into-an-infrastructure-problem/)
-  - As breeding tools become more powerful, Canada’s testing, delivery and funding systems are becoming just as important as the science itself The post Better Genetics Are Running Into an Infrastructure…
-
-- **[Canola Breeding Has Changed. So Has the Meaning of a Better Hybrid](../../items/seedworld/2026/10/https_www.seedworld.com_p_127696.md)**
-  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127696.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canola-breeding-harvest-efficiency/)
-  - Yield remains critical, but modern canola breeding is increasingly focused on harvestability, disease resistance and getting valuable traits to growers faster. Canola has changed significantly in the…
-
-- **[The Most Important Innovation in Pulse Breeding May Be the Network](../../items/seedworld/2026/10/https_www.seedworld.com_p_127693.md)**
-  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127693.md) · [원문](https://www.seedworld.com/canada/2026/10/01/canadian-pulse-breeding-genomic-selection/)
-  - Genomics gets the attention, but collaboration among breeders, researchers, producers and seed companies could determine how quickly the technology delivers The post The Most Important Innovation in…
-
-- **[Alberta Seed Growers Push to Protect Variety Testing as Research Capacity Shrinks](../../items/seedworld/2026/10/https_www.seedworld.com_p_127689.md)**
-  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127689.md) · [원문](https://www.seedworld.com/canada/2026/10/01/alberta-seed-growers-regional-variety-testing/)
-  - President Sarah Weigum says reliable regional trials and seed purity testing are essential to reducing risk and getting improved genetics into farmers’ fields faster The post Alberta Seed Growers Pus…
-
-- **[The Best Seed Coating Service is the One You Don’t Have to Worry About](../../items/seedworld/2026/10/https_www.seedworld.com_p_127686.md)**
-  - 2026-10-02 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127686.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-coating-service-dont-worry-about/)
-  - A dependable seed coating service can help seed companies manage tight timelines, custom coating needs and consistent product quality. Ryan Schrock of Seed Coating Solutions explains why communicatio…
-
-- **[What Seed Companies Really Need Biologicals to Do](../../items/seedworld/2026/10/https_www.seedworld.com_p_127684.md)**
-  - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127684.md) · [원문](https://www.seedworld.com/us/2026/10/01/seed-companies-biologicals/)
-  - Seed companies need biologicals that move quickly from discovery to field proof, fit existing seed treatment systems and deliver consistent grower value. Jord Bioscience says the standard is not just…
-
-- **[Leonardo Costa on Corteva’s Seed Applied Technologies (SAT) Next Chapter in EMEA](../../items/seedworld/2026/10/https_www.seedworld.com_p_127674.md)**
-  - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127674.md) · [원문](https://www.seedworld.com/europe/2026/10/01/leonardo-costa-on-cortevas-seed-applied-technologies-sat-next-chapter-in-emea/)
-  - Leonardo Costa outlines Corteva SAT priorities in EMEA, including new seed treatment products, customer partnerships, sustainability, resistance management and the team behind the business during a p…
-
-- **[Plant and Bacterial Genetics: The Two Parts of Europe’s Soybean Story](../../items/seedworld/2026/10/https_www.seedworld.com_p_127537.md)**
-  - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127537.md) · [원문](https://www.seedworld.com/europe/2026/10/01/soybean-inoculant-europe-production/)
-  - Protealis is pairing plant breeding with a soybean inoculant designed for European conditions. Its MagNfix technology aims to make pre-inoculated seed practical by maintaining bacterial viability for…
-
-- **[Europe’s Embrace of Next Generation Technology a Huge Step Forward](../../items/seedworld/2026/10/https_www.seedworld.com_p_127652.md)**
-  - 2026-10-01 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127652.md) · [원문](https://www.seedworld.com/europe/2026/10/01/new-genomic-techniques-european-plant-breeding/)
-  - Europe’s New Genomic Techniques framework opens new opportunities for plant breeders to develop improved crop varieties faster. Enid Perez-Lara argues that clear science communication will be essenti…

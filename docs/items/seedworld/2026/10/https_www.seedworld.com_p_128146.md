@@ -8,11 +8,11 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/10/21/private-plant-bre
 summary: "Independent plant breeders can face a 10- to 12-year wait for their first revenue. Jodi Souter of J4 Agri-Science explains the funding, grower support and changes in perception needed to unlock Canada’s private plant breeding potential."
 attachments: []
 tags: []
-fetched_at: "2026-10-30T10:16:59+09:00"
+fetched_at: "2026-11-02T10:00:12+09:00"
 ---
-# Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 7
+# Tapping Into Canada’s Private Plant Breeding Potential | On The Brink: Season 3, Episode 7
 
-Independent plant breeders can face a 10- to 12-year wait for their first revenue. Jodi Souter of J4 Agri-Science explains the funding, grower support and changes in perception needed to unlock Canada’s private plant breeding potential. The post Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 7 appeared first on Seed World .
+Independent plant breeders can face a 10- to 12-year wait for their first revenue. Jodi Souter of J4 Agri-Science explains the funding, grower support and changes in perception needed to unlock Canada’s private plant breeding potential. The post Tapping Into Canada’s Private Plant Breeding Potential | On The Brink: Season 3, Episode 7 appeared first on Seed World .
 
 ## Original
 

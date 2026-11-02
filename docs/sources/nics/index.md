@@ -11,6 +11,18 @@ source: "nics"
 
 ## 2026-10
 
+- **[밥맛으로 승부한다. ‘황금예찬’ 소비자 곁으로 더 가까이](../../items/nics/2026/10/944621.md)**
+  - 2026-10-30 · [읽기](../../items/nics/2026/10/944621.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944621)
+
+- **[농촌진흥청, 가루쌀 맥주 기술 확산 산업체 간담회 개최](../../items/nics/2026/10/944620.md)**
+  - 2026-10-30 · [읽기](../../items/nics/2026/10/944620.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944620)
+
+- **[농촌진흥청, 잎들깨 ‘새봄’ 양액재배 현장 평가회 열어](../../items/nics/2026/10/944619.md)**
+  - 2026-10-30 · [읽기](../../items/nics/2026/10/944619.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944619)
+
+- **[농촌진흥청, 막걸리 품질개선 연구 성과 ‘눈에 띄네’](../../items/nics/2026/10/944618.md)**
+  - 2026-10-30 · [읽기](../../items/nics/2026/10/944618.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944618)
+
 - **[농촌진흥청, 전남광주 무안 고구마 재배 현장 살펴](../../items/nics/2026/10/944613.md)**
   - 2026-10-26 · [읽기](../../items/nics/2026/10/944613.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944613)
 
@@ -28,15 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 한국프로바이오틱스·마이크로바이옴학회 ‘2026 추계학술대회’ 공동 ...](../../items/nics/2026/10/944608.md)**
   - 2026-10-22 · [읽기](../../items/nics/2026/10/944608.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944608)
-
-- **[국립식량과학원, ’스타연구원 특별관’ 개설…온라인 소통 행사](../../items/nics/2026/10/944607.md)**
-  - 2026-10-22 · [읽기](../../items/nics/2026/10/944607.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944607)
-
-- **[흙 속 보물, 고구마를 찾아라!](../../items/nics/2026/10/944585.md)**
-  - 2026-10-21 · [읽기](../../items/nics/2026/10/944585.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944585)
-
-- **[농촌진흥청, 고기능성 수수 신품종 개발·재배 기계화 박차](../../items/nics/2026/10/944584.md)**
-  - 2026-10-21 · [읽기](../../items/nics/2026/10/944584.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944584)
-
-- **[농촌진흥청, 팥 신품종 기계 수확 연시회 개최](../../items/nics/2026/10/944583.md)**
-  - 2026-10-16 · [읽기](../../items/nics/2026/10/944583.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944583)
