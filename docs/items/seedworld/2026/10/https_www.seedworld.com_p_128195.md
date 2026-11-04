@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/27/euroseeds-congress-2026-lesson
 summary: "As Euroseeds Congress 2026 draws to a close in Valencia, the conversations point to challenges and opportunities that extend far beyond the event. From seed sector resilience and InnovAction finalists to the NextGen Forum, the focus turns"
 attachments: []
 tags: []
-fetched_at: "2026-11-02T10:00:12+09:00"
+fetched_at: "2026-11-04T10:36:23+09:00"
 ---
 # Euroseeds Congress 2026: What Will We Take Home from Valencia?
 

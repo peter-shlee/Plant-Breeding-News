@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/23/antonio-villarroel-spain-plant
 summary: "Ahead of Euroseeds 2026 in Valencia, ANOVE Director General Antonio Villarroel discusses how Spain's plant breeding sector is responding to climate pressures, rising research costs and regulatory challenges, and what its experience means"
 attachments: []
 tags: []
-fetched_at: "2026-11-02T10:00:12+09:00"
+fetched_at: "2026-11-04T10:36:23+09:00"
 ---
 # Antonio Villarroel on Spain’s Plant Breeding Future
 

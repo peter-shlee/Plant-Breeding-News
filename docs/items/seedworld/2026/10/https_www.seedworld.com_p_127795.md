@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "밀"
   - "옥수수"
-fetched_at: "2026-11-02T10:00:12+09:00"
+fetched_at: "2026-11-04T10:36:23+09:00"
 ---
 # Arevo: Can a Thin Red Coat Change How a Crop Uses Nitrogen
 

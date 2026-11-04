@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/25/euroseeds-congress-2026-beyond
 summary: "At Euroseeds Congress 2026 in Valencia, the conversations between sessions can be just as valuable as the official programme. From InnovAction Stage pitches to video interviews and informal meetings, Seed World Europe explores the people,"
 attachments: []
 tags: []
-fetched_at: "2026-11-02T10:00:12+09:00"
+fetched_at: "2026-11-04T10:36:23+09:00"
 ---
 # Euroseeds Congress 2026: Beyond the Official Programme
 

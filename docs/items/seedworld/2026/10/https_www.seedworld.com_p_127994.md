@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/15/el-nino-seed-supply-risks/"
 summary: "El Niño seed supply risks extend beyond field yields. As a strong climate signal develops, U.S."
 attachments: []
 tags: []
-fetched_at: "2026-11-02T10:00:12+09:00"
+fetched_at: "2026-11-04T10:36:23+09:00"
 ---
 # El Niño Seed Supply Risks: Is the Industry Prepared?
 

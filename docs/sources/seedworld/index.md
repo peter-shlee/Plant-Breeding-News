@@ -9,11 +9,46 @@ source: "seedworld"
 
 - [홈으로](../../index.md)
 
+## 2026-11
+
+- **[The $1.7 Billion Network Behind Canada’s Seed Retail Future](../../items/seedworld/2026/11/https_www.seedworld.com_p_128436.md)**
+  - 2026-11-04 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128436.md) · [원문](https://www.seedworld.com/canada/2026/11/03/future-canadian-seed-retail-secan-50/)
+  - SeCan’s nearly 600 member companies represent an estimated $1.7 billion in infrastructure investment. Industry leaders explain why that network could become increasingly important to Canadian plant b…
+
+- **[Who’s Your Flower & Vegetable Seed Difference Maker? Nominations Are Closing Soon](../../items/seedworld/2026/11/https_www.seedworld.com_p_128433.md)**
+  - 2026-11-04 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128433.md) · [원문](https://www.seedworld.com/us/2026/11/03/2027-veg-flower-difference-makers/)
+  - What makes someone a Difference Maker in flower and vegetable seed? Ask a breeder, a seed production manager and a commercial director, and you’ll probably hear three very different answers.
+
+- **[We Bought a Seed Plant. The Support Came With It.](../../items/seedworld/2026/11/https_www.seedworld.com_p_128425.md)**
+  - 2026-11-04 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128425.md) · [원문](https://www.seedworld.com/canada/2026/11/03/nexeed-seed-cleaning-equipment-support/)
+  - When we bought a neighbouring farm a few years ago in Lajord, Sask., the seed cleaning plant came with it. I knew we could use it, but I didn’t really know what I was getting myself into.
+
+- **[Breeding Against the Clock](../../items/seedworld/2026/11/https_www.seedworld.com_p_128416.md)**
+  - 2026-11-03 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128416.md) · [원문](https://www.seedworld.com/europe/2026/11/03/genome-editing-breeders-climate-challenges/)
+  - Field conditions are changing faster than ever. Genome editing gives breeders an additional tool to develop high-performing varieties that can better withstand evolving environmental challenges.
+
+- **[Breeding for a Climate That Won’t Hold Still: What Every Seed Professional Needs to Understand](../../items/seedworld/2026/11/https_www.seedworld.com_p_128420.md)**
+  - 2026-11-03 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128420.md) · [원문](https://www.seedworld.com/europe/2026/11/02/climate-resilient-varieties-trial-data/)
+  - A few summers ago, I stood at the edge of a wheat trial that had looked perfect every year for a decade. Same site, same soil, same reputation for fairness amongst every line.
+
+- **[Why Some Microbes Win in a Field They’ve Never Seen](../../items/seedworld/2026/11/https_www.seedworld.com_p_128413.md)**
+  - 2026-11-03 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128413.md) · [원문](https://www.seedworld.com/us/2026/11/02/microbial-activator-technology-jord/)
+  - Before Jord, I worked on the animal gut microbiome. A chicken’s gut and a soybean field look nothing alike, but they taught me the same lesson.
+
+- **[Euroseeds 2026: Key Highlights from Valencia Congress](../../items/seedworld/2026/11/https_www.seedworld.com_p_128401.md)**
+  - 2026-11-02 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128401.md) · [원문](https://www.seedworld.com/europe/2026/11/02/euroseeds-2026-highlights-valencia/)
+  - From October 25–28, Valencia, Spain, welcomed the international seed community for Euroseeds 2026, bringing together industry leaders, policymakers, researchers and innovators to explore the challeng…
+
+- **[Maritime Seed Growers Make Their Numbers Count](../../items/seedworld/2026/11/https_www.seedworld.com_p_128403.md)**
+  - 2026-11-02 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128403.md) · [원문](https://www.seedworld.com/canada/2026/11/02/certified-seed-decline-maritimes/)
+  - Declining certified seed use is putting pressure on local production, but Maritime growers still see an opportunity to rebuild awareness of its value. Eric Theriault has watched certified seed sales…
+
+
 ## 2026-10
 
 - **[Scientists Target Photosynthesis Efficiency for Better Crops](../../items/seedworld/2026/10/https_www.seedworld.com_p_128395.md)**
   - 2026-10-30 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128395.md) · [원문](https://www.seedworld.com/europe/2026/10/29/photosynthesis-efficiency-crop-improvement/)
-  - Swedish researchers have identified promising enzyme mutations that could help improve carbon dioxide uptake and support the development of more productive, climate-resilient crops.
+  - Researchers at Sweden's KTH Royal Institute of Technology have identified Rubisco enzyme mutations that could improve photosynthesis efficiency by reducing unwanted oxygen reactions.
 
 - **[The Real Cost of Innovation Isn’t Always What We Spend](../../items/seedworld/2026/10/https_www.seedworld.com_p_128372.md)**
   - 2026-10-30 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128372.md) · [원문](https://www.seedworld.com/canada/2026/10/29/hidden-cost-agricultural-innovation-canada/)
@@ -21,7 +56,7 @@ source: "seedworld"
 
 - **[Svalbard Seed Vault Prize to Protect At-Risk Collections](../../items/seedworld/2026/10/https_www.seedworld.com_p_128392.md)**
   - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128392.md) · [원문](https://www.seedworld.com/europe/2026/10/29/svalbard-seed-vault-prize-at-risk-collections/)
-  - The €50,000 Princess of Asturias Award will help genebanks safeguard at-risk crop diversity, preserving valuable genetic resources for future plant breeding and food security .
+  - Svalbard Seed Vault partners will direct €50,000 from the 2026 Princess of Asturias Award toward protecting vulnerable seed collections. The funding will help genebanks safeguard crop diversity and p…
 
 - **[Can Washington Keep Up With the Seed Industry?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128362.md)**
   - 2026-10-29 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128362.md) · [원문](https://www.seedworld.com/us/2026/10/29/janae-brady-seed-industry-policy-research/)

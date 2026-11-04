@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/10/28/growers-pay-for-p
 summary: "After visiting 11 countries on six continents, Lauren Benoit shares what Canada can learn about plant breeding, why we need our own solution and what waiting could cost growers."
 attachments: []
 tags: []
-fetched_at: "2026-11-02T10:00:12+09:00"
+fetched_at: "2026-11-04T10:36:23+09:00"
 ---
 # A New Generation, A New Vision | On The Brink: Season 3, Episode 8
 

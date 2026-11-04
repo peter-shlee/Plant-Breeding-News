@@ -9,7 +9,7 @@ summary: "Jean-Philippe Riffat, President, EMEA-APAC at Vylor, reflects on build
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-11-02T10:00:12+09:00"
+fetched_at: "2026-11-04T10:36:23+09:00"
 ---
 # Building Vylor: An Inside Conversation on What Comes Next
 

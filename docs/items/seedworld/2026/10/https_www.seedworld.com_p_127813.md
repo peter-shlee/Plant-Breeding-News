@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/08/saskatchewan-seed-growers-beyo
 summary: "From defending research farms to tackling slow adoption, the Saskatchewan Seed Growers' Association is making the case that seed growers are central to innovation The post Why Saskatchewan Seed Growers are Thinking Beyond Certified Seed"
 attachments: []
 tags: []
-fetched_at: "2026-11-02T10:00:12+09:00"
+fetched_at: "2026-11-04T10:36:23+09:00"
 ---
 # Why Saskatchewan Seed Growers are Thinking Beyond Certified Seed
 
