@@ -9,7 +9,7 @@ summary: "The HelEx project is crossing wild sunflower material from arid region
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # The Traits Sunflower Breeders Need May Already Be Growing in the Desert
 

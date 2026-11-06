@@ -9,7 +9,7 @@ summary: "At Euroseeds Congress 2026, two very different discussions revealed a 
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # Euroseeds Congress 2026: Different Challenges, One Common Question
 

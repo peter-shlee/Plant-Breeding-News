@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/20/ista-future-international-seed
 summary: "From approving the 2027 International Rules for Seed Testing to examining AI and digital imaging, ISTA's annual meeting demonstrated the importance of scientific collaboration The post How ISTA is Preparing Seed Testing for the Future"
 attachments: []
 tags: []
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # How ISTA is Preparing Seed Testing for the Future
 

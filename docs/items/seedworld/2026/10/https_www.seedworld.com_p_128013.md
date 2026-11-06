@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/15/usda-specialty-crop-block-grants-2
 summary: "USDA has awarded $86.6 million through its Specialty Crop Block Grant Program to support 609 projects across 56 states and territories. The specialty crop block grants will fund research, improved seed varieties, pest and disease"
 attachments: []
 tags: []
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # USDA Awards $86.6M in Specialty Crop Block Grants
 

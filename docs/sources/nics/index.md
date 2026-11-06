@@ -9,6 +9,12 @@ source: "nics"
 
 - [홈으로](../../index.md)
 
+## 2026-11
+
+- **[생산자‧소비자 함께 ‘감탄’ 벼 수확·유기농업 가치 공유](../../items/nics/2026/11/944625.md)**
+  - 2026-11-05 · [읽기](../../items/nics/2026/11/944625.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944625)
+
+
 ## 2026-10
 
 - **[밥맛으로 승부한다. ‘황금예찬’ 소비자 곁으로 더 가까이](../../items/nics/2026/10/944621.md)**
@@ -37,6 +43,3 @@ source: "nics"
 
 - **[농촌진흥청, 어린이 대상 ‘벼 수확 체험 행사’ 열어](../../items/nics/2026/10/944609.md)**
   - 2026-10-22 · [읽기](../../items/nics/2026/10/944609.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944609)
-
-- **[농촌진흥청, 한국프로바이오틱스·마이크로바이옴학회 ‘2026 추계학술대회’ 공동 ...](../../items/nics/2026/10/944608.md)**
-  - 2026-10-22 · [읽기](../../items/nics/2026/10/944608.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944608)

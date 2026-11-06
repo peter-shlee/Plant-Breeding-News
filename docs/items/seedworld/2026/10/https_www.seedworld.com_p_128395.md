@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/29/photosynthesis-efficiency-crop
 summary: "Researchers at Sweden's KTH Royal Institute of Technology have identified Rubisco enzyme mutations that could improve photosynthesis efficiency by reducing unwanted oxygen reactions."
 attachments: []
 tags: []
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # Scientists Target Photosynthesis Efficiency for Better Crops
 

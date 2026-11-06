@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/08/seed-inventory-management-soft
 summary: "Seed doesn’t move through a business in a straight line. On the journey to a customer, it gets inspected, cleaned, dried, tested and packaged, and by the time it’s ready […] The post How to Track Your Seed from Field to Final Sale appeared"
 attachments: []
 tags: []
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # How to Track Your Seed from Field to Final Sale
 

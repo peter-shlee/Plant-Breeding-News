@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/27/alexander-doring-breeding-bett
 summary: "Alexander Döring, Secretary General of FEFAC, explains how plant breeding can better meet the nutritional needs of Europe's animal feed sector. Speaking at the Euroseeds Congress 2026, he highlights protein digestibility, amino acid"
 attachments: []
 tags: []
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # Alexander Döring on Breeding Better Protein for Feed
 

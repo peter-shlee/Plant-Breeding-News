@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation
 summary: "Canada invests heavily in plant breeding, seed certification and technology. But the real challenge may be turning that innovation into measurable value for farmers."
 attachments: []
 tags: []
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # The Most Expensive Word in Farming is “Almost”
 

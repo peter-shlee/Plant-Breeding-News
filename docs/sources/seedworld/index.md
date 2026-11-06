@@ -11,37 +11,69 @@ source: "seedworld"
 
 ## 2026-11
 
+- **[Does Modern Plant Breeding Reduce Flavour and Diversity?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128482.md)**
+  - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128482.md) · [원문](https://www.seedworld.com/europe/2026/11/05/modern-plant-breeding-flavour-crop-diversity/)
+  - From colourful carrots and Basmati rice to wheat and potatoes, scientific evidence shows how breeders improve taste, cooking quality, disease resistance and consumer choice.
+
+- **[Your Seed is in Storage. Your Reputation Isn’t.](../../items/seedworld/2026/11/https_www.seedworld.com_p_128478.md)**
+  - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128478.md) · [원문](https://www.seedworld.com/us/2026/11/05/seed-quality-testing-germination-results/)
+  - Another growing season is behind us, and much of this year’s seed crop has been harvested, conditioned, tested, and placed into storage. Proper drying, handling, and storage are essential to preservi…
+
+- **[China and the Netherlands Discuss Plant Breeders’ Rights, AI and Robotics](../../items/seedworld/2026/11/https_www.seedworld.com_p_128474.md)**
+  - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128474.md) · [원문](https://www.seedworld.com/europe/2026/11/05/plant-breeders-rights-china-netherlands/)
+  - Discussions at the Kunming International Flower Expo explored how stronger variety protection and advances in cultivation technology could support breeding innovation and market access.
+
+- **[Making Seed Treatment Easier — So You Can Focus On What Matters](../../items/seedworld/2026/11/https_www.seedworld.com_p_128473.md)**
+  - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128473.md) · [원문](https://www.seedworld.com/us/2026/11/05/seed-coating-solutions-production-efficiency/)
+  - Our customers manage high-volume seed operations with many moving parts and, as the complexity of their operations grows, so does their need for reliability, predictability and consistency from their…
+
+- **[What We Lose When Everything Gets Better](../../items/seedworld/2026/11/https_www.seedworld.com_p_128466.md)**
+  - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128466.md) · [원문](https://www.seedworld.com/canada/2026/11/05/canadian-seed-industry-hidden-cost-efficiency/)
+  - The pursuit of efficiency can create remarkable opportunities. It can also leave us with fewer choices when circumstances change.
+
+- **[Don’t Break What Works, Says World Agriculture Prize Winner](../../items/seedworld/2026/11/https_www.seedworld.com_p_128456.md)**
+  - 2026-11-05 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128456.md) · [원문](https://www.seedworld.com/us/2026/11/05/jorge-dubcovsky-public-plant-breeding/)
+  - Fresh off receiving the 2026 World Agriculture Prize, wheat geneticist Jorge Dubcovsky explains why he’s so confident in public breeding, and what he fears could put its success at risk.
+
+- **[It’s Time To Move Now | On The Brink: Season 3, Episode 9](../../items/seedworld/2026/11/https_www.seedworld.com_p_128376.md)**
+  - 2026-11-05 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128376.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/11/04/public-plant-breeding-canada-jason-reinheimer-on-the-brink-season-3-episode-9/)
+  - Canada’s public plant breeding needs a new structure says Jason Reinheimer The GIFS CEO calls for a farmer-led company and fewer barriers to investment, arguing Canada has enough information to start…
+
+- **[The Toughest Cleaning Job Taught Me What Our Equipment Could Really Do](../../items/seedworld/2026/11/https_www.seedworld.com_p_128448.md)**
+  - 2026-11-05 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128448.md) · [원문](https://www.seedworld.com/canada/2026/11/04/cimbria-einkorn-seed-cleaning-nexeed/)
+  - Sometimes you don’t really appreciate how versatile your seed cleaning equipment is until somebody brings you a problem that forces you to think differently. That’s what happened when Greg Coulter fr…
+
 - **[The $1.7 Billion Network Behind Canada’s Seed Retail Future](../../items/seedworld/2026/11/https_www.seedworld.com_p_128436.md)**
   - 2026-11-04 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128436.md) · [원문](https://www.seedworld.com/canada/2026/11/03/future-canadian-seed-retail-secan-50/)
-  - SeCan’s nearly 600 member companies represent an estimated $1.7 billion in infrastructure investment. Industry leaders explain why that network could become increasingly important to Canadian plant b…
+  - SeCan's nearly 600 member companies represent an estimated $1.7 billion in infrastructure investment. Industry leaders explain why that network could become increasingly important The post The $1.7 B…
 
 - **[Who’s Your Flower & Vegetable Seed Difference Maker? Nominations Are Closing Soon](../../items/seedworld/2026/11/https_www.seedworld.com_p_128433.md)**
   - 2026-11-04 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128433.md) · [원문](https://www.seedworld.com/us/2026/11/03/2027-veg-flower-difference-makers/)
-  - What makes someone a Difference Maker in flower and vegetable seed? Ask a breeder, a seed production manager and a commercial director, and you’ll probably hear three very different answers.
+  - Seed World's 2027 Veg & Flower Difference Makers program recognizes professionals making an impact across the flower and vegetable seed industry. From breeding breakthroughs to commercial leadership,…
 
 - **[We Bought a Seed Plant. The Support Came With It.](../../items/seedworld/2026/11/https_www.seedworld.com_p_128425.md)**
   - 2026-11-04 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128425.md) · [원문](https://www.seedworld.com/canada/2026/11/03/nexeed-seed-cleaning-equipment-support/)
-  - When we bought a neighbouring farm a few years ago in Lajord, Sask., the seed cleaning plant came with it. I knew we could use it, but I didn’t really know what I was getting myself into.
+  - When we bought a neighbouring farm a few years ago in Lajord, Sask., the seed cleaning plant came with it. I knew we could use it, but I didn’t really […] The post We Bought a Seed Plant.
 
 - **[Breeding Against the Clock](../../items/seedworld/2026/11/https_www.seedworld.com_p_128416.md)**
   - 2026-11-03 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128416.md) · [원문](https://www.seedworld.com/europe/2026/11/03/genome-editing-breeders-climate-challenges/)
-  - Field conditions are changing faster than ever. Genome editing gives breeders an additional tool to develop high-performing varieties that can better withstand evolving environmental challenges.
+  - Genome editing is expanding the plant breeder's toolbox as European farmers face increasing climate, disease and pest pressures. With a new EU regulatory framework in place, Limagrain sees opportunit…
 
 - **[Breeding for a Climate That Won’t Hold Still: What Every Seed Professional Needs to Understand](../../items/seedworld/2026/11/https_www.seedworld.com_p_128420.md)**
   - 2026-11-03 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128420.md) · [원문](https://www.seedworld.com/europe/2026/11/02/climate-resilient-varieties-trial-data/)
-  - A few summers ago, I stood at the edge of a wheat trial that had looked perfect every year for a decade. Same site, same soil, same reputation for fairness amongst every line.
+  - Climate-resilient varieties are only as reliable as the environments in which they're tested. As Europe's climate changes faster than traditional breeding cycles can respond, plant breeders must reth…
 
 - **[Why Some Microbes Win in a Field They’ve Never Seen](../../items/seedworld/2026/11/https_www.seedworld.com_p_128413.md)**
   - 2026-11-03 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128413.md) · [원문](https://www.seedworld.com/us/2026/11/02/microbial-activator-technology-jord/)
-  - Before Jord, I worked on the animal gut microbiome. A chicken’s gut and a soybean field look nothing alike, but they taught me the same lesson.
+  - Jord uses microbial activator technology to identify soil microbes capable of establishing and performing within existing microbial communities. Through its SignalSelect platform, the company screens…
 
 - **[Euroseeds 2026: Key Highlights from Valencia Congress](../../items/seedworld/2026/11/https_www.seedworld.com_p_128401.md)**
   - 2026-11-02 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128401.md) · [원문](https://www.seedworld.com/europe/2026/11/02/euroseeds-2026-highlights-valencia/)
-  - From October 25–28, Valencia, Spain, welcomed the international seed community for Euroseeds 2026, bringing together industry leaders, policymakers, researchers and innovators to explore the challeng…
+  - Euroseeds 2026 brought the international seed community to Valencia, Spain, for discussions on NGTs, PRM reform, plant variety rights and innovation. Watch the video recap highlighting key conversati…
 
 - **[Maritime Seed Growers Make Their Numbers Count](../../items/seedworld/2026/11/https_www.seedworld.com_p_128403.md)**
   - 2026-11-02 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128403.md) · [원문](https://www.seedworld.com/canada/2026/11/02/certified-seed-decline-maritimes/)
-  - Declining certified seed use is putting pressure on local production, but Maritime growers still see an opportunity to rebuild awareness of its value. Eric Theriault has watched certified seed sales…
+  - Declining certified seed use is putting pressure on local production, but seed growers in the East still see an opportunity to rebuild awareness of its value The post Maritime Seed Growers Make Their…
 
 
 ## 2026-10
@@ -341,27 +373,3 @@ source: "seedworld"
 - **[What If Half the Wheat Diversity in the Catalogue Was Not Really Different?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md)**
   - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md) · [원문](https://www.seedworld.com/europe/2026/10/07/glu-b1-catalogue-wheat-diversity/)
   - A University of Córdoba review found GLU-B1 diversity in wheat was overstated, with many recorded alleles duplicated or triplicated. The team has built a verified germplasm collection to help breeder…
-
-- **[USDA Invests $180 Million in National Plant Germplasm System](../../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md)**
-  - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127739.md) · [원문](https://www.seedworld.com/us/2026/10/06/usda-invests-national-plant-germplasm-system/)
-  - The National Plant Germplasm System will receive $180 million from USDA to strengthen seed banks, safeguard plant genetic resources and support crop breeding, research and future variety development.
-
-- **[Seed Innovators Need a Clear Path to Market](../../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md)**
-  - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127730.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovators-path-market/)
-  - Seed innovators need more than scientific validation to attract capital. Paola de Almeida says credible commercialization depends on understanding the customer, matching financing to development mile…
-
-- **[Wheat Geneticist Jorge Dubcovsky Named 2026 World Agriculture Prize Laureate](../../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md)**
-  - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127734.md) · [원문](https://www.seedworld.com/us/2026/10/05/jorge-dubcovsky-world-agriculture-prize-laureate/)
-  - Jorge Dubcovsky, a wheat geneticist at UC Davis, has been named the 2026 World Agriculture Prize Laureate for his contributions to wheat improvement, disease resistance, yield and global food securit…
-
-- **[Give Your Team an Hour to Grow](../../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md)**
-  - 2026-10-06 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127724.md) · [원문](https://www.seedworld.com/us/2026/10/05/webinars-seed-teams-hour-grow/)
-  - Webinars offer seed businesses a practical way to support professional development when travel and conference costs are high. Giving employees an hour to learn can spark new ideas, better processes a…
-
-- **[The Corteva-Inari Case Is Settled… But the Bigger Questions Aren’t.](../../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md)**
-  - 2026-10-05 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127720.md) · [원문](https://www.seedworld.com/us/2026/10/05/seed-innovation-ip-questions/)
-  - The Corteva-Inari settlement leaves larger questions unresolved about how seed innovation should balance intellectual property protection, access to biological material, licensing and freedom to oper…
-
-- **[Vylor Is Open for Business: What Changes for Europe’s Seed Sector](../../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md)**
-  - 2026-10-05 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127655.md) · [원문](https://www.seedworld.com/europe/2026/10/05/vylor-seed-genetics-europe/)
-  - Vylor seed genetics enters Europe with established brands, breeding programs and global R&D scale. Its leadership sees future growth coming from gene editing, new crops and a larger role as a genetic…

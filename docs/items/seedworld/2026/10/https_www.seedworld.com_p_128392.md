@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/29/svalbard-seed-vault-prize-at-r
 summary: "Svalbard Seed Vault partners will direct €50,000 from the 2026 Princess of Asturias Award toward protecting vulnerable seed collections. The funding will help genebanks safeguard crop diversity and preserve valuable genetic resources for"
 attachments: []
 tags: []
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # Svalbard Seed Vault Prize to Protect At-Risk Collections
 

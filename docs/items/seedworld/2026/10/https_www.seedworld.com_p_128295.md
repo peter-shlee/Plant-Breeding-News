@@ -9,7 +9,7 @@ summary: "Plant breeding technology is advancing rapidly, but keeping up with AI
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-11-04T10:36:23+09:00"
+fetched_at: "2026-11-06T10:45:13+09:00"
 ---
 # Is Keeping Up With Technology Taking Too Much Time From Plant Breeding?
 
