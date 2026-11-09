@@ -9,7 +9,7 @@ summary: "Vylor is putting gene editing at the centre of its regulatory strategy
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-11-06T10:45:13+09:00"
+fetched_at: "2026-11-09T10:09:59+09:00"
 ---
 # What Vylor Needs From Policy to Meet its Innovation Ambition
 

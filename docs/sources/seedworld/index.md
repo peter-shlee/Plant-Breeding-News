@@ -11,37 +11,45 @@ source: "seedworld"
 
 ## 2026-11
 
+- **[The Importance of Early-Stage Breeding to Successful Canola](../../items/seedworld/2026/11/https_www.seedworld.com_p_128513.md)**
+  - 2026-11-07 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128513.md) · [원문](https://www.seedworld.com/canada/2026/11/06/early-canola-breeding-better-hybrids/)
+  - So much of the science, innovation, and dedication that drives our efforts to breed canola for Canadian farms happens behind the scenes. As a result, growers who plant our seed aren’t always aware of…
+
+- **[Improved Crop Varieties Highlight Value of Long-Term Research](../../items/seedworld/2026/11/https_www.seedworld.com_p_128483.md)**
+  - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128483.md) · [원문](https://www.seedworld.com/europe/2026/11/06/agricultural-research-investment-crop-varieties/)
+  - Aberystwyth University’s forage breeding work features in a new UK report examining how sustained research investment delivers better varieties and practical benefits for farmers.
+
 - **[Does Modern Plant Breeding Reduce Flavour and Diversity?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128482.md)**
   - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128482.md) · [원문](https://www.seedworld.com/europe/2026/11/05/modern-plant-breeding-flavour-crop-diversity/)
-  - From colourful carrots and Basmati rice to wheat and potatoes, scientific evidence shows how breeders improve taste, cooking quality, disease resistance and consumer choice.
+  - Does modern plant breeding threaten flavour and crop diversity? From colourful vegetables and Basmati rice to disease-resistant apples and potatoes, scientific evidence challenges common assumptions…
 
 - **[Your Seed is in Storage. Your Reputation Isn’t.](../../items/seedworld/2026/11/https_www.seedworld.com_p_128478.md)**
   - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128478.md) · [원문](https://www.seedworld.com/us/2026/11/05/seed-quality-testing-germination-results/)
-  - Another growing season is behind us, and much of this year’s seed crop has been harvested, conditioned, tested, and placed into storage. Proper drying, handling, and storage are essential to preservi…
+  - Seed quality testing provides valuable insights beyond standard germination percentages. Iowa State University's Seed Science Center explains how vigor testing, seedling abnormalities, fungal observa…
 
 - **[China and the Netherlands Discuss Plant Breeders’ Rights, AI and Robotics](../../items/seedworld/2026/11/https_www.seedworld.com_p_128474.md)**
   - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128474.md) · [원문](https://www.seedworld.com/europe/2026/11/05/plant-breeders-rights-china-netherlands/)
-  - Discussions at the Kunming International Flower Expo explored how stronger variety protection and advances in cultivation technology could support breeding innovation and market access.
+  - Plant breeders' rights, artificial intelligence and robotics were central to discussions between Chinese and Dutch industry representatives at the Kunming International Flower Expo.
 
 - **[Making Seed Treatment Easier — So You Can Focus On What Matters](../../items/seedworld/2026/11/https_www.seedworld.com_p_128473.md)**
   - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128473.md) · [원문](https://www.seedworld.com/us/2026/11/05/seed-coating-solutions-production-efficiency/)
-  - Our customers manage high-volume seed operations with many moving parts and, as the complexity of their operations grows, so does their need for reliability, predictability and consistency from their…
+  - Reliable seed coating helps high-volume seed companies maintain quality, meet deadlines and minimize operational disruptions. Smith Seed Coatings explains how frequent quality checks, experienced emp…
 
 - **[What We Lose When Everything Gets Better](../../items/seedworld/2026/11/https_www.seedworld.com_p_128466.md)**
   - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128466.md) · [원문](https://www.seedworld.com/canada/2026/11/05/canadian-seed-industry-hidden-cost-efficiency/)
-  - The pursuit of efficiency can create remarkable opportunities. It can also leave us with fewer choices when circumstances change.
+  - The pursuit of efficiency can create remarkable opportunities. It can also leave us with fewer choices when circumstances change The post What We Lose When Everything Gets Better appeared first on Se…
 
 - **[Don’t Break What Works, Says World Agriculture Prize Winner](../../items/seedworld/2026/11/https_www.seedworld.com_p_128456.md)**
   - 2026-11-05 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128456.md) · [원문](https://www.seedworld.com/us/2026/11/05/jorge-dubcovsky-public-plant-breeding/)
-  - Fresh off receiving the 2026 World Agriculture Prize, wheat geneticist Jorge Dubcovsky explains why he’s so confident in public breeding, and what he fears could put its success at risk.
+  - Wheat geneticist Jorge Dubcovsky has received the 2026 World Agriculture Prize for his contributions to agricultural research, innovation and education. He reflects on the success of public plant bre…
 
 - **[It’s Time To Move Now | On The Brink: Season 3, Episode 9](../../items/seedworld/2026/11/https_www.seedworld.com_p_128376.md)**
   - 2026-11-05 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128376.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/11/04/public-plant-breeding-canada-jason-reinheimer-on-the-brink-season-3-episode-9/)
-  - Canada’s public plant breeding needs a new structure says Jason Reinheimer The GIFS CEO calls for a farmer-led company and fewer barriers to investment, arguing Canada has enough information to start…
+  - Could changing Canada’s breeding system strengthen public plant breeding? GIFS CEO Jason Reinheimer calls for a farmer-led company, an open door to investment and action before more time is lost.
 
 - **[The Toughest Cleaning Job Taught Me What Our Equipment Could Really Do](../../items/seedworld/2026/11/https_www.seedworld.com_p_128448.md)**
   - 2026-11-05 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128448.md) · [원문](https://www.seedworld.com/canada/2026/11/04/cimbria-einkorn-seed-cleaning-nexeed/)
-  - Sometimes you don’t really appreciate how versatile your seed cleaning equipment is until somebody brings you a problem that forces you to think differently. That’s what happened when Greg Coulter fr…
+  - Sometimes you don’t really appreciate how versatile your seed cleaning equipment is until somebody brings you a problem that forces you to think differently. That’s what happened when Greg Coulter [……
 
 - **[The $1.7 Billion Network Behind Canada’s Seed Retail Future](../../items/seedworld/2026/11/https_www.seedworld.com_p_128436.md)**
   - 2026-11-04 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128436.md) · [원문](https://www.seedworld.com/canada/2026/11/03/future-canadian-seed-retail-secan-50/)
@@ -321,55 +329,3 @@ source: "seedworld"
 - **[Arevo: Can a Thin Red Coat Change How a Crop Uses Nitrogen](../../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md)**
   - 2026-10-12 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md) · [원문](https://www.seedworld.com/europe/2026/10/12/arginex-seed-treatment-nitrogen-efficiency/)
   - Arginex seed treatment is designed to deliver nitrogen from germination in a form plants can use directly. Arevo CEO Niklas Åström explains what trials in corn and wheat reveal about yield, nitrogen…
-
-- **[Seed Coating Technologies: A Strategic Enabler of Innovation in a Rapidly Evolving Industry](../../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md)**
-  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127667.md) · [원문](https://www.seedworld.com/europe/2026/10/09/seed-coating-technologies-treatment-era/)
-  - Seed coating technologies are evolving as regulatory requirements, sustainability goals and more complex treatments reshape the industry. Syensqo is developing microplastic-free coatings and formulat…
-
-- **[Could AI Speed Up Pheromone Discovery for Emerging Crop Pests?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127759.md)**
-  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127759.md) · [원문](https://www.seedworld.com/europe/2026/10/09/ai-pheromone-discovery-crop-pests/)
-  - Researchers identified the lily moth sex pheromone by starting with insect scent receptors rather than the pheromone itself. The AI-supported approach could help speed pheromone discovery for emergin…
-
-- **[The Most Expensive Word in Farming is “Almost”](../../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md)**
-  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127825.md) · [원문](https://www.seedworld.com/canada/2026/10/08/canada-agricultural-innovation-missing-link/)
-  - Canada invests heavily in plant breeding, seed certification and technology. But the real challenge may be turning that innovation into measurable value for farmers.
-
-- **[What CSGA’s New Executive Director Wants Farmers to Know](../../items/seedworld/2026/10/https_www.seedworld.com_p_127822.md)**
-  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127822.md) · [원문](https://www.seedworld.com/canada/2026/10/08/csga-future-seed-certification-canada/)
-  - C.J. Noble outlines her vision for certified seed, regulatory modernization and the importance of demonstrating real economic value to farmers.
-
-- **[Why Saskatchewan Seed Growers are Thinking Beyond Certified Seed](../../items/seedworld/2026/10/https_www.seedworld.com_p_127813.md)**
-  - 2026-10-09 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127813.md) · [원문](https://www.seedworld.com/canada/2026/10/08/saskatchewan-seed-growers-beyond-certified-seed/)
-  - From defending research farms to tackling slow adoption, the Saskatchewan Seed Growers' Association is making the case that seed growers are central to innovation The post Why Saskatchewan Seed Growe…
-
-- **[How to Track Your Seed from Field to Final Sale](../../items/seedworld/2026/10/https_www.seedworld.com_p_127791.md)**
-  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127791.md) · [원문](https://www.seedworld.com/canada/2026/10/08/seed-inventory-management-software-abs/)
-  - Seed doesn’t move through a business in a straight line. On the journey to a customer, it gets inspected, cleaned, dried, tested and packaged, and by the time it’s ready […] The post How to Track You…
-
-- **[Great Wheat Traits Are Being Found. Why Aren’t More Reaching Breeders?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127776.md)**
-  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127776.md) · [원문](https://www.seedworld.com/europe/2026/10/08/niab-wheat-pre-breeding-europe/)
-  - Niab will lead a three-year wheat pre-breeding project funded by BBSRC to move promising traits into elite European winter wheat backgrounds. The work will involve commercial breeders and internation…
-
-- **[The Flavour Tomato Breeders Lost May Still Be Hiding in the Wild](../../items/seedworld/2026/10/https_www.seedworld.com_p_127756.md)**
-  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127756.md) · [원문](https://www.seedworld.com/europe/2026/10/08/wild-tomato-relatives-restore-flavour/)
-  - Research from the Boyce Thompson Institute shows how wild tomato relatives may help breeders recover flavour and nutritional traits without sacrificing yield, fruit size or shelf life.
-
-- **[What Genomic Prediction is Worth to Your Program](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md)**
-  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127738.md) · [원문](https://www.seedworld.com/europe/2026/10/07/genomic-prediction-plant-breeding-cost/)
-  - Genomic prediction pricing has turned into a rumor market. The figures you hear at breeding conferences, and will hear in Valencia at Euroseeds, span two orders of magnitude — and […] The post What G…
-
-- **[Making a Case for End Point Royalties | On The Brink: Season 3, Episode 5](../../items/seedworld/2026/10/https_www.seedworld.com_p_127773.md)**
-  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127773.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/07/making-the-case-for-end-point-royalties-on-the-brink-season-3-episode-5/)
-  - Could farmers’ variety choices help direct breeding investment? On The Brink explores the case for end point royalties, clearer costs and a return for public and private variety developers.
-
-- **[What Agricultural Innovation Looks Like Up Close](../../items/seedworld/2026/10/https_www.seedworld.com_p_127659.md)**
-  - 2026-10-08 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127659.md) · [원문](https://www.seedworld.com/europe/2026/10/07/agricultural-innovation-reliability-uncertainty/)
-  - Agricultural innovation cannot eliminate uncertainty, but it can help farmers manage it. A visit to Bayer’s Crop Science headquarters in Monheim shows how advances in plant breeding, crop protection…
-
-- **[Seed Sector 2045: Why Plant Breeding IP Matters for Europe’s Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_127740.md)**
-  - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127740.md) · [원문](https://www.seedworld.com/europe/2026/10/07/plant-breeding-ip-europe-future/)
-  - Plant breeding IP is becoming central to Europe’s seed innovation debate. This article explains how plant breeders’ rights, patents, licensing platforms and transparency tools can support both invest…
-
-- **[What If Half the Wheat Diversity in the Catalogue Was Not Really Different?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md)**
-  - 2026-10-07 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127751.md) · [원문](https://www.seedworld.com/europe/2026/10/07/glu-b1-catalogue-wheat-diversity/)
-  - A University of Córdoba review found GLU-B1 diversity in wheat was overstated, with many recorded alleles duplicated or triplicated. The team has built a verified germplasm collection to help breeder…

@@ -9,7 +9,7 @@ summary: "A $180 million investment will support sequencing of major crop collec
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-11-06T10:45:13+09:00"
+fetched_at: "2026-11-09T10:09:59+09:00"
 ---
 # USDA Launches Seed Sovereignty Initiative to Strengthen Crop Genetic Resources
 

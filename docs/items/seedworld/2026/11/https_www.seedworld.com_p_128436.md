@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/03/future-canadian-seed-retail-se
 summary: "SeCan's nearly 600 member companies represent an estimated $1.7 billion in infrastructure investment. Industry leaders explain why that network could become increasingly important The post The $1.7 Billion Network Behind Canada’s Seed"
 attachments: []
 tags: []
-fetched_at: "2026-11-06T10:45:13+09:00"
+fetched_at: "2026-11-09T10:09:59+09:00"
 ---
 # The $1.7 Billion Network Behind Canada’s Seed Retail Future
 

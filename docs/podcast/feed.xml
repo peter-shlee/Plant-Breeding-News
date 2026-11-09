@@ -5,7 +5,15 @@
 <link>https://peter-shlee.github.io/Plant-Breeding-News/podcast/</link>
 <description>AI가 선별하고 낭독하는 식물 육종·종자·품종 주간 뉴스</description>
 <language>ko-kr</language>
-<lastBuildDate>Fri, 06 Nov 2026 01:45:14 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 01:12:33 +0000</lastBuildDate>
+<item>
+<title>첨단 육종 기술과 공공 생태계가 이끄는 식물 육종의 미래</title>
+<description>분자표지를 활용한 국산 팽이버섯과 국화 신품종 개발부터 공공 밀 육종의 중요성, 그리고 유전체 교정 기술을 통한 기후변화 대응 소식을 다룹니다.</description>
+<link>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-11-09.html</link>
+<guid>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-11-09.html</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+<enclosure url="https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-11-09.mp3" length="2428845" type="audio/mpeg" />
+</item>
 <item>
 <title>식물 육종 뉴스: 유전자원 보존부터 현장 혁신까지</title>
 <description>스발바르 종자보관소의 유전자원 보존 기금 투입, 유전체 데이터 관리의 효율화, 사료용 맞춤형 작물 육종, 신품종 고단백 콩 대단 보급, 그리고 육종 혁신의 현장 전달 체계까지 다각도의 육종 뉴스를 분석합니다.</description>
@@ -157,14 +165,6 @@
 <guid>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-05-23.html</guid>
 <pubDate>Sat, 23 May 2026 00:00:00 +0900</pubDate>
 <enclosure url="https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-05-23.mp3" length="1981101" type="audio/mpeg" />
-</item>
-<item>
-<title>생명공학 혁신과 농민 주도 육종의 미래</title>
-<description>AI와 CRISPR 등 첨단 기술의 도입부터 고대 품종 유전체 해독, 그리고 캐나다 농민들이 주도하는 지속 가능한 육종 투자 모델까지 최신 식물 육종 트렌드를 짚어봅니다.</description>
-<link>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-05-22.html</link>
-<guid>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-05-22.html</guid>
-<pubDate>Fri, 22 May 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-05-22.mp3" length="814509" type="audio/mpeg" />
 </item>
 </channel>
 </rss>

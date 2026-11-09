@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/29/janae-brady-seed-industry-policy-r
 summary: "Janae Brady of the American Seed Trade Association examines the challenges facing seed industry policy in Washington, from Farm Bill uncertainty and long-term research investments to plant germplasm preservation and the evolving debate"
 attachments: []
 tags: []
-fetched_at: "2026-11-06T10:45:13+09:00"
+fetched_at: "2026-11-09T10:09:59+09:00"
 ---
 # Can Washington Keep Up With the Seed Industry?
 
