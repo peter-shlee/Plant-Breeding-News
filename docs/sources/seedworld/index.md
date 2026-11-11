@@ -11,13 +11,49 @@ source: "seedworld"
 
 ## 2026-11
 
+- **[Why Seed Sector Development Needs an Enabling Environment](../../items/seedworld/2026/11/https_www.seedworld.com_p_128550.md)**
+  - 2026-11-11 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128550.md) · [원문](https://www.seedworld.com/europe/2026/11/10/seed-sector-development-enabling-environment/)
+  - A comparison of the 2026 Global Hunger Index and seed sector institutions highlights why effective regulations, investment and access to improved varieties matter for food security.
+
+- **[The Next Big Leap in Lentils Starts Here | On The Brink: Season 3, Episode 10](../../items/seedworld/2026/11/https_www.seedworld.com_p_128501.md)**
+  - 2026-11-11 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128501.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/11/10/lentil-breeding-ana-vargas-on-the-brink-season-3-episode-10/)
+  - The Next Big Leap in Lentils Starts Here Ana Vargas has a clear picture of what she wants lentil breeding to deliver: a drive across Western Canada, 10 years from now, past healthy green fields where…
+
+- **[Euroseeds Congress 2026: Connections Beyond the Stage](../../items/seedworld/2026/11/https_www.seedworld.com_p_128540.md)**
+  - 2026-11-11 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128540.md) · [원문](https://www.seedworld.com/europe/2026/11/10/euroseeds-congress-2026-connections/)
+  - What makes the Euroseeds Congress a valuable gathering for the international seed industry? Much of the answer lies in the conversations, connections and ideas exchanged beyond the stage.
+
+- **[ASTA’s Sam Crowell on Seed Trade Barriers and Tariffs](../../items/seedworld/2026/11/https_www.seedworld.com_p_128529.md)**
+  - 2026-11-10 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128529.md) · [원문](https://www.seedworld.com/us/2026/11/10/seed-trade-barriers-asta-sam-crowell/)
+  - From questionable phytosanitary requirements to shifting tariffs, the economics of the seed trade don’t always carry enough weight in regulatory decisions. We asked ASTA’s vice president of science,…
+
+- **[Europe’s Seed Production is on the Move](../../items/seedworld/2026/11/https_www.seedworld.com_p_128535.md)**
+  - 2026-11-10 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128535.md) · [원문](https://www.seedworld.com/europe/2026/11/10/european-seed-production-climate-risks/)
+  - European seed production is under­going a gradual geographic shift as higher temperatures, drought and greater weather variability reshape where crops can be produced most reliably.
+
+- **[Unlocking Wild Plant Traits Could Help Breed More Resilient Crops](../../items/seedworld/2026/11/https_www.seedworld.com_p_128500.md)**
+  - 2026-11-10 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128500.md) · [원문](https://www.seedworld.com/europe/2026/11/10/chromosome-recognition-research-crop-breeding/)
+  - Aberystwyth University researchers will combine chromosome research, seed bank diversity and AI to investigate barriers to transferring useful traits between distantly related plants.
+
+- **[You’re INVITED: Seed World’s Founding Ambassador Program](../../items/seedworld/2026/11/https_www.seedworld.com_p_128524.md)**
+  - 2026-11-10 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128524.md) · [원문](https://www.seedworld.com/us/2026/11/09/seed-world-ambassadors-us-industry-initiative/)
+  - Help us connect and strengthen the U.S. seed industry.
+
+- **[Gary Doer Says Canada Needs More Farmers in Ottawa — Not Just More Lobbyists](../../items/seedworld/2026/11/https_www.seedworld.com_p_128518.md)**
+  - 2026-11-09 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128518.md) · [원문](https://www.seedworld.com/canada/2026/11/09/gary-doer-canadian-agriculture-trump-trade/)
+  - The former ambassador to the U.S. believes producers themselves are among the industry’s most powerful advocates as governments make decisions affecting trade, research and competitiveness.
+
+- **[Pea and Bean Varieties Could Shape Soil Health and the Next Harvest](../../items/seedworld/2026/11/https_www.seedworld.com_p_128494.md)**
+  - 2026-11-09 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128494.md) · [원문](https://www.seedworld.com/europe/2026/11/09/pulse-crop-residues-soil-health-barley/)
+  - New research suggests differences in crop residues could give breeders another selection criterion: how a variety supports soil processes and the crop that follows. Selecting pea and field bean varie…
+
 - **[The Importance of Early-Stage Breeding to Successful Canola](../../items/seedworld/2026/11/https_www.seedworld.com_p_128513.md)**
   - 2026-11-07 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128513.md) · [원문](https://www.seedworld.com/canada/2026/11/06/early-canola-breeding-better-hybrids/)
-  - So much of the science, innovation, and dedication that drives our efforts to breed canola for Canadian farms happens behind the scenes. As a result, growers who plant our seed aren’t always aware of…
+  - So much of the science, innovation, and dedication that drives Bayer's efforts to breed canola for Canadian farms happens behind the scenes The post The Importance of Early-Stage Breeding to Successf…
 
 - **[Improved Crop Varieties Highlight Value of Long-Term Research](../../items/seedworld/2026/11/https_www.seedworld.com_p_128483.md)**
   - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128483.md) · [원문](https://www.seedworld.com/europe/2026/11/06/agricultural-research-investment-crop-varieties/)
-  - Aberystwyth University’s forage breeding work features in a new UK report examining how sustained research investment delivers better varieties and practical benefits for farmers.
+  - Long-term agricultural research investment is essential to developing improved crop varieties and delivering practical benefits for farmers. A new UK report highlights Aberystwyth University's forage…
 
 - **[Does Modern Plant Breeding Reduce Flavour and Diversity?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128482.md)**
   - 2026-11-06 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128482.md) · [원문](https://www.seedworld.com/europe/2026/11/05/modern-plant-breeding-flavour-crop-diversity/)

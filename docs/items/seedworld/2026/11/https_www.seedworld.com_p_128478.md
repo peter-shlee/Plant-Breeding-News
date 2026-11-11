@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/05/seed-quality-testing-germination-r
 summary: "Seed quality testing provides valuable insights beyond standard germination percentages. Iowa State University's Seed Science Center explains how vigor testing, seedling abnormalities, fungal observations and timely retesting can help seed"
 attachments: []
 tags: []
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # Your Seed is in Storage. Your Reputation Isn’t.
 

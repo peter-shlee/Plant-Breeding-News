@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/29/vegetable-seed-market-insights/"
 summary: "Ahern is connecting vegetable seed market insights with genetic performance data to help seed companies and growers make better-informed decisions. Through extensive field trials, grower relationships and market intelligence, the company"
 attachments: []
 tags: []
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # Ahern, Beyond Genetics: A Comprehensive View of the Value Chain
 

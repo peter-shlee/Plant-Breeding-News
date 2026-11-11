@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/25/concepts-for-your-seeds-6/"
 summary: "For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds, ensuring their high quality. You get specific and individual […] The post Concepts for Your Seeds appeared"
 attachments: []
 tags: []
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # Concepts for Your Seeds
 

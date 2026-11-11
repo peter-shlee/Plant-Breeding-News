@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/05/canadian-seed-industry-hidden-
 summary: "The pursuit of efficiency can create remarkable opportunities. It can also leave us with fewer choices when circumstances change The post What We Lose When Everything Gets Better appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # What We Lose When Everything Gets Better
 

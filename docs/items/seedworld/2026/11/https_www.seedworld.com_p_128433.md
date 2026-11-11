@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/03/2027-veg-flower-difference-makers/
 summary: "Seed World's 2027 Veg & Flower Difference Makers program recognizes professionals making an impact across the flower and vegetable seed industry. From breeding breakthroughs to commercial leadership, nominations are open through November 4,"
 attachments: []
 tags: []
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # Who’s Your Flower & Vegetable Seed Difference Maker? Nominations Are Closing Soon
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/04/cimbria-einkorn-seed-cleaning-
 summary: "Sometimes you don’t really appreciate how versatile your seed cleaning equipment is until somebody brings you a problem that forces you to think differently. That’s what happened when Greg Coulter […] The post The Toughest Cleaning Job"
 attachments: []
 tags: []
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # The Toughest Cleaning Job Taught Me What Our Equipment Could Really Do
 

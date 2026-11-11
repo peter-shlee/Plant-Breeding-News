@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/02/microbial-activator-technology-jor
 summary: "Jord uses microbial activator technology to identify soil microbes capable of establishing and performing within existing microbial communities. Through its SignalSelect platform, the company screens thousands of isolates for ecological"
 attachments: []
 tags: []
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # Why Some Microbes Win in a Field They’ve Never Seen
 

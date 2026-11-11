@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "gene-editing"
   - "밀"
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # Live at Euroseeds: What’s Ahead for Vylor?
 

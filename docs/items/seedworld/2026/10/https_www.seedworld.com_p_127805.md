@@ -9,7 +9,7 @@ summary: "Europe’s soybean ambitions depend on more than plant genetics. Prote
 attachments: []
 tags:
   - "콩"
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # Are Plant Genetics Only Half of Europe’s Soybean Story?
 

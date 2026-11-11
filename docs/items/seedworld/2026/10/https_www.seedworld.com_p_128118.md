@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/20/euroseeds-2026-global-seed-inn
 summary: "Euroseeds 2026 will bring seed industry leaders to Valencia, Spain, to explore plant breeding innovation, emerging technologies and global collaboration. Euroseeds Secretary General and CEO Garlich von Essen discusses the Congress's"
 attachments: []
 tags: []
-fetched_at: "2026-11-09T10:09:59+09:00"
+fetched_at: "2026-11-11T10:25:02+09:00"
 ---
 # Euroseeds 2026: Global Seed Innovation and Collaboration
 
