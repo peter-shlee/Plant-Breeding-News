@@ -9,7 +9,7 @@ summary: "Plant breeders' rights, artificial intelligence and robotics were cent
 attachments: []
 tags:
   - "IP-policy"
-fetched_at: "2026-11-11T10:25:02+09:00"
+fetched_at: "2026-11-13T11:03:52+09:00"
 ---
 # China and the Netherlands Discuss Plant Breeders’ Rights, AI and Robotics
 

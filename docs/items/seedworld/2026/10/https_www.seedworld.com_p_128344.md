@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/27/microbial-seed-treatments-crop-per
 summary: "Crop performance isn't determined by genetics alone. This webinar explores how microbial seed treatments interact with plant genetics and growing conditions to influence crop development The post What Happens When Seed Genetics and"
 attachments: []
 tags: []
-fetched_at: "2026-11-11T10:25:02+09:00"
+fetched_at: "2026-11-13T11:03:53+09:00"
 ---
 # What Happens When Seed Genetics and Microbes Work Together? Watch Our New Innovation Series Webinar
 

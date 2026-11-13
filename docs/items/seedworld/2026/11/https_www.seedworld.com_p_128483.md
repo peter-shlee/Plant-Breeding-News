@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/06/agricultural-research-investme
 summary: "Long-term agricultural research investment is essential to developing improved crop varieties and delivering practical benefits for farmers. A new UK report highlights Aberystwyth University's forage breeding work while examining how"
 attachments: []
 tags: []
-fetched_at: "2026-11-11T10:25:02+09:00"
+fetched_at: "2026-11-13T11:03:52+09:00"
 ---
 # Improved Crop Varieties Highlight Value of Long-Term Research
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/02/euroseeds-2026-highlights-vale
 summary: "Euroseeds 2026 brought the international seed community to Valencia, Spain, for discussions on NGTs, PRM reform, plant variety rights and innovation. Watch the video recap highlighting key conversations, emerging technologies and industry"
 attachments: []
 tags: []
-fetched_at: "2026-11-11T10:25:02+09:00"
+fetched_at: "2026-11-13T11:03:52+09:00"
 ---
 # Euroseeds 2026: Key Highlights from Valencia Congress
 

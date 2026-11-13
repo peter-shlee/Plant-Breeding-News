@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/02/climate-resilient-varieties-tr
 summary: "Climate-resilient varieties are only as reliable as the environments in which they're tested. As Europe's climate changes faster than traditional breeding cycles can respond, plant breeders must rethink field trials, incorporate"
 attachments: []
 tags: []
-fetched_at: "2026-11-11T10:25:02+09:00"
+fetched_at: "2026-11-13T11:03:52+09:00"
 ---
 # Breeding for a Climate That Won’t Hold Still: What Every Seed Professional Needs to Understand
 

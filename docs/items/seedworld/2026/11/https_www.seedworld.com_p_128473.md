@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/05/seed-coating-solutions-production-
 summary: "Reliable seed coating helps high-volume seed companies maintain quality, meet deadlines and minimize operational disruptions. Smith Seed Coatings explains how frequent quality checks, experienced employees and proactive maintenance keep"
 attachments: []
 tags: []
-fetched_at: "2026-11-11T10:25:02+09:00"
+fetched_at: "2026-11-13T11:03:52+09:00"
 ---
 # Making Seed Treatment Easier — So You Can Focus On What Matters
 

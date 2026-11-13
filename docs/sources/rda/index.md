@@ -11,74 +11,86 @@ source: "rda"
 
 ## 2026-11
 
-- **[배추·무 수확기, 비·저온 대비 철저한 생육 관리 필요](../../items/rda/2026/11/100000814032.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814032.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814032&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[농촌진흥청, 가을철 맥류 파종 현장 찾아 안전 생산 당부](../../items/rda/2026/11/100000814140.md)**
+  - 2026-11-13 · [읽기](../../items/rda/2026/11/100000814140.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814140&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립식량과학원 김병석 원장은 11월 12일 전북특별자치도 김제시 우리밀조합 맥류 파종 현장을 찾아 진행 상황을 살피고, 안전한 파종과 철저한 재배 관리를 당부했다. 올해는 가을철 잦은 비로 벼와 콩 수확이 지연되고 논 토양이 충분히 마르지 않아 농기계 진입과 파종 작업이 지연되고 있다.
 
-- **[농촌진흥청, 올해 2,064건 홍보…직원 1인당 1건꼴 “전 직원이 홍보대사”](../../items/rda/2026/11/100000814031.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814031.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814031&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[성탄절 물들일 국산 포인세티아, 생산자·소비자 함께 고른다](../../items/rda/2026/11/100000814137.md)**
+  - 2026-11-13 · [읽기](../../items/rda/2026/11/100000814137.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814137&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 성탄절 대표 화훼인 포인세티아의 국산 품종을 생산자와 소비자가 함께 평가하는 자리가 마련된다. 농촌진흥청(청장 이승돈)은 11월 12일과 13일, 고양시 재배 농가(12일)와 서울식물원(13일)에서 ‘2026 국내 육성 품종·계통 평가회’를 연다.
 
-- **[국내 재래종 콩 230점 분석, 검정콩 ‘유용 성분’·‘항산화 활성’ 높아](../../items/rda/2026/11/100000814029.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814029.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814029&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[‘슈퍼푸드 귀리’ 종자 파괴 없이 영양 성분 빠르게 확인한다](../../items/rda/2026/11/100000814134.md)**
+  - 2026-11-13 · [읽기](../../items/rda/2026/11/100000814134.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814134&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 근적외선 분광 분석법(NIR)*을 활용해 종자를 파괴하지 않고 귀리 유전자원의 주요 영양‧기능성 성분을 신속하게 평가하는 기술을 구축했다. * 근적외선 분광 분석법(NIR, Near-Infrared Spectroscopy): 근적외선 영역(약 400~2,500nm)을 사용해 물질의 물리적‧화학적 성질을 분석하는 방법 유전자원의…
 
-- **[농촌진흥청, 순환식 양액 재활용 시범 현장서 농가 의견 청취](../../items/rda/2026/11/100000814026.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814026.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814026&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[“베트남 딸기 수출길 더 넓어진다” 농약 안전사용지침 개발](../../items/rda/2026/11/100000814133.md)**
+  - 2026-11-13 · [읽기](../../items/rda/2026/11/100000814133.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814133&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 딸기 수출 농가가 베트남 농약 안전사용기준에 맞춰 농약을 선택하고 사용할 수 있도록 농약 안전사용지침을 개발해 보급했다. 우리나라 딸기 수출은 지난해 4,864톤, 7,040만 달러(한화 약 1,003억 원)를 기록해 신선 농산물 중 1위를 차지하고 있다.
 
-- **[농촌진흥청, 다자간 ‘업무합의’로 ‘노지 스마트 농업’ 현장 확산](../../items/rda/2026/11/100000814025.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814025.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814025&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[‘국가표준식품성분 데이터베이스(DB)’, 국민 아이디어로 날개 달다](../../items/rda/2026/11/100000814128.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814128.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814128&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 (사)대한지역사회영양학회와 공동 개최한 ‘2026년 국가표준식품성분 데이터베이스(DB) 활용 아이디어 공모전’ 최종 수상자를 발표하고, 우수 아이디어를 공유했다. 이번 공모전은 국가표준식품성분 데이터베이스(DB) 활용을 촉진하고 다양한 활용 사례를 발굴하기 위해 마련됐다.
 
-- **[농촌진흥청, 스마트 농기계 국제 협력 강화··· 세계 시장 진출 기반 넓힌다](../../items/rda/2026/11/100000814024.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814024.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814024&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[소비자 기호 반영·국산 고구마 산업 발전 방향 찾는다](../../items/rda/2026/11/100000814127.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814127.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814127&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 11월 11일 국립식량과학원 중북부작물연구센터(경기도 수원시)에서 ‘고구마 감각·품질 평가 성과 공유 및 현장 간담회’를 개최했다. 이날 간담회에는 고구마 생산자와 가공업체, 유통업체, 전북·경남 농업기술원 등 고구마 산업 관계자 50여 명이 참석했다.
 
-- **[외래 품종 의존 높은 팽이버섯 시장, ‘설단’·‘아람’으로 국산화 속도](../../items/rda/2026/11/100000814023.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814023.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814023&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[농촌진흥청, 전국 3개 도매시장서 신품종 40종 알려](../../items/rda/2026/11/100000814126.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814126.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=1&dataNo=100000814126&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 11월 4일부터 10일까지 광주, 부산, 서울등 전국 3개 주요 도매시장에서 ‘도매유통인 초청 신품종 홍보 및 시식 평가 행사’를 개최했다. 이번 행사는 농촌진흥기관이 개발한 신품종 특성과 상품성을 도매시장 유통인에게 알리고, 유통 현장 의견을 수렴해 도매시장 거래 확대와 신품종 보급 활성화를 지원하고자 마련했다.
 
-- **[자생식물 ‘기린초’ 수면 유도 효과 밝혀, 지역·기업과 산업화 추진](../../items/rda/2026/11/100000814021.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814021.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814021&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[농촌진흥청, 검역 관리급 ‘토마토 바이러스병’ 총력 방제](../../items/rda/2026/11/100000814125.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814125.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814125&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청 김상경 차장은 11월 11일 오전, 충남 부여군 세도면 ‘토마토갈색주름과실바이러스(ToBRFV)’ 발생 농가를 방문해 피해 상황 및 확산 차단 방역 조치를 점검했다. 우리나라에서는 올해 처음 발생이 확인된 토마토갈색주름과실바이러스는 검역 관리급 병해충으로 지정·관리하고 있다.
 
-- **[농촌진흥청, 제주 나물콩 ‘해찬’ 기계수확 연시회 개최](../../items/rda/2026/11/100000814020.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814020.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814020&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[‘기력·체력·활력’ 채우는 고려인삼 축제, 서울 홍대서 열린다](../../items/rda/2026/11/100000814124.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814124.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814124&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 (사)한국인삼협회와 함께 11월 14일 서울 홍대 거리(레드로드 R1) 일대에서 국민 참여형 인삼 문화 행사인 ‘2026 고려인삼 페스티벌(축제)’을 연다. 이번 행사는 고려인삼의 전통적 가치와 우수성을 알리고, 젊은 세대와 외국인 관광객이 인삼을 더욱 친근하게 즐길 수 있도록 마련했다.
 
-- **[더 다채로워진 가을의 색, 경쟁력 갖춘 ‘국산 국화’ 선보여](../../items/rda/2026/11/100000814019.md)**
-  - 2026-11-06 · [읽기](../../items/rda/2026/11/100000814019.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814019&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[고된 노지 감귤 농사에 스마트팜 바람 분다](../../items/rda/2026/11/100000814123.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814123.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814123&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 힘들고 고된 노지 감귤 농사에 스마트팜 바람이 불고 있다. 농촌진흥청(청장 이승돈)은 노지 감귤 농가의 노동력 절감과 생산성 향상을 위해 나무 모양(수형)을 기계화에 적합한 형태로 바꾸고, 스마트 농업 기술을 투입하는 ‘노지 감귤 스마트팜’ 연구에 착수, 성과를 보이고 있다고 밝혔다.
 
-- **[젖소 메탄 배출량, 품종별 생산 특성 함께 살펴야](../../items/rda/2026/11/100000813954.md)**
-  - 2026-11-04 · [읽기](../../items/rda/2026/11/100000813954.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813954&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[기후위기 대응 ‘곰팡이독소’ 안전관리 전략 논한다](../../items/rda/2026/11/100000814122.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814122.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814122&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 한국균학회와 함께 11월 11일부터 13일까지 충남대학교 정심화국제문화회관에서 ‘2026 한국균학회 추계학술대회’를 연다. 이번 학술대회는 ‘기후변화 시대, 균학의 미래(The Future of Mycology in a Changing Climate)’를 주제로 열리며, 관계 기관과 학계 전문가 등이 참석한다.
 
-- **[시장 출하 앞둔 감 ‘봉황’ 현장 평가회, 새로운 모양·식감 주목](../../items/rda/2026/11/100000813953.md)**
-  - 2026-11-04 · [읽기](../../items/rda/2026/11/100000813953.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813953&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[농촌진흥청, ‘토마토갈색주름과실바이러스’ 공적 방제 결정](../../items/rda/2026/11/100000814120.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814120.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814120&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 토마토갈색주름과실바이러스(ToBRFV)’ 발생 농가에 대한 공적 방제를 추진한다고 발표했다. 11월 9일 김상경 차장 주재로 열린 농작물 병해충 예찰 방제 심의회에는 농촌진흥청, 농림축산식품부, 농림축산검역본부 관계관 및 담당자와 대학 식물바이러스 전문가, 각 도 농업기술원 기술보급담당관 등이 참석했다.
 
-- **[대마 기능성 성분 ‘칸플라빈’ 생산 적합한 숙주-효소 조합 확인](../../items/rda/2026/11/100000813952.md)**
-  - 2026-11-04 · [읽기](../../items/rda/2026/11/100000813952.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813952&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[비료는 한 번만, 밀 재배 더 간편하게!](../../items/rda/2026/11/100000814118.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814118.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814118&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립식량과학원은 11월 10일 충청남도 서천군에서 ‘완효성비료 활용 밀 파종 현장연시회’를 열었다. 이번 연시회는 기존 번거로운 시비 과정을 단순화하고 밀 재배 효율성을 높여 농가 부담을 줄이자는 취지에서 마련됐다.
 
-- **[생산자‧소비자 함께 ‘감탄’ 벼 수확·유기농업 가치 공유](../../items/rda/2026/11/100000813935.md)**
-  - 2026-11-03 · [읽기](../../items/rda/2026/11/100000813935.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813935&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[국내외 전문가 모여 농약 안전성평가 미래 논한다](../../items/rda/2026/11/100000814117.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814117.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000814117&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 국가독성과학연구소와 함께 11월 10일 개막해 11일까지 ‘첨단독성시험법(NAMs, New Approach Methodologies)으로 여는 농약 안전성평가의 미래’를 주제로 국제 학술대회를 연다. 첨단독성시험법은 인공지능(AI) 기반 독성 예측, 인체‧세포 조직이나 장기 유사체(오가노이드) 등을 활용해 농약 등 화학물질의 독…
 
-- **[농촌진흥청, 2026년 농촌 체험학습 프로그램 우수 사례 선정](../../items/rda/2026/11/100000813934.md)**
-  - 2026-11-03 · [읽기](../../items/rda/2026/11/100000813934.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=2&dataNo=100000813934&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[속까지 붉은 양조용 포도 ‘쇼콜라누아’ 개발, 와인 차별화 기대](../../items/rda/2026/11/100000814114.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814114.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000814114&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 국산 와인(포도주)의 품질 경쟁력을 높이기 위해 양조용 포도 ‘쇼콜라누아’를 개발했다. ‘쇼콜라누아(Chocolat Noir)’는 프랑스어로 ‘검은 초콜릿’을 뜻한다.
 
-- **[가을철 시설 딸기 잿빛곰팡이병, 습도 관리 중요](../../items/rda/2026/11/100000813932.md)**
-  - 2026-11-03 · [읽기](../../items/rda/2026/11/100000813932.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813932&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[농촌진흥청, ‘농업 연구 협업용 인공지능’ 첫발 뗐다](../../items/rda/2026/11/100000814113.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814113.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000814113&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 과학기술정보통신부에서 지원받은 그래픽 처리 장치(GPU)*를 활용해 농생명 특화 거대언어모델(LLM) 개발에 성공하고, 이를 바탕으로 ‘연구 협업용 인공지능’ 개발에 착수했다. * 그래픽 처리장치(GPU): 인공지능의 복잡한 연산을 초고속으로 처리하는 인공지능의 핵심 두뇌 농촌진흥청은 지난 4월 과학기술정보통신부가 추진한 ‘범국…
 
+- **[“현장 소통”으로 활용도 높은 디지털육종 완성한다](../../items/rda/2026/11/100000814112.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814112.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000814112&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 디지털육종 전환에 속도를 내고 국내 종자산업 경쟁력을 높이기 위해 농업기술원, 종자기업, 대학, 연구소 등 육종 관계자를 초청해 11월 10일 본청에서 ‘디지털육종 성과공유회’를 연다. 디지털육종은 육종가 경험과 작물 특성 정보를 데이터로 분석해 품종 개발을 지원하는 기술이다.
 
-## 2026-10
+- **[농촌진흥청, 콩 전 과정 기계화·스마트 기술 성과공유회 개최](../../items/rda/2026/11/100000814111.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814111.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000814111&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 11월 9일 전북특별자치도 김제시에 있는 국립식량과학원 간척지농업연구센터에서 ‘콩 전 과정 기계화 및 스마트기술 성과공유회’를 개최했다. 이날 행사에는 농업인과 산업체 관계자 등 100여 명이 참석해 파종, 재배 관리, 방제, 수확 공정별 농업기계 시연을 참관했다.
 
-- **[농촌진흥청 농업 전문가, 남수단 한빛농장 찾아 기술 전수 구슬땀](../../items/rda/2026/10/100000813910.md)**
-  - 2026-10-30 · [읽기](../../items/rda/2026/10/100000813910.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813910&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[인삼 수확·저장 관리 요령 제시, 상품성 저하 예방](../../items/rda/2026/11/100000814109.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814109.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000814109&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 본격적인 인삼 수확 철을 맞아, 수확 과정에서 발생하는 뿌리 손상과 수확 후 저장·유통 중 품질 저하를 막기 위한 관리 요령을 제시했다. 인삼은 보통은 9~11월 수확하는데, 수확한 수삼*은 수분 함량이 약 75%로 높아 저장과 유통 과정에서 부패하기 쉽다.
 
-- **[밥맛으로 승부한다. ‘황금예찬’ 소비자 곁으로 더 가까이](../../items/rda/2026/10/100000813909.md)**
-  - 2026-10-30 · [읽기](../../items/rda/2026/10/100000813909.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813909&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[전분 함량 높고 병에 강한 신품종 고구마 ‘다온미’, 제주에서 선보인다!](../../items/rda/2026/11/100000814108.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814108.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000814108&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈) 국립식량과학원은 11월 10일 제주특별자치도 서귀포시 대정읍에서 경상남도농업기술원, 대정농협과 공동으로 전분용 고구마 신품종 ‘다온미’의 현장 평가회를 개최한다. 이번 행사에서는 제주 지역의 새로운 소득작물 발굴 요구에 부응해 추진한 ‘다온미’*의 지역 적응 시범 재배 결과를 공유하고, 제주 고구마 전분 산업의 재도약 가능성을 모…
 
-- **[농촌관광에 맛을 더한다! 농촌 미식 명소 88곳으로 늘어](../../items/rda/2026/10/100000813907.md)**
-  - 2026-10-30 · [읽기](../../items/rda/2026/10/100000813907.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813907&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[“우리 배 품질 경쟁력 빛났다” 최고 품질 한국 배 시상식](../../items/rda/2026/10/100000813906.md)**
-  - 2026-10-30 · [읽기](../../items/rda/2026/10/100000813906.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813906&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 가루쌀 맥주 기술 확산 산업체 간담회 개최](../../items/rda/2026/10/100000813905.md)**
-  - 2026-10-30 · [읽기](../../items/rda/2026/10/100000813905.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813905&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 잎들깨 ‘새봄’ 양액재배 현장 평가회 열어](../../items/rda/2026/10/100000813904.md)**
-  - 2026-10-30 · [읽기](../../items/rda/2026/10/100000813904.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813904&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
-
-- **[농촌진흥청, 중남미와 농업 바이오 혁신기술 협력 넓힌다](../../items/rda/2026/10/100000813903.md)**
-  - 2026-10-30 · [읽기](../../items/rda/2026/10/100000813903.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000813903&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+- **[토양개량제 지원 받으려면 “수확 끝난 지금 흙부터 검사”](../../items/rda/2026/11/100000814107.md)**
+  - 2026-11-12 · [읽기](../../items/rda/2026/11/100000814107.md) · [원문](https://www.rda.go.kr/board/board.do?boardId=farmprmninfo&prgId=day_farmprmninfoEntry&currPage=3&dataNo=100000814107&mode=updateCnt&searchSDate=&searchEDate=&searchOrgDeptKey=allOrgDept&searchOrgDeptVal=&searchKey=&searchVal=)
+  - 농촌진흥청(청장 이승돈)은 작물 수확이 마무리되는 11월을 맞아 농가에 ‘토양검정’을 미리 받으라고 당부했다. 토양검정은 농경지 산도(pH)와 전기전도도(EC), 양분 함량 등을 분석해 작물 재배에 알맞은 비료 사용량을 정하는 과정이다.

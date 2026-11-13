@@ -11,37 +11,73 @@ source: "seedworld"
 
 ## 2026-11
 
+- **[The Hidden Cost of Slow Crop Variety Adoption in Canada](../../items/seedworld/2026/11/https_www.seedworld.com_p_128606.md)**
+  - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128606.md) · [원문](https://www.seedworld.com/canada/2026/11/12/canadian-agriculture-innovation-risks/)
+  - New Saskatchewan research suggests farmers could be missing opportunities to improve profitability by sticking with older crop varieties. I’ve been thinking about the difference between being cautiou…
+
+- **[What Does Being “BRAVE” Look Like in 2026?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128591.md)**
+  - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128591.md) · [원문](https://www.seedworld.com/us/2026/11/12/what-does-being-brave-look-like-in-2026-2/)
+  - Let me tell you about a woman I recently worked with at a seed company much like yours. I’ll call her Maya.
+
+- **[What Does Being “BRAVE” Look Like in 2026?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128588.md)**
+  - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128588.md) · [원문](https://www.seedworld.com/europe/2026/11/12/what-does-being-brave-look-like-in-2026/)
+  - Let me tell you about a woman I recently worked with at a seed company much like yours. I’ll call her Maya.
+
+- **[What Does Being “BRAVE” Look Like in 2026?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128585.md)**
+  - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128585.md) · [원문](https://www.seedworld.com/canada/2026/11/12/courage-in-leadership-seed-industry/)
+  - Let me tell you about a woman I recently worked with at a seed company much like yours. I’ll call her Maya.
+
+- **[Euroseeds InnovAction Stage Showcases Seed Innovation](../../items/seedworld/2026/11/https_www.seedworld.com_p_128581.md)**
+  - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128581.md) · [원문](https://www.seedworld.com/europe/2026/11/12/euroseeds-innovaction-stage-seed-innovation/)
+  - At Euroseeds 2026, innovators showcased technologies, gained recognition and made connections to help bring their solutions to market. At the Euroseeds Congress 2026 in Valencia, the InnovAction Stag…
+
+- **[Rethinking Seed Finishing for the Next Generation of Seed Treatment](../../items/seedworld/2026/11/https_www.seedworld.com_p_128576.md)**
+  - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128576.md) · [원문](https://www.seedworld.com/us/2026/11/12/seed-finishing-next-generation-seed-treatments/)
+  - The next generation of seed treatment innovation is not only defined by its coating — but will increasingly depend on how well the finished seed performs as part of the entire farming infrastructure.
+
+- **[Plant Breeding Keeps Advancing. Why Aren’t Farmers Switching Varieties?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128570.md)**
+  - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128570.md) · [원문](https://www.seedworld.com/canada/2026/11/12/crop-variety-adoption-seed-genetics-revenue/)
+  - Researchers have identified a potentially massive gap between plant breeding innovation and on-farm adoption, raising questions about how the seed industry can get improved genetics into farmers’ han…
+
+- **[CPVO Opens New Headquarters in Angers](../../items/seedworld/2026/11/https_www.seedworld.com_p_128560.md)**
+  - 2026-11-12 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128560.md) · [원문](https://www.seedworld.com/europe/2026/11/12/cpvo-headquarters-angers-france/)
+  - European and French officials joined the inauguration, highlighting the role of plant variety protection in supporting breeding innovation and agricultural resilience. The Community Plant Variety Off…
+
+- **[Plant Immune Memory Offers New Potential for Crop Breeding](../../items/seedworld/2026/11/https_www.seedworld.com_p_128564.md)**
+  - 2026-11-12 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128564.md) · [원문](https://www.seedworld.com/europe/2026/11/12/plant-immune-memory-crop-breeding/)
+  - Sheffield researchers have identified how plants retain disease defences while protecting their genomes, with early rice findings pointing to potential applications in epigenetic breeding.
+
 - **[Why Seed Sector Development Needs an Enabling Environment](../../items/seedworld/2026/11/https_www.seedworld.com_p_128550.md)**
   - 2026-11-11 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128550.md) · [원문](https://www.seedworld.com/europe/2026/11/10/seed-sector-development-enabling-environment/)
-  - A comparison of the 2026 Global Hunger Index and seed sector institutions highlights why effective regulations, investment and access to improved varieties matter for food security.
+  - Seed sector development depends on more than good legislation. Comparing hunger levels with international seed frameworks and African seed sector performance reveals why effective institutions, predi…
 
 - **[The Next Big Leap in Lentils Starts Here | On The Brink: Season 3, Episode 10](../../items/seedworld/2026/11/https_www.seedworld.com_p_128501.md)**
   - 2026-11-11 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128501.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/11/10/lentil-breeding-ana-vargas-on-the-brink-season-3-episode-10/)
-  - The Next Big Leap in Lentils Starts Here Ana Vargas has a clear picture of what she wants lentil breeding to deliver: a drive across Western Canada, 10 years from now, past healthy green fields where…
+  - Ana Vargas wants healthier lentil fields and growers actively involved in developing the varieties that get us there. She shares her vision for public breeding in On The Brink.
 
 - **[Euroseeds Congress 2026: Connections Beyond the Stage](../../items/seedworld/2026/11/https_www.seedworld.com_p_128540.md)**
   - 2026-11-11 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128540.md) · [원문](https://www.seedworld.com/europe/2026/11/10/euroseeds-congress-2026-connections/)
-  - What makes the Euroseeds Congress a valuable gathering for the international seed industry? Much of the answer lies in the conversations, connections and ideas exchanged beyond the stage.
+  - Euroseeds Congress 2026 in Valencia brought together seed industry leaders, innovators and policymakers from across Europe and beyond. Participants share how networking, fresh perspectives and opport…
 
 - **[ASTA’s Sam Crowell on Seed Trade Barriers and Tariffs](../../items/seedworld/2026/11/https_www.seedworld.com_p_128529.md)**
   - 2026-11-10 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128529.md) · [원문](https://www.seedworld.com/us/2026/11/10/seed-trade-barriers-asta-sam-crowell/)
-  - From questionable phytosanitary requirements to shifting tariffs, the economics of the seed trade don’t always carry enough weight in regulatory decisions. We asked ASTA’s vice president of science,…
+  - Seed trade barriers continue to challenge U.S. seed companies, from tariffs and phytosanitary requirements to inconsistent international regulations.
 
 - **[Europe’s Seed Production is on the Move](../../items/seedworld/2026/11/https_www.seedworld.com_p_128535.md)**
   - 2026-11-10 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128535.md) · [원문](https://www.seedworld.com/europe/2026/11/10/european-seed-production-climate-risks/)
-  - European seed production is under­going a gradual geographic shift as higher temperatures, drought and greater weather variability reshape where crops can be produced most reliably.
+  - European seed production is gradually shifting north as rising temperatures, drought and unpredictable weather reshape growing conditions. DLF's John Larsen examines how the 2026 harvest highlights t…
 
 - **[Unlocking Wild Plant Traits Could Help Breed More Resilient Crops](../../items/seedworld/2026/11/https_www.seedworld.com_p_128500.md)**
   - 2026-11-10 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128500.md) · [원문](https://www.seedworld.com/europe/2026/11/10/chromosome-recognition-research-crop-breeding/)
-  - Aberystwyth University researchers will combine chromosome research, seed bank diversity and AI to investigate barriers to transferring useful traits between distantly related plants.
+  - New chromosome recognition research at Aberystwyth University aims to help plant breeders access valuable traits from wild relatives. The three-year project will combine artificial intelligence, DNA…
 
 - **[You’re INVITED: Seed World’s Founding Ambassador Program](../../items/seedworld/2026/11/https_www.seedworld.com_p_128524.md)**
   - 2026-11-10 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128524.md) · [원문](https://www.seedworld.com/us/2026/11/09/seed-world-ambassadors-us-industry-initiative/)
-  - Help us connect and strengthen the U.S. seed industry.
+  - Seed World is launching its Seed World Ambassadors program, bringing together three founding industry professionals to strengthen connections across the U.S. seed sector.
 
 - **[Gary Doer Says Canada Needs More Farmers in Ottawa — Not Just More Lobbyists](../../items/seedworld/2026/11/https_www.seedworld.com_p_128518.md)**
   - 2026-11-09 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128518.md) · [원문](https://www.seedworld.com/canada/2026/11/09/gary-doer-canadian-agriculture-trump-trade/)
-  - The former ambassador to the U.S. believes producers themselves are among the industry’s most powerful advocates as governments make decisions affecting trade, research and competitiveness.
+  - The former ambassador to the U.S. believes producers themselves are among the industry's most powerful advocates The post Gary Doer Says Canada Needs More Farmers in Ottawa — Not Just More Lobbyists…
 
 - **[Pea and Bean Varieties Could Shape Soil Health and the Next Harvest](../../items/seedworld/2026/11/https_www.seedworld.com_p_128494.md)**
   - 2026-11-09 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128494.md) · [원문](https://www.seedworld.com/europe/2026/11/09/pulse-crop-residues-soil-health-barley/)
@@ -118,6 +154,10 @@ source: "seedworld"
 - **[Maritime Seed Growers Make Their Numbers Count](../../items/seedworld/2026/11/https_www.seedworld.com_p_128403.md)**
   - 2026-11-02 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128403.md) · [원문](https://www.seedworld.com/canada/2026/11/02/certified-seed-decline-maritimes/)
   - Declining certified seed use is putting pressure on local production, but seed growers in the East still see an opportunity to rebuild awareness of its value The post Maritime Seed Growers Make Their…
+
+- **[Preparing European Agriculture For a Climate it Can’t Predict](../../items/seedworld/2026/11/https_www.seedworld.com_p_127974.md)**
+  - 2026-11-02 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_127974.md) · [원문](https://www.seedworld.com/europe/2026/11/02/climate-resilience-regional-seed-trials/)
+  - The summer of 2026 brought record-breaking heat waves, historic droughts and unprecedented wildfires to many European countries, resulting in significant crop reductions and economic strife across th…
 
 
 ## 2026-10
@@ -337,31 +377,3 @@ source: "seedworld"
 - **[Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 6](../../items/seedworld/2026/10/https_www.seedworld.com_p_127964.md)**
   - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127964.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-independent-breeding-in-canada-on-the-brink-season-3-episode-6/)
   - Independent plant breeders have plenty of skin in the Canadian plant breeding game. SeCan’s Jeff Reid explains how independent seed companies and farmers can invest smarter together in Canadian plant…
-
-- **[USDA Launches Seed Sovereignty Initiative to Strengthen Crop Genetic Resources](../../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md)**
-  - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127958.md) · [원문](https://www.seedworld.com/us/2026/10/13/usda-launches-seed-sovereignty-initiative-to-strengthen-crop-genetic-resources/)
-  - A $180 million investment will support sequencing of major crop collections, drawing support from the American Seed Trade Association. The U.S.
-
-- **[Protecting Crops from Growing Cybersecurity Threats](../../items/seedworld/2026/10/https_www.seedworld.com_p_127949.md)**
-  - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127949.md) · [원문](https://www.seedworld.com/us/2026/10/13/agriculture-cybersecurity-consortium-proposed/)
-  - Researchers are calling for a national Agriculture Cybersecurity Consortium to help protect crops, farm equipment and digital systems from growing cyber threats. The proposed network would support re…
-
-- **[A More Unstable World Will Demand More from Seed](../../items/seedworld/2026/10/https_www.seedworld.com_p_127938.md)**
-  - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127938.md) · [원문](https://www.seedworld.com/us/2026/10/13/geopolitical-instability-seed-industry-opportunity/)
-  - Geopolitical instability could raise food security concerns, disrupt agricultural trade and increase the value of seed genetics that improve productivity, resilience and efficiency.
-
-- **[A Faster Seed System Still Needs Trusted Data](../../items/seedworld/2026/10/https_www.seedworld.com_p_127916.md)**
-  - 2026-10-13 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127916.md) · [원문](https://www.seedworld.com/canada/2026/10/13/manitoba-seed-growers-regulatory-modernization/)
-  - With combines winding down and regulatory changes approaching, the Manitoba Seed Growers’ Association is preparing for decisions that could reshape the seed industry The post A Faster Seed System Sti…
-
-- **[A New Phoma Threat Raises the Stakes for Oilseed Rape Breeders](../../items/seedworld/2026/10/https_www.seedworld.com_p_127789.md)**
-  - 2026-10-13 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127789.md) · [원문](https://www.seedworld.com/europe/2026/10/13/sdhi-resistance-phoma-stem-canker-pathogen/)
-  - With 95% of UK P. biglobosus isolates resistant to two SDHI fungicides in laboratory tests, the discovery puts renewed focus on genetics, surveillance and fungicide stewardship working together to pr…
-
-- **[The Traits Sunflower Breeders Need May Already Be Growing in the Desert](../../items/seedworld/2026/10/https_www.seedworld.com_p_127762.md)**
-  - 2026-10-12 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127762.md) · [원문](https://www.seedworld.com/europe/2026/10/12/drought-tolerant-sunflower-wild-traits/)
-  - The HelEx project is crossing wild sunflower material from arid regions into European breeding lines to develop drought tolerant sunflower varieties. Researchers are also targeting pollinator appeal…
-
-- **[Arevo: Can a Thin Red Coat Change How a Crop Uses Nitrogen](../../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md)**
-  - 2026-10-12 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127795.md) · [원문](https://www.seedworld.com/europe/2026/10/12/arginex-seed-treatment-nitrogen-efficiency/)
-  - Arginex seed treatment is designed to deliver nitrogen from germination in a form plants can use directly. Arevo CEO Niklas Åström explains what trials in corn and wheat reveal about yield, nitrogen…

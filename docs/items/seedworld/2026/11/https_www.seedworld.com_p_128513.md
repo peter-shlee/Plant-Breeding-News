@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/06/early-canola-breeding-better-h
 summary: "So much of the science, innovation, and dedication that drives Bayer's efforts to breed canola for Canadian farms happens behind the scenes The post The Importance of Early-Stage Breeding to Successful Canola appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-11-11T10:25:02+09:00"
+fetched_at: "2026-11-13T11:03:52+09:00"
 ---
 # The Importance of Early-Stage Breeding to Successful Canola
 
