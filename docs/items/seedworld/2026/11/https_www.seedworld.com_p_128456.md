@@ -9,7 +9,7 @@ summary: "Wheat geneticist Jorge Dubcovsky has received the 2026 World Agricultu
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-11-13T11:03:52+09:00"
+fetched_at: "2026-11-16T10:19:35+09:00"
 ---
 # Don’t Break What Works, Says World Agriculture Prize Winner
 

@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-11
 
+- **[농촌진흥청, 가을철 맥류 파종 현장 찾아 안전 생산 당부](../../items/nics/2026/11/944654.md)**
+  - 2026-11-13 · [읽기](../../items/nics/2026/11/944654.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944654)
+
 - **[‘국가표준식품성분 데이터베이스(DB)’, 국민 아이디어로 날개 달다](../../items/nics/2026/11/944653.md)**
   - 2026-11-13 · [읽기](../../items/nics/2026/11/944653.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944653)
 
@@ -37,6 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 제주 나물콩 ‘해찬’ 기계수확 연시회 개최](../../items/nics/2026/11/944635.md)**
   - 2026-11-06 · [읽기](../../items/nics/2026/11/944635.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944635)
-
-- **[생산자‧소비자 함께 ‘감탄’ 벼 수확·유기농업 가치 공유](../../items/nics/2026/11/944625.md)**
-  - 2026-11-05 · [읽기](../../items/nics/2026/11/944625.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944625)

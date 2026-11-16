@@ -11,41 +11,45 @@ source: "seedworld"
 
 ## 2026-11
 
+- **[Crop Residue Removal for Bioenergy Could Put Farmland Biodiversity at Risk](../../items/seedworld/2026/11/https_www.seedworld.com_p_128594.md)**
+  - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128594.md) · [원문](https://www.seedworld.com/europe/2026/11/13/crop-residue-management-farmland-biodiversity/)
+  - European research links higher cereal residue retention with greater local biodiversity, highlighting a trade-off between renewable energy production and field management.
+
 - **[The Hidden Cost of Slow Crop Variety Adoption in Canada](../../items/seedworld/2026/11/https_www.seedworld.com_p_128606.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128606.md) · [원문](https://www.seedworld.com/canada/2026/11/12/canadian-agriculture-innovation-risks/)
-  - New Saskatchewan research suggests farmers could be missing opportunities to improve profitability by sticking with older crop varieties. I’ve been thinking about the difference between being cautiou…
+  - New Saskatchewan research suggests farmers could be missing opportunities to improve profitability by sticking with older crop varieties The post The Hidden Cost of Slow Crop Variety Adoption in Cana…
 
 - **[What Does Being “BRAVE” Look Like in 2026?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128591.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128591.md) · [원문](https://www.seedworld.com/us/2026/11/12/what-does-being-brave-look-like-in-2026-2/)
-  - Let me tell you about a woman I recently worked with at a seed company much like yours. I’ll call her Maya.
+  - Courage in leadership isn't always about bold decisions. Sometimes it's asking an uncomfortable question or making sure a quiet voice gets heard.
 
 - **[What Does Being “BRAVE” Look Like in 2026?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128588.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128588.md) · [원문](https://www.seedworld.com/europe/2026/11/12/what-does-being-brave-look-like-in-2026/)
-  - Let me tell you about a woman I recently worked with at a seed company much like yours. I’ll call her Maya.
+  - Courage in leadership isn't always about bold decisions. Sometimes it's asking an uncomfortable question or making sure a quiet voice gets heard.
 
 - **[What Does Being “BRAVE” Look Like in 2026?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128585.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128585.md) · [원문](https://www.seedworld.com/canada/2026/11/12/courage-in-leadership-seed-industry/)
-  - Let me tell you about a woman I recently worked with at a seed company much like yours. I’ll call her Maya.
+  - Courage in leadership isn't always about bold decisions. Sometimes it's asking an uncomfortable question or making sure a quiet voice gets heard.
 
 - **[Euroseeds InnovAction Stage Showcases Seed Innovation](../../items/seedworld/2026/11/https_www.seedworld.com_p_128581.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128581.md) · [원문](https://www.seedworld.com/europe/2026/11/12/euroseeds-innovaction-stage-seed-innovation/)
-  - At Euroseeds 2026, innovators showcased technologies, gained recognition and made connections to help bring their solutions to market. At the Euroseeds Congress 2026 in Valencia, the InnovAction Stag…
+  - The Euroseeds InnovAction Stage at the 2026 congress in Valencia gave innovators an opportunity to showcase emerging seed technologies, earn recognition and connect with potential customers and partn…
 
 - **[Rethinking Seed Finishing for the Next Generation of Seed Treatment](../../items/seedworld/2026/11/https_www.seedworld.com_p_128576.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128576.md) · [원문](https://www.seedworld.com/us/2026/11/12/seed-finishing-next-generation-seed-treatments/)
-  - The next generation of seed treatment innovation is not only defined by its coating — but will increasingly depend on how well the finished seed performs as part of the entire farming infrastructure.
+  - As seed treatment technologies become more complex, seed finishing plays an increasingly important role in dust control, drying, flowability and plantability. Syensqo explores how advanced finishing…
 
 - **[Plant Breeding Keeps Advancing. Why Aren’t Farmers Switching Varieties?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128570.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128570.md) · [원문](https://www.seedworld.com/canada/2026/11/12/crop-variety-adoption-seed-genetics-revenue/)
-  - Researchers have identified a potentially massive gap between plant breeding innovation and on-farm adoption, raising questions about how the seed industry can get improved genetics into farmers’ han…
+  - Researchers have identified a massive gap between plant breeding innovation and on-farm adoption, raising questions about how to get improved genetics into farmers' hands The post Plant Breeding Keep…
 
 - **[CPVO Opens New Headquarters in Angers](../../items/seedworld/2026/11/https_www.seedworld.com_p_128560.md)**
   - 2026-11-12 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128560.md) · [원문](https://www.seedworld.com/europe/2026/11/12/cpvo-headquarters-angers-france/)
-  - European and French officials joined the inauguration, highlighting the role of plant variety protection in supporting breeding innovation and agricultural resilience. The Community Plant Variety Off…
+  - The Community Plant Variety Office has inaugurated its new CPVO headquarters in Angers, France, bringing staff together in one location. European and French officials attended the ceremony, highlight…
 
 - **[Plant Immune Memory Offers New Potential for Crop Breeding](../../items/seedworld/2026/11/https_www.seedworld.com_p_128564.md)**
   - 2026-11-12 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128564.md) · [원문](https://www.seedworld.com/europe/2026/11/12/plant-immune-memory-crop-breeding/)
-  - Sheffield researchers have identified how plants retain disease defences while protecting their genomes, with early rice findings pointing to potential applications in epigenetic breeding.
+  - Researchers at the University of Sheffield have uncovered how plant immune memory can persist while protecting genome stability. The findings, alongside early results in rice, point to potential appl…
 
 - **[Why Seed Sector Development Needs an Enabling Environment](../../items/seedworld/2026/11/https_www.seedworld.com_p_128550.md)**
   - 2026-11-11 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128550.md) · [원문](https://www.seedworld.com/europe/2026/11/10/seed-sector-development-enabling-environment/)
@@ -157,7 +161,7 @@ source: "seedworld"
 
 - **[Preparing European Agriculture For a Climate it Can’t Predict](../../items/seedworld/2026/11/https_www.seedworld.com_p_127974.md)**
   - 2026-11-02 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_127974.md) · [원문](https://www.seedworld.com/europe/2026/11/02/climate-resilience-regional-seed-trials/)
-  - The summer of 2026 brought record-breaking heat waves, historic droughts and unprecedented wildfires to many European countries, resulting in significant crop reductions and economic strife across th…
+  - Staphyt says European agriculture needs stronger climate resilience as heat, drought and weather volatility reshape crop performance. Its European seed trial network helps breeders and seed companies…
 
 
 ## 2026-10
@@ -341,39 +345,3 @@ source: "seedworld"
 - **[Thousands of Seed Samples Added to Svalbard Global Seed Vault](../../items/seedworld/2026/10/https_www.seedworld.com_p_128061.md)**
   - 2026-10-19 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128061.md) · [원문](https://www.seedworld.com/europe/2026/10/19/svalbard-global-seed-vault-october-2026-deposit/)
   - The Svalbard Global Seed Vault received thousands of seed samples from 21 institutions in October 2026, including Ukraine's national genebank, six CGIAR research centres and a first-time contributor…
-
-- **[Farmers Are Taking the Lead on the Future of Canadian Wheat Breeding](../../items/seedworld/2026/10/https_www.seedworld.com_p_128034.md)**
-  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128034.md) · [원문](https://www.seedworld.com/canada/2026/10/16/canadian-wheat-breeding-farmer-leadership/)
-  - With Canada's wheat research system facing major changes, CWRC Chair Jocelyn Velestuk says farmers must do more than fund breeding programs The post Farmers Are Taking the Lead on the Future of Canad…
-
-- **[Are Plant Genetics Only Half of Europe’s Soybean Story?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127805.md)**
-  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127805.md) · [원문](https://www.seedworld.com/europe/2026/10/16/soybean-inoculant-europe-protein-challenge/)
-  - Europe’s soybean ambitions depend on more than plant genetics. Protealis CEO Benjamin Laga explains how soybean inoculant MagNfix is designed to support nodulation, nitrogen fixation and regional ada…
-
-- **[Biologicals’ Hardest Test Comes After Discovery](../../items/seedworld/2026/10/https_www.seedworld.com_p_127801.md)**
-  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127801.md) · [원문](https://www.seedworld.com/europe/2026/10/15/biological-seed-treatment-discipline/)
-  - A biological seed treatment can show strong trial results and still fail commercially if it cannot survive formulation, storage, transport and application. Frontera CEO Matti Tiainen explains why suc…
-
-- **[Can Canada’s Seed Industry Afford to Tell Farmers the Truth?](../../items/seedworld/2026/10/https_www.seedworld.com_p_128022.md)**
-  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128022.md) · [원문](https://www.seedworld.com/canada/2026/10/15/canadian-seed-industry-competition-variety-testing/)
-  - Independent variety trials help farmers separate meaningful genetic improvements from marketing claims. As seed regulations evolve, who will pay to keep that information available?
-
-- **[Study: European Agricultural Competitiveness Falls Behind Rivals](../../items/seedworld/2026/10/https_www.seedworld.com_p_128019.md)**
-  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128019.md) · [원문](https://www.seedworld.com/europe/2026/10/15/european-agricultural-competitiveness-innovation-gap/)
-  - A new study finds that European agricultural competitiveness is under pressure as crop production growth trails major global markets. The research highlights climate-related losses, regulatory barrie…
-
-- **[USDA Awards $86.6M in Specialty Crop Block Grants](../../items/seedworld/2026/10/https_www.seedworld.com_p_128013.md)**
-  - 2026-10-16 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128013.md) · [원문](https://www.seedworld.com/us/2026/10/15/usda-specialty-crop-block-grants-2026/)
-  - USDA has awarded $86.6 million through its Specialty Crop Block Grant Program to support 609 projects across 56 states and territories. The specialty crop block grants will fund research, improved se…
-
-- **[How One Wild Peanut Changed Breeding Around the World](../../items/seedworld/2026/10/https_www.seedworld.com_p_127998.md)**
-  - 2026-10-15 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127998.md) · [원문](https://www.seedworld.com/europe/2026/10/15/wild-peanut-breeding-global-crop-improvement/)
-  - Wild peanut breeding has a remarkable global legacy. Researchers traced disease resistance from a single wild peanut collected in Bolivia in 1959 into 251 peanut lines and cultivars across 30 countri…
-
-- **[El Niño Seed Supply Risks: Is the Industry Prepared?](../../items/seedworld/2026/10/https_www.seedworld.com_p_127994.md)**
-  - 2026-10-15 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127994.md) · [원문](https://www.seedworld.com/us/2026/10/15/el-nino-seed-supply-risks/)
-  - El Niño seed supply risks extend beyond field yields. As a strong climate signal develops, U.S.
-
-- **[Think Bigger, Invest Smarter | On The Brink: Season 3, Episode 6](../../items/seedworld/2026/10/https_www.seedworld.com_p_127964.md)**
-  - 2026-10-14 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127964.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/13/the-future-of-independent-breeding-in-canada-on-the-brink-season-3-episode-6/)
-  - Independent plant breeders have plenty of skin in the Canadian plant breeding game. SeCan’s Jeff Reid explains how independent seed companies and farmers can invest smarter together in Canadian plant…
