@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/10/29/hidden-cost-agricultural-innov
 summary: "Canada's seed industry spends a lot of time debating who should pay for plant breeding. I'm beginning to think we're overlooking a more difficult question The post The Real Cost of Innovation Isn’t Always What We Spend appeared first on"
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # The Real Cost of Innovation Isn’t Always What We Spend
 

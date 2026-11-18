@@ -9,7 +9,7 @@ summary: "European seed production is gradually shifting north as rising tempera
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # Europe’s Seed Production is on the Move
 

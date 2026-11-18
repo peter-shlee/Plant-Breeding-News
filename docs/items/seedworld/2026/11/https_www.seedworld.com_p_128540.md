@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/10/euroseeds-congress-2026-connec
 summary: "Euroseeds Congress 2026 in Valencia brought together seed industry leaders, innovators and policymakers from across Europe and beyond. Participants share how networking, fresh perspectives and opportunities for collaboration make the"
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # Euroseeds Congress 2026: Connections Beyond the Stage
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/09/gary-doer-canadian-agriculture
 summary: "The former ambassador to the U.S. believes producers themselves are among the industry's most powerful advocates The post Gary Doer Says Canada Needs More Farmers in Ottawa — Not Just More Lobbyists appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # Gary Doer Says Canada Needs More Farmers in Ottawa — Not Just More Lobbyists
 

@@ -9,7 +9,7 @@ summary: "Why nutrition, biology and protection during the earliest stages of de
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # Think Like a Seed: The Agronomy Behind a Strong Start
 

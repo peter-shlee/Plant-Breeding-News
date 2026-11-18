@@ -11,9 +11,33 @@ source: "seedworld"
 
 ## 2026-11
 
+- **[Seed Growers Don’t Need More Agtech. They Need Better Agtech.](../../items/seedworld/2026/11/https_www.seedworld.com_p_128629.md)**
+  - 2026-11-18 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128629.md) · [원문](https://www.seedworld.com/canada/2026/11/17/seed-growers-dont-need-more-agtech-they-need-better-agtech/)
+  - From unreliable weather stations to complicated software, Manitoba producers reveal why some agricultural innovations fall short — and how real-world testing could change that.
+
+- **[Matching Crop Choice to Tree Age Could Protect Agroforestry Yields](../../items/seedworld/2026/11/https_www.seedworld.com_p_128600.md)**
+  - 2026-11-17 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128600.md) · [원문](https://www.seedworld.com/europe/2026/11/17/alley-cropping-tree-age-cereal-yields/)
+  - Winter cereals maintained yields alongside poplar rows, while spring crops performed best early in the tree rotation, a German study finds. Choosing winter or spring crops according to the age of nei…
+
+- **[Are Natural Pesticides Really Safer?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128625.md)**
+  - 2026-11-17 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128625.md) · [원문](https://www.seedworld.com/europe/2026/11/16/are-natural-pesticides-really-safer/)
+  - Dr. Joe Schwarcz explores how plants defend themselves and why a substance’s origin alone does not determine its safety.
+
+- **[Stacy Kuenzi Leads Western Seed Association Into the Future](../../items/seedworld/2026/11/https_www.seedworld.com_p_128618.md)**
+  - 2026-11-17 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128618.md) · [원문](https://www.seedworld.com/us/2026/11/16/stacy-kuenzi-western-seed-association-president/)
+  - After 28 years at Mountain View Seeds, Stacy Kuenzi knows what keeps people in the seed business. As Western Seed Association’s new president, she’s thinking about how to get more of them through the…
+
+- **[Connections and Opportunities Draw Exhibitors to Euroseeds 2026](../../items/seedworld/2026/11/https_www.seedworld.com_p_128614.md)**
+  - 2026-11-17 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128614.md) · [원문](https://www.seedworld.com/europe/2026/11/16/euroseeds-congress-2026-exhibitors-valencia/)
+  - The exhibition floor at Euroseeds Congress 2026 in Valencia brought seed companies, innovators and technology providers together to share expertise, showcase products and explore partnerships.
+
+- **[Hyperspectral Imaging Could Help Wheat Breeders Select for Resilience](../../items/seedworld/2026/11/https_www.seedworld.com_p_128597.md)**
+  - 2026-11-16 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128597.md) · [원문](https://www.seedworld.com/europe/2026/11/16/hyperspectral-imaging-wheat-breeding/)
+  - CSIRO researchers are testing whether drone-mounted cameras can identify traits linked to grain filling, water use and yield potential, making them easier to assess across breeding trials.
+
 - **[Crop Residue Removal for Bioenergy Could Put Farmland Biodiversity at Risk](../../items/seedworld/2026/11/https_www.seedworld.com_p_128594.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128594.md) · [원문](https://www.seedworld.com/europe/2026/11/13/crop-residue-management-farmland-biodiversity/)
-  - European research links higher cereal residue retention with greater local biodiversity, highlighting a trade-off between renewable energy production and field management.
+  - Crop residue management could play an important role in protecting farmland biodiversity as Europe increases renewable energy production. New research from the University of Surrey found that cereal…
 
 - **[The Hidden Cost of Slow Crop Variety Adoption in Canada](../../items/seedworld/2026/11/https_www.seedworld.com_p_128606.md)**
   - 2026-11-13 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128606.md) · [원문](https://www.seedworld.com/canada/2026/11/12/canadian-agriculture-innovation-risks/)

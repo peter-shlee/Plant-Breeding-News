@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/23/agri-obtentions-european-genet
 summary: "Agri Obtentions is looking beyond France for its next stage of growth, opening new European opportunities for seed companies to access its field-crop genetics through local partnerships."
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # More Genetics, More Markets: Agri Obtentions Looks Beyond France
 

@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "phenotyping"
   - "옥수수"
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:37+09:00"
 ---
 # Study Reveals Lasting Effects on Corn Stress Tolerance
 

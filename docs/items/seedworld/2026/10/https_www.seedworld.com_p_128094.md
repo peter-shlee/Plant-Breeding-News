@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/26/vylor-commercial-shift-new-par
 summary: "Vylor is preparing to redraw its competitive boundaries as it becomes a standalone seed company. Southern Europe Commercial Unit Leader André Negreiros discusses new opportunities for licensing, partnerships, crop expansion and innovation,"
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # When Competitors Become Partners: Inside Vylor’s Commercial Shift
 

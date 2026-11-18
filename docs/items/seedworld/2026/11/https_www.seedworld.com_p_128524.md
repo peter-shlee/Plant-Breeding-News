@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/09/seed-world-ambassadors-us-industry
 summary: "Seed World is launching its Seed World Ambassadors program, bringing together three founding industry professionals to strengthen connections across the U.S. seed sector."
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # You’re INVITED: Seed World’s Founding Ambassador Program
 

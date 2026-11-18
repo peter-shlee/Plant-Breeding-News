@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/20/nitrogen-management-farm-carbo
 summary: "Improved nitrogen management could reduce energy-related carbon emissions on English farms by up to 13%, according to Rothamsted Research. The study highlights the role of fertiliser production in agriculture’s carbon footprint and"
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:37+09:00"
 ---
 # Better Nitrogen Management Could Cut Farm Carbon Emissions
 

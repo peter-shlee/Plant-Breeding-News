@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/02/certified-seed-decline-maritim
 summary: "Declining certified seed use is putting pressure on local production, but seed growers in the East still see an opportunity to rebuild awareness of its value The post Maritime Seed Growers Make Their Numbers Count appeared first on Seed"
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # Maritime Seed Growers Make Their Numbers Count
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/11/10/lentil-breeding-a
 summary: "Ana Vargas wants healthier lentil fields and growers actively involved in developing the varieties that get us there. She shares her vision for public breeding in On The Brink."
 attachments: []
 tags: []
-fetched_at: "2026-11-16T10:19:35+09:00"
+fetched_at: "2026-11-18T12:04:36+09:00"
 ---
 # The Next Big Leap in Lentils Starts Here | On The Brink: Season 3, Episode 10
 
