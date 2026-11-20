@@ -9,7 +9,7 @@ summary: "Sorghum could become an increasingly important crop in European agricu
 attachments: []
 tags:
   - "옥수수"
-fetched_at: "2026-11-18T12:04:36+09:00"
+fetched_at: "2026-11-20T11:31:53+09:00"
 ---
 # Sorghum Could Help European Farming Adapt to Climate Change
 

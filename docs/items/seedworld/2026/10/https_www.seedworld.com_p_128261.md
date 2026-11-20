@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/26/vegetable-harvesting-automatio
 summary: "Vegetable harvesting automation is transforming how breeders develop crops for the future. Rijk Zwaan explains how genetics, artificial intelligence and collaboration with machinery developers are helping create vegetable varieties suited"
 attachments: []
 tags: []
-fetched_at: "2026-11-18T12:04:36+09:00"
+fetched_at: "2026-11-20T11:31:53+09:00"
 ---
 # Breeding for Automation
 

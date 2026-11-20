@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/10/seed-trade-barriers-asta-sam-crowe
 summary: "Seed trade barriers continue to challenge U.S. seed companies, from tariffs and phytosanitary requirements to inconsistent international regulations."
 attachments: []
 tags: []
-fetched_at: "2026-11-18T12:04:36+09:00"
+fetched_at: "2026-11-20T11:31:53+09:00"
 ---
 # ASTA’s Sam Crowell on Seed Trade Barriers and Tariffs
 

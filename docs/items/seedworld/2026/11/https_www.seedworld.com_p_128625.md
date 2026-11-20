@@ -5,14 +5,14 @@ org: "Seed World"
 site_id: "https://www.seedworld.com/?p=128625"
 published_at: "2026-11-17T06:10:05+09:00"
 url: "https://www.seedworld.com/europe/2026/11/16/are-natural-pesticides-really-safer/"
-summary: "Dr. Joe Schwarcz explores how plants defend themselves and why a substance’s origin alone does not determine its safety."
+summary: "Are natural pesticides necessarily safer than synthetic ones? Dr."
 attachments: []
 tags: []
-fetched_at: "2026-11-18T12:04:31+09:00"
+fetched_at: "2026-11-20T11:31:53+09:00"
 ---
 # Are Natural Pesticides Really Safer?
 
-Dr. Joe Schwarcz explores how plants defend themselves and why a substance’s origin alone does not determine its safety. Fruits and vegetables naturally produce chemicals that help protect them against insects, diseases and other threats. But does “natural” necessarily mean safer? In this episode for Seed World Europe, Dr. Joe Schwarcz examines the chemistry behind these plant defences. Using familiar examples such as apples, coffee and potatoes, he challenges common assumptions about natural and synthetic pesticides and explains why toxicity, exposure and scientific evidence matter when assessing safety. Watch the video above for a closer look at what plant chemistry can teach us about food safety and crop protection. Dr. Joe Schwarcz is director of McGill University’s Office for Science and Society and a regular columnist for Seed World Europe.
+Are natural pesticides necessarily safer than synthetic ones? Dr. Joe Schwarcz examines how plants defend themselves through chemistry, using apples, coffee and potatoes to explain why a substance's origin alone does not determine its safety. The post Are Natural Pesticides Really Safer? appeared first on Seed World .
 
 ## Original
 

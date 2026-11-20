@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "벼"
   - "감자"
-fetched_at: "2026-11-18T12:04:36+09:00"
+fetched_at: "2026-11-20T11:31:53+09:00"
 ---
 # BIOCRAFT Project Uses AI to Develop Resilient Crops
 
