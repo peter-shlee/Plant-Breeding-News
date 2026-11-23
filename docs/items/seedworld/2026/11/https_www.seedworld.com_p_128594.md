@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/13/crop-residue-management-farmla
 summary: "Crop residue management could play an important role in protecting farmland biodiversity as Europe increases renewable energy production. New research from the University of Surrey found that cereal fields retaining at least 70% of crop"
 attachments: []
 tags: []
-fetched_at: "2026-11-20T11:31:53+09:00"
+fetched_at: "2026-11-23T10:55:55+09:00"
 ---
 # Crop Residue Removal for Bioenergy Could Put Farmland Biodiversity at Risk
 

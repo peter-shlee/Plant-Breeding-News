@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/10/seed-sector-development-enabli
 summary: "Seed sector development depends on more than good legislation. Comparing hunger levels with international seed frameworks and African seed sector performance reveals why effective institutions, predictable regulations and investment are"
 attachments: []
 tags: []
-fetched_at: "2026-11-20T11:31:53+09:00"
+fetched_at: "2026-11-23T10:55:55+09:00"
 ---
 # Why Seed Sector Development Needs an Enabling Environment
 

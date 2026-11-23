@@ -11,6 +11,24 @@ source: "nics"
 
 ## 2026-11
 
+- **[‘제13회 고구마의 날’ 기념행사 경기도 여주서 열려](../../items/nics/2026/11/944674.md)**
+  - 2026-11-23 · [읽기](../../items/nics/2026/11/944674.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944674)
+
+- **[농촌진흥청, 재배 쉽고 수발아 강한 ‘바로미4’ 개발… 가루쌀 안정 생산 기반 ...](../../items/nics/2026/11/944673.md)**
+  - 2026-11-23 · [읽기](../../items/nics/2026/11/944673.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944673)
+
+- **[농촌진흥청, 쌀 가공식품 산업 활성화 민관 협의회 개최](../../items/nics/2026/11/944672.md)**
+  - 2026-11-23 · [읽기](../../items/nics/2026/11/944672.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944672)
+
+- **[농촌진흥청, 국산 트리티케일 확산 이끌 현장 전문가 양성](../../items/nics/2026/11/944671.md)**
+  - 2026-11-23 · [읽기](../../items/nics/2026/11/944671.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944671)
+
+- **[우리 품종 ‘금강밀’ 유전체 완전 해독으로 출수기 예측 “디지털 육종 성큼”](../../items/nics/2026/11/944670.md)**
+  - 2026-11-23 · [읽기](../../items/nics/2026/11/944670.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944670)
+
+- **[국립식량과학원, 현장 의견에 답하고 민관 협력 강화한다](../../items/nics/2026/11/944669.md)**
+  - 2026-11-23 · [읽기](../../items/nics/2026/11/944669.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944669)
+
 - **[농촌진흥청, 가을철 맥류 파종 현장 찾아 안전 생산 당부](../../items/nics/2026/11/944654.md)**
   - 2026-11-13 · [읽기](../../items/nics/2026/11/944654.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944654)
 
@@ -22,21 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 전국 3개 도매시장서 신품종 40종 알려](../../items/nics/2026/11/944651.md)**
   - 2026-11-13 · [읽기](../../items/nics/2026/11/944651.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944651)
-
-- **[비료는 한 번만, 밀 재배 더 간편하게!](../../items/nics/2026/11/944650.md)**
-  - 2026-11-13 · [읽기](../../items/nics/2026/11/944650.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944650)
-
-- **[“현장 소통”으로 활용도 높은 디지털육종 완성한다](../../items/nics/2026/11/944649.md)**
-  - 2026-11-13 · [읽기](../../items/nics/2026/11/944649.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944649)
-
-- **[농촌진흥청, 콩 전 과정 기계화·스마트 기술 성과공유회 개최](../../items/nics/2026/11/944648.md)**
-  - 2026-11-13 · [읽기](../../items/nics/2026/11/944648.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944648)
-
-- **[전분 함량 높고 병에 강한 신품종 고구마 ‘다온미’, 제주에서 선보인다!](../../items/nics/2026/11/944647.md)**
-  - 2026-11-12 · [읽기](../../items/nics/2026/11/944647.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944647)
-
-- **[농촌진흥청, 다자간 ‘업무합의’로 ‘노지 스마트 농업’ 현장 확산](../../items/nics/2026/11/944637.md)**
-  - 2026-11-06 · [읽기](../../items/nics/2026/11/944637.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944637)
-
-- **[농촌진흥청, 제주 나물콩 ‘해찬’ 기계수확 연시회 개최](../../items/nics/2026/11/944635.md)**
-  - 2026-11-06 · [읽기](../../items/nics/2026/11/944635.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944635)

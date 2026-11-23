@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/12/seed-finishing-next-generation-see
 summary: "As seed treatment technologies become more complex, seed finishing plays an increasingly important role in dust control, drying, flowability and plantability. Syensqo explores how advanced finishing technologies can help seed companies"
 attachments: []
 tags: []
-fetched_at: "2026-11-20T11:31:53+09:00"
+fetched_at: "2026-11-23T10:55:55+09:00"
 ---
 # Rethinking Seed Finishing for the Next Generation of Seed Treatment
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/09/pulse-crop-residues-soil-healt
 summary: "New research suggests differences in crop residues could give breeders another selection criterion: how a variety supports soil processes and the crop that follows. Selecting pea and field bean varieties […] The post Pea and Bean Varieties"
 attachments: []
 tags: []
-fetched_at: "2026-11-20T11:31:53+09:00"
+fetched_at: "2026-11-23T10:55:55+09:00"
 ---
 # Pea and Bean Varieties Could Shape Soil Health and the Next Harvest
 

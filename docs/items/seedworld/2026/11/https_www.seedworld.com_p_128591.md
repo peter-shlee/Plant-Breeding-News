@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/12/what-does-being-brave-look-like-in
 summary: "Courage in leadership isn't always about bold decisions. Sometimes it's asking an uncomfortable question or making sure a quiet voice gets heard."
 attachments: []
 tags: []
-fetched_at: "2026-11-20T11:31:53+09:00"
+fetched_at: "2026-11-23T10:55:55+09:00"
 ---
 # What Does Being “BRAVE” Look Like in 2026?
 

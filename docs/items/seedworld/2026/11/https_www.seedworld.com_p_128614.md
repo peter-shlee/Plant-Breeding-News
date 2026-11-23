@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/16/euroseeds-congress-2026-exhibi
 summary: "At Euroseeds Congress 2026 in Valencia, seed companies, innovators and technology providers came together to showcase products, build relationships and explore new opportunities."
 attachments: []
 tags: []
-fetched_at: "2026-11-20T11:31:53+09:00"
+fetched_at: "2026-11-23T10:55:55+09:00"
 ---
 # Connections and Opportunities Draw Exhibitors to Euroseeds 2026
 

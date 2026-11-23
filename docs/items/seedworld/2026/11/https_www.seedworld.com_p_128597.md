@@ -9,7 +9,7 @@ summary: "Hyperspectral imaging could help wheat breeders identify promising var
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-11-20T11:31:53+09:00"
+fetched_at: "2026-11-23T10:55:55+09:00"
 ---
 # Hyperspectral Imaging Could Help Wheat Breeders Select for Resilience
 

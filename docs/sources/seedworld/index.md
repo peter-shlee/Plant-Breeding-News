@@ -11,21 +11,25 @@ source: "seedworld"
 
 ## 2026-11
 
+- **[WheatAI Could Speed Up Breeding and Help Farmers Assess Wheat Crops](../../items/seedworld/2026/11/https_www.seedworld.com_p_128711.md)**
+  - 2026-11-21 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128711.md) · [원문](https://www.seedworld.com/us/2026/11/20/wheatai-wheat-breeding-ai-phenotyping/)
+  - South Dakota State University researchers are developing a free tool that uses smartphone and drone images to measure wheat traits, estimate yield potential and assess disease.
+
 - **[Is Canadian Seed Innovation Missing a Critical Ingredient?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128691.md)**
   - 2026-11-20 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128691.md) · [원문](https://www.seedworld.com/canada/2026/11/19/agricultural-technology-innovation-listening/)
   - Plant breeding, seed testing and agricultural technology are advancing rapidly. But the industry’s next breakthrough might come from something surprisingly simple: listening more.
 
 - **[Here Today, Still Here Tomorrow](../../items/seedworld/2026/11/https_www.seedworld.com_p_128689.md)**
   - 2026-11-20 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128689.md) · [원문](https://www.seedworld.com/canada/2026/11/19/here-today-still-here-tomorrow/)
-  - Introduction: Biologicals Are a Crowded Category Over the last decade, biological crop protection has become one of agriculture’s hottest categories. That recent trend has been like leaving the back…
+  - For more than 30 years, Heads Up has navigated the changing biological crop protection market as an independent, family-owned company. Its refreshed brand reflects decades of product development, far…
 
 - **[Here Today, Still Here Tomorrow](../../items/seedworld/2026/11/https_www.seedworld.com_p_128686.md)**
   - 2026-11-20 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128686.md) · [원문](https://www.seedworld.com/us/2026/11/19/heads-up-biological-crop-protection/)
-  - Introduction: Biologicals Are a Crowded Category Over the last decade, biological crop protection has become one of agriculture’s hottest categories. That recent trend has been like leaving the back…
+  - For more than 30 years, Heads Up has navigated the changing biological crop protection market as an independent, family-owned company. Its refreshed brand reflects decades of product development, far…
 
 - **[Euroseeds NextGen Forum Explores Seed Industry Careers](../../items/seedworld/2026/11/https_www.seedworld.com_p_128673.md)**
   - 2026-11-20 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128673.md) · [원문](https://www.seedworld.com/europe/2026/11/19/euroseeds-nextgen-forum-seed-industry-careers/)
-  - Students and young scientists met plant breeders and other seed professionals at Euroseeds Congress 2026 to explore career paths and discuss what they want from the industry.
+  - At the Euroseeds NextGen Forum in Valencia, students and young scientists connected with plant breeders and seed industry professionals to explore career opportunities.
 
 - **[Keep Yield Estimates Up to Date with the ABS Production App](../../items/seedworld/2026/11/https_www.seedworld.com_p_128669.md)**
   - 2026-11-20 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128669.md) · [원문](https://www.seedworld.com/canada/2026/11/19/seed-production-software-field-management/)
@@ -33,31 +37,31 @@ source: "seedworld"
 
 - **[Seed Sector 2045: How Gene Editing and NGTs Will Reshape Plant Breeding](../../items/seedworld/2026/11/https_www.seedworld.com_p_128661.md)**
   - 2026-11-20 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128661.md) · [원문](https://www.seedworld.com/europe/2026/11/19/gene-editing-plant-breeding-2045/)
-  - CRISPR, base editing, prime editing and other new genomic techniques are rapidly expanding the plant breeder’s toolbox. What will it take for gene editing to become a routine part of breeding by 2045?
+  - By 2045, gene editing could become a routine part of plant breeding rather than a separate innovation. From CRISPR and advanced editing tools to Europe's NGT regulations, technical bottlenecks and fa…
 
 - **[Beyond Better Seeds: Why Food Systems Need Broader Change](../../items/seedworld/2026/11/https_www.seedworld.com_p_128677.md)**
   - 2026-11-19 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128677.md) · [원문](https://www.seedworld.com/europe/2026/11/19/food-systems-transformation-bhutan-summit/)
-  - New documents from a global summit in Bhutan explore how leadership, policies and collaboration can complement agricultural innovation. In September, Seed World Europe reported on research into deepe…
+  - Food systems transformation requires more than agricultural innovation. New documents from the Global Conscious Food Systems Summit in Bhutan explore how leadership, supportive policies, financing an…
 
 - **[Aphanomyces Root Rot: A Hidden Threat to Pulse Crop Potential](../../items/seedworld/2026/11/https_www.seedworld.com_p_128657.md)**
   - 2026-11-19 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128657.md) · [원문](https://www.seedworld.com/canada/2026/11/18/aphanomyces-root-rot-canadian-pulse-crops/)
-  - Aphanomyces root rot can compromise crop health, reduce yield potential and create long-term challenges for pea and lentil growers. Early diagnosis and preventive practices, including fungicide seed…
+  - Aphanomyces root rot poses a persistent threat to Canadian pea and lentil growers, with severe infections causing significant yield losses. Learn how field scouting, root inspections and targeted fun…
 
 - **[Local Expertise, Growing Alongside You](../../items/seedworld/2026/11/https_www.seedworld.com_p_128654.md)**
   - 2026-11-19 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128654.md) · [원문](https://www.seedworld.com/canada/2026/11/18/seednet-seed-varieties-western-canada/)
-  - At SeedNet, we are committed to providing farmers with high-quality seed and crop inputs that support success in your fields. Our retail seed farms have hands-on experience with the varieties we offe…
+  - SeedNet seed varieties combine proven performance with local expertise to support Western Canadian farmers. Explore exclusive malt barley, soft wheat and yellow pea varieties backed by decades of exp…
 
 - **[The Missing Link In Canada’s Breeding Future | On The Brink: Season 3, Episode 11](../../items/seedworld/2026/11/https_www.seedworld.com_p_128645.md)**
   - 2026-11-18 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128645.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/11/18/seed-testing-plant-breeding-sarah-foster-on-the-brink/)
-  - https://youtu.be/L3ZhMMdfev8 What Seed Tests Could Tell Plant Breeders Sarah Foster says seed testing data could contribute more to Canada’s breeding future if analysts, growers and breeders had a st…
+  - Sarah Foster says seed testing data could do more for Canada’s plant breeding future. She explains why growers, analysts and breeders need a stronger feedback loop.
 
 - **[When NGOs Block Agricultural Innovation, Farmers Pay the Price](../../items/seedworld/2026/11/https_www.seedworld.com_p_128631.md)**
   - 2026-11-18 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128631.md) · [원문](https://www.seedworld.com/europe/2026/11/18/ngos-block-agricultural-innovation/)
-  - From improved crop varieties to plant variety protection, NGO campaigns can delay innovations that could improve farmers’ incomes, nutrition and food security. I must admit that I am becoming increas…
+  - NGO campaigns against agricultural innovation can prevent farmers from accessing improved crops and technologies that could strengthen yields, incomes and nutrition. From Golden Rice in the Philippin…
 
 - **[Plant Monitoring Could Cut Greenhouse Energy Use While Protecting Crop Performance](../../items/seedworld/2026/11/https_www.seedworld.com_p_128603.md)**
   - 2026-11-18 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128603.md) · [원문](https://www.seedworld.com/europe/2026/11/18/greenhouse-climate-control-energy-efficiency-research/)
-  - The five-year GreenControl project is testing sensors, cameras and algorithms in tomatoes and lettuce, aiming to reduce energy use by 25% and energy costs by 35%. Measuring how crops respond to growi…
+  - New greenhouse climate control research at Wageningen University & Research aims to help growers reduce energy consumption while maintaining crop production and quality.
 
 - **[Seed Growers Don’t Need More Agtech. They Need Better Agtech.](../../items/seedworld/2026/11/https_www.seedworld.com_p_128629.md)**
   - 2026-11-18 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128629.md) · [원문](https://www.seedworld.com/canada/2026/11/17/seed-growers-dont-need-more-agtech-they-need-better-agtech/)
@@ -329,55 +333,3 @@ source: "seedworld"
 - **[Euroseeds Congress 2026: Beyond the Official Programme](../../items/seedworld/2026/10/https_www.seedworld.com_p_128187.md)**
   - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128187.md) · [원문](https://www.seedworld.com/europe/2026/10/25/euroseeds-congress-2026-beyond-programme/)
   - At Euroseeds Congress 2026 in Valencia, the conversations between sessions can be just as valuable as the official programme. From InnovAction Stage pitches to video interviews and informal meetings,…
-
-- **[Antonio Villarroel on Spain’s Plant Breeding Future](../../items/seedworld/2026/10/https_www.seedworld.com_p_128239.md)**
-  - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128239.md) · [원문](https://www.seedworld.com/europe/2026/10/23/antonio-villarroel-spain-plant-breeding/)
-  - Ahead of Euroseeds 2026 in Valencia, ANOVE Director General Antonio Villarroel discusses how Spain's plant breeding sector is responding to climate pressures, rising research costs and regulatory cha…
-
-- **[More Genetics, More Markets: Agri Obtentions Looks Beyond France](../../items/seedworld/2026/10/https_www.seedworld.com_p_127969.md)**
-  - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_127969.md) · [원문](https://www.seedworld.com/europe/2026/10/23/agri-obtentions-european-genetics-access/)
-  - Agri Obtentions is looking beyond France for its next stage of growth, opening new European opportunities for seed companies to access its field-crop genetics through local partnerships.
-
-- **[The Most Important Farmer in Canada Hasn’t Planted a Crop Yet](../../items/seedworld/2026/10/https_www.seedworld.com_p_128221.md)**
-  - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128221.md) · [원문](https://www.seedworld.com/canada/2026/10/22/future-canadian-plant-breeding-farmers-2040/)
-  - Canada’s seed industry is making decisions whose consequences won't be felt for another decade. Are we giving tomorrow’s farmers a voice in those decisions?
-
-- **[Seed Treatment in Europe: Regulation and Innovation](../../items/seedworld/2026/10/https_www.seedworld.com_p_128215.md)**
-  - 2026-10-23 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128215.md) · [원문](https://www.seedworld.com/europe/2026/10/22/seed-treatment-europe-regulation-innovation/)
-  - Seed treatment regulations are creating challenges for European seed companies serving international markets. Euroseeds' Amalia Kafka discusses the risk of production shifting outside the EU, the nee…
-
-- **[Sorghum Could Help European Farming Adapt to Climate Change](../../items/seedworld/2026/10/https_www.seedworld.com_p_128071.md)**
-  - 2026-10-22 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128071.md) · [원문](https://www.seedworld.com/europe/2026/10/22/sorghum-europe-climate-change-adaptation/)
-  - Sorghum could become an increasingly important crop in European agriculture as climate change alters growing conditions. New research from INRAE projects higher sorghum yields and expanded suitable g…
-
-- **[Seed Sector 2045: Why NGTs Make the EDV Question More Important Than Ever](../../items/seedworld/2026/10/https_www.seedworld.com_p_128180.md)**
-  - 2026-10-22 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128180.md) · [원문](https://www.seedworld.com/europe/2026/10/22/essentially-derived-varieties-ngts-breeders-rights/)
-  - As genome editing transforms plant breeding, essentially derived varieties are becoming a critical intellectual property issue. From UPOV's EDV rules to the 2026 Nadorcott ruling, this Seed Sector 20…
-
-- **[What Vylor Needs From Policy to Meet its Innovation Ambition](../../items/seedworld/2026/10/https_www.seedworld.com_p_128098.md)**
-  - 2026-10-22 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128098.md) · [원문](https://www.seedworld.com/europe/2026/10/22/vylor-gene-editing-eu-seed-policy/)
-  - Vylor is putting gene editing at the centre of its regulatory strategy as the company prepares to operate independently from Corteva. Teresa Babuscio, Head of Government and Industry Affairs for EMEA…
-
-- **[Think Like a Seed: The Agronomy Behind a Strong Start](../../items/seedworld/2026/10/https_www.seedworld.com_p_128174.md)**
-  - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128174.md) · [원문](https://www.seedworld.com/canada/2026/10/21/think-like-a-seed-the-agronomy-behind-a-strong-start/)
-  - Why nutrition, biology and protection during the earliest stages of development can influence an entire growing season. Everything Begins Inside the Kernel Every wheat plant begins with a remarkably…
-
-- **[Tapping Into Canada’s Private Plant Breeding Potential | On The Brink: Season 3, Episode 7](../../items/seedworld/2026/10/https_www.seedworld.com_p_128146.md)**
-  - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128146.md) · [원문](https://www.seedworld.com/canada/on-the-brink/2026/10/21/private-plant-breeding-potential-on-the-brink-season-3-episode-7/)
-  - Independent plant breeders can face a 10- to 12-year wait for their first revenue. Jodi Souter of J4 Agri-Science explains the funding, grower support and changes in perception needed to unlock Canad…
-
-- **[Field Beans Before Barley Could Cut Environmental Impacts](../../items/seedworld/2026/10/https_www.seedworld.com_p_128067.md)**
-  - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128067.md) · [원문](https://www.seedworld.com/europe/2026/10/21/field-beans-before-barley-could-cut-environmental-impact/)
-  - Growing field beans before spring barley could reduce environmental impacts by approximately 25%, according to long-term Scottish research. The study found that bean–barley rotations reduced nitrogen…
-
-- **[How Pieter van Kesteren’s Career Traces the Transformation of Vegetable Seeds](../../items/seedworld/2026/10/https_www.seedworld.com_p_128136.md)**
-  - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128136.md) · [원문](https://www.seedworld.com/europe/2026/10/21/pieter-van-kesteren-vegetable-seed-industry/)
-  - Pieter van Kesteren spent more than four decades helping shape the international vegetable seed industry. From Cold War markets and early trade with China to California seed enhancement and the rise…
-
-- **[Building Vylor: An Inside Conversation on What Comes Next](../../items/seedworld/2026/10/https_www.seedworld.com_p_128081.md)**
-  - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128081.md) · [원문](https://www.seedworld.com/europe/2026/10/21/building-vylor-jean-philippe-riffat-interview/)
-  - Jean-Philippe Riffat, President, EMEA-APAC at Vylor, reflects on building an independent seed company, the opportunities emerging in genetics and gene editing, and what success should look like for V…
-
-- **[BIOCRAFT Project Uses AI to Develop Resilient Crops](../../items/seedworld/2026/10/https_www.seedworld.com_p_128155.md)**
-  - 2026-10-21 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128155.md) · [원문](https://www.seedworld.com/europe/2026/10/21/biocraft-project-ai-climate-resilient-crops-copy/)
-  - The EU-funded BIOCRAFT project will combine artificial intelligence, biotechnology and soil microbiome research to develop more resilient potato and rice varieties. The four-year, €3.81 million initi…

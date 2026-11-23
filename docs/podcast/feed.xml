@@ -5,7 +5,15 @@
 <link>https://peter-shlee.github.io/Plant-Breeding-News/podcast/</link>
 <description>AI가 선별하고 낭독하는 식물 육종·종자·품종 주간 뉴스</description>
 <language>ko-kr</language>
-<lastBuildDate>Fri, 20 Nov 2026 02:31:54 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 01:58:04 +0000</lastBuildDate>
+<item>
+<title>디지털 육종과 현장의 만남: 유전자교정부터 AI 형질 분석까지</title>
+<description>2045년 유전자교정 육종의 미래 전망, 국산 금강밀 유전체 해독과 디지털 육종, AI 기반 WheatAI 표형분석 기술, 그리고 현장 데이터와 육종가를 잇는 양방향 소통의 중요성을 다룹니다.</description>
+<link>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-11-23.html</link>
+<guid>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-11-23.html</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0900</pubDate>
+<enclosure url="https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-11-23.mp3" length="2273324" type="audio/mpeg" />
+</item>
 <item>
 <title>식물 면역 기억과 AI 육종부터 품종 채택 및 법적 보호까지: 최신 육종 동향</title>
 <description>식물의 후성유전체 면역 기억 활용 기술, AI 기반 야생종 유전자 교류 연구, 신품종 채택 지연에 따른 경제적 파급효과, 그리고 EU 품종보호청(CPVO)의 신규 본부 개청 소식을 다룹니다.</description>
@@ -157,14 +165,6 @@
 <guid>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-06-05.html</guid>
 <pubDate>Fri, 05 Jun 2026 00:00:00 +0900</pubDate>
 <enclosure url="https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-06-05.mp3" length="1940781" type="audio/mpeg" />
-</item>
-<item>
-<title>식물 육종의 미래를 여는 혁신 기술과 제도적 변화</title>
-<description>토마토 바이러스를 예측하는 혁신적인 AI 모델부터 캐나다의 품종 보호 제도, 그리고 미국의 유전자 변형 작물 규제 완화 동향까지 식물 육종 산업의 최신 트렌드를 짚어봅니다.</description>
-<link>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-05-29.html</link>
-<guid>https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-05-29.html</guid>
-<pubDate>Fri, 29 May 2026 00:00:00 +0900</pubDate>
-<enclosure url="https://peter-shlee.github.io/Plant-Breeding-News/podcast/2026-05-29.mp3" length="1753197" type="audio/mpeg" />
 </item>
 </channel>
 </rss>

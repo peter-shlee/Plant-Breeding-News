@@ -5,14 +5,14 @@ org: "Seed World"
 site_id: "https://www.seedworld.com/?p=128673"
 published_at: "2026-11-20T02:27:01+09:00"
 url: "https://www.seedworld.com/europe/2026/11/19/euroseeds-nextgen-forum-seed-industry-careers/"
-summary: "Students and young scientists met plant breeders and other seed professionals at Euroseeds Congress 2026 to explore career paths and discuss what they want from the industry."
+summary: "At the Euroseeds NextGen Forum in Valencia, students and young scientists connected with plant breeders and seed industry professionals to explore career opportunities."
 attachments: []
 tags: []
-fetched_at: "2026-11-20T11:31:35+09:00"
+fetched_at: "2026-11-23T10:55:55+09:00"
 ---
 # Euroseeds NextGen Forum Explores Seed Industry Careers
 
-Students and young scientists met plant breeders and other seed professionals at Euroseeds Congress 2026 to explore career paths and discuss what they want from the industry. What does a career in the seed sector look like? At the Euroseeds NextGen Forum in Valencia, Spain, students and young scientists heard directly from people working in the industry. Conversations with plant breeders and other professionals gave them a chance to learn about different roles and consider where their own interests might fit. The forum also gave industry professionals a chance to hear what emerging talent expects from the sector. Participants discussed how the seed industry can better explain the value of its work, respond to public debate and stay connected with people who are just starting their careers. Watch the video above to hear what participants took away from the forum and how those conversations helped them picture a future in the seed sector.
+At the Euroseeds NextGen Forum in Valencia, students and young scientists connected with plant breeders and seed industry professionals to explore career opportunities. The conversations also gave industry leaders insight into what the next generation expects from the sector. The post Euroseeds NextGen Forum Explores Seed Industry Careers appeared first on Seed World .
 
 ## Original
 
