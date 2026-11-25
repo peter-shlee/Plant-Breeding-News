@@ -9,7 +9,7 @@ summary: "The Uruguay seed sector is seeking closer cooperation with European br
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # Uruguay and Europe: Strengthening Seed Sector Cooperation and Innovation
 

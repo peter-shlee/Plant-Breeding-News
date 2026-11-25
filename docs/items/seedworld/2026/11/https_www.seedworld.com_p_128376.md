@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/11/04/public-plant-bree
 summary: "Could changing Canada’s breeding system strengthen public plant breeding? GIFS CEO Jason Reinheimer calls for a farmer-led company, an open door to investment and action before more time is lost."
 attachments: []
 tags: []
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # It’s Time To Move Now | On The Brink: Season 3, Episode 9
 

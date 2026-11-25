@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "벼"
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # Plant Immune Memory Offers New Potential for Crop Breeding
 

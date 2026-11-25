@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/19/heads-up-biological-crop-protectio
 summary: "For more than 30 years, Heads Up has navigated the changing biological crop protection market as an independent, family-owned company. Its refreshed brand reflects decades of product development, farmer relationships and a continued"
 attachments: []
 tags: []
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # Here Today, Still Here Tomorrow
 

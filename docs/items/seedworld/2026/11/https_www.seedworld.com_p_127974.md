@@ -9,7 +9,7 @@ summary: "Staphyt says European agriculture needs stronger climate resilience as
 attachments: []
 tags:
   - "phenotyping"
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # Preparing European Agriculture For a Climate it Can’t Predict
 

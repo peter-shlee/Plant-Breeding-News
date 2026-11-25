@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/10/26/malin-nilsson-sweden-seed-sect
 summary: "Swedish Seed Trade Association Secretary General Malin Nilsson discusses collaboration, innovation and her priorities for the country’s seed industry. Sweden’s seed sector may be relatively small, but its high use […] The post Malin"
 attachments: []
 tags: []
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # Malin Nilsson on Sweden’s Seed Sector and Its Strengths
 

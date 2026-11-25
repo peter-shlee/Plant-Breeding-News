@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/12/canadian-agriculture-innovatio
 summary: "New Saskatchewan research suggests farmers could be missing opportunities to improve profitability by sticking with older crop varieties The post The Hidden Cost of Slow Crop Variety Adoption in Canada appeared first on Seed World ."
 attachments: []
 tags: []
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # The Hidden Cost of Slow Crop Variety Adoption in Canada
 

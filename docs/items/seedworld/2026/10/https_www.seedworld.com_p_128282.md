@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/10/26/plant-breeding-technology-better-t
 summary: "Plant breeding technology is transforming how breeders use genetic data, AI and predictive tools to make decisions. Gene-G's Dagan Mor explores where these advances are delivering real value, where risks remain and why human judgment is"
 attachments: []
 tags: []
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # Is New Technology Making Plant Breeding Better… or Just More Complicated?
 

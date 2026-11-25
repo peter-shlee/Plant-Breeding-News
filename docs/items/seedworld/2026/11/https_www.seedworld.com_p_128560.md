@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/12/cpvo-headquarters-angers-franc
 summary: "The Community Plant Variety Office has inaugurated its new CPVO headquarters in Angers, France, bringing staff together in one location. European and French officials attended the ceremony, highlighting the importance of plant variety"
 attachments: []
 tags: []
-fetched_at: "2026-11-23T10:55:55+09:00"
+fetched_at: "2026-11-25T13:31:13+09:00"
 ---
 # CPVO Opens New Headquarters in Angers
 

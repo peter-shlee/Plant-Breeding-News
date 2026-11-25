@@ -11,13 +11,33 @@ source: "seedworld"
 
 ## 2026-11
 
+- **[Breeders Trust Sues Over Undeclared Farm-Saved Seed Potatoes](../../items/seedworld/2026/11/https_www.seedworld.com_p_128733.md)**
+  - 2026-11-25 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128733.md) · [원문](https://www.seedworld.com/europe/2026/11/24/breeders-trust-undeclared-farm-saved-seed-potatoes/)
+  - Breeders Trust has sued a West Flanders potato grower, alleging the grower failed to declare between 545 and 776 hectares planted with farm-saved seed potatoes of six protected varieties.
+
+- **[EU-UK SPS Agreement to Ease Seed Trade and Variety Listing](../../items/seedworld/2026/11/https_www.seedworld.com_p_128730.md)**
+  - 2026-11-25 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128730.md) · [원문](https://www.seedworld.com/europe/2026/11/24/eu-uk-sps-agreement-seed-trade/)
+  - The two sides aim to apply the agreement from 1 March 2028. It would reopen the EU market to seed potatoes from Great Britain and simplify seed trade and variety listing.
+
+- **[What the Dry Years Let Us Forget](../../items/seedworld/2026/11/https_www.seedworld.com_p_128723.md)**
+  - 2026-11-24 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128723.md) · [원문](https://www.seedworld.com/canada/2026/11/23/seed-borne-disease-seed-testing-results/)
+  - One of our staff — agronomist and accredited seed analyst, Shauna Sereda — took a photograph this year I wish we hadn’t had the opportunity to take: a bouquet of wheat with an extraordinary amount of…
+
+- **[Who Really Owns the Seed Customer? Research Challenges Dealer Loyalty Assumptions](../../items/seedworld/2026/11/https_www.seedworld.com_p_128718.md)**
+  - 2026-11-23 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128718.md) · [원문](https://www.seedworld.com/us/2026/11/23/seed-brand-loyalty-seed-dealers/)
+  - Seed dealers spend years building customer relationships. New research suggests much of that loyalty may depend on the brands they sell, raising questions about who holds the power in seed distributi…
+
+- **[How a Wild Wheat from Iraq Helped Breed Three Durum Varieties](../../items/seedworld/2026/11/https_www.seedworld.com_p_128713.md)**
+  - 2026-11-23 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128713.md) · [원문](https://www.seedworld.com/europe/2026/11/23/wild-wheat-three-durum-varieties/)
+  - A wild wheat collected in the Fertile Crescent in 1978 helped breeders in Morocco, Syria and Lebanon develop durum varieties suited to local needs, from drought tolerance to grain for traditional bur…
+
 - **[WheatAI Could Speed Up Breeding and Help Farmers Assess Wheat Crops](../../items/seedworld/2026/11/https_www.seedworld.com_p_128711.md)**
   - 2026-11-21 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128711.md) · [원문](https://www.seedworld.com/us/2026/11/20/wheatai-wheat-breeding-ai-phenotyping/)
-  - South Dakota State University researchers are developing a free tool that uses smartphone and drone images to measure wheat traits, estimate yield potential and assess disease.
+  - WheatAI, a web-based tool under development at South Dakota State University, uses artificial intelligence to automate wheat trait measurements from field images. Researchers hope the technology will…
 
 - **[Is Canadian Seed Innovation Missing a Critical Ingredient?](../../items/seedworld/2026/11/https_www.seedworld.com_p_128691.md)**
   - 2026-11-20 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128691.md) · [원문](https://www.seedworld.com/canada/2026/11/19/agricultural-technology-innovation-listening/)
-  - Plant breeding, seed testing and agricultural technology are advancing rapidly. But the industry’s next breakthrough might come from something surprisingly simple: listening more.
+  - Plant breeding, seed testing and agricultural technology are advancing rapidly. But the industry's next breakthrough might come from something surprisingly simple: listening more The post Is Canadian…
 
 - **[Here Today, Still Here Tomorrow](../../items/seedworld/2026/11/https_www.seedworld.com_p_128689.md)**
   - 2026-11-20 · [읽기](../../items/seedworld/2026/11/https_www.seedworld.com_p_128689.md) · [원문](https://www.seedworld.com/canada/2026/11/19/here-today-still-here-tomorrow/)
@@ -325,11 +345,3 @@ source: "seedworld"
 - **[Local Expertise, Growing Alongside You](../../items/seedworld/2026/10/https_www.seedworld.com_p_128258.md)**
   - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128258.md) · [원문](https://www.seedworld.com/canada/2026/10/26/seednet-seed-varieties-western-canadian-growers/)
   - SeedNet seed varieties offer Western Canadian growers high-performing options for barley, wheat and yellow peas. Backed by decades of experience in seed production, cleaning and quality assurance, Se…
-
-- **[Concepts for Your Seeds](../../items/seedworld/2026/10/https_www.seedworld.com_p_121426.md)**
-  - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_121426.md) · [원문](https://www.seedworld.com/canada/2026/10/25/concepts-for-your-seeds-6/)
-  - For more than 40 years, SATEC® has offered you the perfect combination of technique, chemicals and experience to treat your seeds, ensuring their high quality. You get specific and individual […] The…
-
-- **[Euroseeds Congress 2026: Beyond the Official Programme](../../items/seedworld/2026/10/https_www.seedworld.com_p_128187.md)**
-  - 2026-10-26 · [읽기](../../items/seedworld/2026/10/https_www.seedworld.com_p_128187.md) · [원문](https://www.seedworld.com/europe/2026/10/25/euroseeds-congress-2026-beyond-programme/)
-  - At Euroseeds Congress 2026 in Valencia, the conversations between sessions can be just as valuable as the official programme. From InnovAction Stage pitches to video interviews and informal meetings,…
