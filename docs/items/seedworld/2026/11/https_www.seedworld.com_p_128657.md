@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/18/aphanomyces-root-rot-canadian-
 summary: "Aphanomyces root rot poses a persistent threat to Canadian pea and lentil growers, with severe infections causing significant yield losses. Learn how field scouting, root inspections and targeted fungicide seed treatments can help manage"
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Aphanomyces Root Rot: A Hidden Threat to Pulse Crop Potential
 

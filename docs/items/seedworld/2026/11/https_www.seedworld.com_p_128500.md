@@ -9,7 +9,7 @@ summary: "New chromosome recognition research at Aberystwyth University aims to 
 attachments: []
 tags:
   - "genomics"
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Unlocking Wild Plant Traits Could Help Breed More Resilient Crops
 

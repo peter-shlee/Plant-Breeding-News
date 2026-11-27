@@ -10,7 +10,7 @@ attachments: []
 tags:
   - "genomics"
   - "gene-editing"
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:02+09:00"
 ---
 # Breeding Against the Clock
 

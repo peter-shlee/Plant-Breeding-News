@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/19/agricultural-technology-innova
 summary: "Plant breeding, seed testing and agricultural technology are advancing rapidly. But the industry's next breakthrough might come from something surprisingly simple: listening more The post Is Canadian Seed Innovation Missing a Critical"
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Is Canadian Seed Innovation Missing a Critical Ingredient?
 

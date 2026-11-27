@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/12/crop-variety-adoption-seed-gen
 summary: "Researchers have identified a massive gap between plant breeding innovation and on-farm adoption, raising questions about how to get improved genetics into farmers' hands The post Plant Breeding Keeps Advancing."
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Plant Breeding Keeps Advancing. Why Aren’t Farmers Switching Varieties?
 

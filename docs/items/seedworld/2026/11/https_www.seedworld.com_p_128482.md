@@ -9,7 +9,7 @@ summary: "Does modern plant breeding threaten flavour and crop diversity? From c
 attachments: []
 tags:
   - "벼"
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Does Modern Plant Breeding Reduce Flavour and Diversity?
 

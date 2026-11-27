@@ -9,7 +9,7 @@ summary: "WheatAI, a web-based tool under development at South Dakota State Univ
 attachments: []
 tags:
   - "밀"
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # WheatAI Could Speed Up Breeding and Help Farmers Assess Wheat Crops
 

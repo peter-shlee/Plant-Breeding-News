@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/us/2026/11/16/stacy-kuenzi-western-seed-associat
 summary: "After 28 years at Mountain View Seeds, Stacy Kuenzi knows what keeps people in the seed business. As Western Seed Association’s new president, she’s thinking about how to get more […] The post Stacy Kuenzi Leads Western Seed Association"
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Stacy Kuenzi Leads Western Seed Association Into the Future
 

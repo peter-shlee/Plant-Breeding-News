@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/19/here-today-still-here-tomorrow
 summary: "For more than 30 years, Heads Up has navigated the changing biological crop protection market as an independent, family-owned company. Its refreshed brand reflects decades of product development, farmer relationships and a continued"
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Here Today, Still Here Tomorrow
 

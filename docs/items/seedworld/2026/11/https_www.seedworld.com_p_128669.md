@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/19/seed-production-software-field
 summary: "Delivering the right seed starts in the field. Every seed grower promises to deliver the right seed, in the right quantity, at the right time."
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Keep Yield Estimates Up to Date with the ABS Production App
 

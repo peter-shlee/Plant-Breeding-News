@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/12/euroseeds-innovaction-stage-se
 summary: "The Euroseeds InnovAction Stage at the 2026 congress in Valencia gave innovators an opportunity to showcase emerging seed technologies, earn recognition and connect with potential customers and partners."
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Euroseeds InnovAction Stage Showcases Seed Innovation
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/18/greenhouse-climate-control-ene
 summary: "New greenhouse climate control research at Wageningen University & Research aims to help growers reduce energy consumption while maintaining crop production and quality."
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Plant Monitoring Could Cut Greenhouse Energy Use While Protecting Crop Performance
 

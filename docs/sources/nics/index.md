@@ -11,6 +11,9 @@ source: "nics"
 
 ## 2026-11
 
+- **[여주 지역 맞춤 벼(‘수원693’) 밥맛 평가회 열어](../../items/nics/2026/11/944680.md)**
+  - 2026-11-26 · [읽기](../../items/nics/2026/11/944680.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944680)
+
 - **[‘제13회 고구마의 날’ 기념행사 경기도 여주서 열려](../../items/nics/2026/11/944674.md)**
   - 2026-11-23 · [읽기](../../items/nics/2026/11/944674.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944674)
 
@@ -37,6 +40,3 @@ source: "nics"
 
 - **[농촌진흥청, 전국 소비자 기호 반영·국산 고구마 산업 발전 방향 찾는다](../../items/nics/2026/11/944652.md)**
   - 2026-11-13 · [읽기](../../items/nics/2026/11/944652.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944652)
-
-- **[농촌진흥청, 전국 3개 도매시장서 신품종 40종 알려](../../items/nics/2026/11/944651.md)**
-  - 2026-11-13 · [읽기](../../items/nics/2026/11/944651.md) · [원문](https://www.nics.go.kr/bbs/list.do?m=100000020&homepageSeCode=nics&bbsId=news#ntt-944651)

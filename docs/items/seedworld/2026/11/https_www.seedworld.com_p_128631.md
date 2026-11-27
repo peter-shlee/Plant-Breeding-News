@@ -9,7 +9,7 @@ summary: "NGO campaigns against agricultural innovation can prevent farmers from
 attachments: []
 tags:
   - "벼"
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # When NGOs Block Agricultural Innovation, Farmers Pay the Price
 

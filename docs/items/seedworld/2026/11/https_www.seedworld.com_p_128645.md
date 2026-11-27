@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/on-the-brink/2026/11/18/seed-testing-plan
 summary: "Sarah Foster says seed testing data could do more for Canada’s plant breeding future. She explains why growers, analysts and breeders need a stronger feedback loop."
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # The Missing Link In Canada’s Breeding Future | On The Brink: Season 3, Episode 11
 

@@ -9,7 +9,7 @@ summary: "By 2045, gene editing could become a routine part of plant breeding ra
 attachments: []
 tags:
   - "gene-editing"
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Seed Sector 2045: How Gene Editing and NGTs Will Reshape Plant Breeding
 

@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/europe/2026/11/19/food-systems-transformation-bh
 summary: "Food systems transformation requires more than agricultural innovation. New documents from the Global Conscious Food Systems Summit in Bhutan explore how leadership, supportive policies, financing and collaboration can help translate"
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Beyond Better Seeds: Why Food Systems Need Broader Change
 

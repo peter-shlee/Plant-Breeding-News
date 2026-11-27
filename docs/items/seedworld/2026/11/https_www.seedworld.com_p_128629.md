@@ -8,7 +8,7 @@ url: "https://www.seedworld.com/canada/2026/11/17/seed-growers-dont-need-more-ag
 summary: "From unreliable weather stations to complicated software, Manitoba producers reveal why some agricultural innovations fall short — and how real-world testing could change that The post Seed Growers Don’t Need More Agtech."
 attachments: []
 tags: []
-fetched_at: "2026-11-25T13:31:13+09:00"
+fetched_at: "2026-11-27T12:45:01+09:00"
 ---
 # Seed Growers Don’t Need More Agtech. They Need Better Agtech.
 
